@@ -88,11 +88,11 @@
 =13
 4.ff
 8dd
-(16qqdd/LL
+16qqdd/LL
 16qqff/JJ
 20ee-LL
 20dd
-20cc)
+20cc
 20b-
 20aJJ
 =14
@@ -152,7 +152,7 @@
 *>eM
 *>bM
 *B-:
-Bb-major
+!LO:TX:a:i:t=Bb-major
 =25
 4ee-
 4gg
@@ -228,7 +228,7 @@ Bb-major
 4.b-
 *>eM
 *g:
-G-minor
+!LO:TX:a:i:t=G-minor
 8f
 8gL
 8a-XJ
