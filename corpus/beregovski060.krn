@@ -2,7 +2,7 @@
 !!!Genre:	Skotshne
 !!!Mode:	Altered Dorian
 !!!Listening/dance:	listening
-!!!One_Mode:	yes
+!!!One_Mode:	no
 **kern
 *I"P1
 *clefG2
@@ -105,6 +105,7 @@
 *>bM
 *g:
 =13
+!LO:TX:a:i:t=G-minor
 8.dL
 16f#Xk
 8a

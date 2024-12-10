@@ -2,7 +2,7 @@
 !!!Genre:	Freylekhs
 !!!Mode:	Minor
 !!!Listening/dance:	listening
-!!!One_Mode:	yes
+!!!One_Mode:	no
 **kern
 *I"P1
 *clefG2
@@ -192,6 +192,8 @@
 8gJ)
 =25
 !LO:TX:a:i:t=Bb-major
+*>bM
+*B-:
 8ee-L
 16ffL
 16ee-JJ
@@ -237,5 +239,6 @@
 4b-
 8r
 8d
+*>eM
 ==
 *-
