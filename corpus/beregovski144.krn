@@ -14,6 +14,7 @@
 !LO:TX:a:i:t=G-minor
 8d
 =1||
+!LO:TX:a:t="Segno"
 4g
 8ccL
 16b-L
@@ -60,6 +61,7 @@
 4.g
 *>A2
 =:|!
+!LO:TX:b:Bi:t=Fine
 4.g
 =9||
 *>B
@@ -110,6 +112,7 @@
 16cc
 16aJJ
 =17
+!LO:TX:b:Bi:t=Dal Segno al Fine
 4b-
 16ddLL
 16cc
