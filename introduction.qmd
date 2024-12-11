@@ -43,6 +43,7 @@ There are a few additional details that users of the corpus should take note of:
 
 1. The corpus does not include local variants within tunes–i.e., places where Beregovski notated an additional option for a few measures. It also does not include the tune variants that come one right after the other in the volume. For instance, the corpus includes the Freylekhs no. 132, but not the variant 132a. The study of tune variants is an important topic in klezmer music, but it is not one that we deal with directly here. 
 2. The digital files do not use modal key signatures because of Humdrum limitations. Tunes in G freygish, for instance, use a three-flat key signature with B-natural accidentals.
+3. The files are missing tempo markings at present. We expect to add them soon.
 
 Here, readers can also find the corpus downloadable as kern files, as well as analyses conducted with the [Humdrum Toolkit](https://www.humdrum.org/guide/), and scores visualized with the [Verovio Humdrum Viewer](https://verovio.humdrum.org/). These analyses include frequency distributions, and *n-gram* analyses.
 
