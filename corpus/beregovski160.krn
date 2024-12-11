@@ -58,6 +58,7 @@
 *D:
 *>B
 !LO:TX:a:i:t=D-major
+!LO:TX:a:t="Segno"
 8a
 8r
 4a
@@ -112,6 +113,7 @@
 16ddJJ
 *>B2
 =18:|!
+!LO:TX:b:Bi:t=Fine
 4.d
 8r
 *>eM
@@ -168,6 +170,7 @@
 =32
 2a
 =33
+!LO:TX:b:Bi:t=Dal Segno al Fine
 4g
 4r
 ==
