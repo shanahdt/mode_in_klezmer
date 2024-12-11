@@ -131,14 +131,14 @@ Plot.plot({
   x: {
     label: null,
     tickRotate: 45,
-    domain: [
-       "G3","Ab3","G#3","A3","Bb3","B3","C4","C#4","D4", "Eb4", "D#4",    
-                    "E4","F4","F#4","G4", "Ab4",
-                    "G#4", "A4", "Bb4","A#4","B4",
-                    "C5", "Db5", "C#5", "D5","Eb5",
+   domain: [
+       "G3", "Ab3", "G#3", "A3", "Bb3", "A#3", "B3", "C4", "Db4", "C#4", "D4","Eb4", "D#4",     
+                    "E4","F4","Gb4", "F#4", "G4",
+                    "Ab4", "G#4", "A4", "Bb4", "A#4", "B4",
+                    "C5","Db5", "C#5", "D5", "Eb5", "D#5", 
                     "E5","F5", "Gb5", "F#5","G5",
-                    "Ab5", "G#5", "A5", "Bb5", "A#5", 
-                    "B5","C6", "Db6", "C#6", "D6"]
+                    "Ab5","Gb5", "A5", "Bb5", "A#5", 
+                    "B5","C6", "Db6","C#6", "D6"]
   },
 
   marks: [
@@ -209,7 +209,7 @@ Plot.plot({
   marks: [
     Plot.barY(raised_fourth_data, 
         Plot.groupX(
-          {y: "sum"}, 
+          {y: "proportion"}, 
           {x: "pitches", y: "durations",
           fill: d => /^G/.test(d.pitches) ? "#778ff0" : "#000000"}
                                )),
@@ -316,7 +316,7 @@ Plot.plot({
   marks: [
     Plot.barY(major_data, 
         Plot.groupX(
-          {y: "sum"}, 
+          {y: "proportion"}, 
           {x: "pitches", y: "durations",
           fill: d => /^G/.test(d.pitches) ? "#778ff0" : "#000000"},
                                )),
@@ -423,7 +423,7 @@ Plot.plot({
   marks: [
     Plot.barY(minor_data, 
         Plot.groupX(
-          {y: "sum"}, 
+          {y: "proportion"}, 
           {x: "pitches", y: "durations",
           fill: d => /^G/.test(d.pitches) ? "#778ff0" : "#000000"}
                                )),

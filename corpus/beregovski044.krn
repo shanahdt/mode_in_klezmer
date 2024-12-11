@@ -1,267 +1,185 @@
-!!!OTL: 44. Skotshne
-!!!Genre:	Skotshne
-!!!Mode:	Minor
-!!!Listening/dance:	listening
-!!!:	*G:frey
-!!!One_Mode:	yes
-**kern
-*I"P1
-*clefG2
-*k[b-e-]
-*g:
-*M2/4
-*>A
-=1
-16gLL
-16G
-16B-
-16dJJ
-16gLL
-16b-
-16dd
-16ccJJ
-=2
-8b-L
-16b-L
-16b-JJ
-16b-LL
-16b-
-16b-
-16b-JJ
-=3
-((16qqb-/LL
-16qqcc/JJ
-16b-LL)
-16aJ)
-8gJ
-8r
-8g
-=4
-(8qg/
-8ccL)
-32b-LL
-32cc
-32b-
-32aJJJ
-8b-
-8r
-=5
-(16qqg/LL
-16qqa/JJ
-16gLL)
-16G
-16B-
-16dJJ
-16gLL
-16b-
-16dd
-16ccJJ
-=6
-8b-L
-16b-L
-16b-JJ
-16b-LL
-16b-
-16b-
-16b-JJ
-=7
-(16b-LL
-16f)
-(16f
-16b-JJ)
-(8qcc/
-16b-LL)
-16a-X
-(8qb-/
-16a-)
-16gJJ
-*>A1
-=8
-(16qqg/LL
-16qqan/JJ
-4g)
-8r
-(16gLL
-16aJJ)
-*>A2
-=9:|!
-4.g
-8r
-*>bM
-*G:frey
-=10||
-*>B
-(8qa-X/
-[4gt)
-(16gLL]
-16f
-16en
-16fJJ)
-=11
-(8qa-X/
-[4gt)
-(16gLL]
-16f
-16en
-16fJJ)
-=12
-((8qa-X/
-16gLL)
-16f
-16en
-16fJJ)
-(16gLL
-16f
-16e
-16fJJ)
-=13
-4.g
-8g
-=14
-16gLL
-(8qbn/
-16a-X)
-16g
-16fJJ
-(8qa-/
-4g)
-=15
-8gL
-8bnJ
-(8qdd/
-8ccL)
-8bJ
-=16
-16gLL
-(8qbn/
-16a-X)
-16g
-16fJJ
-(8qa-/
-4g)
-=17
-8r
-8bnL
-8qdd/
-8cc
-8bJ
-*>eM
-*g:
-=18
-8fL
-16gL
-16anJJ
-16b-XLL
-16cc
-16dd
-16ee-JJ
-=19
-16ffLL
-16dd
-16b-
-16ddJJ
-8.ccL
-16b-Jk
-=20
-(16b-LL
-16f)
-(16f
-16b-JJ)
-(16b-LL
-16a-X)
-(16a-
-16gJJ)
-=
-(16qqg/LL
-16qqan/JJ
-4.g)
-=21
-8r
-=22!|:
-*>C
-16b-LL
-16ccJJ
-4dd
-8dd
-=23
-16ddLL
-16ee-
-16dd
-16ee-JJ
-(8.ddL
-16ccJk)
-=24
-16ccLL
-16dd
-16cc
-16ddJJ
-(16qqcc/LL
-16qqdd/JJ
-(8.ccL)
-16b-Jk)
-*>C1
-=25
-16b-LL
-16a
-16g
-16fJJ
-16e-LL
-16d
-16c
-16B-JJ
-*>C2
-=26:|!
-8.b-L
-16aJk
-16b-LL
-16a
-16g
-16f#XJJ
-=27!|:
-*>D
-[4g
-16gLL]
-16b-
-16dd
-16ccJJ
-=28
-4..b-
-16b-
-=29
-(8qcc/
-16b-LL)
-16aJ
-8gJ
-8r
-8g
-=30
-(8qg/
-8ccL)
-32b-LL
-32cc
-32b-
-32aJJJ
-4b-
-=31
-[4g
-16gLL]
-16b-
-16dd
-16ccJJ
-=32
-4.b-
-8b-
-=33
-(16b-LL
-16f)
-(16f
-16b-JJ)
-(16b-LL
-16a-X)
-(16a-
-16gJJ)
-=34
-4.g
-8r
-=:|!
-*-
+**kern	**text
+*I"P1	*
+!!pagebreak:original
+*clefG2	*
+*k[b-e-]	*
+*B-:	*
+*M2/4	*
+=1	=1
+!LO:TX:t=[quarter]=96	!
+!LO:TX:t=[quarter]=100	!
+!LO:TX:a:t=Moderato	!
+((8qcc/	.
+16b-LL)	.
+16aJ)	.
+8gJ	.
+8gL	.
+8gJ	.
+=2	=2
+4.g	.
+16f#XLL	.
+16gJJ	.
+=3	=3
+(8qb-/	.
+16aLL)	.
+16gJ	.
+8f#XJ	.
+8f#L	.
+8f#J	.
+=4	=4
+4.f#X	.
+8d	.
+!!linebreak:original
+=5	=5
+(16dLL	.
+16f#X)	.
+(16f#	.
+16aJJ)	.
+(16aLL	.
+16cc)	.
+16b-	.
+16aJJ	.
+=6	=6
+2g	.
+=7	=7
+16dLL	.
+16g	.
+16f#X	.
+16gJJ	.
+(16aLL	.
+16b-J)	.
+8gJ	.
+=8	=8
+(16aLL	.
+16b-J)	.
+8g'J	.
+(16aLL	.
+16b-J)	.
+8g'J	.
+=9	=9
+16fnLL	.
+16b-	.
+16a	.
+16b-JJ	.
+(16cc#XLL	.
+16ddJ)	.
+8b-'J	.
+!!linebreak:original
+=10	=10
+(16cc#XLL	.
+16ddJ)	.
+8b-'J	.
+(16cc#LL	.
+16ddJ)	.
+8b-'J	.
+=11	=11
+8ddL	.
+8ddJ	.
+!LO:TX:a:Bi:t=tr	!
+8.cc#XL	.
+16b-Jk	.
+=12	=12
+(16ddLL	.
+16cc#X)	.
+16b-'	.
+16a'JJ	.
+4g	.
+=13	=13
+8b-L	.
+(8qb-/	.
+16aL)	.
+16gJJ	.
+8a	.
+(8qa/	.
+16gL)	.
+16f#XJJ	.
+=	=
+4g;	Fine
+!!linebreak:original
+=14||	=14||
+16r	.
+16fLL	.
+16b-	.
+16ccJJ	.
+=15	=15
+[4dd	.
+16ddLL]	.
+16cc'	.
+16ff'	.
+16ee-'JJ	.
+=16	=16
+[4dd	.
+16ddLL]	.
+16cc	.
+16ff	.
+16ee-JJ	.
+=17	=17
+16ddLL	.
+16cc	.
+16ff	.
+16ee-JJ	.
+16ddLL	.
+16cc	.
+16ff	.
+16ee-JJ	.
+!!linebreak:original
+=18	=18
+16ddLL	.
+16cc	.
+16ff	.
+16ee-JJ	.
+4dd	.
+=19	=19
+(16ddLL	.
+16ee-J)	.
+8cc'J	.
+8gL	.
+8ccJ	.
+=20	=20
+16cc#XLL	.
+16ddJ	.
+8b-'J	.
+8fL	.
+8b-J	.
+=21	=21
+16ddLL	.
+16cc#X	.
+16dd	.
+16cc#JJ	.
+16ddLL	.
+16cc#	.
+16b-	.
+16cc#JJ	.
+!!linebreak:original
+=22	=22
+8dd	.
+8r	.
+4gg^	.
+=23	=23
+(16ddLL	.
+16ee-J)	.
+8ccn'J	.
+8gL	.
+8ccJ	.
+=24	=24
+(16cc#XLL	.
+16ddJ)	.
+8b-'J	.
+8dL	.
+8gJ	.
+=25	=25
+8b-L	.
+16aL	.
+16gJJ	.
+8aL	.
+16gL	.
+16f#XJJ	.
+=26	=26
+4g	.
+!LO:TX:b:Bi:t=D.C. al Fine	!
+16r	.
+16dLL	.
+16g	.
+16aJJ	.
+==	==
+*-	*-
