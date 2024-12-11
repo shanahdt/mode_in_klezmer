@@ -12,6 +12,7 @@
 *>bM
 *B-:
 *M2/4
+!LO:TX:a:i:t=Bb-major
 8b-
 =1
 (16b-LL
@@ -89,6 +90,7 @@
 *>eM
 *g:
 =15
+!LO:TX:a:i:t=G-minor
 (16ddLL
 16ccJ
 8b-J)
@@ -105,6 +107,7 @@
 *>bM
 *B-:
 =18||
+!LO:TX:a:i:t=Bb-major
 8ddL
 16ffL
 16ffJJ
@@ -130,6 +133,7 @@
 *>bM
 *C:frey
 =22
+!LO:TX:a:i:t=C-freygish
 8ddL
 8ff
 8een
@@ -150,6 +154,7 @@
 *>eM
 *g:
 =26
+!LO:TX:a:i:t=G-minor
 8b-L
 8a
 8b-
