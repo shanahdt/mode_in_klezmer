@@ -6,11 +6,8 @@
 *B-:	*
 *M2/4	*
 =1	=1
-!LO:TX:t=[quarter]=96	!
-!LO:TX:t=[quarter]=100	!
-!LO:TX:a:t=Moderato	!
-((8qcc/	.
-16b-LL)	.
+(8qcc/	.
+(16b-LL)	.
 16aJ)	.
 8gJ	.
 8gL	.
@@ -89,7 +86,7 @@
 (8qb-/	.
 16aL)	.
 16gJJ	.
-8a	.
+8aL	.
 (8qa/	.
 16gL)	.
 16f#XJJ	.
