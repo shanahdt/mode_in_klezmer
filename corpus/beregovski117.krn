@@ -83,6 +83,7 @@
 *k[f#]
 *>B
 !LO:TX:a:i:t=G-major
+!LO:TX:a:t="Segno"
 16ff#XLL
 16gg
 16ff#
@@ -113,6 +114,7 @@
 4gg
 *>B2
 =14:|!
+!LO:TX:b:Bi:t=Fine
 2g
 *>eM
 *g:dor
@@ -171,6 +173,7 @@
 16aaJJ
 16bb-LL
 16aa
+!LO:TX:b:Bi:t=D.S. al Fine
 16gg
 16ff#XJJ
 =24
