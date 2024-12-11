@@ -9,6 +9,8 @@
 !!pagebreak:original
 *clefG2
 *k[b-e-]
+*>bM
+*B-:
 *M2/4
 8b-
 =1
@@ -84,6 +86,8 @@
 8ccL
 8b-J
 4dd
+*>eM
+*g:
 =15
 (16ddLL
 16ccJ
@@ -98,6 +102,8 @@
 !LO:TX:b:Bi:t=Fine
 2g
 !!linebreak:original
+*>bM
+*B-:
 =18||
 8ddL
 16ffL
@@ -120,6 +126,9 @@
 8b-
 8cc
 8b-J
+*>eM
+*>bM
+*C:frey
 =22
 8ddL
 8ff
@@ -138,6 +147,8 @@
 8dd-J
 =25
 2ccT
+*>eM
+*g:
 =26
 8b-L
 8a
