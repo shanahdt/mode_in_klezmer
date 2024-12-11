@@ -101,7 +101,7 @@ Plot.plot({
   marks: [
     Plot.barY(data, 
         Plot.groupX(
-          {y: "sum"}, 
+          {y: "proportion"}, 
           {x: "pitches", y: "durations",
           fill: d => /^G/.test(d.pitches) ? "#778ff0" : "#000000"}
                                )),
