@@ -1,13 +1,18 @@
+!!!OTL: 189. Sher
+!!!Genre:	Sher
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!:	*g:
+!!!One_Mode:	no
 **kern
 *I"P1
 !!pagebreak:original
 *clefG2
 *k[b-e-]
+*>bM
 *B-:
 *M2/4
-!LO:TX:t=[quarter]=144
-!LO:TX:t=[quarter]=120
-!LO:TX:a:t=Allegro
+!LO:TX:a:i:t=Bb-major
 8b-
 =1
 (16b-LL
@@ -82,7 +87,10 @@
 8ccL
 8b-J
 4dd
+*>eM
+*g:
 =15
+!LO:TX:a:i:t=G-minor
 (16ddLL
 16ccJ
 8b-J)
@@ -96,7 +104,10 @@
 !LO:TX:b:Bi:t=Fine
 2g
 !!linebreak:original
+*>bM
+*B-:
 =18||
+!LO:TX:a:i:t=Bb-major
 8ddL
 16ffL
 16ffJJ
@@ -118,7 +129,11 @@
 8b-
 8cc
 8b-J
+*>eM
+*>bM
+*C:frey
 =22
+!LO:TX:a:i:t=C-freygish
 8ddL
 8ff
 8een
@@ -136,7 +151,10 @@
 8dd-J
 =25
 2ccT
+*>eM
+*g:
 =26
+!LO:TX:a:i:t=G-minor
 8b-L
 8a
 8b-

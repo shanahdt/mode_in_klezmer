@@ -73,6 +73,7 @@
 *>bM
 *B-:
 *>B
+!LO:TX:a:t="Segno"
 !LO:TX:a:i:t=Bb-major
 16aLL
 16b-JJ
@@ -125,6 +126,7 @@
 16b-
 16aJJ
 =16
+!LO:TX:b:Bi:t=Fine
 2g
 =17:|!|:
 *>C
@@ -191,6 +193,7 @@
 16ccLL
 (8qdd/
 16cc')
+!LO:TX:b:Bi:t=Dal Segno al Fine
 16b-'
 16a'JJ
 =24

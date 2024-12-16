@@ -11,12 +11,13 @@
 *G:
 *M2/4
 *>A
-!LO:TX:a:i:t=G-major
 =1
+!LO:TX:a:i:t=G-major
 2dd
 =2
 2dd
 =3!|:
+!LO:TX:a:t="Segno"
 8d
 4g
 8a
@@ -192,6 +193,7 @@
 =39
 [2g
 =40
+!LO:TX:b:Bi:t=Fine
 4g]
 4r
 =41||
@@ -258,6 +260,7 @@
 8b-J
 =54
 [2g
+!LO:TX:b:Bi:t=Dal Segno al Fine
 =55
 4g]
 4r

@@ -90,6 +90,7 @@
 2g
 =14||
 *>B
+!LO:TX:a:t="Segno"
 8.bL
 16gJk
 16ccLL
@@ -144,6 +145,7 @@
 16a
 16f#JJ
 =21
+!LO:TX:b:Bi:t=Fine
 2g
 =22!|:
 *>C
@@ -203,6 +205,7 @@
 16a
 16f#JJ
 =33
+!LO:TX:b:Bi:t=Dal Segno al Fine
 2g
 ==:!|
 *-

@@ -10,8 +10,8 @@
 *G:frey
 *M2/4
 *>A
-!LO:TX:a:i:t=G-freygish
 =1
+!LO:TX:a:i:t=G-freygish
 4.g
 8a-
 =2
@@ -88,6 +88,7 @@
 =15
 2g
 =16
+!LO:TX:b:Bi:t=Fine
 4g
 4r
 =17:|!
@@ -168,6 +169,7 @@
 =31
 2g
 =32
+!LO:TX:b:Bi:t=Da Capo al Fine
 2g
 ==
 *-

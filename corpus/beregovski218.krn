@@ -10,8 +10,8 @@
 *g:
 *M2/4
 *>A
-!LO:TX:a:i:t=G-minor
 =1
+!LO:TX:a:i:t=G-minor
 16gLL
 16g
 16g
@@ -66,6 +66,7 @@
 16cc
 16a
 16b-JJ
+!LO:TX:b:Bi:t=Fine
 4g
 =9:|!
 *>bM
@@ -118,6 +119,7 @@
 8ffL)
 8ee-J
 =16
+!LO:TX:b:Bi:t=Da Capo al Fine
 8ddL
 8ccJ
 4b-

@@ -86,6 +86,7 @@
 4r
 =17:|!|:
 *>B
+!LO:TX:a:t="Segno"
 4.dd
 8cc
 =18
@@ -158,6 +159,7 @@
 2g
 =32
 4G
+!LO:TX:b:Bi:t=Fine
 4r
 *>bM
 *C:
@@ -225,6 +227,7 @@
 8dd
 8bJ
 =47
+!LO:TX:b:Bi:t=Dal Segno al Fine
 2cc
 =48
 4c

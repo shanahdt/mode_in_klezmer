@@ -14,6 +14,7 @@
 !LO:TX:a:i:t=G-minor
 8d
 =1
+!LO:TX:a:t="Segno"
 4.g
 32f#XLLL
 32g
@@ -89,6 +90,7 @@
 8r
 *>A2
 =13:|!
+!LO:TX:b:Bi:t=Fine
 4g
 4r
 *>bM
@@ -187,6 +189,7 @@
 8gJ
 =26
 8b-L
+!LO:TX:b:Bi:t=Dal Segno
 (8qcc/
 8b-J)
 16aLL

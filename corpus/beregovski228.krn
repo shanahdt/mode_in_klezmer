@@ -10,8 +10,8 @@
 *G:
 *M2/4
 *>A
-!LO:TX:a:i:t=G-major
 =1
+!LO:TX:a:i:t=G-major
 (4.bt
 8g)
 =2
@@ -59,6 +59,7 @@
 8gJ
 =9!|:
 *>B
+!LO:TX:a:t="Segno"
 8.dL
 16gJk
 8bL
@@ -77,6 +78,7 @@
 =12
 8ccL
 8aJ
+!LO:TX:b:Bi:t=Fine
 4g
 =13:|!
 *>bM
@@ -121,6 +123,7 @@
 16gg
 16aaJJ
 =20
+!LO:TX:b:Bi:t=Dal Segno al Fine
 16ggLL
 16ffn
 16ee

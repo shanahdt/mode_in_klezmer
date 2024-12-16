@@ -10,8 +10,8 @@
 *g:dor
 *M3/8
 *>A
-!LO:TX:a:i:t=G-raised-fourth
 =1
+!LO:TX:a:i:t=G-raised-fourth
 4g
 16dLL
 16gJJ
@@ -54,6 +54,7 @@
 8g
 8gJ
 =11
+!LO:TX:b:Bi:t=Fine
 4g
 8r
 ==12
@@ -191,6 +192,7 @@
 8cc#XL
 8b-J
 16aLL
+!LO:TX:b:Bi:t=Da Capo al Fine
 (8qcc#/
 16b-JJ)
 =41

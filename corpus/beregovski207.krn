@@ -57,6 +57,7 @@
 *>bM
 *g:
 !LO:TX:a:i:t=G-minor
+!LO:TX:a:t="Segno"
 16cc\LL
 16dd\
 16ee-\
@@ -94,6 +95,7 @@
 =11
 8g/L
 8g/J
+!LO:TX:b:Bi:t=Fine
 4g/
 *>eM
 *g:dor
@@ -131,6 +133,7 @@
 8g/J)
 *>C2
 =16:|!
+!LO:TX:b:Bi:t=Dal Segno al Fine
 (16b-/LL
 16a/)
 (16a/

@@ -11,8 +11,8 @@
 *g:
 *M3/4
 *>A
-!LO:TX:a:i:t=G-minor
 =1
+!LO:TX:a:i:t=G-minor
 4g
 8ddL
 8dd
@@ -36,6 +36,7 @@
 4g
 =5:|!|:
 *>B
+!LO:TX:a:t="Segno"
 4.g
 8a
 8b-L
@@ -54,6 +55,7 @@
 4cc
 8b-L
 8aJ
+!LO:TX:b:Bi:t=Fine
 4g
 *>bM
 *g:dor
@@ -85,6 +87,7 @@
 8ff
 8eeJ
 =14
+!LO:TX:b:Bi:t=Dal Segno al Fine
 8ffL
 8een
 8dd

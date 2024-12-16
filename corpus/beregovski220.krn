@@ -47,6 +47,7 @@
 *g:
 =6!|:
 !LO:TX:a:i:t=G-minor
+!LO:TX:a:t="Segno"
 16ffKL
 (8qaa/
 8gg)
@@ -78,6 +79,7 @@
 8ggJ
 *>eM2
 =10:|!
+!LO:TX:b:Bi:t=Fine
 4g
 16r
 *>C
@@ -117,6 +119,7 @@
 16cJJ
 *>bM2
 =15:|!
+!LO:TX:b:Bi:t=Dal Segno al Fine
 4.B-
 8ff
 *>eM

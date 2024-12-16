@@ -67,6 +67,7 @@
 8g
 =9:|!|:
 *>B
+!LO:TX:a:t="Segno"
 16ccLL
 16bn
 16a-
@@ -119,6 +120,7 @@
 16a-JJ
 *>B1
 =16
+!LO:TX:b:Bi:t=Fine
 (16a-LL
 16gJ)
 8gJ
@@ -191,6 +193,7 @@
 16ddJJ
 *>bM2
 =26:|!
+!LO:TX:b:Bi:t=Dal Segno al Fine
 4.dd
 *>eM
 *G:frey

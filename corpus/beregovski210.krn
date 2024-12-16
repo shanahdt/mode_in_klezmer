@@ -59,6 +59,7 @@
 2g
 =10!|:
 *>B
+!LO:TX:a:t="Segno"
 16aLL
 16b
 16cc
@@ -77,6 +78,7 @@
 =13
 8dL
 8dJ
+!LO:TX:b:Bi:t=Fine
 4g
 =14:|!
 *>C
@@ -174,6 +176,7 @@
 (16b
 16aJJ)
 =31
+!LO:TX:b:Bi:t=Dal Segno al Fine
 (8.ccL
 16bJk)
 (16bLL

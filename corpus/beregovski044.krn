@@ -1,16 +1,19 @@
+!!!OTL: 44. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Minor
+!!!Listening/dance:	listening
+!!!One_Mode:	yes
+**kern
 **kern	**text
 *I"P1	*
 !!pagebreak:original
 *clefG2	*
 *k[b-e-]	*
-*B-:	*
+*g:	*
 *M2/4	*
 =1	=1
-!LO:TX:t=[quarter]=96	!
-!LO:TX:t=[quarter]=100	!
-!LO:TX:a:t=Moderato	!
-((8qcc/	.
-16b-LL)	.
+(8qcc/	.
+(16b-LL)	.
 16aJ)	.
 8gJ	.
 8gL	.
@@ -89,7 +92,7 @@
 (8qb-/	.
 16aL)	.
 16gJJ	.
-8a	.
+8aL	.
 (8qa/	.
 16gL)	.
 16f#XJJ	.

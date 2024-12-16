@@ -11,8 +11,8 @@
 *G:
 *M2/4
 *>A
-!LO:TX:a:i:t=G-major
 =1
+!LO:TX:a:i:t=G-major
 8g
 4b
 8g
@@ -51,6 +51,7 @@
 *>bM
 *g:dor
 *>B
+!LO:TX:a:i:t=G-raised-fourth
 2gg
 =10
 (8qff#X/

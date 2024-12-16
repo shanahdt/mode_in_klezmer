@@ -12,8 +12,8 @@
 *G:frey
 *M2/4
 *>A
-!LO:TX:a:i:t=G-freygish
 =1-
+!LO:TX:a:i:t=G-freygish
 16gLL
 16a-
 16bn
@@ -46,6 +46,7 @@
 *>B
 *k[b-]
 !LO:TX:a:i:t=F-major
+!LO:TX:a:t="Segno"
 4a
 24aLL
 24b-
@@ -95,6 +96,7 @@
 16b
 16a-JJ
 =12
+!LO:TX:b:Bi:t=Fine
 2g
 *>bM
 *F:
@@ -162,6 +164,7 @@
 8aL
 8aJ
 =24
+!LO:TX:b:Bi:t=D.S. al Fine
 8gL
 16gL
 16eJJ

@@ -55,6 +55,7 @@
 *g:
 *>B
 !LO:TX:a:i:t=G-minor
+!LO:TX:a:t="Segno"
 8a
 =7!|:
 8gL
@@ -97,6 +98,7 @@
 16g
 16f#XJJ
 =
+!LO:TX:b:Bi:t=Fine
 4.g
 *>bM
 *B-:
@@ -154,6 +156,7 @@
 16b-JJ
 16ddLL
 16cc
+!LO:TX:b:Bi:t=Dal Segno al Fine
 16b-
 16aJJ
 =22
