@@ -9,6 +9,7 @@
 *k[b-e-]
 *g:
 *M2/4
+*>[A,A1,A,A2,B,B1,B,B2,C,C1,D]
 *>A
 =1
 !LO:TX:t=[quarter]=80
@@ -210,7 +211,6 @@
 *>B2
 2g
 =28!|:
-*>B1
 16aLL
 16b-JJ
 4cc
