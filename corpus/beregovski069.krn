@@ -103,7 +103,7 @@
 =17:|!
 !LO:TX:b:Bi:t=Fine
 2G
-*>bM
+!!!Begin-Modulation
 *c:dor
 =18||
 *>C
@@ -147,6 +147,6 @@
 !LO:TX:b:Bi:t=Dal Segno al Fine
 =25
 2gg
-*>eM
+!!!End-Modulation
 ==
 *-

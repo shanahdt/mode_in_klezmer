@@ -10,6 +10,7 @@
 *k[b-]
 *g:dor
 *M3/4
+*>[A,B,C,C1,C,C2]
 *>A
 =1
 !LO:TX:a:i:t=G-raised-fourth
@@ -84,7 +85,7 @@
 =17||
 *>B
 *k[b-e-]
-*>bM
+!!!Begin-Modulation
 *B-:
 !LO:TX:a:i:t=Bb-major
 4f
@@ -138,8 +139,8 @@
 12dd
 12ccJ
 2cc
-*>eM
-*>bM
+!!!End-Modulation
+!!!Begin-Modulation
 *G:frey
 !LO:TX:a:i:t=G-freygish
 =29
@@ -209,6 +210,6 @@
 4g
 4r
 4r
-*>eM
+!!!End-Modulation
 ==
 *-

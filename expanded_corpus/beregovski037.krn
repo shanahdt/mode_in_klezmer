@@ -65,7 +65,7 @@
 =8||
 *>B
 8g
-*>bM
+!!!Begin-Modulation
 *c:
 !LO:TX:a:i:t=C-minor
 =9!|:
@@ -91,8 +91,8 @@
 16dd
 16bJJ
 4cc
-*>eM
-*>bM
+!!!End-Modulation
+!!!Begin-Modulation
 *E-:
 !LO:TX:a:i:t=Eb-major
 =13
@@ -166,8 +166,8 @@
 16ggJJ
 8bb-L
 8ggJ
-*>eM
-*>bM
+!!!End-Modulation
+!!!Begin-Modulation
 *c:
 !LO:TX:a:i:t=C-minor
 =25||
@@ -197,7 +197,7 @@
 16ee-
 16dd
 16ccJJ
-*>bM1
+!!!Begin-Modulation1
 =30
 4.ee-
 8cc
@@ -213,7 +213,7 @@
 8bn
 8cc
 8ddJ
-*>bM2
+!!!Begin-Modulation2
 =33:|!
 4.ee-
 (24ggLL
@@ -228,6 +228,6 @@
 8cc
 8r
 4r
-*>eM
+!!!End-Modulation
 ==
 *-

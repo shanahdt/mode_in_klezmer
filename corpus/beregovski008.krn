@@ -152,7 +152,7 @@
 16ggJJ
 16r
 =17||
-*>bM
+!!!Begin-Modulation
 *B-:
 !LO:TX:a:i:t=Bb-major
 16fLL
@@ -271,7 +271,7 @@
 16b-JJ)
 4b-
 8cc
-*>eM
+!!!End-Modulation
 *g:
 !LO:TX:a:i:t=G-minor
 =31!|:

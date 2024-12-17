@@ -11,7 +11,7 @@
 *M3/4
 *>[A,B]
 *>A
-*>bM
+!!!Begin-Modulation
 *c:
 !LO:TX:a:i:t=C-minor
 8d
@@ -57,7 +57,7 @@
 =
 2cc
 8r
-*>eM
+!!!End-Modulation
 *G:frey
 !LO:TX:a:i:t=G-freygish
 =8!|:

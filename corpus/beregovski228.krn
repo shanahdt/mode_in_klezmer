@@ -81,7 +81,7 @@
 !LO:TX:b:Bi:t=Fine
 4g
 =13:|!
-*>bM
+!!!Begin-Modulation
 *C:
 *>C
 !LO:TX:a:i:t=C-major
@@ -130,6 +130,6 @@
 16ddJJ
 8eetL
 8ccJ
-*>eM
+!!!End-Modulation
 ==
 *-

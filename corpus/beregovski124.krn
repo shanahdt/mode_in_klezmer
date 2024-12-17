@@ -9,6 +9,7 @@
 *k[b-e-]
 *g:
 *M2/4
+*>[A,B,C]
 *>A
 =1
 !LO:TX:a:i:t=G-minor
@@ -115,7 +116,7 @@
 8aJ
 =20
 2g
-*>bM
+!!!Begin-Modulation
 *c:
 =21||
 *>B
@@ -162,8 +163,8 @@
 16ddJJ
 =28
 2cc
-*>eM
-*>bM
+!!!End-Modulation
+!!!Begin-Modulation
 *B-:
 !LO:TX:a:i:t=Bb-major
 =29
@@ -229,7 +230,7 @@
 8ccL
 8ccJ
 4cc
-*>eM
+!!!End-Modulation
 *g:
 !LO:TX:a:i:t=G-minor
 =41
@@ -245,12 +246,12 @@
 4cc
 16b-LL
 16aJJ
-*>eM1
+!!!End-Modulation1
 =44
 8gL
 8aJ
 4f
-*>eM2
+!!!End-Modulation2
 =45:|!
 2g
 ==

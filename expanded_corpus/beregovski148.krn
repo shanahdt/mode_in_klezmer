@@ -69,7 +69,7 @@
 8r
 4gg
 =9:|!|:
-*>bM
+!!!Begin-Modulation
 *B-:
 *>B
 !LO:TX:a:i:t=Bb-major
@@ -108,7 +108,7 @@
 16ddLL
 16ccJ
 8b-J
-*>eM
+!!!End-Modulation
 *g:
 !LO:TX:a:i:t=G-minor
 =15

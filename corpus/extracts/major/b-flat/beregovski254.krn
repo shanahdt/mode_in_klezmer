@@ -97,7 +97,7 @@
 =26:|!
 2B-
 4cc#X
-*>eM
+!!!End-Modulation
 *-
 !!!Genre:	Dobranotsh
 !!!Mode:	Minor
@@ -230,7 +230,7 @@
 16b-JJ)
 4b-
 8cc
-*>eM
+!!!End-Modulation
 *-
 !!!Genre:	Dobranotsh (mazltov)
 !!!Mode:	Altered Dorian
@@ -396,8 +396,8 @@
 16an)
 (16a
 16gJJ)
-*>eM
-*>bM
+!!!End-Modulation
+!!!Begin-Modulation
 *B-:
 =30
 4.b-X
@@ -419,7 +419,7 @@
 8r
 *>D
 4bn
-*>eM
+!!!End-Modulation
 *-
 !!!Genre:	Freylekhs
 !!!Mode:	Freygish
@@ -453,7 +453,7 @@
 16ddJJ
 8ccL
 8bnJ
-*>eM
+!!!End-Modulation
 *-
 !!!Genre:	Skotshne
 !!!Mode:	Freygish
@@ -507,7 +507,7 @@
 4.b-X
 *>C
 (8gg
-*>eM
+!!!End-Modulation
 *-
 !!!Genre:	Freylekhs
 !!!Mode:	Freygish
@@ -674,7 +674,7 @@
 4.B-
 *>D
 8g
-*>eM
+!!!End-Modulation
 *-
 !!!Genre:	Freylekhs
 !!!Mode:	Minor
@@ -748,7 +748,7 @@
 16ddJJ
 4b-
 8r
-*>eM
+!!!End-Modulation
 *-
 !!!Genre:	Skotshne
 !!!Mode:	Minor
@@ -837,7 +837,7 @@
 =25
 4b-
 4r
-*>eM
+!!!End-Modulation
 *-
 !!!Genre:	Freylekhs
 !!!Mode:	Minor
@@ -926,7 +926,7 @@
 4b-
 *>C
 8a
-*>eM
+!!!End-Modulation
 *-
 !!!Genre:	Skotshne
 !!!Mode:	Minor
@@ -1019,7 +1019,7 @@
 16b-JJ)
 4b-
 8r
-*>eM
+!!!End-Modulation
 *-
 !!!Genre:	Skotshne
 !!!Mode:	Minor
@@ -1073,7 +1073,7 @@
 16b-JJ)
 4b-
 8b-
-*>eM
+!!!End-Modulation
 *-
 !!!Genre:	Skotshne
 !!!Mode:	Minor
@@ -1136,7 +1136,7 @@
 4b-
 4dd
 =:|!
-*>eM
+!!!End-Modulation
 *-
 !!!Genre:	Skotshne
 !!!Mode:	Altered Dorian
@@ -1167,7 +1167,7 @@
 *I"P1
 *clefG2
 *k[b-e-]
-*>bM
+!!!Begin-Modulation
 *-
 !!!Genre:	Skotshne
 !!!Mode:	Altered Dorian
@@ -1309,7 +1309,7 @@
 *I"P1
 *clefG2
 *k[b-e-]
-*>bM
+!!!Begin-Modulation
 *B-:
 =17:|!|:
 *>C
@@ -1402,7 +1402,7 @@
 8b-J)
 (8qcc/
 2b-)
-*>eM
+!!!End-Modulation
 *-
 !!!Genre:	Gas-nign
 !!!Mode:	Minor
@@ -1453,7 +1453,7 @@
 4b-
 4r
 4r
-*>eM
+!!!End-Modulation
 *-
 !!!Genre:	Gas-nign
 !!!Mode:	Minor
@@ -1519,7 +1519,7 @@
 16b-JJ
 4b-
 8g
-*>eM
+!!!End-Modulation
 *-
 !!!Genre:	Gas-nign
 !!!Mode:	Minor
@@ -1608,7 +1608,7 @@
 =15
 4b-
 8r
-*>eM
+!!!End-Modulation
 ==
 *-
 !!!Genre:	A gute nakht
@@ -1881,7 +1881,7 @@
 =16
 4.b-
 8b-
-*>eM
+!!!End-Modulation
 *-
 !!!Genre:	Skotshne
 !!!Mode:	Altered Dorian
@@ -2013,7 +2013,7 @@
 16aJJ)
 8b-L
 8ddJ
-*>eM
+!!!End-Modulation
 ==
 *-
 !!!Genre:	Freylekhs
@@ -2048,7 +2048,7 @@
 *staff1
 *clefG2
 *k[b-e-]
-*>bM
+!!!Begin-Modulation
 *-
 !!!Genre:	Skotshne
 !!!Mode:	Altered Dorian
@@ -2159,7 +2159,7 @@
 16aJJ
 =6
 4.b-
-*>eM
+!!!End-Modulation
 *B-:
 ==12
 *>C
@@ -2218,7 +2218,7 @@
 16aJJ
 =22
 4.b-
-*>eM
+!!!End-Modulation
 ==
 *-
 !!!Genre:	Freylekhs
@@ -2291,7 +2291,7 @@
 16ddJJ
 =36
 2b-
-*>eM
+!!!End-Modulation
 *-
 !!!Genre:	Freylekhs
 !!!Mode:	Minor
@@ -2311,7 +2311,7 @@
 *I"P1
 *clefG2
 *k[b-e-]
-*>bM
+!!!Begin-Modulation
 *-
 !!!Genre:	Freylekh
 !!!Mode:	Minor
@@ -2360,7 +2360,7 @@
 2ff
 =18:|!
 2b-
-*>eM
+!!!End-Modulation
 *-
 !!!Genre:	Freylekhs
 !!!Mode:	Minor
@@ -2443,7 +2443,7 @@
 8aJ
 =30
 2b-
-*>eM
+!!!End-Modulation
 *-
 !!!Genre:	Freylekhs
 !!!Mode:	Minor
@@ -2482,7 +2482,7 @@
 *I"P1
 *clefG2
 *k[b-e-]
-*>bM
+!!!Begin-Modulation
 *B-:
 *M2/4
 *>A
@@ -2535,7 +2535,7 @@
 16ddLL
 16ccJ
 8b-J
-*>eM
+!!!End-Modulation
 *-
 !!!Genre:	Skotshne
 !!!Mode:	Minor
@@ -2687,7 +2687,7 @@
 16b-
 16aJJ
 =:|!
-*>eM
+!!!End-Modulation
 *-
 !!!Genre:	Freylekhs
 !!!Mode:	Minor
@@ -3161,7 +3161,7 @@
 =18:|!
 4b-
 8r
-*>eM
+!!!End-Modulation
 ==
 *-
 !!!Genre:	Sher
@@ -3355,7 +3355,7 @@
 4b-
 *>C
 8dd
-*>eM
+!!!End-Modulation
 *-
 !!!Genre:	Sher
 !!!Mode:	Minor
@@ -3469,7 +3469,7 @@
 8b-J
 =20||!|:
 *k[b-e-a-]
-*>eM
+!!!End-Modulation
 *-
 !!!Genre:	Plyeskun
 !!!Mode:	Major
@@ -3572,7 +3572,7 @@
 =24
 4f
 4b-
-*>eM
+!!!End-Modulation
 *-
 !!!Genre:	Bulgar
 !!!Mode:	Major
@@ -3652,7 +3652,7 @@
 4.b-
 *>B
 8ff
-*>eM
+!!!End-Modulation
 *B-:
 =11!|:
 [4d
@@ -3684,7 +3684,7 @@
 =15:|!
 4.B-
 8ff
-*>eM
+!!!End-Modulation
 ==
 *-
 !!!Genre:	Khosid
@@ -3952,8 +3952,8 @@
 12dd
 12ccJ
 2cc
-*>eM
-*>bM
+!!!End-Modulation
+!!!Begin-Modulation
 *-
 !!!Genre:	Zhok
 !!!Mode:	Altered Dorian
@@ -3982,7 +3982,7 @@
 *I"P1
 *clefG2
 *k[b-e-]
-*>bM
+!!!Begin-Modulation
 *B-:
 *M3/8
 *>A
@@ -4040,7 +4040,7 @@
 =10||
 *>B
 8b-
-*>eM
+!!!End-Modulation
 *-
 !!!Genre:	Olandre (lyondre)
 !!!Mode:	Minor
@@ -4061,7 +4061,7 @@
 *I"P1
 *clefG2
 *k[b-e-]
-*>bM
+!!!Begin-Modulation
 *B-:
 *M3/4
 *>A
@@ -4115,7 +4115,7 @@
 8ddL
 8ee-
 8eenJ
-*>eM
+!!!End-Modulation
 *-
 !!!Genre:	Olandre (lyondre)
 !!!Mode:	Minor
@@ -4126,7 +4126,7 @@
 *I"P1
 *clefG2
 *k[b-e-]
-*>bM
+!!!Begin-Modulation
 *B-:
 *M3/4
 *>A
@@ -4179,7 +4179,7 @@
 =8||
 *>B
 4dd
-*>eM
+!!!End-Modulation
 *-
 !!!Genre:	Olandre (lyondre)
 !!!Mode:	Minor

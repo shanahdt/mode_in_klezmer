@@ -8,14 +8,14 @@
 *I"P1
 *clefG2
 *k[b-e-]
-*>bM
+!!!Begin-Modulation
 *g:
 *M2/4
 *>[A,B,C,D]
 *>A
 =1
 !LO:TX:a:i:t=G-minor
-*>bM
+!!!Begin-Modulation
 *g:
 *^
 (16gLL	2G
@@ -81,11 +81,11 @@
 4g	4G
 *v	*v
 =9:|!
-*>eM
+!!!End-Modulation
 *g:dor
 *>C
 *k[b-]
-*>eM
+!!!End-Modulation
 *g:dor
 !LO:TX:a:i:t=G-raised-fourth
 (8qcc#/

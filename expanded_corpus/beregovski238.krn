@@ -85,7 +85,7 @@
 8b-
 8gJ
 *>B
-*>bM
+!!!Begin-Modulation
 *>B-:
 (16ggLL
 16ffJJ)
@@ -155,7 +155,7 @@
 16b-JJ)
 4b-
 *>C
-*>eM
+!!!End-Modulation
 *g:
 8dd
 =19!|:
@@ -219,7 +219,7 @@
 16dd)
 (16dd
 16f#XJJ)
-*>eM1
+!!!End-Modulation1
 =26
 8gL
 (8qff#X/
@@ -227,7 +227,7 @@
 8g
 16r
 16dd
-*>eM2
+!!!End-Modulation2
 =27:|!
 8gL
 (8qff#X/

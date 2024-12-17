@@ -209,7 +209,7 @@
 16gJJ)
 [4g
 8g]
-*>bM
+!!!Begin-Modulation
 *c:
 !LO:TX:a:i:t=C-minor
 =28:|!|:
@@ -312,6 +312,6 @@
 =42:|!
 4.cc
 8c
-*>eM
+!!!End-Modulation
 ==
 *-

@@ -10,6 +10,7 @@
 *k[b-e-]
 *g:
 *M2/4
+*[A,B,B1,B,B2]
 *>A
 =1
 !LO:TX:a:i:t=G-minor
@@ -60,8 +61,9 @@
 12ddL
 12cc
 12b-J
-*>bM
+!!!Begin-Modulation
 *g:dor
+*>B
 =9!|:
 !LO:TX:a:i:t=G-raised-fourth
 8aL
@@ -81,6 +83,7 @@
 12b-L
 12a
 12gJ
+*>B1
 =12
 12aL
 12b-
@@ -88,6 +91,7 @@
 12b-L
 12a
 12gJ
+*>B2
 =13:|!
 2g
 =14||
@@ -164,6 +168,6 @@
 12gJ
 =29
 2g
-*>eM
+!!!End-Modulation
 ==
 *-

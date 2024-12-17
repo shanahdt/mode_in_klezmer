@@ -10,6 +10,7 @@
 *k[b-e-]
 *g:
 *M2/4
+*>[A,A1,A,A2,B,C]
 *>A
 !LO:TX:a:i:t=G-minor
 8d
@@ -93,7 +94,7 @@
 !LO:TX:b:Bi:t=Fine
 4g
 4r
-*>bM
+!!!Begin-Modulation
 *g:dor
 =14||
 *>B
@@ -156,7 +157,7 @@
 =21
 4.a
 8r
-*>eM
+!!!End-Modulation
 *g:
 =22||
 *>C

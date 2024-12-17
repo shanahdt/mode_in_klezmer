@@ -8,7 +8,7 @@
 *I"P1
 *clefG2
 *k[b-e-]
-*>bM
+!!!Begin-Modulation
 *B-:
 *M4/4
 *>[A,A,B,B,C,C,D,D]
@@ -89,7 +89,7 @@
 (8qcc/
 8b-J)
 2b-
-*>eM
+!!!End-Modulation
 *g:
 =9:|!|:
 *>B
@@ -169,7 +169,7 @@
 (8qa/
 8gJ)
 2g
-*>bM
+!!!Begin-Modulation
 *B-:
 !LO:TX:a:i:t=Bb-major
 =17:|!|:
@@ -263,7 +263,7 @@
 8b-J)
 (8qcc/
 2b-)
-*>eM
+!!!End-Modulation
 *g:
 !LO:TX:a:i:t=G-minor
 =25:|!|:

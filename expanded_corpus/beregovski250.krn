@@ -42,7 +42,7 @@
 24a
 24gJJ
 =5:|!|:
-*>bM
+!!!Begin-Modulation
 *F:
 *>B
 !LO:TX:a:i:t=F-major
@@ -77,7 +77,7 @@
 24gJJ
 8f
 =9:|!
-*>eM
+!!!End-Modulation
 *g:
 *>B2
 !LO:TX:a:i:t=G-minor

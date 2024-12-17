@@ -35,7 +35,7 @@
 16fJJ
 =4
 4.g
-*>bM
+!!!Begin-Modulation
 *c:
 !LO:TX:a:i:t=C-minor
 8g
@@ -54,7 +54,7 @@
 =8
 4cc
 8r
-*>eM
+!!!End-Modulation
 *G:frey
 !LO:TX:a:i:t=G-freygish
 8cc
@@ -119,7 +119,7 @@
 (16bnLL
 16a-JJ)
 4g
-*>bM
+!!!Begin-Modulation
 *c:
 !LO:TX:a:i:t=C-minor
 8g
@@ -148,7 +148,7 @@
 =26
 4cc
 8r
-*>eM
+!!!End-Modulation
 *G:frey
 !LO:TX:a:i:t=G-freygish
 8dd
@@ -201,7 +201,7 @@ B1
 8gJ
 (8qb/
 8a-J)
-*>eM1
+!!!End-Modulation1
 =37
 4g
 (8bnL
@@ -213,14 +213,14 @@ B1
 16ddJJ
 (8.ggL)
 16ffJk)
-*>eM2
+!!!End-Modulation2
 =39:|!
 2g
 =
 4.g
 =40||
 *k[b-e-]
-*>bM
+!!!Begin-Modulation
 *F:
 *>D
 !LO:TX:a:i:t=F-major
@@ -268,7 +268,7 @@ B1
 8a
 8g
 8fJ
-*>eM
+!!!End-Modulation
 *G:frey
 !LO:TX:a:i:t=G-freygish
 =49
@@ -304,13 +304,13 @@ B1
 16a-X
 16g
 16fJJ
-*>eM1
+!!!End-Modulation1
 =55
 2g
 =56
 4.gg
 8r
-*>eM2
+!!!End-Modulation2
 =57:|!
 2g
 =58

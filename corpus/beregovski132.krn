@@ -9,8 +9,9 @@
 *k[b-e-]
 *g:
 *M2/4
+*>[A,B]]
 *>A
-*>bM
+!!!Begin-Modulation
 *B-:
 =1
 !LO:TX:a:i:t=Bb-major
@@ -67,7 +68,7 @@
 16ddJJ
 8ccL
 8b-J
-*>eM
+!!!End-Modulation
 *g:
 !LO:TX:a:i:t=G-minor
 =13

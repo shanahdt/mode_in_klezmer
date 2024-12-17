@@ -11,6 +11,7 @@
 *k[b-]
 *g:dor
 *M2/4
+*>[A,A1,A,A2,B,B1,B,B2,C]
 *>A
 =1-
 !LO:TX:a:i:t=G-raised-fourth
@@ -77,7 +78,7 @@
 *>A2
 =9:|!
 2g
-*>bM
+!!!Begin-Modulation
 *G:
 =10!|:
 *k[f#]
@@ -116,7 +117,7 @@
 =14:|!
 !LO:TX:b:Bi:t=Fine
 2g
-*>eM
+!!!End-Modulation
 *g:dor
 =15!|:
 *k[b-]

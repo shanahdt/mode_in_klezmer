@@ -10,6 +10,7 @@
 *k[f#]
 *G:
 *M3/4
+*>[A,A1,A,A2,B,C]
 *>A
 !LO:TX:a:i:t=G-major
 4d
@@ -107,7 +108,7 @@
 8aJ
 =17
 2.g
-*>bM
+!!!Begin-Modulation
 *g:dor
 =18:|!|:
 *>C
@@ -164,6 +165,6 @@
 !LO:TX:b:Bi:t=Da Capo al Fine
 (8qff#/
 2.gg)
-*>eM
+!!!End-Modulation
 =:|!
 *-

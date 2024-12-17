@@ -8,7 +8,7 @@
 *staff1
 *clefG2
 *k[b-e-]
-*>bM
+!!!Begin-Modulation
 *g:
 *M2/4
 =1-
@@ -51,7 +51,7 @@
 =6	=6
 2g	2G
 *v	*v
-*>eM
+!!!End-Modulation
 *g:
 =52
 16aLL
@@ -59,7 +59,7 @@
 16cc
 16aJJ
 4g
-*>bM
+!!!Begin-Modulation
 *g:
 =53:|!
 *k[b-e-]
@@ -104,6 +104,6 @@
 16aJJ
 =60
 2g
-*>eM
+!!!End-Modulation
 ==
 *-

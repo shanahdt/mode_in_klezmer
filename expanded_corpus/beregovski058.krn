@@ -93,7 +93,7 @@
 =16
 4g
 4r
-*>bM
+!!!Begin-Modulation
 *g:
 !LO:TX:a:i:t=G-minor
 =17||
@@ -147,7 +147,7 @@
 =27
 4.gg
 8dd
-*>eM
+!!!End-Modulation
 *g:dor
 !LO:TX:a:i:t=G-raised-fourth
 =28

@@ -108,7 +108,7 @@
 *>B2
 =17:|!
 2g
-*>bM
+!!!Begin-Modulation
 *G:
 =18!|:
 *>C
@@ -152,7 +152,7 @@
 8r
 (>8qcc#X/
 4dd)
-*>eM
+!!!End-Modulation
 *g:dor
 !LO:TX:a:i:t=G-raised-fourth
 =24

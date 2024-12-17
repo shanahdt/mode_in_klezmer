@@ -8,7 +8,7 @@
 *I"P1
 *clefG2
 *k[b-e-]
-*>bM
+!!!Begin-Modulation
 *B-:
 *M2/4
 *>A
@@ -62,7 +62,7 @@
 16ddLL
 16ccJ
 8b-J
-*>eM
+!!!End-Modulation
 *g:
 =9!|:
 *>B

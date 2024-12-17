@@ -139,7 +139,7 @@
 =21
 4g
 4r
-*>bM
+!!!Begin-Modulation
 *G:
 =22||
 *>C
@@ -173,7 +173,7 @@
 (>16cc
 16bJJ)
 4dd
-*>eM
+!!!End-Modulation
 *g:dor
 !LO:TX:a:i:t=G-raised-fourth
 =28

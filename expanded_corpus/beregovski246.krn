@@ -8,7 +8,7 @@
 *I"P1
 *clefG2
 *k[b-e-]
-*>bM
+!!!Begin-Modulation
 *B-:
 *M3/8
 *>A
@@ -68,7 +68,7 @@
 4b-
 =10||
 *>B
-*>eM
+!!!End-Modulation
 *g:
 !LO:TX:a:i:t=G-minor
 8b-
@@ -99,7 +99,7 @@
 8a
 (16gLL
 16b-JJ)
-*>eM1
+!!!End-Modulation1
 =15
 (8.ddL
 32b-LL
@@ -116,7 +116,7 @@
 4.g
 =18
 4.gg
-*>eM2
+!!!End-Modulation2
 =19:|!
 (16ccLL
 (8qee-/

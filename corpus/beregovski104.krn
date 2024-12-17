@@ -11,6 +11,7 @@
 *k[b-e-a-]
 *G:frey
 *M2/4
+*>[A,A1,A,A2,B]
 *>A
 =1-
 !LO:TX:a:i:t=G-freygish
@@ -57,7 +58,7 @@
 =10
 4g
 4r
-*>bM
+!!!Begin-Modulation
 *B-:
 =11!|:
 *>B
@@ -84,7 +85,7 @@
 =16
 4.b-
 8b-
-*>eM
+!!!End-Modulation
 *G:frey
 !LO:TX:a:i:t=G-freygish
 =17
@@ -105,12 +106,12 @@
 12a-XL
 12g
 12fJ
-*>eM1
+!!!End-Modulation1
 =21
 2g
 =22
 2gg
-*>eM2
+!!!End-Modulation2
 =23:|!
 2g
 =24

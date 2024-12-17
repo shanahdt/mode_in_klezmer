@@ -89,7 +89,7 @@
 =15
 2g
 =16||
-*>bM
+!!!Begin-Modulation
 *B-:
 *>B
 !LO:TX:a:i:t=Bb-major
@@ -141,7 +141,7 @@
 8ddL
 8ccJ
 4b-
-*>eM
+!!!End-Modulation
 *g:
 !LO:TX:a:i:t=G-minor
 =29

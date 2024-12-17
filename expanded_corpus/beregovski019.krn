@@ -254,7 +254,7 @@
 4g
 4gg
 =36:|!|:
-*>bM
+!!!Begin-Modulation
 *B-:
 *>D
 !LO:TX:a:i:t=Bb-major
@@ -324,7 +324,7 @@
 4.b-
 8cc
 !!linebreak:original
-*>eM
+!!!End-Modulation
 *g:
 !LO:TX:a:i:t=G-minor
 =44
@@ -356,7 +356,7 @@
 4gg
 8.ggL
 16ffJk
-*>bM
+!!!Begin-Modulation
 *B-:
 !LO:TX:a:i:t=Bb-major
 =48
@@ -391,7 +391,7 @@
 8qdd/
 16ccLL
 16b-JJ
-*>eM
+!!!End-Modulation
 *g:
 !LO:TX:a:i:t=G-minor
 =52

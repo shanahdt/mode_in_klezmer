@@ -103,7 +103,7 @@
 24gJJ
 8eeeeL
 8ddJ
-*>bM
+!!!Begin-Modulation
 *g:
 =13
 !LO:TX:a:i:t=G-minor
@@ -157,5 +157,5 @@
 4g
 4g
 =:|!
-*>eM
+!!!End-Modulation
 *-

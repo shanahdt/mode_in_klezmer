@@ -9,7 +9,7 @@
 *k[b-e-]
 *g:
 *M2/4
-*>bM
+!!!Begin-Modulation
 *B-:
 *>A
 !LO:TX:a:i:t=Bb-major
@@ -51,7 +51,7 @@
 16aJJ
 =6
 4.b-
-*>eM
+!!!End-Modulation
 *g:
 *>B
 !LO:TX:a:i:t=G-minor
@@ -98,7 +98,7 @@
 16f#XJJ
 =
 4.g
-*>bM
+!!!Begin-Modulation
 *B-:
 ==12
 *>C
@@ -158,6 +158,6 @@
 16aJJ
 =22
 4.b-
-*>eM
+!!!End-Modulation
 ==
 *-

@@ -1,0 +1,265 @@
+!!!OTL: 56. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Altered Dorian
+!!!Listening/dance:	listening
+!!!:	*g:
+!!!One_Mode:	no
+**kern
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+!!!Begin-Modulation
+*g:
+*M2/4
+*>A
+=1
+!LO:TX:a:i:t=G-minor
+!!!Begin-Modulation
+*g:
+*^
+(16gLL	2G
+16a	.
+16b-	.
+16aJJ	.
+16ccLL	.
+16b-	.
+16a	.
+16gJJ)	.
+=2	=2
+(16gLL	2G
+16d	.
+16g	.
+16dJJ	.
+16ccLL	.
+16b-	.
+16a	.
+16gJJ)	.
+=3	=3
+(16gLL	2G
+16a	.
+16b-	.
+16aJJ	.
+16ccLL	.
+16b-	.
+16a	.
+16gJJ)	.
+=4	=4
+(16gLL	2G
+16d	.
+16b-	.
+16aJJ	.
+4g)	.
+=5:|!|:	=5:|!|:
+*>B	*>B
+(8ddL	4G
+8gJ)	.
+(8b-TL	4G
+16aL	.
+16gJJ)	.
+*v	*v
+=6
+*^
+16gLL	4G
+16d	.
+16g	.
+16dJJ	.
+(8b-TL	4G
+16aL	.
+16gJJ)	.
+=7	=7
+(8ddL	4G
+8gJ)	.
+(8b-L	4G
+16aL	.
+16gJJ)	.
+=8	=8
+16gLL	4G
+16d	.
+16b-	.
+16aJJ	.
+4g	4G
+*v	*v
+=9:|!
+!!!End-Modulation
+*g:dor
+*>C
+*k[b-]
+!!!End-Modulation
+*g:dor
+!LO:TX:a:i:t=G-raised-fourth
+(8qcc#/
+2dd)
+=10
+(8qcc#/
+2dd)
+=11
+(8qcc#/
+4dd)
+(8qcc#/
+4dd)
+=12
+(8qcc#/
+4dd)
+(8qcc#/
+4dd)
+=13
+(16eeLL
+16dd)
+(16cc#X
+16ddJJ)
+(8cc#tL
+8b-J)
+=14
+(16eeLL
+16dd)
+(16cc#X
+16ddJJ)
+(8cc#tL
+8b-J)
+=15
+(16eeLL
+16dd)
+(16cc#X
+16ddJJ)
+8cc#tL
+8b-J
+=16
+(16ddLL
+16cc#X)
+(16b-
+16aJJ)
+4g
+=17
+(8qcc#/
+2dd)
+=18
+(8qff#X/
+2gg)
+=19
+(8qaa/
+4bb-)
+(8qff#X/
+4gg)
+=20
+(8qccc#/
+4ddd)
+(8qaa/
+4bb-)
+=21
+(16eeeLL
+16ddd)
+(16ccc#X
+16dddJJ)
+(8ccc#tL
+8bb-J)
+=22
+(16eeeLL
+16ddd)
+(16ccc#X
+16dddJJ)
+(8ccc#tL
+8bb-J)
+=23
+(16eeeLL
+16ddd)
+(16ccc#X
+16dddJJ)
+(8ccc#tL
+8bb-J)
+=24
+16dddLL
+16ccc#X
+16bb-
+16aaJJ
+4gg
+=25!|:
+*>D
+(8qff#X/
+2gg)
+=26
+(8qff#X/
+2gg)
+=27
+8gL
+(16aaL
+16bb-JJ)
+(16ff#XLL
+16gg)
+(16cc#X
+16ddJJ)
+=28
+(16aLL
+16b-)
+(16f#X
+16gJJ)
+(16c#LL
+16d)
+(16A
+16B-JJ)
+=29
+*^
+8dL	4ryy
+16bb-L	.
+16aaJJ	.
+*v	*v
+16ggLL
+16aaJ
+8bb-J
+=30
+8ddL
+16bb-L
+16aaJJ
+16ggLL
+16aaJ
+8bb-J
+=31
+8ddL
+16bb-L
+16aaJJ
+16ggLL
+16ffJ
+8eeJ
+=32
+8r
+16ggLL
+16ffJJ
+16eeLL
+16ddJ
+8cc#XJ
+=33
+8r
+16eeLL
+16ddJJ
+16cc#XLL
+16b-J
+8aJ
+=34
+(16ddLL
+16cc#X)
+!LO:TX:b:Bi:t=Da Capo
+16b-'
+16a'JJ
+4g
+=35:|!
+!LO:TX:a:t=Coda
+16gLL
+16f#X
+16g
+16aJJ
+20b-LL
+20ccn
+20dd
+20ee
+20ff#XJJ
+=36
+8b- 8gg
+8r
+8b- 8bb-
+8r
+=37
+8G 8d 8b- 8gg
+8r
+4r
+==
+*-

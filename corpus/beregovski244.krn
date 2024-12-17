@@ -9,6 +9,7 @@
 *k[b-]
 *g:dor
 *M3/8
+*>[A,A1,A,A2,B,C]
 *>A
 =1
 !LO:TX:a:i:t=G-raised-fourth
@@ -145,7 +146,7 @@
 =31
 4dd
 8r
-*>bM
+!!!Begin-Modulation
 *d:dor
 !LO:TX:a:i:t=D-raised-fourth
 =32
@@ -164,7 +165,7 @@
 =35
 4dd]
 8r
-*>eM
+!!!End-Modulation
 *g:dor
 !LO:TX:a:i:t=G-raised-fourth
 =36

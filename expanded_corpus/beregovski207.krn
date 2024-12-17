@@ -53,7 +53,7 @@
 =6|=|!|:
 *>B
 *k[b-e-]
-*>bM
+!!!Begin-Modulation
 *g:
 !LO:TX:a:i:t=G-minor
 16cc\LL
@@ -94,7 +94,7 @@
 8g/L
 8g/J
 4g/
-*>eM
+!!!End-Modulation
 *g:dor
 *k[b-e]
 =12:|!|:

@@ -64,7 +64,7 @@
 4.g
 =10||
 *>B
-*>bM
+!!!Begin-Modulation
 *B-:
 !LO:TX:a:i:t=Bb-major
 8f
@@ -137,7 +137,7 @@
 (8qa/
 8gJ)
 4f
-*>eM
+!!!End-Modulation
 *g:
 !LO:TX:a:i:t=G-minor
 =23

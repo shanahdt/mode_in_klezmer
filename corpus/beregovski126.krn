@@ -8,9 +8,10 @@
 *I"P1
 *clefG2
 *k[b-e-]
-*>bM
+!!!Begin-Modulation
 *c:dor
 *M2/4
+*>[A,A1,A,A2,B]
 *>A
 =1
 !LO:TX:a:i:t=C-raised-fourth
@@ -81,7 +82,7 @@
 16dd)
 (16dd
 16ccJJ)
-*>eM
+!!!End-Modulation
 *G:frey
 !LO:TX:a:i:t=G-freygish
 =14

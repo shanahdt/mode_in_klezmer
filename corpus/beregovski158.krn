@@ -10,6 +10,7 @@
 *G:
 *M2/4
 *>A
+*>[A,B,C]
 =1
 !LO:TX:a:i:t=G-major
 4.bt
@@ -98,7 +99,7 @@
 8aJ
 !LO:TX:b:Bi:t=Fine
 4g
-*>bM
+!!!Begin-Modulation
 *C:
 =17||
 *>C
@@ -148,6 +149,6 @@
 16ddJJ
 8eeL
 8ccJ
-*>eM
+!!!End-Modulation
 ==
 *-

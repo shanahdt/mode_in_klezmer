@@ -92,7 +92,7 @@
 =14
 4g
 4r
-*>bM
+!!!Begin-Modulation
 *G:frey
 !LO:TX:a:i:t=G-freygish
 =15!|:
@@ -160,8 +160,8 @@
 16r
 =23||
 *>C
-*>eM
-*>bM
+!!!End-Modulation
+!!!Begin-Modulation
 *C:
 !LO:TX:a:i:t=C-major
 16gLL
@@ -218,8 +218,8 @@
 16ccJ)
 8ccJ
 4r
-*>eM
-*>bM
+!!!End-Modulation
+!!!Begin-Modulation
 *G:frey
 !LO:TX:a:i:t=G-freygish
 =32||
@@ -276,6 +276,6 @@
 16gJ)
 8gJ
 4r
-*>eM
+!!!End-Modulation
 ==
 *-

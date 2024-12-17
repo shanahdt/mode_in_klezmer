@@ -10,6 +10,7 @@
 *k[b-e-a-]
 *G:frey
 *M2/4
+*>[A,A1,A,A2,B]
 *>A
 =1
 !LO:TX:a:i:t=G-freygish
@@ -64,7 +65,7 @@
 4g
 =9||
 *k[b-e-]
-*>bM
+!!!Begin-Modulation
 *c:
 *>B
 !LO:TX:a:i:t=C-minor
@@ -100,8 +101,8 @@
 16ccJJ
 =15
 4.dd
-*>eM
-*>bM
+!!!End-Modulation
+!!!Begin-Modulation
 *B-:
 !LO:TX:a:i:t=Bb-major
 8dd
@@ -131,7 +132,7 @@
 8b-J
 =20||!|:
 *k[b-e-a-]
-*>eM
+!!!End-Modulation
 *G:frey
 !LO:TX:a:i:t=G-freygish
 8ffL
@@ -148,13 +149,13 @@
 16a-Jk
 8.bL
 16a-Jk
-*>eM1
+!!!End-Modulation1
 =23
 8gL
 8ggJ
 8ggL
 8ggJ
-*>eM2
+!!!End-Modulation2
 =24:|!
 (8a-
 4.g)

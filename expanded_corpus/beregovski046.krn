@@ -64,7 +64,7 @@
 =9:|!
 4.g
 8dd
-*>bM
+!!!Begin-Modulation
 *B-:
 !LO:TX:a:i:t=Bb-major
 =10!|:
@@ -94,7 +94,7 @@
 =13
 4.ff
 8dd
-*>eM
+!!!End-Modulation
 *g:
 !LO:TX:a:i:t=G-minor
 =14

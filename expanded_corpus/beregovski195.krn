@@ -59,7 +59,7 @@
 =8
 2g
 =9:|!|:
-*>bM
+!!!Begin-Modulation
 *B-:
 *>B
 !LO:TX:a:i:t=Bb-major
@@ -97,7 +97,7 @@
 8ee-J
 =16
 2dd
-*>eM
+!!!End-Modulation
 *g:
 !LO:TX:a:i:t=G-minor
 =17

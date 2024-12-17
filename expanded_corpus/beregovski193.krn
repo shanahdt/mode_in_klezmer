@@ -121,7 +121,7 @@
 4g
 4r
 =28||
-*>bM
+!!!Begin-Modulation
 *B-:
 *>C
 !LO:TX:a:i:t=Bb-major
@@ -153,7 +153,7 @@
 =35
 (8qeen/
 2ff)
-*>eM
+!!!End-Modulation
 *g:
 !LO:TX:a:i:t=G-minor
 =36

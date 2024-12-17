@@ -89,7 +89,7 @@
 16bn
 16a-JJ
 4g
-*>bM
+!!!Begin-Modulation
 *c:
 !LO:TX:a:i:t=C-minor
 =12!|:
@@ -150,7 +150,7 @@
 =20:|!
 4gg
 8r
-*>eM
+!!!End-Modulation
 *G:frey
 *>C
 !LO:TX:a:i:t=G-freygish

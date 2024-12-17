@@ -151,7 +151,7 @@
 16a
 16b-JJ
 8.gL
-*>bM
+!!!Begin-Modulation
 *B-:
 !LO:TX:a:i:t=Bb-major
 16fJk
@@ -227,7 +227,7 @@
 *>C2
 =28:|!
 4.B-
-*>eM
+!!!End-Modulation
 *g:
 !LO:TX:a:i:t=G-minor
 8g

@@ -72,7 +72,7 @@
 4g
 4r
 =9||
-*>bM
+!!!Begin-Modulation
 *G:
 *>B
 !LO:TX:a:i:t=G-major
@@ -128,7 +128,7 @@
 16cc#XJJ
 =16
 2dd
-*>eM
+!!!End-Modulation
 *g:dor
 !LO:TX:a:i:t=G-raised-fourth
 =17

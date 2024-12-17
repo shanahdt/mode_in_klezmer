@@ -37,7 +37,7 @@
 16b-JJ)
 4g
 8g
-*>bM
+!!!Begin-Modulation
 *B-:
 !LO:TX:a:i:t=Bb-major
 =5
@@ -56,7 +56,7 @@
 =8
 4.b-
 8f
-*>eM
+!!!End-Modulation
 *g:
 =9!|:
 *>B

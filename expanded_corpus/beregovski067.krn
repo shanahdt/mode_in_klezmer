@@ -67,7 +67,7 @@
 =16
 2.gg
 =17:|!|:
-*>bM
+!!!Begin-Modulation
 *c:
 *>B
 !LO:TX:a:i:t=C-minor
@@ -108,7 +108,7 @@
 =25:|!
 2gg
 4g
-*>eM
+!!!End-Modulation
 *G:frey
 !LO:TX:a:i:t=G-freygish
 =26!|:

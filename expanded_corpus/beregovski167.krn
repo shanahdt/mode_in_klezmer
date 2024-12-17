@@ -69,7 +69,7 @@
 =9!|:
 *>B
 *k[b-e-]
-*>bM
+!!!Begin-Modulation
 *g:
 !LO:TX:a:i:t=G-minor
 16f#XLL
@@ -98,7 +98,7 @@
 =13:|!|:
 *>C
 *k[f#]
-*>eM
+!!!End-Modulation
 *G:
 !LO:TX:a:i:t=G-major
 (16ccLL

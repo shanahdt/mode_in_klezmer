@@ -131,7 +131,7 @@
 16d
 16g
 16aJJ
-*>bM
+!!!Begin-Modulation
 *G:
 =18!|:
 *>C
@@ -194,7 +194,7 @@
 *>C2
 =26:|!
 2g
-*>eM
+!!!End-Modulation
 *g:dor
 !LO:TX:a:i:t=G-raised-fourth
 =27||
@@ -358,7 +358,7 @@
 16aJJ
 =54
 2g
-*>bM
+!!!Begin-Modulation
 *G:
 !LO:TX:a:i:t=G-major
 =55:|!
@@ -480,6 +480,6 @@
 8aJ 8ff#
 =72
 2b 2gg
-*>eM
+!!!End-Modulation
 ==
 *-

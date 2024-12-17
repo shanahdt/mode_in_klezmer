@@ -9,6 +9,7 @@
 *k[b-e-]
 *g:
 *M2/4
+*>[A,A1,A,A2,B,B1,B,B2,C]
 *>A
 =1
 !LO:TX:a:i:t=G-minor
@@ -104,7 +105,7 @@
 =17:|!
 8gL
 *>C
-*>bM
+!!!Begin-Modulation
 *B-:
 !LO:TX:a:i:t=Bb-major
 8f
@@ -166,7 +167,7 @@
 8b-
 8a
 8gJ
-*>eM
+!!!End-Modulation
 *g:
 !LO:TX:a:i:t=G-minor
 =30

@@ -53,7 +53,7 @@
 4g
 4gg
 =9:|!|:
-*>bM
+!!!Begin-Modulation
 *B-:
 *>B
 !LO:TX:a:i:t=Bb-major
@@ -79,7 +79,7 @@
 8f
 8b-
 8ccJ
-*>eM
+!!!End-Modulation
 *g:
 !LO:TX:a:i:t=G-minor
 =13

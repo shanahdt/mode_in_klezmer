@@ -130,7 +130,7 @@
 8g)
 8an
 8bnJ
-*>bM
+!!!Begin-Modulation
 *c:dor
 !LO:TX:a:i:t=C-raised-fourth
 =16
@@ -219,7 +219,7 @@
 8r
 *>C
 8g
-*>eM
+!!!End-Modulation
 *G:frey
 !LO:TX:a:i:t=G-freygish
 =28||

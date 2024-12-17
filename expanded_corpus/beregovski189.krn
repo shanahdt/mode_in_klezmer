@@ -60,7 +60,7 @@
 12ddL
 12cc
 12b-J
-*>bM
+!!!Begin-Modulation
 =9!|:
 8aL
 8b-J
@@ -79,7 +79,7 @@
 12b-L
 12a
 12gJ
-*>bM1
+!!!Begin-Modulation1
 !LO:TX:a:i:t=G-raised-fourth
 =12
 12aL
@@ -88,7 +88,7 @@
 12b-L
 12a
 12gJ
-*>bM2
+!!!Begin-Modulation2
 =13:|!
 2g
 =14||
@@ -168,6 +168,6 @@
 12gJ
 =29
 2g
-*>eM
+!!!End-Modulation
 ==
 *-

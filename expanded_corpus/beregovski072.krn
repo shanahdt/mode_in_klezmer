@@ -47,7 +47,7 @@
 8aJ
 =8
 2.g
-*>bM
+!!!Begin-Modulation
 *B-:
 !LO:TX:a:i:t=Bb-major
 =9||
@@ -89,7 +89,7 @@
 4b-
 4r
 4r
-*>eM
+!!!End-Modulation
 *g:
 !LO:TX:a:i:t=G-major
 =17!|:

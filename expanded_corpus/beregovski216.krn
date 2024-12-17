@@ -42,7 +42,7 @@
 =9:|!|:
 *>B
 *k[b-]
-*>bM
+!!!Begin-Modulation
 *g:dor
 8ddL
 8eeJ
@@ -62,7 +62,7 @@
 8b-
 8a
 8gJ
-*>bM1
+!!!Begin-Modulation1
 =14
 8cc#XL
 8b-
@@ -72,7 +72,7 @@
 2dd
 =16
 2gg
-*>bM2
+!!!Begin-Modulation2
 =17:|!
 8cc#L
 8b-
@@ -82,6 +82,6 @@
 2g
 =19
 2gg
-*>eM
+!!!End-Modulation
 ==
 *-

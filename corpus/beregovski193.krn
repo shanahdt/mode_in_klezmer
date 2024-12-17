@@ -9,6 +9,7 @@
 *k[b-e-]
 *g:
 *M2/4
+*>[A,A1,A,A2,B,B1,B,B2,C]
 *>A
 =1
 !LO:TX:a:i:t=G-minor
@@ -122,7 +123,7 @@
 4g
 4r
 =28||
-*>bM
+!!!Begin-Modulation
 *B-:
 *>C
 !LO:TX:a:i:t=Bb-major
@@ -154,7 +155,7 @@
 =35
 (8qeen/
 2ff)
-*>eM
+!!!End-Modulation
 *g:
 !LO:TX:a:i:t=G-minor
 =36

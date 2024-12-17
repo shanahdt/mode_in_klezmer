@@ -10,6 +10,7 @@
 *k[b-e-]
 *g:
 *M2/4
+*>[A,A1,A,A2,B,B1,B,B2,C,D,D1,D,D2]
 *>A
 =1
 !LO:TX:a:i:t=G-minor
@@ -123,7 +124,7 @@
 4.g
 *>C
 8dd
-*>bM
+!!!Begin-Modulation
 *G:frey
 =19!|:
 *k[b-e-a-]
@@ -280,6 +281,6 @@
 !LO:TX:b:Bi:t=Da Capo al Fine
 4dd
 4bn
-*>eM
+!!!End-Modulation
 ==
 *-

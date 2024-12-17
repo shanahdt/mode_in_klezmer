@@ -53,7 +53,7 @@
 4.g
 8r
 =10!|:
-*>bM
+!!!Begin-Modulation
 *D:
 *>B
 !LO:TX:a:i:t=D-major
@@ -113,7 +113,7 @@
 =18:|!
 4.d
 8r
-*>eM
+!!!End-Modulation
 *G:
 =19!|:
 *>C

@@ -43,7 +43,7 @@
 2cc
 (8b-L
 8aJ)
-*>bM
+!!!Begin-Modulation
 *C:frey
 !LO:TX:a:i:t=C-freygish
 =9
@@ -64,7 +64,7 @@
 2cc
 8b-L
 8aJ
-*>eM
+!!!End-Modulation
 *g:
 !LO:TX:a:i:t=G-minor
 =13
@@ -88,7 +88,7 @@
 2g
 8r
 =16||
-*>bM
+!!!Begin-Modulation
 *B-:
 *>B
 !LO:TX:a:i:t=Bb-major
@@ -114,7 +114,7 @@
 =20
 2ff
 4dd
-*>eM
+!!!End-Modulation
 *g:
 !LO:TX:a:i:t=G-minor
 =21
@@ -133,7 +133,7 @@
 8b-J
 =24
 2.dd
-*>bM
+!!!Begin-Modulation
 *B-:
 !LO:TX:a:i:t=Bb-major
 =25
@@ -174,7 +174,7 @@
 =32
 2b-
 4r
-*>eM
+!!!End-Modulation
 *g:
 !LO:TX:a:i:t=G-minor
 =33||
@@ -226,7 +226,7 @@
 4gg)
 4ff
 4ee-
-*>eM
+!!!End-Modulation
 *g:
 =44
 4dd

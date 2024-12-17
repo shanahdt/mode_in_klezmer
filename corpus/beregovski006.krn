@@ -81,7 +81,7 @@
 *>A2
 =17:|!
 2g
-*>bM
+!!!Begin-Modulation
 *B-:
 !LO:TX:a:i:t=Bb-major
 12fL
@@ -124,7 +124,7 @@
 *>B2
 =26:|!
 2B-
-*>eM
+!!!End-Modulation
 *g:
 !LO:TX:a:i:t=G-minor
 4cc#X

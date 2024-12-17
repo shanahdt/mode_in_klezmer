@@ -11,6 +11,7 @@
 *k[b-]
 *g:dor
 *M2/4
+*>[A,A1,A,A2,B,B1,B,B2,C,D]
 =1-
 *>A
 !LO:TX:a:i:t=G-raised-fourth
@@ -109,7 +110,7 @@
 *>B2
 =17:|!
 2g
-*>bM
+!!!Begin-Modulation
 *G:
 =18!|:
 *>C
@@ -154,7 +155,7 @@
 8r
 (>8qcc#X/
 4dd)
-*>eM
+!!!End-Modulation
 *g:dor
 !LO:TX:a:i:t=G-raised-fourth
 =24

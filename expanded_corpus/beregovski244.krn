@@ -143,7 +143,7 @@
 =31
 4dd
 8r
-*>bM
+!!!Begin-Modulation
 *d:dor
 !LO:TX:a:i:t=D-raised-fourth
 =32
@@ -162,7 +162,7 @@
 =35
 4dd]
 8r
-*>eM
+!!!End-Modulation
 *g:dor
 !LO:TX:a:i:t=G-raised-fourth
 =36

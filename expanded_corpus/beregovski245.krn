@@ -102,7 +102,7 @@
 4cc
 16ccLL
 16ccJJ
-*>bM
+!!!Begin-Modulation
 *B-:
 !LO:TX:a:i:t=Bb-major
 =13
@@ -125,7 +125,7 @@
 4b-
 *>B
 8b-
-*>eM
+!!!End-Modulation
 *g:
 !LO:TX:a:i:t=G-minor
 =17!|:

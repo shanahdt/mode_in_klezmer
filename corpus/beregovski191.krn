@@ -10,6 +10,7 @@
 *k[b-e-]
 *g:
 *M2/4
+*>[A,A1,A,A2,B,B1,B,B2]
 *>A
 !LO:TX:a:i:t=G-minor
 8d
@@ -52,7 +53,7 @@
 !LO:TX:b:Bi:t=Fine
 4g
 4r
-*>bM
+!!!Begin-Modulation
 *B-:
 =10!|:
 *>B
@@ -89,6 +90,6 @@
 !LO:TX:b:Bi:t=Da Capo al Fine
 4b-
 8r
-*>eM
+!!!End-Modulation
 ==
 *-

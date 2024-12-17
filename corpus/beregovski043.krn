@@ -97,7 +97,7 @@
 =12
 4g
 4G
-*>bM
+!!!Begin-Modulation
 *B-:
 !LO:TX:a:i:t=Bb-major
 =13!|:
@@ -145,7 +145,7 @@
 16ddJJ
 4b-
 8r
-*>eM
+!!!End-Modulation
 *g:
 !LO:TX:a:i:t=G-minor
 =19||

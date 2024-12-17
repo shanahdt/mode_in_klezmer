@@ -10,6 +10,7 @@
 *k[b-e-]
 *g:
 *M3/8
+*>[A,A,B]
 *>A
 !LO:TX:a:i:t=G-minor
 =1
@@ -48,7 +49,7 @@
 8r
 =8:|!
 *>B
-*>bM
+!!!Begin-Modulation
 *B-:
 !LO:TX:a:i:t=Bb-major
 8fL
@@ -91,6 +92,6 @@
 !LO:TX:b:Bi:t=D.C. al Fine
 4b-
 8r
-*>eM
+!!!End-Modulation
 ==
 *-

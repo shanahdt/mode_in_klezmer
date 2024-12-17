@@ -54,7 +54,7 @@
 12a-J
 =8
 2.g
-*>bM
+!!!Begin-Modulation
 *c:
 !LO:TX:a:i:t=C-minor
 =9:|!|:
@@ -83,7 +83,7 @@
 =12
 2dd
 4cc
-*>eM
+!!!End-Modulation
 *G:frey
 !LO:TX:a:i:t=G-freygish
 =13

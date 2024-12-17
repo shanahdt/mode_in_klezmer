@@ -79,7 +79,7 @@
 4g)
 =16
 2.g
-*>bM
+!!!Begin-Modulation
 *C:
 !LO:TX:a:i:t=C-major
 =17!|:
@@ -117,7 +117,7 @@
 2.dd
 =24
 2.gg
-*>eM
+!!!End-Modulation
 *G:frey
 !LO:TX:a:i:t=G-freygish
 =25:|!

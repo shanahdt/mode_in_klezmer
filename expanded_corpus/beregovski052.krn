@@ -102,7 +102,7 @@
 8b-J
 8g
 8r
-*>bM
+!!!Begin-Modulation
 *B-:
 !LO:TX:a:i:t=Bb-major
 =13!|:
@@ -149,7 +149,7 @@
 16b-JJ)
 4b-
 8b-
-*>eM
+!!!End-Modulation
 *g:
 !LO:TX:a:i:t=G-minor
 =19!|:

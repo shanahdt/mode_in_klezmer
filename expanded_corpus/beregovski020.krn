@@ -291,7 +291,7 @@
 8r
 =40||
 *k[]
-*>bM
+!!!Begin-Modulation
 *G:
 *>C
 !LO:TX:a:i:t=G-major
@@ -328,7 +328,7 @@
 (16cc
 16bJJ)
 4dd
-*>eM
+!!!End-Modulation
 *g:dor
 !LO:TX:a:i:t=G-raised-fourth
 =47

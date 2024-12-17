@@ -9,6 +9,7 @@
 *k[b-]
 *g:dor
 *M2/4
+*>[A,A1,A,A2,B,B1,B,B2]
 *>A
 =1
 8d
@@ -55,7 +56,7 @@
 8ddJ
 =
 4.g
-*>bM
+!!!Begin-Modulation
 *g:
 =10!|:
 *k[b-e-]
@@ -110,6 +111,6 @@
 4g
 !LO:TX:b:Bi:t=D.C.
 8d
-*>eM
+!!!End-Modulation
 ==
 *-

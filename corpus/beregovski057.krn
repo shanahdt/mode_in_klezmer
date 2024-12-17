@@ -70,7 +70,7 @@
 *k[f#]
 *G:
 *>B
-*>bM
+!!!Begin-Modulation
 *G:
 !LO:TX:a:i:t=G-major
 8g
@@ -170,7 +170,7 @@
 8r
 =25||
 *k[b-]
-*>eM
+!!!End-Modulation
 *g:dor
 *>C
 !LO:TX:a:i:t=G-raised-fourth
@@ -241,7 +241,7 @@
 8r
 =37||
 *k[f#]
-*>bM
+!!!Begin-Modulation
 *G:
 *>D
 !LO:TX:a:i:t=G-major
@@ -331,7 +331,7 @@
 4.g
 =53||
 *k[b-]
-*>eM
+!!!End-Modulation
 *g:dor
 *>E
 !LO:TX:a:i:t=G-raised-fourth
@@ -461,7 +461,7 @@
 *k[f#]
 *G:
 *>F
-*>bM
+!!!Begin-Modulation
 *G:
 !LO:TX:a:i:t=G-major
 8d
@@ -542,7 +542,7 @@
 8r
 =89||
 *k[b-]
-*>eM
+!!!End-Modulation
 *g:dor
 *>G
 !LO:TX:a:i:t=G-raised-fourth

@@ -8,7 +8,7 @@
 *staff1
 *clefG2
 *k[b-e-]
-*>bM
+!!!Begin-Modulation
 *G:
 =40:|!|:
 *>D
@@ -84,6 +84,6 @@
 16dd
 16ccJJ
 4b
-*>eM
-*>bM
+!!!End-Modulation
+!!!Begin-Modulation
 *-

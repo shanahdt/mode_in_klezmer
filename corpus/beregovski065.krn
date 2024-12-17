@@ -115,7 +115,7 @@
 =16
 2g
 4r
-*>bM
+!!!Begin-Modulation
 *F:
 =17||
 *>B
@@ -167,7 +167,7 @@
 (8qa/
 8ccL)
 8ddJ
-*>eM
+!!!End-Modulation
 *G:frey
 !LO:TX:a:i:t=G-freygish
 =23
@@ -179,7 +179,7 @@
 =24
 (8qa-X/
 2.g)
-*>bM
+!!!Begin-Modulation
 *F:
 !LO:TX:a:i:t=F-major
 =25
@@ -223,7 +223,7 @@
 (16ee-XLL
 16ddJ
 8ccJ)
-*>eM
+!!!End-Modulation
 *G:frey
 !LO:TX:a:i:t=G-freygish
 =31

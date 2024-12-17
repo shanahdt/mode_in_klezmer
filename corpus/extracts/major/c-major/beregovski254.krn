@@ -76,7 +76,7 @@
 2.dd
 =24
 2.gg
-*>eM
+!!!End-Modulation
 *-
 !!!Genre:	Dobridyen'
 !!!Mode:	Minor
@@ -252,7 +252,7 @@
 24ddJJ
 8ccL
 8ddJ
-*>eM
+!!!End-Modulation
 *-
 !!!Genre:	Freylekhs (fun der khupe)
 !!!Mode:	Minor
@@ -423,8 +423,8 @@
 16ddJJ
 =37
 2cc
-*>eM
-*>bM
+!!!End-Modulation
+!!!Begin-Modulation
 *-
 !!!Genre:	Skotshne
 !!!Mode:	Freygish
@@ -491,8 +491,8 @@
 16ff#JJ)
 =21
 2gg
-*>eM
-*>bM
+!!!End-Modulation
+!!!Begin-Modulation
 *-
 !!!Genre:	Lekhaim
 !!!Mode:	Freygish
@@ -765,8 +765,8 @@
 16ccJ)
 8ccJ
 4r
-*>eM
-*>bM
+!!!End-Modulation
+!!!Begin-Modulation
 *-
 !!!Genre:	Skotshne
 !!!Mode:	Altered Dorian
@@ -777,7 +777,7 @@
 *I"P1
 *clefG2
 *k[b-e-]
-*>bM
+!!!Begin-Modulation
 *-
 !!!Genre:	Skotshne
 !!!Mode:	Altered Dorian
@@ -977,7 +977,7 @@
 =48
 4c
 4r
-*>eM
+!!!End-Modulation
 ==
 *-
 !!!Genre:	Gas-nign
@@ -989,7 +989,7 @@
 *I"P1
 *clefG2
 *k[b-e-]
-*>bM
+!!!Begin-Modulation
 *-
 !!!Genre:	Gas-nign
 !!!Mode:	Minor
@@ -1163,7 +1163,7 @@
 8g
 8e-J
 2c
-*>eM
+!!!End-Modulation
 ==
 *-
 !!!Genre:	Zay gezunt
@@ -1262,8 +1262,8 @@
 8bnJ
 =20
 2cc
-*>eM
-*>bM
+!!!End-Modulation
+!!!Begin-Modulation
 *-
 !!!Genre:	Freylekhs
 !!!Mode:	Freygish
@@ -1426,8 +1426,8 @@
 16g
 16dd
 16ffJJ
-*>eM
-*>bM
+!!!End-Modulation
+!!!Begin-Modulation
 *-
 !!!Genre:	Freylekhs
 !!!Mode:	Freygish
@@ -1554,7 +1554,7 @@
 *staff1
 *clefG2
 *k[b-e-]
-*>bM
+!!!Begin-Modulation
 *-
 !!!Genre:	Skotshne
 !!!Mode:	Altered Dorian
@@ -1674,7 +1674,7 @@
 *I"P1
 *clefG2
 *k[b-e-]
-*>bM
+!!!Begin-Modulation
 *-
 !!!Genre:	Freylekh
 !!!Mode:	Minor
@@ -1742,7 +1742,7 @@
 *I"P1
 *clefG2
 *k[b-e-]
-*>bM
+!!!Begin-Modulation
 *-
 !!!Genre:	Skotshne
 !!!Mode:	Minor
@@ -1955,7 +1955,7 @@
 (16a
 16gJJ)
 4g
-*>bM
+!!!Begin-Modulation
 *-
 !!!Genre:	Freylekhs
 !!!Mode:	Major
@@ -2031,7 +2031,7 @@
 16ddJJ
 8eeL
 8ccJ
-*>eM
+!!!End-Modulation
 ==
 *-
 !!!Genre:	Freylekhs
@@ -2294,8 +2294,8 @@
 8bXJ
 =28
 2cc
-*>eM
-*>bM
+!!!End-Modulation
+!!!Begin-Modulation
 *-
 !!!Genre:	Sher
 !!!Mode:	Freygish
@@ -2681,7 +2681,7 @@
 8g
 =49||
 *k[b-e-a-]
-*>eM
+!!!End-Modulation
 *-
 !!!Genre:	Bolgarish
 !!!Mode:	Minor
@@ -2869,7 +2869,7 @@
 16ddJJ
 8eetL
 8ccJ
-*>eM
+!!!End-Modulation
 ==
 *-
 !!!Genre:	Ot azoy
@@ -3040,7 +3040,7 @@
 *I"P1
 *clefG2
 *k[b-e-]
-*>bM
+!!!Begin-Modulation
 *-
 !!!Genre:	Olandre (lyondre)
 !!!Mode:	Minor
@@ -3061,7 +3061,7 @@
 *I"P1
 *clefG2
 *k[b-e-]
-*>bM
+!!!Begin-Modulation
 *-
 !!!Genre:	Olandre (lyondre)
 !!!Mode:	Minor
@@ -3072,7 +3072,7 @@
 *I"P1
 *clefG2
 *k[b-e-]
-*>bM
+!!!Begin-Modulation
 *-
 !!!Genre:	Olandre (lyondre)
 !!!Mode:	Minor

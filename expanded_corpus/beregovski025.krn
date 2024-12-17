@@ -44,7 +44,7 @@
 =5:|!
 4g
 4g
-*>bM
+!!!Begin-Modulation
 *c:
 !LO:TX:a:i:t=C-minor
 =6||
@@ -97,8 +97,8 @@
 8ee-
 4dd
 8g
-*>eM
-*>bM
+!!!End-Modulation
+!!!Begin-Modulation
 *B-:
 !LO:TX:a:i:t=Bb-major
 =14||
@@ -128,8 +128,8 @@
 8cc
 4b-
 8b-
-*>eM
-*>bM
+!!!End-Modulation
+!!!Begin-Modulation
 *g:
 !LO:TX:a:i:t=G-minor
 =18
@@ -181,6 +181,6 @@
 16gJJ)
 =25
 2g
-*>eM
+!!!End-Modulation
 ==
 *-

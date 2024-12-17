@@ -11,7 +11,7 @@
 *G:frey
 *M3/4
 *>A
-*>bM
+!!!Begin-Modulation
 *c:
 =1
 !LO:TX:a:i:t=C-minor
@@ -58,7 +58,7 @@
 =12
 2cc
 4g
-*>eM
+!!!End-Modulation
 *G:frey
 !LO:TX:a:i:t=G-freygish
 =13
@@ -77,7 +77,7 @@
 8bnJ
 =16
 2.g
-*>bM
+!!!Begin-Modulation
 *c:
 !LO:TX:a:i:t=C-minor
 =17||
@@ -115,7 +115,7 @@
 =24
 2gg
 4dd
-*>eM
+!!!End-Modulation
 *G:frey
 !LO:TX:a:i:t=G-freygish
 =25

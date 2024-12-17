@@ -9,8 +9,9 @@
 *k[b-e-]
 *g:
 *M2/4
+*>[A,B,C]
 *>A
-*>bM
+!!!Begin-Modulation
 *B-:
 =1
 !LO:TX:a:i:t=Bb-major
@@ -56,7 +57,7 @@
 (16ee-L
 16ddJJ)
 4cc
-*>eM
+!!!End-Modulation
 *g:
 !LO:TX:a:i:t=G-minor
 =7
@@ -70,7 +71,7 @@
 =8
 2g
 =9:|!|:
-*>bM
+!!!Begin-Modulation
 *B-:
 *>B
 !LO:TX:a:t="Segno"
@@ -112,7 +113,7 @@
 8ddtL
 16ccL
 16b-JJ
-*>eM
+!!!End-Modulation
 *g:
 !LO:TX:a:i:t=G-minor
 =15
@@ -148,7 +149,7 @@
 32ee-k
 16dd
 16ccJJ
-*>bM
+!!!Begin-Modulation
 *B-:
 !LO:TX:a:i:t=Bb-major
 =19
@@ -165,7 +166,7 @@
 8f
 8d
 8B-J
-*>eM
+!!!End-Modulation
 *g:
 !LO:TX:a:i:t=G-minor
 =21

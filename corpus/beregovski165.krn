@@ -10,6 +10,7 @@
 *k[f#]
 *G:
 *M2/4
+*>[A,B,C]
 *>A
 =1
 !LO:TX:a:i:t=G-major
@@ -73,7 +74,7 @@
 =9:|!|:
 *>B
 *k[f#c#]
-*>bM
+!!!Begin-Modulation
 *D:
 !LO:TX:a:i:t=D-major
 8a
@@ -128,7 +129,7 @@
 8dd
 =17:|!|:
 *k[f#]
-*>eM
+!!!End-Modulation
 *G:
 !LO:TX:a:i:t=G-major
 4gg

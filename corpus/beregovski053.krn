@@ -68,7 +68,7 @@
 8r
 =8:|!
 *>B
-*>bM
+!!!Begin-Modulation
 *B-:
 !LO:TX:a:i:t=Bb-major
 8f
@@ -124,5 +124,5 @@
 4b-
 4dd
 =:|!
-*>eM
+!!!End-Modulation
 *-

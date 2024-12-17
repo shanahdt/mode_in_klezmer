@@ -89,7 +89,7 @@
 =17:|!
 2g
 =18!|:
-*>bM
+!!!Begin-Modulation
 *B-:
 *>B
 8r
@@ -133,7 +133,7 @@
 16b-LL
 16aJ
 8gJ
-*>eM
+!!!End-Modulation
 *g:dor
 !LO:TX:a:i:t=G-raised-fourth
 =27
@@ -171,10 +171,10 @@
 8aL
 (8qcc#/
 8b-J)
-*>eM1
+!!!End-Modulation1
 =33
 2g
-*>eM2
+!!!End-Modulation2
 =34:|!
 4g
 4d

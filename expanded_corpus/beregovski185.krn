@@ -81,7 +81,7 @@
 =17||
 *>B
 *k[f#]
-*>bM
+!!!Begin-Modulation
 *G:
 !LO:TX:a:i:t=G-major
 2b
@@ -127,7 +127,7 @@
 =29
 4f#
 4g
-*>eM
+!!!End-Modulation
 *g:dor
 !LO:TX:a:i:t=G-raised-fourth
 =30

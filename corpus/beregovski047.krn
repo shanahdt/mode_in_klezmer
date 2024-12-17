@@ -88,7 +88,7 @@
 =12
 4g
 4G
-*>bM
+!!!Begin-Modulation
 *G:
 =13:|!|:
 *>B
@@ -151,7 +151,7 @@
 =20
 4g
 4G
-*>eM
+!!!End-Modulation
 *g:dor
 =21:|!|:
 *>C
@@ -200,6 +200,6 @@
 =27
 4g
 4G
-*>eM
+!!!End-Modulation
 =:|!
 *-

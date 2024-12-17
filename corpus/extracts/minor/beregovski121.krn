@@ -9,7 +9,7 @@
 *g:
 *M2/4
 *>A
-*>bM
+!!!Begin-Modulation
 *g:
 *>B
 8a
@@ -53,5 +53,5 @@
 16f#XJJ
 =
 4.g
-*>bM
+!!!Begin-Modulation
 *-

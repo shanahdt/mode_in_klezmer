@@ -66,7 +66,7 @@
 =9:|!
 4g
 4r
-*>bM
+!!!Begin-Modulation
 *c:
 !LO:TX:a:i:t=C-minor
 =10!|:
@@ -129,7 +129,7 @@
 40g
 40f#X
 40gJJJ
-*>eM
+!!!End-Modulation
 *G:frey
 !LO:TX:a:i:t=G-freygish
 =19||

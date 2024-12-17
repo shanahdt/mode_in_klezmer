@@ -10,6 +10,7 @@
 *k[b-e-a-]
 *G:frey
 *M2/4
+*>[A,B,C,C1,C,C2,D,E]
 *>A
 =1
 !LO:TX:a:i:t=G-freygish
@@ -177,7 +178,7 @@
 =33||
 *>D
 *k[]
-*>bM
+!!!Begin-Modulation
 *C:
 !LO:TX:a:i:t=C-major
 8ee
@@ -251,7 +252,7 @@
 4cc]
 8r
 *>E
-*>eM
+!!!End-Modulation
 *G:frey
 8g
 =49||

@@ -12,6 +12,7 @@
 *k[b-]
 *g:dor
 *M2/4
+*>[A,A1,A,A2,B,C,C1,C,C2]
 *>A
 !LO:TX:a:i:t=G-raised-fourth
 8.b-\L
@@ -54,7 +55,7 @@
 =6|=|!|:
 *>B
 *k[b-e-]
-*>bM
+!!!Begin-Modulation
 *g:
 !LO:TX:a:i:t=G-minor
 !LO:TX:a:t="Segno"
@@ -97,7 +98,7 @@
 8g/J
 !LO:TX:b:Bi:t=Fine
 4g/
-*>eM
+!!!End-Modulation
 *g:dor
 *k[b-e]
 =12:|!|:

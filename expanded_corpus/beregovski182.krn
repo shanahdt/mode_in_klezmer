@@ -66,7 +66,7 @@
 16gJJ)
 4g
 *>B
-*>bM
+!!!Begin-Modulation
 *c:
 !LO:TX:a:i:t=C-minor
 8g
@@ -117,7 +117,7 @@
 4.cc
 =16||
 *>C
-*>eM
+!!!End-Modulation
 *G:frey
 !LO:TX:a:i:t=G-freygish
 8f
@@ -163,13 +163,13 @@
 16ccJJ
 (8.bL
 16a-Jk)
-*>eM1
+!!!End-Modulation1
 =24
 (16a-LL
 16gJJ)
 4g
 8g
-*>eM2
+!!!End-Modulation2
 =25:|!
 8gL
 8ddJ

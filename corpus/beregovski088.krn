@@ -11,6 +11,7 @@
 *k[b-e-a-]
 *G:frey
 *M2/4
+>*[A,B,B1,B,B2,C,C1,C,C2]
 *>A
 =1-
 !LO:TX:a:i:t=G-freygish
@@ -105,7 +106,7 @@
 !LO:TX:b:Bi:t=Fine
 4g
 4gg
-*>bM
+!!!Begin-Modulation
 *E-:
 =14!|:
 *>C
@@ -128,8 +129,8 @@
 4ee-
 8r
 8gg
-*>eM
-*>bM
+!!!End-Modulation
+!!!Begin-Modulation
 *c:dor
 !LO:TX:a:i:t=C-raised-fourth
 =18
@@ -153,14 +154,14 @@
 16dd)
 (>16dd
 16ccJJ)
-=21
 *>C1
+=21
 2cc
+*>C2
 =22:|!
 !LO:TX:b:Bi:t=Dal Segno al Fine
-*>C2
 4.cc
 8g
-*>eM
+!!!End-Modulation
 ==
 *-

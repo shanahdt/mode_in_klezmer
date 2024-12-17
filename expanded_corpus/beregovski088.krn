@@ -100,7 +100,7 @@
 =13:|!
 4g
 4gg
-*>bM
+!!!Begin-Modulation
 *E-:
 =14!|:
 *>C
@@ -123,8 +123,8 @@
 4ee-
 8r
 8gg
-*>eM
-*>bM
+!!!End-Modulation
+!!!Begin-Modulation
 *c:dor
 !LO:TX:a:i:t=C-raised-fourth
 =18
@@ -154,6 +154,6 @@
 =22:|!
 4.cc
 8g
-*>eM
+!!!End-Modulation
 ==
 *-

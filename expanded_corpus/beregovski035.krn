@@ -138,7 +138,7 @@
 8r
 =17:|!
 *>C
-*>bM
+!!!Begin-Modulation
 *c:
 !LO:TX:a:i:t=C-minor
 8g
@@ -176,7 +176,7 @@
 16bnJJ
 =25
 2cc
-*>eM
+!!!End-Modulation
 *G:frey
 !LO:TX:a:i:t=G-freygish
 =26

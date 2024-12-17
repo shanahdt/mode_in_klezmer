@@ -90,7 +90,7 @@
 !LO:TX:b:Bi:t=Fine
 4.g
 8r
-*>bM
+!!!Begin-Modulation
 *G:frey
 !LO:TX:a:i:t=G-freygish
 =10||
@@ -149,7 +149,7 @@
 8qdd/
 8cc
 8bJ
-*>eM
+!!!End-Modulation
 *g:
 !LO:TX:a:i:t=G-minor
 =18

@@ -9,9 +9,10 @@
 *staff1
 *clefG2
 *k[b-e-]
-*>bM
+!!!Begin-Modulation
 *g:
 *M2/4
+*>[A,B,B1,B,B2,C,D,D1,D,D2,E]
 =1-
 *>A
 !LO:TX:a:i:t=G-minor
@@ -53,7 +54,7 @@
 =6	=6
 2g	2G
 *v	*v
-*>eM
+!!!End-Modulation
 *g:dor
 =7:|!|:
 *>B
@@ -248,7 +249,7 @@
 =39
 4.g
 8d
-*>bM
+!!!Begin-Modulation
 *G:
 =40:|!|:
 *>D
@@ -334,8 +335,8 @@
 16cc
 16aJJ
 4g
-*>eM
-*>bM
+!!!End-Modulation
+!!!Begin-Modulation
 *g:
 =53:|!
 *k[b-e-]
@@ -381,6 +382,6 @@
 16aJJ
 =60
 2g
-*>eM
+!!!End-Modulation
 ==
 *-

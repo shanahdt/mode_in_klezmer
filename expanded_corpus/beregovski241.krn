@@ -100,7 +100,7 @@
 =19||
 *>C
 *k[b-]
-*>bM
+!!!Begin-Modulation
 *F:
 !LO:TX:a:i:t=F-major
 4f
@@ -138,7 +138,7 @@
 4f
 4a
 4dd
-*>eM
+!!!End-Modulation
 *G:frey
 !LO:TX:a:i:t=G-freygish
 =28

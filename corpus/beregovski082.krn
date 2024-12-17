@@ -10,6 +10,7 @@
 *k[b-e-a-]
 *G:frey
 *M4/4
+*>[A,B]
 *>A
 !LO:TX:a:i:t=G-freygish
 4g
@@ -94,7 +95,7 @@
 8dd
 8bnJ
 2g
-*>bM
+!!!Begin-Modulation
 *c:
 =9||
 *>B
@@ -166,6 +167,6 @@
 8g
 8e-J
 2c
-*>eM
+!!!End-Modulation
 ==
 *-

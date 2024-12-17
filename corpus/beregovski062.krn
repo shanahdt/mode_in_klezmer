@@ -96,7 +96,7 @@
 2g
 =19
 2gg
-*>bM
+!!!Begin-Modulation
 *F:
 =20:|!|:
 *>B
@@ -137,7 +137,7 @@
 =27
 4f]
 4f
-*>eM
+!!!End-Modulation
 *G:frey
 !LO:TX:a:i:t=G-freygish
 =28||

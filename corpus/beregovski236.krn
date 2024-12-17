@@ -10,6 +10,7 @@
 *k[f#]
 *G:
 *M2/4
+*>[A,A1,A,A2,B,B1,B,B2]
 *>A
 =1
 !LO:TX:a:i:t=G-major
@@ -53,7 +54,7 @@
 16ff#JJ
 8.ggL
 16bJk
-*>bM
+!!!Begin-Modulation
 *e:
 =6!|:
 *>B
@@ -99,6 +100,6 @@
 16ff#)
 16bbJJ
 4ee
-*>eM
+!!!End-Modulation
 ==
 *-

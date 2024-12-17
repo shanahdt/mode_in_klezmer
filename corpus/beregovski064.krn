@@ -81,7 +81,7 @@
 8bnJ
 =16
 2.g
-*>bM
+!!!Begin-Modulation
 *C:
 !LO:TX:a:i:t=C-major
 =17||
@@ -102,8 +102,8 @@
 4gg
 =20
 2.gg
-*>eM
-*>bM
+!!!End-Modulation
+!!!Begin-Modulation
 *c:
 !LO:TX:a:i:t=C-minor
 =21
@@ -124,7 +124,7 @@
 =24
 (8qee-/
 2.dd)
-*>eM
+!!!End-Modulation
 *G:frey
 !LO:TX:a:i:t=G-freygish
 =25

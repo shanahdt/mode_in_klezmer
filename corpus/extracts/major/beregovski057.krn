@@ -10,7 +10,7 @@
 *G:
 *>B
 8g
-*>bM
+!!!Begin-Modulation
 *G:
 =10
 4.b
@@ -108,12 +108,12 @@
 8r
 =25||
 *k[b-]
-*>eM
+!!!End-Modulation
 *G:
 *>D
 16dLL
 16gJJ
-*>bM
+!!!Begin-Modulation
 *G:
 =38
 4.b
@@ -199,11 +199,11 @@
 4.g
 =53||
 *k[b-]
-*>eM
+!!!End-Modulation
 *G:
 *>F
 8d
-*>bM
+!!!Begin-Modulation
 *G:
 =74
 4g
@@ -282,5 +282,5 @@
 8r
 =89||
 *k[b-]
-*>eM
+!!!End-Modulation
 *-

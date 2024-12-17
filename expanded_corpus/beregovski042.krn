@@ -243,7 +243,7 @@
 8b-
 8r
 =||
-*>eM
+!!!End-Modulation
 *g:
 *>E
 !LO:TX:a:i:t=G-minor
@@ -269,7 +269,7 @@
 16ff#XJ)
 8ff#J
 8r
-*>bM
+!!!Begin-Modulation
 *D:frey
 !LO:TX:a:i:t=D-freygish
 8ff#
@@ -303,7 +303,7 @@
 16ddJ
 8ddJ
 8r
-*>eM
+!!!End-Modulation
 *g:
 !LO:TX:a:i:t=G-minor
 8dd

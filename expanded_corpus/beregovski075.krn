@@ -111,7 +111,7 @@
 *>A2
 =17:|!
 2.g
-*>bM
+!!!Begin-Modulation
 *c:
 !LO:TX:a:i:t=C-minor
 =18
@@ -148,8 +148,8 @@
 8ddJ
 =24
 2.cc
-*>eM
-*>bM
+!!!End-Modulation
+!!!Begin-Modulation
 *B-:
 Bb-major
 =25
@@ -225,7 +225,7 @@ Bb-major
 20aJJ
 =38
 4.b-
-*>eM
+!!!End-Modulation
 *g:
 G-minor
 8f

@@ -10,6 +10,7 @@
 *k[b-e-]
 *g:
 *M3/4
+*>[A,A1,A,A2,B,C,D]
 *>A
 =1
 !LO:TX:a:i:t=G-minor
@@ -77,7 +78,7 @@
 2.dd
 =20
 2.dd
-*>bM
+!!!Begin-Modulation
 *g:dor
 !LO:TX:a:i:t=G-raised-fourth
 =21
@@ -107,11 +108,11 @@
 8dL
 8b-
 8aJ
-*>bM1
+!!!Begin-Modulation1
 =28
 2g
 4d
-*>bM2
+!!!Begin-Modulation2
 =29:|!
 2.g
 =30!|:
@@ -179,8 +180,8 @@
 8aJ
 =45
 2.g
-*>eM
-*>bM
+!!!End-Modulation
+!!!Begin-Modulation
 *G:
 =46:|!|:
 *>D
@@ -240,5 +241,5 @@
 =61
 2.g
 =:|!
-*>eM
+!!!End-Modulation
 *-

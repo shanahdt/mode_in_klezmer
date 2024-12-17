@@ -9,6 +9,7 @@
 *k[b-e-]
 *g:
 *M2/4
+*>[A,A1,A,A2,B,C,C]
 *>A
 =1
 !LO:TX:a:i:t=C-minor
@@ -59,15 +60,17 @@
 24ccL
 24b-
 24ccJJ
+*>A1
 =8
 4.b-
 8r
-!LO:TX:a:i:t=G-minor
 =9:|!
+*>A2
 4.b-
 16r
 *>B
 16g
+!LO:TX:a:i:t=G-minor
 =10||
 16gLL
 16b-JJ

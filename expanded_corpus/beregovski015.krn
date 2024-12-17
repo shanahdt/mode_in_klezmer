@@ -220,7 +220,7 @@
 [2g
 =36
 8gL]
-*>bM
+!!!Begin-Modulation
 *C:
 !LO:TX:a:i:t=C-major
 8gJ
@@ -320,7 +320,7 @@
 24ddJJ
 8ccL
 8ddJ
-*>eM
+!!!End-Modulation
 *G:frey
 !LO:TX:a:i:t=G-freygish
 =55!|:

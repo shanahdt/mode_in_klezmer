@@ -9,6 +9,7 @@
 *k[b-e-a-]
 *G:frey
 *M2/4
+*>[A,B,B1,B,B2]
 *>A
 =1
 !LO:TX:a:i:t=G-minor
@@ -35,7 +36,7 @@
 16bJJ
 8a-L
 8gJ
-*>bM
+!!!Begin-Modulation
 *c:
 =5
 !LO:TX:a:i:t=C-minor
@@ -52,7 +53,7 @@
 8ddJ
 =8
 2cc
-*>eM
+!!!End-Modulation
 *G:frey
 =9!|:
 *>B

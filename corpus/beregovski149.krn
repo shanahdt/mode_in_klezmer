@@ -9,6 +9,7 @@
 *k[b-e-]
 *g:
 *M2/4
+*>[A,B]
 *>A
 =1
 !LO:TX:a:i:t=G-minor
@@ -111,7 +112,7 @@
 16ee-JJ
 =16
 2dd
-*>bM
+!!!Begin-Modulation
 *B-:
 !LO:TX:a:i:t=Bb-major
 =17
@@ -144,7 +145,7 @@
 16b-L
 16aJJ
 4b-
-*>eM
+!!!End-Modulation
 *g:
 !LO:TX:a:i:t=G-minor
 =21

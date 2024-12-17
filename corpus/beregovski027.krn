@@ -144,7 +144,7 @@
 24gLL
 24a-
 24gJJ
-*>bM
+!!!Begin-Modulation
 *c:
 !LO:TX:a:i:t=C-minor
 =18||
@@ -170,8 +170,8 @@
 16b-X)
 (16b-
 16anJJ)
-*>eM
-*>bM
+!!!End-Modulation
+!!!Begin-Modulation
 *B-:
 !LO:TX:a:i:t=Bb-major
 =22
@@ -195,8 +195,8 @@
 16an)
 (16a
 16gJJ)
-*>eM
-*>bM
+!!!End-Modulation
+!!!Begin-Modulation
 *c:
 !LO:TX:a:i:t=C-minor
 =26
@@ -221,8 +221,8 @@
 16b-X)
 (16b-
 16anJJ)
-*>eM
-*>bM
+!!!End-Modulation
+!!!Begin-Modulation
 *B-:
 !LO:TX:a:i:t=Bb-major
 =30
@@ -243,7 +243,7 @@
 =33
 8b-X
 8r
-*>eM
+!!!End-Modulation
 *G:frey
 !LO:TX:a:i:t=G-freygish
 4bn

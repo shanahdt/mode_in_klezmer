@@ -65,7 +65,7 @@
 (16a-
 16bJJ)
 4g
-*>bM
+!!!Begin-Modulation
 *c:
 !LO:TX:a:i:t=C-minor
 =10!|:
@@ -90,7 +90,7 @@
 16ee-JJ
 8ddL
 8ccJ
-*>eM
+!!!End-Modulation
 *G:frey
 !LO:TX:a:i:t=G-freygish
 =14
@@ -166,7 +166,7 @@
 12a-'J
 =25
 2g
-*>bM
+!!!Begin-Modulation
 *C:
 !LO:TX:a:i:t=C-major
 =26||
@@ -225,8 +225,8 @@
 16ddJJ
 =37
 2cc
-*>eM
-*>bM
+!!!End-Modulation
+!!!Begin-Modulation
 *c:
 !LO:TX:a:i:t=C-minor
 =38!|:
@@ -267,6 +267,6 @@
 *>E2
 =42:|!
 2cc
-*>eM
+!!!End-Modulation
 ==
 *-
