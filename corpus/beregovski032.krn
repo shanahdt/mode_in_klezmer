@@ -186,6 +186,7 @@
 16dd
 16ccJJ
 !!!Begin-Modulation1
+*>C1
 =25
 [4dd
 16ddLL]
@@ -193,6 +194,7 @@
 16cc
 16ddJJ
 !!!Begin-Modulation2
+*>C2
 =26:|!
 !LO:TX:b:Bi:t=Dal Segno al Fine
 4.dd
