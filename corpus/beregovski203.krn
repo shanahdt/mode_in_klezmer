@@ -10,13 +10,14 @@
 *k[f#]
 *G:
 *M2/4
-*>[A,A1,A,A2,B,C,C1,C,C2,D,E,E1,E,E2]
-*>A
+*>[intro,A,A1,A,A2,B,C,C1,C,C2,D,E,E1,E,E2]
+*>intro
 =1
 !LO:TX:a:i:t=G-major
 2dd
 =2
 2dd
+*>A
 =3!|:
 !LO:TX:a:t="Segno"
 8d
