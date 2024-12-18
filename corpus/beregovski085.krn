@@ -10,7 +10,7 @@
 *k[b-e-a-]
 *E-:
 *M4/4
-*>[A,B]
+*>[A,B,B,C]
 *>A
 =1
 !LO:TX:a:t=Moderato
@@ -104,10 +104,10 @@
 (8a-L
 !LO:TX:b:Bi:t=Fine
 8gJ)
-!LO:TX:a:t=Piu motto
 4g
-=9||
 *>B
+=9||:
+!LO:TX:a:t=Piu motto
 8gL
 16gL
 16gJJ
@@ -130,7 +130,8 @@
 8bnL
 8gJ
 4b
-=11
+*>C
+=11:|
 8gL
 16gL
 16gJJ
