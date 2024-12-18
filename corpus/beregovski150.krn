@@ -10,7 +10,7 @@
 *k[f#]
 *G:
 *M2/4
-*>[A,B,B1,B,B2]
+*>[A,A,fanfare,B,B1,B,B2]
 *>A
 !LO:TX:a:i:t=G-major
 8a
@@ -81,7 +81,7 @@
 *k[b-]
 !!!Begin-Modulation
 *g:dor
-*>B
+*>fanfare
 !LO:TX:a:i:t=G-raised-fourth
 (16cc#XLL
 16eeJJ
@@ -105,6 +105,7 @@
 (16cc#XL
 16eeJJ
 4dd)
+*>B
 =13!|:
 8cc#XL
 8dd
