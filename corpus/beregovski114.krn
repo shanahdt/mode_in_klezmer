@@ -12,7 +12,7 @@
 !!!Begin-Modulation
 *g:
 *M2/4
-*>[A,B,B1,B,B2,C,D,D1,D,D2,E]
+*>[A,A,B,B1,B,B2,C,C,D,D1,D,D2,E,E,F]
 =1-
 *>A
 !LO:TX:a:i:t=G-minor
