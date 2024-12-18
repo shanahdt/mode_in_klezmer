@@ -11,10 +11,11 @@
 !!!Begin-Modulation
 *B-:
 *M4/4
-*>[A,B,C,D]
-*>A
+*>[pickup,A,A,B,B,C,C,D,D]
+*>pickup
 !LO:TX:a:i:t=Bb-major
 8f
+*>A
 =1!|:
 (4f
 4b-)
