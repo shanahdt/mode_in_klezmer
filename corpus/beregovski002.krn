@@ -11,8 +11,10 @@
 *k[b-e-a-]
 *G:frey
 *M3/4
-*>A
+*>[pickup,A,A,B,B]
+*>pickup
 8g
+*>A
 =1!|:
 4bn
 4cc
