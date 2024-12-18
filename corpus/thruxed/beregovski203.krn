@@ -58,10 +58,6 @@
 *>A
 =1
 !LO:TX:a:i:t=G-major
-2dd
-=2
-2dd
-=3!|:
 !LO:TX:a:t="Segno"
 8d
 4g
@@ -313,16 +309,6 @@
 *k[b-]
 *g:dor
 !LO:TX:a:i:t=G-raised-fourth
-2dd
-=42
-2dd
-=43
-(8qff/
-4dd)
-4dd
-=44
-4dd
-4dd
 =45!|:
 4cc#
 4dd
