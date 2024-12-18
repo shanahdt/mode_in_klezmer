@@ -10,9 +10,11 @@
 *k[b-e-a-]
 *G:frey
 *M3/4
-*>A
+*>[pickup,A,A,B,B]
+*>pickup
 !LO:TX:a:i:t=G-freygish
 4g
+*>A
 =1!|:
 4bn
 (8qdd/
