@@ -9,7 +9,7 @@
 *k[b-e-a-]
 *G:frey
 *M2/4
-*>[A,B,C,C1,C,C2]
+*>[A,B,B,fanfare,C,C1,C,C2]
 *>A
 8g
 =1
@@ -113,8 +113,8 @@
 =16
 !LO:TX:b:Bi:t=Fine
 4.g
-*>C
 8g
+*>fanfare
 =17:|!
 4.dd
 8g
@@ -130,6 +130,7 @@
 8ddL
 8gJ
 4dd
+*>C
 =21!|:
 (16ee-LL
 16ddJ
