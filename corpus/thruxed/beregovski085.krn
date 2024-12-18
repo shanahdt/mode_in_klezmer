@@ -104,10 +104,10 @@
 (8a-L
 !LO:TX:b:Bi:t=Fine
 8gJ)
-!LO:TX:a:t=Piu motto
 4g
-=9||
 *>B
+=9||:
+!LO:TX:a:t=Piu motto
 8gL
 16gL
 16gJJ
@@ -130,7 +130,33 @@
 8bnL
 8gJ
 4b
-=11
+*>B
+=9||:
+!LO:TX:a:t=Piu motto
+8gL
+16gL
+16gJJ
+16gLL
+16g
+16g
+16gJJ
+8bnL
+8gJ
+4b
+!!linebreak:original
+=10
+8gL
+16gL
+16gJJ
+16gLL
+16g
+16g
+16gJJ
+8bnL
+8gJ
+4b
+*>C
+=11:|
 8gL
 16gL
 16gJJ

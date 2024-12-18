@@ -11,6 +11,7 @@
 *k[b-e-a-]
 *G:frey
 *M2/4
+*>A
 =1-
 4gg
 4dd
@@ -82,6 +83,7 @@
 =18
 4dd
 4dd
+*>B
 =19!|:
 8ddL
 8ee-
@@ -92,6 +94,18 @@
 8cc
 8b
 8gJ
+*>B
+=19!|:
+8ddL
+8ee-
+8dd
+8ccJ
+=20
+8bnL
+8cc
+8b
+8gJ
+*>C
 =21:|!
 4cc
 8ccL

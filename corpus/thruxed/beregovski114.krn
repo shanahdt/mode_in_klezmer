@@ -57,6 +57,49 @@
 !!!End-Modulation
 *g:dor
 =7:|!|:
+*>A
+!LO:TX:a:i:t=G-minor
+(>8qd/
+*^
+8gL)	2G
+8gJ	.
+(>8gL	.
+8dJ)	.
+=2	=2
+8gL	2G
+8gJ	.
+(>8gL	.
+8dJ)	.
+=3	=3
+(>8gL	2G
+16ccL	.
+16b-JJ)	.
+(>16aLL	.
+16g	.
+16a	.
+16b-JJ)	.
+=4	=4
+16gLL	2G
+16d	.
+16g	.
+16dJJ	.
+8b-L	.
+16aL	.
+16gJJ	.
+=5	=5
+8gL	2G
+16ccL	.
+16b-JJ	.
+16aLL	.
+16g	.
+16a	.
+16b-JJ	.
+=6	=6
+2g	2G
+*v	*v
+!!!End-Modulation
+*g:dor
+=7:|!|:
 *>B
 *k[b-]
 !LO:TX:a:i:t=G-raised-fourth
@@ -171,6 +214,140 @@
 4.g
 8cc#X
 =16!|:
+*>C
+(>4.dd
+8cc#X)
+=17
+(>4.dd
+8cc#X)
+=18
+(>8.ddmL
+16cc#XJk)
+(>8.ddmL
+16cc#XJk)
+=19
+4.dd
+8dd
+=20
+16cc#XLL
+16dd
+16ee
+16ffJJ
+16eeLL
+16dd
+16cc#
+16eeJJ
+=21
+8ddL
+16ddL
+16ddJJ
+16ddLL
+16dd
+16dd
+16ddJJ
+=22
+16cc#XLL
+16dd
+16ee
+16ffJJ
+16eeLL
+16dd
+16cc#
+16eeJJ
+=23
+4.dd
+8dd
+=24
+(>8.ggL
+16ffJk)
+(>16ffLL
+16ee)
+(>16ee
+16ddJJ)
+=25
+(>8.ggL
+16ffJk)
+(>16ffLL
+16ee)
+(>16ee
+16ddJJ)
+=26
+16cc#XLL
+16dd
+16ee
+16ffJJ
+16eeLL
+16dd
+16cc#
+16eeJJ
+=27
+4.dd
+8b-
+=28
+4dd
+(>8qcc#X/
+8ddL)
+(>8qcc#/
+8ddJ)
+=29
+4.cc#X
+24b-LL
+24a
+24b-JJ
+=30
+4dd
+(>8qcc#X/
+8ddL)
+(>8qcc#/
+8ddJ)
+=31
+8cc#XL
+8b-J
+8aL
+8gJ
+=32
+4dd
+(>8qcc#X/
+8ddL)
+(>8qcc#/
+8ddJ)
+=33
+4.cc#X
+24b-LL
+24a
+24b-JJ
+=34
+4dd
+(>8qcc#X/
+8ddL)
+(>8qee/
+8ddJ)
+=35
+(>8cc#XL
+8b-J)
+8aL
+8gJ
+=36
+4.g
+(<16aLL
+16b-JJ)
+=37
+4.g
+(<16aLL
+16b-JJ)
+=38
+8gL
+(<16aL
+16b-JJ)
+(8gL
+<16aL
+16b-JJ)
+=39
+4.g
+8d
+!!!Begin-Modulation
+*G:
+=40:|!|:
 *>C
 (>4.dd
 8cc#X)
@@ -434,6 +611,35 @@
 !!!End-Modulation
 !!!Begin-Modulation
 *g:
+*>E
+=49!|:
+16ffnLL
+16ee
+16dd
+16ccJJ
+4b
+=50
+16aLL
+16b
+16cc
+16aJJ
+4b
+=51
+16ffnLL
+16ee
+16dd
+16ccJJ
+4b
+=52
+16aLL
+16b
+16cc
+16aJJ
+4g
+!!!End-Modulation
+!!!Begin-Modulation
+*g:
+*>F
 =53:|!
 *k[b-e-]
 !LO:TX:a:i:t=G-minor

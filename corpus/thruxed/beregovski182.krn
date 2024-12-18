@@ -11,7 +11,7 @@
 *k[b-e-a-]
 *G:frey
 *M2/4
-*>A,B,C,C1,C,C2
+*[A,B,C,C1,C,C2]
 *>A
 !LO:TX:a:i:t=G-freygish
 8g
@@ -119,11 +119,11 @@
 =
 4.cc
 =16||
-*>C
 !!!End-Modulation
 *G:frey
 !LO:TX:a:i:t=G-freygish
 8f
+*>C
 =17!|:
 8f
 4bn

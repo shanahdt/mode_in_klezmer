@@ -74,10 +74,10 @@
 4.b-
 !!!End-Modulation
 *g:
-*>B
 !LO:TX:a:i:t=G-minor
 !LO:TX:a:t="Segno"
 8a
+*>B
 =7!|:
 8gL
 16aL
@@ -111,9 +111,6 @@
 8cc
 4.dd
 *>B
-!LO:TX:a:i:t=G-minor
-!LO:TX:a:t="Segno"
-8a
 =7!|:
 8gL
 16aL

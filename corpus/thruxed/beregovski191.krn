@@ -11,9 +11,10 @@
 *k[b-e-]
 *g:
 *M2/4
-*>A
+*>pickup
 !LO:TX:a:i:t=G-minor
 8d
+*>A
 =1
 8.b-L
 16gJk
@@ -49,7 +50,6 @@
 4g
 4d
 *>A
-!LO:TX:a:i:t=G-minor
 =1
 8.b-L
 16gJk

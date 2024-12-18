@@ -12,9 +12,10 @@
 !!!Begin-Modulation
 *B-:
 *M4/4
-*>A
+*>pickup
 !LO:TX:a:i:t=Bb-major
 8f
+*>A
 =1!|:
 (4f
 4b-)
@@ -93,8 +94,6 @@
 *g:
 =9:|!|:
 *>A
-!LO:TX:a:i:t=Bb-major
-8f
 =1!|:
 (4f
 4b-)

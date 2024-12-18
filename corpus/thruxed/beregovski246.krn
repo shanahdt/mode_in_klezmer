@@ -110,11 +110,11 @@
 =
 4b-
 =10||
-*>B
 !!!End-Modulation
 *g:
 !LO:TX:a:i:t=G-minor
 8b-
+*>B
 =11!|:
 *^
 8b-	16b-LL
@@ -142,6 +142,7 @@
 8a
 (16gLL
 16b-JJ)
+*>B1
 !!!End-Modulation1
 =15
 (8.ddL
@@ -169,6 +170,35 @@
 (8qdd/
 (16cc)
 16aJJ)
+*>B
+=11!|:
+*^
+8b-	16b-LL
+.	16ccJJ
+8cc	8ccyy
+24b-LL	8ryy
+24a	.
+24gJJ	.
+*v	*v
+=12
+8b-L
+8ccJ
+24b-LL
+24a
+24gJJ
+=13
+8ffL
+8ee-J
+16ddLL
+16ccJJ
+=14
+24b-LL
+24cc
+24b-JJ
+8a
+(16gLL
+16b-JJ)
+*>B2
 =20
 16b-LL
 16b-

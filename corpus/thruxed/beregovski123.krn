@@ -54,8 +54,6 @@
 =8
 2g
 =9:|!|:
-!! THRU ERROR: label A1 does not exist, skipping.
-!!!OTL: 123. Skotshne
 *>A
 =1
 !LO:TX:a:i:t=G-minor
@@ -100,8 +98,6 @@
 =8
 2g
 =9:|!|:
-!! THRU ERROR: label A2 does not exist, skipping.
-!!!OTL: 123. Skotshne
 *>B
 16anLL
 16b-JJ
@@ -287,6 +283,28 @@
 8a
 8g
 8fJ
+*>D
+=34!|:
+4.g
+8b-
+=35
+(16b-LL
+16a)
+(16a
+16gJJ)
+4cc
+=36
+4.g
+8b-
+=37
+!LO:TX:b:Bi:t=Da Capo
+(16b-LL
+16a)
+(16a
+16gJJ)
+4g
+=:|!
+*>D
 =34!|:
 4.g
 8b-
