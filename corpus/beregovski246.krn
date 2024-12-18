@@ -11,7 +11,7 @@
 !!!Begin-Modulation
 *B-:
 *M3/8
-*>[A,A1,A,A2,B]
+*>[A,A1,A,A2,B,B1,B,B2]
 *>A
 !LO:TX:a:i:t=Bb-major
 8f
@@ -100,6 +100,7 @@
 8a
 (16gLL
 16b-JJ)
+*>B1
 !!!End-Modulation1
 =15
 (8.ddL
@@ -127,6 +128,7 @@
 (8qdd/
 (16cc)
 16aJJ)
+*>B2
 =20
 16b-LL
 16b-

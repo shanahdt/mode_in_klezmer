@@ -10,7 +10,7 @@
 *k[b-e-]
 *g:
 *M2/4
-*>[A,A1,A,A2,B,B1,B,B2,C]
+*>[A,A1,A,A2,B,B1,B,B2,C,C1,C,C2]
 *>A
 !LO:TX:a:i:t=G-minor
 24dLL
@@ -156,10 +156,10 @@
 (16ccLL
 16b-JJ)
 4b-
-*>C
 !!!End-Modulation
 *g:
 8dd
+*>C
 =19!|:
 !LO:TX:a:i:t=G-minor
 8.aatL
@@ -222,6 +222,7 @@
 (16dd
 16f#XJJ)
 !!!End-Modulation1
+*>C1
 =26
 8gL
 (8qff#X/
@@ -230,6 +231,7 @@
 16r
 16dd
 !!!End-Modulation2
+*>C2
 =27:|!
 8gL
 (8qff#X/
