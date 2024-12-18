@@ -9,7 +9,7 @@
 *k[b-e-]
 *g:
 *M2/4
-*>[A,B,C]
+*>[A,B,C,C1,C,C2]
 *>A
 =1
 !LO:TX:a:i:t=G-minor
@@ -247,11 +247,13 @@
 16b-LL
 16aJJ
 !!!End-Modulation1
+*>C1
 =44
 8gL
 8aJ
 4f
 !!!End-Modulation2
+*>C2
 =45:|!
 2g
 ==
