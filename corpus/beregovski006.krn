@@ -6,13 +6,14 @@
 !!!Orig_tonic: C
 **kern
 *clefG2
-*>[A,A1,A,A2,B,B1,B,B2,C]
+*>[pickup,A,A1,A,A2,B,B1,B,B2,C,C]
 *k[b-e-]
 *g:
 *M3/4
-*>A
 !LO:TX:a:i:t=G-minor
+*>pickup
 4dd
+*>A
 =1!|:
 2gg
 4ddn
