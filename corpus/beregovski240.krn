@@ -9,9 +9,10 @@
 *k[f#]
 *G:
 *M2/4
-*>[A,A,B,C]
-*>A
+*>[pickup,A,A,B,C]
+*>pickup
 8d
+*>A
 =1!|:
 *^
 (4.gT	2G
