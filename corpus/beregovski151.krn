@@ -10,7 +10,7 @@
 *k[f#]
 *G:
 *M2/4
-*>[A,B,B1,B,B2]
+*>[A,A,fanfare,B,B1,B,B2]
 *>A
 !LO:TX:a:i:t=G-major
 8g
@@ -76,12 +76,12 @@
 !LO:TX:b:Bi:t=Fine
 4g
 8r
+*>fanfare
 =8:|!
 *k[b-]
 8dd
 !!!Begin-Modulation
 *g:dor
-*>B
 !LO:TX:a:i:t=G-raised-fourth
 =9
 (8qff#X/
@@ -99,6 +99,7 @@
 4gg
 8qff#/
 4gg
+*>B
 =13!|:
 8gg
 (8qaa/
