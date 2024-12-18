@@ -10,12 +10,13 @@
 *k[f#]
 *G:
 *M2/4
-*>[A,A1,A,A2,B,C]
-*>A
+*>[pickup,A,A1,A,A2,B,B,C,C]
+*>pickup
 !LO:TX:a:i:t=G-major
 16dLL
 16g
 16aJJ
+*>A
 =1!|:
 (32bLLL
 32cc
