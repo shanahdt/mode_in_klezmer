@@ -10,7 +10,7 @@
 *k[b-e-a-]
 *G:frey
 *M4/4
-*>[A,B,C]
+*>[A,A,B,B,C,C1,C,C2]
 *>A
 =1
 !LO:TX:a:i:t=G-freygish
@@ -232,12 +232,14 @@
 16gJ
 8fJ)
 !!!End-Modulation1
+*>C1
 =24
 2g
 4gg
 12cL
 12f
 12anJ
+*>C2
 !!!End-Modulation2
 =25:|!
 2g

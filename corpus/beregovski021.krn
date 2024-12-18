@@ -95,6 +95,7 @@
 (8qdd/
 4bn)
 8g
+*>B
 =11!|:
 8.ccL
 16bnJk
@@ -119,11 +120,13 @@
 24a
 24g
 24fJJ
+*>B1
 =14
 8gL
 8bn
 8dd
 8ggJ
+*>B2
 =15:|!
 8gL
 (8qa-/
@@ -132,9 +135,9 @@
 8bnJ
 !!!Begin-Modulation
 *c:dor
+*>C
 !LO:TX:a:i:t=C-raised-fourth
 =16
-*>B
 [4cc
 16ccLL]
 16g
@@ -256,7 +259,6 @@
 16b
 16a-JJ
 =33
-*>C1
 16gLL
 16a-JJ
 4bn
@@ -272,7 +274,6 @@
 4gg)
 4dd
 =35
-*>C2
 4gg
 4r
 ==
