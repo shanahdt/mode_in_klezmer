@@ -10,9 +10,10 @@
 *k[b-]
 *g:dor
 *M2/4
-*>[A,A1,A,A2,B,B1,B,B2]
-*>A
+*>[pickup,A,A1,A,A2,B,B1,B,B2]
+*>pickup
 8d
+*>A
 =1!|:
 8gL
 (>8qcc#X/
