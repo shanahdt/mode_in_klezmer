@@ -10,10 +10,11 @@
 *k[b-e-]
 *g:
 *M3/4
-*>[A,A1,A,A2,B,B1,B,B2]
-*>A
+*>[pickup,A,A1,A,A2,B,B1,B,B2]
+*>pickup
 !LO:TX:a:i:t=G-minor
 (4d
+*>A
 =1
 2g
 4a
