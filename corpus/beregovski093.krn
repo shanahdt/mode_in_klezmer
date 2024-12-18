@@ -10,9 +10,10 @@
 *k[b-e-a-]
 *G:frey
 *M2/4
-*>[A,A1,A,A2,B,B]
-*>A
+*>[pickup,A,A1,A,A2,B,B]
+*>pickup
 8g
+*>A
 =1
 (>4.ddt
 8g)
