@@ -10,10 +10,11 @@
 *k[f#]
 *G:
 *M3/4
-*>[A,A1,A,A2,B,C]
-*>A
+*>[pickup,A,A1,A,A2,B,B,C,C]
+*>pickup
 !LO:TX:a:i:t=G-major
 4d
+*>A
 =1!|:
 8gL
 8aJ
