@@ -9,7 +9,7 @@
 *clefG2
 *G:frey:
 *M2/4
-*>norep[A,B,C]
+*>[A,A,B,C,C]
 *>A
 =1-
 (>16gLL
