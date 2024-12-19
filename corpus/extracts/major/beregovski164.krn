@@ -1,8 +1,10 @@
+!!!OTL: 164. Skotshne
 !!!Genre:	Skotshne
 !!!Mode:	Major
 !!!Listening/dance:	dance
 !!!One_Mode:	yes
 **kern
+*thru
 *I"P1
 *clefG2
 *k[f#]
@@ -71,8 +73,8 @@
 16gLL
 16aJ
 8bJ
-((8qcc/
-32bLLL)
+(8qcc/
+(32bLLL)
 32a
 32b
 32aJ
@@ -134,6 +136,7 @@
 (16a
 16f#JJ)
 =
+!LO:TX:b:Bi:t=Fine
 4g
 8r
 =14||
@@ -275,6 +278,7 @@
 16a)
 16f#JJ
 =34
+!LO:TX:b:Bi:t=Da Capo al Fine
 4g
 4r
 ==

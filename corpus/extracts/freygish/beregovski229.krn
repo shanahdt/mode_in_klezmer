@@ -1,13 +1,72 @@
+!!!OTL: 229. Ot azoy
 !!!Genre:	Ot azoy
 !!!Mode:	Minor
 !!!Listening/dance:	dance
 !!!:	*G:frey
 !!!One_Mode:	no
 **kern
+*thru
 *I"P1
 *clefG2
 *k[b-e-]
 *G:frey
+!LO:TX:a:i:t=G-freygish
+8g
+4bn
+8bn
+=10
+8bn
+(8qdd/
+8ccJ)
+16bLL
+16a-
+16g
+16fJJ
+=11
+16enLL
+16f
+16g
+16a-JJ
+(16bnLL
+16cc)
+16b'
+16a-'JJ
+=12
+(8bntL
+8g)
+(8bt
+8gJ)
+=13
+8g
+4bn
+8b
+=14
+8bn
+(8qdd/
+8ccJ)
+(16bLL
+16a-)
+16g
+16fJJ
+=15
+(16enLL
+16f)
+16g'
+16a-'JJ
+(16bnLL
+16cc)
+16b'
+16a-'JJ
+=16
+4g
+4g
+=:|!
+!!!End-Modulation
+*>B
+*k[b-e-a-]
+!!!Begin-Modulation
+*G:frey
+!LO:TX:a:i:t=G-freygish
 8g
 4bn
 8bn

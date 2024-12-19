@@ -1,9 +1,11 @@
+!!!OTL: 152. Skotshne
 !!!Genre:	Skotshne
 !!!Mode:	Major
 !!!Listening/dance:	dance
 !!!:	*g:dor
 !!!One_Mode:	no
 **kern
+*thru
 *I"P1
 *clefG2
 *k[f#]
@@ -11,6 +13,7 @@
 *M2/4
 *>A
 =1
+!LO:TX:a:i:t=G-major
 8dL
 16gL
 16aJJ
@@ -52,10 +55,56 @@
 8bL
 16aL
 16gJJ
+*>A1
 =8
 16aLL
 16bJJ
 4.g
+*>A
+=1
+!LO:TX:a:i:t=G-major
+8dL
+16gL
+16aJJ
+8bL
+8bJ
+=2
+16bLL
+16ddJ
+8ccJ
+8.ccL
+16bJk
+=3
+16bLL
+16ddJ
+8ccJ
+8ccL
+16bL
+16aJJ
+=4
+(16aLL
+16ddJJ)
+4.b
+=5
+8dL
+16gL
+16aJJ
+8bL
+8bJ
+=6
+16bLL
+16ddJ
+8ccJ
+8.ccL
+16bJk
+=7
+16bLL
+16ddJ
+8ccJ
+8bL
+16aL
+16gJJ
+*>A2
 =9:|!
 16aLL
 16bJJ
@@ -67,6 +116,7 @@
 *>C
 *k[f#]
 *G:
+!LO:TX:a:i:t=G-major
 8ccL
 16bL
 16aJJ

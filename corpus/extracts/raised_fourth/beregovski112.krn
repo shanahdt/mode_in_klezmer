@@ -1,9 +1,11 @@
+!!!OTL: 112. Freylekhs
 !!!Genre:	Freylekhs
 !!!Mode:	Altered Dorian
 !!!Listening/dance:	dance
 !!!:	*G:
 !!!One_Mode:	no
 **kern
+*thru
 *part1
 *staff1
 *clefG2
@@ -12,6 +14,7 @@
 *M2/4
 *>A
 =1-
+!LO:TX:a:i:t=G-raised-fourth
 (>8.ggL
 16ddJk)
 16ggLL
@@ -36,6 +39,7 @@
 16a
 16cc#
 16eeJJ
+*>A1
 =4
 16ddLL
 16cc#X
@@ -43,6 +47,34 @@
 16aJJ
 8gL
 8ddJ
+*>A
+=1-
+!LO:TX:a:i:t=G-raised-fourth
+(>8.ggL
+16ddJk)
+16ggLL
+16ff
+16ee
+16ddJJ
+=2
+16ggLL
+16dd
+16gg
+16ddJJ
+16ggLL
+16ff
+16ee
+16ddJJ
+=3
+16eeLL
+16ff
+16ee
+16ddJJ
+16cc#XLL
+16a
+16cc#
+16eeJJ
+*>A2
 =5:|!
 16ddLL
 16cc#X

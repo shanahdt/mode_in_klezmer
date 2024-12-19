@@ -1,8 +1,10 @@
+!!!OTL: 195. Sher
 !!!Genre:	Sher
 !!!Mode:	Minor
 !!!Listening/dance:	dance
-!!!One_Mode:	yes
+!!!One_Mode:	no
 **kern
+*thru
 *I"P1
 *clefG2
 *k[b-e-]
@@ -10,6 +12,7 @@
 *M2/4
 *>A
 =1
+!LO:TX:a:i:t=G-minor
 (8qd/
 16gLL)
 16aJJ
@@ -58,7 +61,64 @@
 =8
 2g
 =9:|!|:
+!!!Begin-Modulation
+*g:
+!LO:TX:a:i:t=G-minor
+=17
+16ddLL
+16ee-
+16dd
+16ccJJ
+16b-LL
+16cc
+16b-
+16aJJ
+=18
+8gL
+8aJ
+8b-L
+8ccJ
+=19
+16ddLL
+16ee-
+16dd
+16ccJJ
+16b-LL
+16cc
+16b-
+16aJJ
+=20
+4g
+4gg
+=21
+16ddLL
+16ee-
+16dd
+16ccJJ
+16b-LL
+16cc
+16b-
+16aJJ
+=22
+8gL
+8aJ
+8b-L
+8ccJ
+=23
+16ddLL
+16ee-
+16dd
+16ccJJ
+16b-LL
+16cc
+16b-
+16aJJ
+=24
+4g
+4g
+=:|!
 *>B
+!LO:TX:a:i:t=Bb-major
 8ddL
 16ee-L
 16ddJJ
@@ -93,6 +153,9 @@
 8ee-J
 =16
 2dd
+!!!End-Modulation
+*g:
+!LO:TX:a:i:t=G-minor
 =17
 16ddLL
 16ee-

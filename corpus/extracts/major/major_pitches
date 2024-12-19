@@ -1,0 +1,12632 @@
+!!!OTL: 1. Dobriden
+!!!Genre:	Dobriden
+!!!Mode:Minor
+!!!Listening/dance:	listening
+!!!One_Mode:	yes
+!!!	ABC
+!!!Orig_tonic: D
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 2. Dobriden
+!!!Genre:	Dobriden
+!!!Mode:	Freygish
+!!!Listening/dance:	listening
+!!!One_Mode:	yes
+!!!:	AB
+!!!Orig_tonic: unkown
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 3. Dobriden
+!!!Genre:	Dobriden
+!!!Mode:	Freygish
+!!!Listening/dance:	listening
+!!!One_Mode:	no
+!!!Orig_tonic: unknown
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 4. Dobranoch
+!!!Genre:	Dobranoch
+!!!Mode:	Freygish
+!!!Listening/dance:	listening
+!!!:	*C:
+!!!One_Mode:	no
+!!!Orig_tonic: E
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 5. Dobriden
+!!!Genre:	Dobriden
+!!!Mode:	Minor
+!!!Listening/dance:	listening
+!!!One_Mode:	yes
+!!!Orig_tonic: E
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 6. Dobranoch
+!!!Genre:	Dobranoch
+!!!Mode:	Minor
+!!!Listening/dance:	listening
+!!!One_Mode:	no
+!!!Orig_tonic: C
+**pitch
+*thru
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 7. Dobranoch
+!!!Genre:	Dobranoch
+!!!Mode:	Minor
+!!!Listening/dance:	listening
+!!!One_Mode:	no
+!!!Orig_tonic: G
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 8. Mazltov (Dobranoch)
+!!!Genre:	Mazltov (Dobranoch)
+!!!Mode:	Minor
+!!!Listening/dance:	listening
+!!!:	*B-:
+!!!One_Mode:	no
+!!!Orig_tonic: G
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 10. Dobranoch (mazltov)
+!!!Genre:	Dobranoch (mazltov)
+!!!Mode:	Altered Dorian
+!!!Listening/dance:	listening
+!!!One_Mode:	yes
+!!!Orig_tonic: C
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-]
+*-
+!!!OTL: 11. Dobranoch
+!!!Genre:	Dobranoch
+!!!Mode:	Minor
+!!!Listening/dance:	listening
+!!!One_Mode:	no
+!!!Orig_tonic: A
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 12. Dobriden
+!!!Genre:	Dobriden
+!!!Mode:	Freygish
+!!!Listening/dance:	listening
+!!!One_Mode:	no
+!!!Orig_tonic: D
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 15. Freylekhs (tsu der khupe)
+!!!Genre:	Freylekhs (tsu der khupe)
+!!!Mode:	Freygish
+!!!Listening/dance:	listening
+!!!:	*C:
+!!!One_Mode:	no
+!!!Orig_tonic: C
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 16. Freylekhs (fun der khupe)
+!!!Genre:	Freylekhs (fun der khupe)
+!!!Mode:	Minor
+!!!Listening/dance:	listening
+!!!One_Mode:	yes
+!!!Orig_tonic: G
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 19. Khtos, metric section only
+!!!Genre: Khtsos
+!!!Mode: Minor
+!!!One Mode: no
+!!!Orig_tonic: Ab
+**pitch
+*thru
+!!pagebreak:original
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 20. Taksim, metric section only
+!!!Genre:	Taksim
+!!!Mode:	Altered Dorian
+!!!Listening/dance:	listening
+!!!One_Mode:	no
+!!!Orig_tonic: unkonwn
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-]
+*G:
+!LO:TX:a:i:t=G-major
+D4
+*>C
+=41!|:
+D4
+G4
+D5
+=42
+D5
+C5
+C5
+B4
+B4
+D5
+D5
+=43
+B4
+D5
+=44
+D5
+C5
+C5
+B4
+B4
+A4
+G4
+=45
+B4
+D5
+=46
+D5
+C5
+C5
+B4
+D5
+!!!End-Modulation
+*-
+!!!OTL: 21. Doyne, metric section only
+!!!Genre:	Doyne
+!!!Mode:	Freygish
+!!!Listening/dance:	listening
+!!!:	*c:
+!!!One_Mode:	no
+!!!Orig_tonic: unknown
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: Doyne, metric section only
+!!!Genre:	Doyne
+!!!Mode:	Altered Dorian
+!!!Listening/dance:	listening
+!!!One_Mode:	yes
+!!!Orig_tonic: unknown
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-]
+*-
+!!!OTL: 23. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Freygish
+!!!Listening/dance:	listening
+!!!One_Mode:	yes
+!!!Orig_tonic: unknown
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 24. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Freygish
+!!!Listening/dance:	listening
+!!!One_Mode:	yes
+!!!Orig_tonic: unknown
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 25. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Freygish
+!!!Listening/dance:	listening
+!!!:	*c:; *g:
+!!!One_Mode:	no
+!!!Orig_tonic: unknown
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 26. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Freygish
+!!!Listening/dance:	listening
+!!!One_Mode:	no
+!!!Orig_tonic: A
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 27. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Freygish
+!!!Listening/dance:	listening
+!!!:	*B-:
+!!!One_Mode:	no
+!!!Orig_tonic: unknown
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 28. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Freygish
+!!!Listening/dance:	listening
+!!!:	*C:; *c:
+!!!One_Mode:	no
+!!!Orig_tonic: C
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 29. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Freygish
+!!!Listening/dance:	listening
+!!!One_Mode:	yes
+!!!Orig_tonic: G
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 30. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Freygish
+!!!Listening/dance:	listening
+!!!:	*B-:
+!!!One_Mode:	no
+!!!Orig_tonic: A
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 31. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Freygish
+!!!Listening/dance:	listening
+!!!:	*F:
+!!!One_Mode:	no
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 32. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Freygish
+!!!Listening/dance:	listening
+!!!:	*C:; *c:dor
+!!!One_Mode:	no
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 33. Lekhaim
+!!!Genre:	Lekhaim
+!!!Mode:	Freygish
+!!!Listening/dance:	listening
+!!!One_Mode:	yes
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 34. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Freygish
+!!!Listening/dance:	listening
+!!!One_Mode:	no
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 35. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Freygish
+!!!Listening/dance:	listening
+!!!One_Mode:	no
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 36 Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Freygish
+!!!Listening/dance:	listening
+!!!One_Mode:	yes
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 37. Nign
+!!!Genre:	Nign
+!!!Mode:	Freygish
+!!!Listening/dance:	listening
+!!!:	*c:
+!!!One_Mode:	no
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 38. Nign
+!!!Genre:	Nign
+!!!Mode:	Minor
+!!!Listening/dance:	listening
+!!!One_Mode:	yes
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 39. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Minor
+!!!Listening/dance:	listening
+!!!One_Mode:	yes
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 40. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Minor
+!!!Listening/dance:	listening
+!!!:	*B-:
+!!!One_Mode:	no
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 41. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Minor
+!!!Listening/dance:	listening
+!!!One_Mode:	yes
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 42. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Minor
+!!!Listening/dance:	listening
+!!!:	*B-:
+!!!One_Mode:	no
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 43. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Minor
+!!!Listening/dance:	listening
+!!!:	*B-:
+!!!One_Mode:	no
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 44. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Minor
+!!!Listening/dance:	listening
+!!!One_Mode:	yes
+**pitch
+*thru
+*I"P1
+!!pagebreak:original
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 45. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Minor
+!!!Listening/dance:	listening
+!!!:	*G:frey
+!!!One_Mode:	no
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 46. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Minor
+!!!Listening/dance:	listening
+!!!One_Mode:	no
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 47. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Minor
+!!!Listening/dance:	listening
+!!!:	*g:dor; *G:; *g:dor
+!!!One_Mode:	no
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*G:
+=13:|!|:
+*>A
+=1
+!LO:TX:a:i:t=G-raised-fourth
+G4
+D4
+G4
+Bb4
+A4
+G4
+=2
+F#4
+D4
+E4
+F#4
+G4
+Bb4
+A4
+G4
+=3
+F#4
+D4
+E4
+F#4
+G4
+A4
+Bb4
+C5
+=4
+D5
+A4
+=5
+C#5
+A4
+C#5
+E5
+D5
+C#5
+=6
+Bb4
+A4
+G4
+A4
+=7
+Bb4
+A4
+Bb4
+A4
+D5
+C#5
+Bb4
+=8
+C#5
+A4
+=9
+C#5
+A4
+C#5
+E5
+D5
+C#5
+=10
+Bb4
+A4
+G4
+D4
+=11
+D4
+Bb4
+A4
+G4
+F#4
+D4
+E4
+F#4
+=12
+G4
+G3
+!!!Begin-Modulation
+*G:
+=13:|!|:
+*>B
+*k[f#]
+*G:
+!LO:TX:a:i:t=G-major
+C5
+C5
+B4
+A4
+B4
+D4
+G4
+B4
+=14
+A4
+D4
+F#4
+A4
+G4
+A4
+B4
+C5
+=15
+D5
+D5
+C5
+B4
+A4
+B4
+C5
+D5
+=16
+B4
+G5
+=17
+G5
+Ab5
+G5
+F#5
+G5
+A4
+B4
+C5
+=18
+B4
+C5
+B4
+A4
+B4
+=19
+A4
+B4
+C5
+D5
+B4
+G4
+A4
+F#4
+=20
+G4
+G3
+!!!End-Modulation
+*G:
+!LO:TX:a:i:t=G-major
+C5
+C5
+B4
+A4
+B4
+D4
+G4
+B4
+=14
+A4
+D4
+F#4
+A4
+G4
+A4
+B4
+C5
+=15
+D5
+D5
+C5
+B4
+A4
+B4
+C5
+D5
+=16
+B4
+G5
+=17
+G5
+Ab5
+G5
+F#5
+G5
+A4
+B4
+C5
+=18
+B4
+C5
+B4
+A4
+B4
+=19
+A4
+B4
+C5
+D5
+B4
+G4
+A4
+F#4
+=20
+G4
+G3
+!!!End-Modulation
+*-
+!!!OTL: 48. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Minor
+!!!Listening/dance:	listening
+!!!:	*B-:
+!!!One_Mode:	no
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 49. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Minor
+!!!Listening/dance:	listening
+!!!One_Mode:	no
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 50. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Minor
+!!!Listening/dance:	listening
+!!!:	*B-:
+!!!One_Mode:	no
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 51. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Minor
+!!!Listening/dance:	listening
+!!!:	*B-:
+!!!One_Mode:	no
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL:52. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Minor
+!!!Listening/dance:	listening
+!!!:	*B-:
+!!!One_Mode:	no
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 53. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Minor
+!!!Listening/dance:	listening
+!!!:	*B-:
+!!!One_Mode:	no
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 54. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Altered Dorian
+!!!Listening/dance:	listening
+!!!:	*G:
+!!!One_Mode:	no
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-]
+*G:
+=18!|:
+*>C
+*k[f#]
+*G:
+!LO:TX:a:i:t=G-major
+B4
+B4
+G4
+D5
+C5
+=19
+B4
+A4
+B4
+A4
+G4
+=20
+A4
+B4
+C5
+E5
+D5
+C5
+B4
+A4
+=21
+B4
+B4
+D4
+G4
+A4
+=22
+B4
+B4
+G4
+D5
+C5
+=23
+B4
+B4
+A4
+G4
+=24
+A4
+B4
+C5
+E5
+D5
+C5
+B4
+A4
+*>C1
+=25
+G4
+G4
+D4
+G4
+A4
+*>C
+*k[f#]
+*G:
+!LO:TX:a:i:t=G-major
+B4
+B4
+G4
+D5
+C5
+=19
+B4
+A4
+B4
+A4
+G4
+=20
+A4
+B4
+C5
+E5
+D5
+C5
+B4
+A4
+=21
+B4
+B4
+D4
+G4
+A4
+=22
+B4
+B4
+G4
+D5
+C5
+=23
+B4
+B4
+A4
+G4
+=24
+A4
+B4
+C5
+E5
+D5
+C5
+B4
+A4
+*>C2
+=26:|!
+G4
+!!!End-Modulation
+*G:
+!LO:TX:a:i:t=G-major
+=55:|!
+*>G
+*k[f#]
+*G:
+B4
+B4
+A4
+D5
+C5
+=56
+B4
+B4
+C5
+B4
+A4
+G4
+=57
+A4
+B4
+C5
+E5
+D5
+C5
+B4
+A4
+=58
+G4
+G5
+G5
+G5
+=59
+B4
+B4
+A4
+D5
+C5
+=60
+B4
+B4
+C5
+B4
+A4
+G4
+=61
+A4
+B4
+C5
+E5
+D5
+C5
+B4
+A4
+=62
+G4
+=63!|:
+*>H
+F#4
+D4
+F#4
+D4
+G4
+=64
+F#4
+D4
+F#4
+D4
+G4
+=65
+F#4
+D4
+F#4
+D4
+G4
+D4
+G4
+D4
+=66||
+A4
+D4
+A4
+D4
+C5
+B4
+A4
+G4
+=67||
+F#4
+D4
+F#4
+D4
+G4
+=68
+F#4
+D4
+F#4
+D4
+G4
+*>H1
+=69
+A4
+E5
+D5
+C5
+B4
+C5
+A4
+B4
+=70
+G4
+*>H
+F#4
+D4
+F#4
+D4
+G4
+=64
+F#4
+D4
+F#4
+D4
+G4
+=65
+F#4
+D4
+F#4
+D4
+G4
+D4
+G4
+D4
+=66||
+A4
+D4
+A4
+D4
+C5
+B4
+A4
+G4
+=67||
+F#4
+D4
+F#4
+D4
+G4
+=68
+F#4
+D4
+F#4
+D4
+G4
+*>H2
+=71:|!
+G4
+A4
+B4
+C5
+D5
+A4 F#5
+=72
+B4 G5
+!!!End-Modulation
+==
+*-
+!!!OTL: 55. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Altered Dorian
+!!!Listening/dance:	listening
+!!!:	*G:frey; *C:; *G:frey
+!!!One_Mode:	no
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-]
+*-
+!!!OTL: 56. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Altered Dorian
+!!!Listening/dance:	listening
+!!!:	*g:
+!!!One_Mode:	no
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+!!!Begin-Modulation
+*-
+!!!OTL: 57. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Altered Dorian
+!!!Listening/dance:	listening
+!!!:	*G:
+!!!One_Mode:	no
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-]
+*G:
+*>B
+!!!Begin-Modulation
+*G:
+!LO:TX:a:i:t=G-major
+G4
+=10
+B4
+A4
+G4
+=11
+D5
+C5
+C5
+B4
+B4
+A4
+G4
+=12
+B4
+A4
+G4
+D5
+E5
+D5
+C5
+=13
+B4
+G5
+D5
+G5
+=14
+B4
+B4
+D5
+=15
+D5
+C5
+C5
+B4
+B4
+A4
+G4
+=16
+B4
+A4
+A4
+G4
+B4
+C5
+B4
+A4
+=17
+G4
+r
+D4
+G4
+=18
+B4
+D5
+=19
+D5
+C5
+C5
+B4
+D5
+=20
+B4
+C5
+B4
+G4
+D5
+=21
+D5
+C5
+C5
+B4
+B4
+A4
+G4
+=22
+B4
+B4
+D5
+=23
+D5
+C5
+C5
+B4
+B4
+=24
+A4
+B4
+A4
+G4
+B4
+A4
+=
+G4
+r
+=25||
+*k[b-]
+!!!End-Modulation
+*G:
+*>D
+!LO:TX:a:i:t=G-major
+D4
+G4
+=38
+B4
+A4
+G4
+=39
+D5
+C5
+C5
+B4
+B4
+=40
+A4
+B4
+A4
+G4
+B4
+A4
+=41
+G4
+D5
+C5
+D5
+C5
+B4
+=42
+B4
+A4
+G4
+=43
+D5
+C5
+B4
+C5
+B4
+=44
+A4
+G4
+B4
+A4
+=45
+G4
+D4
+G4
+=46
+B4
+D5
+=47
+D5
+C5
+B4
+=48
+A4
+B4
+A4
+G4
+B4
+C5
+B4
+A4
+=49
+G4
+D5
+C#5
+E5
+D5
+=50
+B4
+B4
+D5
+=51
+D5
+C5
+B4
+=52
+A4
+B4
+A4
+G4
+B4
+A4
+=
+G4
+=53||
+*k[b-]
+!!!End-Modulation
+*G:
+*>F
+!!!Begin-Modulation
+*G:
+!LO:TX:a:i:t=G-major
+D4
+=74
+G4
+B4
+D5
+=75
+C5
+B4
+=76
+B4
+A4
+A4
+G4
+D5
+C5
+=77
+B4
+C5
+B4
+A4
+G4
+=78
+B4
+D5
+C5
+=79
+B4
+A4
+B4
+A4
+G4
+=80
+A4
+B4
+A4
+=81
+G4
+r
+D4
+G4
+=82
+B4
+B4
+D5
+C5
+=83
+C5
+D5
+B4
+A4
+=84
+A4
+G4
+D5
+C5
+=85
+B4
+D5
+D5
+C5
+=86
+B4
+D5
+C5
+=87
+B4
+A4
+=88
+G4
+B4
+C5
+B4
+A4
+=
+G4
+r
+=89||
+*k[b-]
+!!!End-Modulation
+*-
+!!!OTL: 58. Freylekhs (fun der khupe)
+!!!Genre:	Freylekhs (fun der khupe)
+!!!Mode:	Altered Dorian
+!!!Listening/dance:	listening
+!!!One_Mode:	no
+**pitch
+*thru
+*clefG2
+*k[b-]
+*-
+!!!OTL: 59. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Altered Dorian
+!!!Listening/dance:	listening
+!!!One_Mode:	yes
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-]
+*-
+!!!OTL: 60. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Altered Dorian
+!!!Listening/dance:	listening
+!!!One_Mode:	no
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-]
+*-
+!!!OTL: 61. Gas-nign
+!!!Genre:	Gas-nign
+!!!Mode:	Freygish
+!!!Listening/dance:	listening
+!!!One_Mode:	no
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 62. Gas-nign
+!!!Genre:	Gas-nign
+!!!Mode:	Freygish
+!!!Listening/dance:	listening
+!!!:	*F:
+!!!One_Mode:	no
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 63. Gas-nign
+!!!Genre:	Gas-nign
+!!!Mode:	Freygish
+!!!Listening/dance:	listening
+!!!:	*F:
+!!!One_Mode:	no
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 64. Gas-nign
+!!!Genre:	Gas-nign
+!!!Mode:	Freygish
+!!!Listening/dance:	listening
+!!!One_Mode:	no
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 65. Gas-nign
+!!!Genre:	Gas-nign
+!!!Mode:	Freygish
+!!!Listening/dance:	listening
+!!!:	*F:
+!!!One_Mode:	no
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 66. Gas-nign
+!!!Genre:	Gas-nign
+!!!Mode:	Freygish
+!!!Listening/dance:	listening
+!!!One_Mode:	yes
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 67. Gas-nign
+!!!Genre:	Gas-nign
+!!!Mode:	Freygish
+!!!Listening/dance:	listening
+!!!One_Mode:	no
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 68. Gas-nign
+!!!Genre:	Gas-nign
+!!!Mode:	Freygish
+!!!Listening/dance:	listening
+!!!One_Mode:	yes
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 69. Gas-nign
+!!!Genre:	Gas-nign
+!!!Mode:	Freygish
+!!!Listening/dance:	listening
+!!!:	*g:
+!!!One_Mode:	no
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 70. Gas-nign
+!!!Genre:	Gas-nign
+!!!Mode:	Freygish
+!!!Listening/dance:	listening
+!!!:	*C:
+!!!One_Mode:	no
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 71. Gas-nign
+!!!Genre:	Gas-nign
+!!!Mode:	Minor
+!!!Listening/dance:	listening
+!!!:	*B-:
+!!!One_Mode:	no
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+!!!Begin-Modulation
+*-
+!!!OTL: 72. Gas-nign
+!!!Genre:	Gas-nign
+!!!Mode:	Minor
+!!!Listening/dance:	listening
+!!!One_Mode:	no
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 73. Gas-nign
+!!!Genre:	Gas-nign
+!!!Mode:	Minor
+!!!Listening/dance:	listening
+!!!:	*B-:
+!!!One_Mode:	no
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 74. Gas-nign
+!!!Genre:	Gas-nign
+!!!Mode:	Minor
+!!!Listening/dance:	listening
+!!!One_Mode:	no
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 75. Gas-nign
+!!!Genre:	Gas-nign
+!!!Mode:	Minor
+!!!Listening/dance:	listening
+!!!One_Mode:	no
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 76. Gas-nign
+!!!Genre:	Gas-nign
+!!!Mode:	Minor
+!!!Listening/dance:	listening
+!!!One_Mode:	yes
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 77. Gas-nign
+!!!Genre:	Gas-nign
+!!!Mode:	Minor
+!!!Listening/dance:	listening
+!!!One_Mode:	no
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 78. Gas-nign
+!!!Genre:	Gas-nign
+!!!Mode:	Minor
+!!!Listening/dance:	listening
+!!!:	*B-
+!!!One_Mode:	no
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 79. A gute nakht
+!!!Genre:	A gute nakht
+!!!Mode:	Freygish
+!!!Listening/dance:	listening
+!!!One_Mode:	yes
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 80. A gute nakht
+!!!Genre:	A gute nakht
+!!!Mode:	Minor
+!!!Listening/dance:	listening
+!!!One_Mode:	yes
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 81. Zay gezunt
+!!!Genre:	Zay gezunt
+!!!Mode:	Freygish
+!!!Listening/dance:	listening
+!!!One_Mode:	yes
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 82. Zay gezunt
+!!!Genre:	Zay gezunt
+!!!Mode:	Freygish
+!!!Listening/dance:	listening
+!!!:	*c:
+!!!One_Mode:	no
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 83. Zay gezunt
+!!!Genre:	Zay gezunt
+!!!Mode:	Minor
+!!!Listening/dance:	listening
+!!!One_Mode:	no
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 84. Zay gezunt
+!!!Genre:	Zay gezunt
+!!!Mode:	Minor
+!!!Listening/dance:	listening
+!!!One_Mode:	yes
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 85. Redl
+!!!Genre:	Redl
+!!!Mode:	Freygish
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**pitch
+*thru
+*I"P1
+!!pagebreak:original
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 86. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Freygish
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**pitch
+*thru
+*part1
+*staff1
+*clefG2
+*-
+!!!OTL: 87. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Freygish
+!!!Listening/dance:	dance
+!!!:	*F:
+!!!One_Mode:	no
+**pitch
+*thru
+*part1
+*staff1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 88. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Freygish
+!!!Listening/dance:	dance
+!!!:	*c:
+!!!One_Mode:	no
+**pitch
+*thru
+*part1
+*staff1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 89. Tants
+!!!Genre:	Tants
+!!!Mode:	Freygish
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**pitch
+*thru
+*part1
+*staff1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 90. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Freygish
+!!!Listening/dance:	dance
+!!!:	*C:
+!!!One_Mode:	no
+**pitch
+*thru
+*part1
+*staff1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 91. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Freygish
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**pitch
+*thru
+*part1
+*staff1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 92. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Freygish
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**pitch
+*thru
+*part1
+*staff1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 93. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Freygish
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**pitch
+*thru
+*part1
+*staff1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 94. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Freygish
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**pitch
+*thru
+*part1
+*staff1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 95. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Freygish
+!!!Listening/dance:	dance
+!!!:	*c
+!!!One_Mode:	no
+**pitch
+*thru
+*part1
+*staff1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 96. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Freygish
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**pitch
+*thru
+*part1
+*staff1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 97. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Freygish
+!!!Listening/dance:	dance
+!!!One_Mode:	no
+**pitch
+*thru
+*part1
+*staff1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 98. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Freygish
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**pitch
+*thru
+*part1
+*staff1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 99. Hopke
+!!!Genre:	Hopke
+!!!Mode:	Freygish
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**pitch
+*thru
+*part1
+*staff1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 100. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Freygish
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**pitch
+*thru
+*part1
+*staff1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 101. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	no
+**pitch
+*thru
+!!pagebreak:original
+*clefG2
+*k[f#]
+*G:
+*M2/4
+*>A
+=1
+!LO:TX:a:i:t=G-major
+D4
+G4
+F#4
+G4
+=2
+A4
+A4
+A4
+=3
+B4
+A4
+G4
+D5
+=4
+A4
+A4
+A4
+=5
+D4
+G4
+F#4
+G4
+=6
+A4
+B4
+=7
+A4
+G4
+F#4
+A4
+*>A1
+=8
+G4
+A4
+G4
+F#4
+E4
+!!linebreak:original
+*>A
+=1
+!LO:TX:a:i:t=G-major
+D4
+G4
+F#4
+G4
+=2
+A4
+A4
+A4
+=3
+B4
+A4
+G4
+D5
+=4
+A4
+A4
+A4
+=5
+D4
+G4
+F#4
+G4
+=6
+A4
+B4
+=7
+A4
+G4
+F#4
+A4
+*>A2
+=9:|!
+G4
+*>B
+=10!|:
+*k[b-e-]
+*-
+!!!OTL: 102. Hopke
+!!!Genre:	Hopke
+!!!Mode:	Freygish
+!!!Listening/dance:	dance
+!!!:	*F:; *C:
+!!!One_Mode:	no
+**pitch
+*thru
+*part1
+*staff1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 103. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Freygish
+!!!Listening/dance:	dance
+!!!:	*F:
+!!!One_Mode:	no
+**pitch
+*thru
+*part1
+*staff1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 104. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Freygish
+!!!Listening/dance:	dance
+!!!:	*B-:
+!!!One_Mode:	no
+**pitch
+*thru
+*part1
+*staff1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 105. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Altered Dorian
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**pitch
+*thru
+*part1
+*staff1
+*clefG2
+*k[b-]
+*-
+!!!OTL: 106. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Altered Dorian
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**pitch
+*thru
+*part1
+*staff1
+*clefG2
+*k[b-]
+*-
+!!!OTL: 107. Karahod
+!!!Genre:	Karahod
+!!!Mode:	Altered Dorian
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**pitch
+*thru
+*part1
+*staff1
+*clefG2
+*k[b-]
+*-
+!!!OTL: 108. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Altered Dorian
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**pitch
+*thru
+*part1
+*staff1
+*clefG2
+*k[b-]
+*-
+!!!OTL: 109. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Altered Dorian
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**pitch
+*thru
+*part1
+*staff1
+*clefG2
+*k[b-]
+*-
+!!!OTL: 110. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Altered Dorian
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**pitch
+*thru
+*part1
+*staff1
+*clefG2
+*k[b-]
+*-
+!!!OTL: 111. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Altered Dorian
+!!!Listening/dance:	dance
+!!!:	*B-:
+!!!One_Mode:	no
+**pitch
+*thru
+*part1
+*staff1
+*clefG2
+*k[b-]
+*-
+!!!OTL: 112. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Altered Dorian
+!!!Listening/dance:	dance
+!!!:	*G:
+!!!One_Mode:	no
+**pitch
+*thru
+*part1
+*staff1
+*clefG2
+*k[b-]
+*G:
+=10:|!|:
+*k[f#]
+*>B
+G4
+G5
+F5
+E5
+D5
+C#5
+Bb4
+=7
+C#5
+Bb4
+A4
+G4
+G5
+=8
+G4
+G5
+F5
+E5
+D5
+C#5
+Bb4
+=9
+C#5
+Bb4
+A4
+G4
+!!!Begin-Modulation
+*G:
+=10:|!|:
+*k[f#]
+*>C
+!LO:TX:a:i:t=G-major
+B4
+A4
+B4
+C5
+D5
+C5
+=11
+B4
+B4
+A4
+B4
+C5
+D5
+C5
+=12
+B4
+B4
+A4
+B4
+C5
+D5
+C5
+=13
+B4
+C5
+A4
+B4
+G4
+=14:|!|:
+*>C
+!LO:TX:a:i:t=G-major
+B4
+A4
+B4
+C5
+D5
+C5
+=11
+B4
+B4
+A4
+B4
+C5
+D5
+C5
+=12
+B4
+B4
+A4
+B4
+C5
+D5
+C5
+=13
+B4
+C5
+A4
+B4
+G4
+=14:|!|:
+*>D
+A4
+A4
+C5
+=15
+B4
+A4
+B4
+C5
+D5
+=16
+A4
+A4
+C5
+=17
+B4
+C5
+A4
+B4
+G4
+=:|!
+!!!End-Modulation
+*>D
+A4
+A4
+C5
+=15
+B4
+A4
+B4
+C5
+D5
+=16
+A4
+A4
+C5
+=17
+B4
+C5
+A4
+B4
+G4
+=:|!
+!!!End-Modulation
+*-
+!!!OTL: 113. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Altered Dorian
+!!!Listening/dance:	dance
+!!!:	*G:
+!!!One_Mode:	no
+**pitch
+*thru
+*part1
+*staff1
+*clefG2
+*k[b-]
+*G:
+=25||
+*k[f#]
+!LO:TX:a:i:t=G-major
+B4
+C5
+B4
+G4
+C5
+D5
+C5
+A4
+=26
+B4
+C5
+B4
+G4
+C5
+D5
+C5
+A4
+=27
+B4
+G4
+D5
+C5
+B4
+C5
+A4
+=28
+G4
+D5
+=29
+B4
+C5
+B4
+D5
+C5
+B4
+C5
+A4
+=30
+B4
+G4
+B4
+D5
+C5
+B4
+C5
+A4
+=31
+B4
+G4
+B4
+D5
+C5
+B4
+C5
+A4
+=32
+G4
+r
+D5
+=33
+G5
+=34
+G5
+=35
+G5
+G5
+=36
+G5
+D5
+G5
+D5
+=37
+B4
+C5
+B4
+G4
+D5
+C5
+D5
+C5
+A4
+C5
+=38
+B4
+C5
+B4
+G4
+D5
+C5
+D5
+C5
+A4
+C5
+=39
+B4
+G4
+D5
+C5
+B4
+C5
+A4
+=40
+G4
+r
+C#5
+D5
+=41
+B4
+C5
+B4
+G4
+C5
+D5
+C5
+A4
+=42
+B4
+G4
+B4
+D5
+C5
+D5
+C5
+A4
+=43
+B4
+G4
+B4
+D5
+C5
+B4
+C5
+A4
+=44
+G4
+r
+C#5
+=45
+D5
+=46
+D5
+=47
+E5
+D5
+G5
+=48
+E5
+D5
+r
+E5
+D5
+!!!End-Modulation
+*-
+!!!OTL: 114. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Altered Dorian
+!!!Listening/dance:	dance
+!!!:	*g:; *G:; *g:
+!!!One_Mode:	no
+**pitch
+*thru
+*part1
+*staff1
+*clefG2
+*k[b-e-]
+!!!Begin-Modulation
+*G:
+=40:|!|:
+*>C
+D5
+C#5
+=17
+D5
+C#5
+=18
+D5
+C#5
+D5
+C#5
+=19
+D5
+D5
+=20
+C#5
+D5
+E5
+F5
+E5
+D5
+C#5
+E5
+=21
+D5
+D5
+D5
+D5
+D5
+D5
+D5
+=22
+C#5
+D5
+E5
+F5
+E5
+D5
+C#5
+E5
+=23
+D5
+D5
+=24
+G5
+F5
+F5
+E5
+E5
+D5
+=25
+G5
+F5
+F5
+E5
+E5
+D5
+=26
+C#5
+D5
+E5
+F5
+E5
+D5
+C#5
+E5
+=27
+D5
+Bb4
+=28
+D5
+C#5
+D5
+C#5
+D5
+=29
+C#5
+Bb4
+A4
+Bb4
+=30
+D5
+C#5
+D5
+C#5
+D5
+=31
+C#5
+Bb4
+A4
+G4
+=32
+D5
+C#5
+D5
+C#5
+D5
+=33
+C#5
+Bb4
+A4
+Bb4
+=34
+D5
+C#5
+D5
+E5
+D5
+=35
+C#5
+Bb4
+A4
+G4
+=36
+G4
+A4
+Bb4
+=37
+G4
+A4
+Bb4
+=38
+G4
+A4
+Bb4
+G4
+A4
+Bb4
+=39
+G4
+D4
+!!!Begin-Modulation
+*G:
+=40:|!|:
+*>D
+*k[f#]
+!LO:TX:a:i:t=G-major
+B4
+D5
+C5
+=41
+B4
+D5
+C5
+=42
+B4
+D5
+C5
+B4
+D5
+C5
+=43
+B4
+D5
+=44
+D5
+C5
+C5
+B4
+B4
+D5
+=45
+D5
+C5
+C5
+B4
+B4
+D5
+=46
+D5
+C5
+C5
+B4
+B4
+A4
+A4
+G4
+*>D1
+=47
+A4
+B4
+G4
+G4
+D4
+G4
+A4
+*>D
+*k[f#]
+!LO:TX:a:i:t=G-major
+B4
+D5
+C5
+=41
+B4
+D5
+C5
+=42
+B4
+D5
+C5
+B4
+D5
+C5
+=43
+B4
+D5
+=44
+D5
+C5
+C5
+B4
+B4
+D5
+=45
+D5
+C5
+C5
+B4
+B4
+D5
+=46
+D5
+C5
+C5
+B4
+B4
+A4
+A4
+G4
+*>D2
+=48:|!
+A4
+B4
+G4
+D5
+*>E
+=49!|:
+F5
+E5
+D5
+C5
+B4
+=50
+A4
+B4
+C5
+A4
+B4
+=51
+F5
+E5
+D5
+C5
+B4
+=52
+A4
+B4
+C5
+A4
+G4
+!!!End-Modulation
+!!!Begin-Modulation
+*-
+!!!OTL: 115. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Altered Dorian
+!!!Listening/dance:	dance
+!!!:	*G:
+!!!One_Mode:	no
+**pitch
+*thru
+*part1
+*staff1
+*clefG2
+*k[b-]
+*G:
+=22||
+*>C
+*k[f#]
+!LO:TX:a:i:t=G-major
+B4
+D5
+=23
+D5
+C5
+C5
+B4
+D5
+=24
+B4
+D5
+=25
+D5
+C5
+C5
+B4
+B4
+A4
+G4
+=26
+B4
+D5
+=27
+D5
+C5
+C5
+B4
+D5
+!!!End-Modulation
+*-
+!!!OTL: 116. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Altered Dorian
+!!!Listening/dance:	dance
+!!!:	*G:
+!!!One_Mode:	no
+**pitch
+*thru
+*part1
+*staff1
+*clefG2
+*k[b-]
+*G:
+=18!|:
+*>C
+*k[f#]
+!LO:TX:a:i:t=G-major
+!LO:TX:a:t="Segno"
+B4
+G4
+B4
+D5
+C5
+B4
+=19
+B4
+G4
+B4
+D5
+C5
+B4
+=20
+B4
+C5
+D5
+E5
+F5
+E5
+D5
+C#5
+=21
+D5
+r
+G5
+=22
+B4
+G4
+B4
+D5
+C5
+B4
+=23
+D5
+r
+C#5
+D5
+!!!End-Modulation
+*-
+!!!OTL: 117. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Altered Dorian
+!!!Listening/dance:	dance
+!!!:	*G:
+!!!One_Mode:	no
+**pitch
+*thru
+*part1
+*staff1
+*clefG2
+*k[b-]
+*G:
+=10!|:
+*k[f#]
+*>B
+!LO:TX:a:i:t=G-major
+!LO:TX:a:t="Segno"
+F#5
+G5
+F#5
+G5
+E5
+D5
+C5
+=11
+B4
+D5
+B4
+D5
+B4
+A4
+G4
+=12
+A4
+B4
+C5
+D5
+B4
+G4
+A4
+F#4
+*>B1
+=13
+G4
+G5
+*>B
+!LO:TX:a:i:t=G-major
+!LO:TX:a:t="Segno"
+F#5
+G5
+F#5
+G5
+E5
+D5
+C5
+=11
+B4
+D5
+B4
+D5
+B4
+A4
+G4
+=12
+A4
+B4
+C5
+D5
+B4
+G4
+A4
+F#4
+*>B2
+=14:|!
+!LO:TX:b:Bi:t=Fine
+G4
+!!!End-Modulation
+*-
+!!!OTL: 118. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Altered Dorian
+!!!Listening/dance:	dance
+!!!One_Mode:	no
+**pitch
+*thru
+*part1
+*staff1
+*clefG2
+*k[b-]
+*G:
+*>B
+!LO:TX:a:i:t=G-major
+B4
+B4
+G4
+B4
+C5
+D5
+C5
+=10
+B4
+B4
+G4
+B4
+C5
+D5
+C5
+=11
+B4
+C5
+D5
+E5
+F5
+E5
+D5
+C#5
+=12
+D5
+=13
+B4
+G4
+B4
+G4
+B4
+G4
+B4
+G4
+=14
+F5
+E5
+D5
+C#5
+D5
+=15
+B4
+C5
+D5
+E5
+F5
+E5
+D5
+C#5
+=16
+D5
+!!!End-Modulation
+*-
+!!!OTL: 119. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Altered Dorian
+!!!Listening/dance:	dance
+!!!:	*G:
+!!!One_Mode:	no
+**pitch
+*thru
+*part1
+*staff1
+*clefG2
+*k[b-]
+*G:
+=14!|:
+*>C
+*k[f#]
+!LO:TX:a:i:t=G-major
+B4
+=15
+B4
+=16
+C5
+B4
+C5
+B4
+=17
+B4
+B4
+D5
+=18
+D5
+C5
+C5
+B4
+B4
+D5
+=19
+D5
+C5
+C5
+B4
+B4
+D5
+=20
+D5
+C5
+C5
+B4
+B4
+A4
+A4
+G4
+*>C1
+=21
+A4
+B4
+G4
+D4
+G4
+A4
+*>C
+*k[f#]
+!LO:TX:a:i:t=G-major
+B4
+=15
+B4
+=16
+C5
+B4
+C5
+B4
+=17
+B4
+B4
+D5
+=18
+D5
+C5
+C5
+B4
+B4
+D5
+=19
+D5
+C5
+C5
+B4
+B4
+D5
+=20
+D5
+C5
+C5
+B4
+B4
+A4
+A4
+G4
+*>C2
+=22:|!
+!LO:TX:b:Bi:t=Da Capo al Fine
+A4
+B4
+G4
+D4
+!!!End-Modulation
+==
+*-
+!!!OTL: 120. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Altered Dorian
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**pitch
+*thru
+*part1
+*staff1
+*clefG2
+*k[b-]
+*-
+!!!OTL: 121. Freylekhs (Karahod)
+!!!Genre:	Freylekhs (Karahod)
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	no
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 122. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 123. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	no
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 124. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	no
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 125. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 126. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Freygish
+!!!Listening/dance:	dance
+!!!:	*G:frey
+!!!One_Mode:	no
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+!!!Begin-Modulation
+*-
+!!!OTL: 127. Freylekhs
+!!!Genre:	Freylekh
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!:	*B-:
+!!!One_Mode:	no
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 128. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 129. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!:	*g:dor; *B-:
+!!!One_Mode:	no
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 130. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 131. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!:	*g:dor
+!!!One_Mode:	no
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 132. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	no
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 133. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!:	*B-:
+!!!One_Mode:	no
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+!!!Begin-Modulation
+*-
+!!!OTL: 134. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 135. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!:	*G:frey
+!!!One_Mode:	no
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 136. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	no
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 137. Vol'ner (Freylekhs)
+!!!Genre:	Vol'ner (Freylekhs)
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 138. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	no
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 139. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 140. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 141. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 142. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	no
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 143. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 144. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!:	*B-:
+!!!One_Mode:	no
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 145. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 146. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	no
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 147. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*g
+*M2/4
+*>A
+=1
+A4
+C5
+Bb4
+G4
+D4
+G4
+=2
+A4
+C5
+Bb4
+G4
+D4
+G4
+=3
+A4
+Bb4
+C5
+Bb4
+D5
+C5
+=4
+Bb4
+G4
+G5
+G4
+=5
+A4
+C5
+Bb4
+G4
+D4
+G4
+=6
+A4
+C5
+Bb4
+G4
+D4
+G4
+=7
+A4
+Bb4
+C5
+Bb4
+A4
+Bb4
+=8
+G4
+!LO:TX:b:Bi:t=Fine
+G4
+=9:|!
+*>A
+=1
+A4
+C5
+Bb4
+G4
+D4
+G4
+=2
+A4
+C5
+Bb4
+G4
+D4
+G4
+=3
+A4
+Bb4
+C5
+Bb4
+D5
+C5
+=4
+Bb4
+G4
+G5
+G4
+=5
+A4
+C5
+Bb4
+G4
+D4
+G4
+=6
+A4
+C5
+Bb4
+G4
+D4
+G4
+=7
+A4
+Bb4
+C5
+Bb4
+A4
+Bb4
+=8
+G4
+!LO:TX:b:Bi:t=Fine
+G4
+=9:|!
+*>B
+D5
+D5
+D5
+D5
+G5
+D5
+=10
+D5
+C5
+D5
+C5
+Bb4
+=11
+D5
+D5
+D5
+D5
+G5
+D5
+=12
+D5
+C5
+D5
+C5
+Bb4
+=13
+Bb4
+C5
+D5
+C5
+Bb4
+Bb4
+=14
+Eb5
+D5
+C5
+D5
+C5
+=15
+Bb4
+C5
+D5
+C5
+Bb4
+Bb4
+=16
+C5
+Bb4
+A4
+G4
+=17||
+*>C
+D5
+Eb5
+=18
+D5
+D4
+G4
+Bb4
+=19
+D5
+D5
+D5
+D5
+Eb5
+D5
+C5
+=20
+D5
+D4
+G4
+Bb4
+=21
+D5
+D5
+D5
+D5
+Eb5
+D5
+C5
+=22
+D5
+D5
+D5
+D5
+Eb5
+D5
+C5
+=23
+D5
+D5
+C5
+Bb4
+C5
+=24
+!LO:TX:b:Bi:t=Da Capo al Fine
+Bb4
+C#5
+D5
+==
+*-
+!!!OTL: 148. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	no
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 149. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	no
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 150. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Major
+!!!Listening/dance:	dance
+!!!:	*g:dor
+!!!One_Mode:	no
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[f#]
+*G:
+*M2/4
+*>A
+!LO:TX:a:i:t=G-major
+A4
+=1
+B4
+G4
+B4
+A4
+B4
+A4
+G4
+=2
+B4
+G4
+B4
+A4
+B4
+A4
+G4
+=3
+B4
+G4
+B4
+D5
+C5
+B4
+C5
+E5
+=4
+D5
+E5
+D5
+G5
+D5
+E5
+D5
+G5
+=5
+B4
+G4
+B4
+A4
+B4
+A4
+G4
+=6
+B4
+G4
+B4
+G4
+B4
+A4
+B4
+A4
+G4
+=7
+B4
+D5
+D5
+C5
+B4
+A4
+=
+!LO:TX:b:Bi:t=Fine
+G4
+r
+=8:|!
+*k[b-]
+!!!Begin-Modulation
+*-
+!!!OTL: 151. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Major
+!!!Listening/dance:	dance
+!!!:	*g:dor
+!!!One_Mode:	no
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[f#]
+*G:
+*M2/4
+*>A
+!LO:TX:a:i:t=G-major
+G4
+=1
+B4
+G4
+B4
+A4
+B4
+A4
+G4
+=2
+B4
+G4
+B4
+G4
+A4
+B4
+A4
+G4
+=3
+B4
+G4
+B4
+D5
+C5
+B4
+C5
+E5
+=4
+D5
+E5
+D5
+E5
+D5
+G5
+D5
+G5
+=5
+B4
+G4
+A4
+B4
+A4
+G4
+=6
+B4
+G4
+B4
+G4
+A4
+B4
+A4
+G4
+=7
+B4
+D5
+D5
+C5
+B4
+A4
+=
+!LO:TX:b:Bi:t=Fine
+G4
+r
+*>A
+!LO:TX:a:i:t=G-major
+G4
+=1
+B4
+G4
+B4
+A4
+B4
+A4
+G4
+=2
+B4
+G4
+B4
+G4
+A4
+B4
+A4
+G4
+=3
+B4
+G4
+B4
+D5
+C5
+B4
+C5
+E5
+=4
+D5
+E5
+D5
+E5
+D5
+G5
+D5
+G5
+=5
+B4
+G4
+A4
+B4
+A4
+G4
+=6
+B4
+G4
+B4
+G4
+A4
+B4
+A4
+G4
+=7
+B4
+D5
+D5
+C5
+B4
+A4
+=
+!LO:TX:b:Bi:t=Fine
+G4
+r
+*>fanfare
+=8:|!
+*k[b-]
+D5
+!!!Begin-Modulation
+*-
+!!!OTL: 152. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Major
+!!!Listening/dance:	dance
+!!!:	*g:dor
+!!!One_Mode:	no
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[f#]
+*G:
+*M2/4
+*>A
+=1
+!LO:TX:a:i:t=G-major
+D4
+G4
+A4
+B4
+B4
+=2
+B4
+D5
+C5
+C5
+B4
+=3
+B4
+D5
+C5
+C5
+B4
+A4
+=4
+A4
+D5
+B4
+=5
+D4
+G4
+A4
+B4
+B4
+=6
+B4
+D5
+C5
+C5
+B4
+=7
+B4
+D5
+C5
+B4
+A4
+G4
+*>A1
+=8
+A4
+B4
+G4
+*>A
+=1
+!LO:TX:a:i:t=G-major
+D4
+G4
+A4
+B4
+B4
+=2
+B4
+D5
+C5
+C5
+B4
+=3
+B4
+D5
+C5
+C5
+B4
+A4
+=4
+A4
+D5
+B4
+=5
+D4
+G4
+A4
+B4
+B4
+=6
+B4
+D5
+C5
+C5
+B4
+=7
+B4
+D5
+C5
+B4
+A4
+G4
+*>A2
+=9:|!
+A4
+B4
+G4
+A4
+!!!Begin-Modulation
+*G:
+=18||
+*>C
+*k[f#]
+*G:
+!LO:TX:a:i:t=G-major
+C5
+B4
+A4
+B4
+A4
+G4
+=19
+A4
+G4
+F#4
+G4
+A4
+B4
+C5
+=20
+D5
+C5
+B4
+A4
+B4
+C5
+A4
+=21
+B4
+D5
+=22
+G5
+F#5
+E5
+F#5
+=23
+C5
+B4
+A4
+B4
+=24
+A4
+B4
+C5
+D5
+B4
+G4
+A4
+F#4
+=25
+G4
+==
+*-
+!!!OTL: 153. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Major
+!!!Listening/dance:	dance
+!!!:	*g:dor
+!!!One_Mode:	no
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[f#]
+*G:
+*M2/4
+*>A
+=1
+!LO:TX:a:i:t=G-major
+D4
+G4
+B4
+G4
+A4
+G4
+A4
+G4
+=2
+B4
+C5
+B4
+A4
+A4
+B4
+A4
+G4
+B4
+G4
+=3
+D4
+G4
+B4
+G4
+A4
+G4
+A4
+G4
+=4
+B4
+C5
+B4
+C5
+B4
+A4
+G4
+!!!Begin-Modulation
+*G:
+=9:|!|:
+*>B
+!LO:TX:a:i:t=G-raised-fourth
+A4
+G4
+F#4
+A4
+G4
+F4
+E4
+D4
+=6
+C#4
+D4
+E4
+D4
+C#4
+D4
+E4
+F#4
+=7
+A4
+G4
+F#4
+A4
+G4
+F4
+E4
+D4
+=8
+C#4
+D4
+A3
+Bb3
+G3
+!!!End-Modulation
+*G:
+=9:|!|:
+*>C
+!LO:TX:a:i:t=G-major
+A4
+B4
+C5
+D5
+B4
+G4
+A4
+G4
+=10
+B4
+C5
+B4
+A4
+A4
+G4
+B4
+G4
+=11
+A4
+B4
+C5
+D5
+B4
+G4
+A4
+G4
+=12
+B4
+C5
+B4
+A4
+G4
+=:|!
+*>C
+!LO:TX:a:i:t=G-major
+A4
+B4
+C5
+D5
+B4
+G4
+A4
+G4
+=10
+B4
+C5
+B4
+A4
+A4
+G4
+B4
+G4
+=11
+A4
+B4
+C5
+D5
+B4
+G4
+A4
+G4
+=12
+B4
+C5
+B4
+A4
+G4
+=:|!
+*-
+!!!OTL: 154. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Major
+!!!Listening/dance:	dance
+!!!:	*g:dor; *G:frey
+!!!One_Mode:	no
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[f#]
+*G:
+*M2/4
+*>pickup
+!LO:TX:a:i:t=G-major
+D4
+G4
+A4
+*>A
+=1!|:
+B4
+C5
+B4
+C5
+B4
+G4
+A4
+B4
+A4
+B4
+G4
+=2
+B4
+C5
+D5
+B4
+A4
+B4
+A4
+B4
+G4
+=3
+B4
+C5
+D5
+E5
+F5
+E5
+D5
+C#5
+=4
+E5
+D5
+r
+G5
+=5
+B4
+C5
+B4
+C5
+B4
+G4
+A4
+B4
+A4
+B4
+G4
+=6
+B4
+C5
+D5
+B4
+A4
+B4
+A4
+B4
+G4
+=7
+B4
+C5
+D5
+E5
+D5
+E5
+D5
+B4
+B4
+D5
+C5
+A4
+*>A1
+=8
+G4
+G4
+A4
+*>A
+=1!|:
+B4
+C5
+B4
+C5
+B4
+G4
+A4
+B4
+A4
+B4
+G4
+=2
+B4
+C5
+D5
+B4
+A4
+B4
+A4
+B4
+G4
+=3
+B4
+C5
+D5
+E5
+F5
+E5
+D5
+C#5
+=4
+E5
+D5
+r
+G5
+=5
+B4
+C5
+B4
+C5
+B4
+G4
+A4
+B4
+A4
+B4
+G4
+=6
+B4
+C5
+D5
+B4
+A4
+B4
+A4
+B4
+G4
+=7
+B4
+C5
+D5
+E5
+D5
+E5
+D5
+B4
+B4
+D5
+C5
+A4
+*>A2
+=9:|!
+!LO:TX:b:Bi:t=Fine
+G4
+!!!Begin-Modulation
+*-
+!!!OTL: 155. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Major (Mixolydian)
+!!!Listening/dance:	dance
+!!!:	*g:dor
+!!!One_Mode:	no
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[]
+*G:
+*M2/4
+*>A
+=1
+!LO:TX:a:i:t=G-major
+G4
+A4
+B4
+C5
+D5
+E5
+F5
+=2
+G5
+D5
+E5
+F5
+E5
+D5
+C5
+=3
+B4
+D5
+D5
+C5
+C5
+B4
+*>A1
+=4
+B4
+A4
+A4
+G4
+B4
+*>A
+=1
+!LO:TX:a:i:t=G-major
+G4
+A4
+B4
+C5
+D5
+E5
+F5
+=2
+G5
+D5
+E5
+F5
+E5
+D5
+C5
+=3
+B4
+D5
+D5
+C5
+C5
+B4
+*>A2
+=5:|!
+B4
+A4
+A4
+G4
+G4
+=6!|:
+*>B
+B4
+D5
+D5
+C5
+C5
+B4
+=7
+E5
+G5
+F5
+D5
+C5
+C5
+B4
+=8
+B4
+D5
+D5
+C5
+C5
+B4
+*>B1
+=9
+B4
+A4
+A4
+G4
+B4
+G4
+*>B
+B4
+D5
+D5
+C5
+C5
+B4
+=7
+E5
+G5
+F5
+D5
+C5
+C5
+B4
+=8
+B4
+D5
+D5
+C5
+C5
+B4
+*>B2
+=10:|!
+*k[]
+*G:
+=25!|:
+*>D
+*k[]
+!LO:TX:a:i:t=G-major
+B4
+C5
+D5
+E5
+F5
+E5
+D5
+C5
+=26
+B4
+G4
+B4
+G4
+F5
+E5
+D5
+C5
+=27
+B4
+C5
+D5
+E5
+F5
+E5
+D5
+C5
+=28
+D5
+G5
+G5
+G5
+G4
+=:|!
+*>D
+*k[]
+!LO:TX:a:i:t=G-major
+B4
+C5
+D5
+E5
+F5
+E5
+D5
+C5
+=26
+B4
+G4
+B4
+G4
+F5
+E5
+D5
+C5
+=27
+B4
+C5
+D5
+E5
+F5
+E5
+D5
+C5
+=28
+D5
+G5
+G5
+G5
+G4
+=:|!
+*-
+!!!OTL: 156. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Major
+!!!Listening/dance:	dance
+!!!:	*g:dor
+!!!One_Mode:	no
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[f#]
+*G:
+*M2/4
+*>A
+=1
+!LO:TX:a:i:t=G-major
+r
+D4
+G4
+A4
+=2
+B4
+D5
+C5
+B4
+C5
+B4
+A4
+=3
+B4
+A4
+=4
+B4
+A4
+G4
+=5
+r
+D5
+C5
+B4
+=6
+A4
+B4
+C5
+D5
+=7
+B4
+E5
+=8
+E5
+D5
+C#5
+D5
+=9
+r
+D4
+G4
+A4
+=10
+B4
+C5
+B4
+C5
+B4
+A4
+=11
+B4
+A4
+=12
+B4
+C5
+B4
+A4
+G4
+=13
+r
+B4
+A4
+B4
+A4
+G4
+*>A1
+=14
+F#4
+G4
+F#4
+D4
+F#4
+A4
+=15
+G4
+=16
+G5
+D5
+*>A
+=1
+!LO:TX:a:i:t=G-major
+r
+D4
+G4
+A4
+=2
+B4
+D5
+C5
+B4
+C5
+B4
+A4
+=3
+B4
+A4
+=4
+B4
+A4
+G4
+=5
+r
+D5
+C5
+B4
+=6
+A4
+B4
+C5
+D5
+=7
+B4
+E5
+=8
+E5
+D5
+C#5
+D5
+=9
+r
+D4
+G4
+A4
+=10
+B4
+C5
+B4
+C5
+B4
+A4
+=11
+B4
+A4
+=12
+B4
+C5
+B4
+A4
+G4
+=13
+r
+B4
+A4
+B4
+A4
+G4
+*>A2
+=17:|!
+F#4
+G4
+B4
+A4
+F#4
+=18
+A4
+G4
+!!!Begin-Modulation
+*G:
+=30||
+*>C
+*k[f#]
+!LO:TX:a:i:t=G-major
+D5
+B4
+=31
+D4
+G4
+B4
+G4
+=32
+A4
+B4
+A4
+G4
+B4
+G4
+=33
+D5
+C5
+D5
+C5
+B4
+A4
+=34
+A4
+B4
+A4
+G4
+B4
+G4
+=35
+D4
+G4
+B4
+C5
+B4
+G4
+=36
+A4
+B4
+A4
+G4
+B4
+G4
+=37
+D5
+C5
+D5
+C5
+B4
+A4
+=38
+G4
+D5
+=39
+G5
+F#5
+=40
+G5
+F#5
+=41
+G5
+F#5
+G5
+F#5
+=42
+G5
+F5
+E5
+D5
+=43
+D4
+G4
+B4
+G4
+=44
+A4
+G4
+B4
+G4
+=45
+D5
+C5
+D5
+C5
+B4
+A4
+=46
+A4
+B4
+A4
+G4
+B4
+r
+=47
+r
+D4
+G4
+B4
+G4
+=48
+A4
+G4
+B4
+G4
+=49
+B4
+D5
+C5
+B4
+C5
+B4
+A4
+=50
+!LO:TX:b:Bi:t=D.C.
+G4
+==
+*-
+!!!OTL: 157. Hopke
+!!!Genre:	Hopke
+!!!Mode:	Major
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[f#]
+*G:
+*M2/4
+*>A
+=1
+B4
+G4
+G4
+=2
+A4
+B4
+C5
+=3
+B4
+C5
+B4
+A4
+G4
+=4
+D5
+r
+D5
+C5
+=5
+B4
+G4
+G4
+=6
+A4
+B4
+C5
+=7
+B4
+C5
+B4
+A4
+D5
+=8
+G4
+G4
+=9:|!|:
+*>A
+=1
+B4
+G4
+G4
+=2
+A4
+B4
+C5
+=3
+B4
+C5
+B4
+A4
+G4
+=4
+D5
+r
+D5
+C5
+=5
+B4
+G4
+G4
+=6
+A4
+B4
+C5
+=7
+B4
+C5
+B4
+A4
+D5
+=8
+G4
+G4
+=9:|!|:
+*>B
+B4
+C5
+D5
+D5
+=10
+D#5
+E5
+E5
+C5
+=11
+B4
+C5
+B4
+A4
+G4
+=12
+D5
+r
+D5
+C5
+=13
+B4
+C5
+D5
+D5
+=14
+D#5
+E5
+E5
+C5
+=15
+B4
+C5
+B4
+A4
+A4
+=16
+G4
+G4
+=:|!
+*>B
+B4
+C5
+D5
+D5
+=10
+D#5
+E5
+E5
+C5
+=11
+B4
+C5
+B4
+A4
+G4
+=12
+D5
+r
+D5
+C5
+=13
+B4
+C5
+D5
+D5
+=14
+D#5
+E5
+E5
+C5
+=15
+B4
+C5
+B4
+A4
+A4
+=16
+G4
+G4
+=:|!
+*-
+!!!OTL: 158. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Major
+!!!Listening/dance:	dance
+!!!One_Mode:	no
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[f#]
+*G:
+*M2/4
+*>A
+=1
+!LO:TX:a:i:t=G-major
+B4
+G4
+=2
+B4
+G4
+=3
+B4
+G4
+B4
+G4
+=4
+B4
+G4
+B4
+=5
+D5
+C5
+B4
+A4
+B4
+G4
+=6
+D5
+C5
+B4
+A4
+B4
+G4
+=7
+D5
+C5
+B4
+A4
+B4
+C5
+D5
+E5
+=8
+D5
+C5
+B4
+A4
+B4
+G4
+=9||
+!LO:TX:a:t="Segno"
+*>B
+r
+G4
+B4
+D5
+=10
+C5
+B4
+A4
+C5
+B4
+=11
+r
+G4
+B4
+D5
+=12
+C5
+A4
+G4
+=13
+r
+G4
+B4
+D5
+=14
+C5
+B4
+A4
+B4
+=15
+r
+G4
+B4
+D5
+=16
+C5
+A4
+!LO:TX:b:Bi:t=Fine
+G4
+!!!Begin-Modulation
+*-
+!!!OTL: 159. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Major
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[f#]
+*G:
+*M2/4
+*>A
+=1
+D5
+F#5
+E5
+D5
+C5
+=2
+F#5
+E5
+D5
+C5
+C5
+B4
+A4
+G4
+=3
+A4
+B4
+C5
+D5
+B4
+=4
+B4
+A4
+A4
+G4
+B4
+=5
+D5
+E5
+D5
+C5
+=6
+E5
+D5
+C5
+B4
+A4
+G4
+=7
+A4
+B4
+C5
+D5
+B4
+=8
+C5
+B4
+A4
+A4
+F#4
+G4
+=9:|!|:
+*>A
+=1
+D5
+F#5
+E5
+D5
+C5
+=2
+F#5
+E5
+D5
+C5
+C5
+B4
+A4
+G4
+=3
+A4
+B4
+C5
+D5
+B4
+=4
+B4
+A4
+A4
+G4
+B4
+=5
+D5
+E5
+D5
+C5
+=6
+E5
+D5
+C5
+B4
+A4
+G4
+=7
+A4
+B4
+C5
+D5
+B4
+=8
+C5
+B4
+A4
+A4
+F#4
+G4
+=9:|!|:
+*>B
+A4
+B4
+C5
+D5
+B4
+=10
+B4
+A4
+A4
+G4
+B4
+=11
+A4
+B4
+C5
+D5
+B4
+=12
+B4
+A4
+A4
+F#4
+G4
+=13:|!|:
+*>B
+A4
+B4
+C5
+D5
+B4
+=10
+B4
+A4
+A4
+G4
+B4
+=11
+A4
+B4
+C5
+D5
+B4
+=12
+B4
+A4
+A4
+F#4
+G4
+=13:|!|:
+*>C
+D4
+G4
+B4
+B4
+A4
+A4
+G4
+=14
+B4
+A4
+A4
+G4
+B4
+=15
+A4
+B4
+C5
+D5
+B4
+=16
+B4
+A4
+A4
+G4
+D5
+D4
+=17
+G4
+B4
+B4
+A4
+A4
+G4
+=18
+B4
+A4
+A4
+G4
+B4
+=19
+A4
+B4
+C5
+D5
+B4
+=20
+B4
+A4
+A4
+F#4
+G4
+==:|!
+*>C
+D4
+G4
+B4
+B4
+A4
+A4
+G4
+=14
+B4
+A4
+A4
+G4
+B4
+=15
+A4
+B4
+C5
+D5
+B4
+=16
+B4
+A4
+A4
+G4
+D5
+D4
+=17
+G4
+B4
+B4
+A4
+A4
+G4
+=18
+B4
+A4
+A4
+G4
+B4
+=19
+A4
+B4
+C5
+D5
+B4
+=20
+B4
+A4
+A4
+F#4
+G4
+==:|!
+*-
+!!!OTL: 160. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Major
+!!!Listening/dance:	dance
+!!!One_Mode:	no
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[f#]
+*G:
+*M2/4
+*>A
+=1
+!LO:TX:a:i:t=G-major
+D4
+G4
+A4
+B4
+=2
+A4
+B4
+A4
+=3
+D4
+G4
+A4
+B4
+=4
+A4
+B4
+A4
+=5
+G4
+A4
+B4
+C5
+=6
+D5
+B4
+C5
+A4
+=7
+B4
+G4
+A4
+F#4
+*>A1
+=8
+D5
+D5
+B4
+*>A
+=1
+!LO:TX:a:i:t=G-major
+D4
+G4
+A4
+B4
+=2
+A4
+B4
+A4
+=3
+D4
+G4
+A4
+B4
+=4
+A4
+B4
+A4
+=5
+G4
+A4
+B4
+C5
+=6
+D5
+B4
+C5
+A4
+=7
+B4
+G4
+A4
+F#4
+*>A2
+=9:|!
+G4
+r
+=10!|:
+!!!Begin-Modulation
+*G:
+=19!|:
+*>C
+!LO:TX:a:i:t=G-major
+D5
+=20
+D5
+=21
+D5
+B4
+C5
+C5
+=22
+B4
+=23
+B4
+G4
+A4
+A4
+=24
+G4
+=25
+G4
+D4
+E4
+E4
+=26
+D4
+=27
+D4
+E4
+F#4
+G4
+*>C1
+=28
+A4
+B4
+C5
+B4
+A4
+=29
+B4
+=30
+D5
+*>C
+!LO:TX:a:i:t=G-major
+D5
+=20
+D5
+=21
+D5
+B4
+C5
+C5
+=22
+B4
+=23
+B4
+G4
+A4
+A4
+=24
+G4
+=25
+G4
+D4
+E4
+E4
+=26
+D4
+=27
+D4
+E4
+F#4
+G4
+*>C2
+=31:|!
+A4
+B4
+C5
+A4
+=32
+A4
+=33
+!LO:TX:b:Bi:t=Dal Segno al Fine
+G4
+r
+==
+*-
+!!!OTL: 161. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Major
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[f#]
+*G:
+*M2/4
+*>A
+=1
+G4
+B4
+C5
+D5
+D5
+=2
+D5
+C5
+D5
+C5
+B4
+D5
+D5
+=3
+G4
+B4
+C5
+D5
+D5
+=4
+D5
+C5
+C5
+B4
+D5
+=5:|!|:
+*>A
+=1
+G4
+B4
+C5
+D5
+D5
+=2
+D5
+C5
+D5
+C5
+B4
+D5
+D5
+=3
+G4
+B4
+C5
+D5
+D5
+=4
+D5
+C5
+C5
+B4
+D5
+=5:|!|:
+*>B
+C5
+B4
+C5
+B4
+=6
+D5
+C5
+B4
+A4
+B4
+G4
+=7
+A4
+A4
+A4
+C5
+B4
+A4
+*>B1
+=8
+G4
+B4
+D5
+*>B
+C5
+B4
+C5
+B4
+=6
+D5
+C5
+B4
+A4
+B4
+G4
+=7
+A4
+A4
+A4
+C5
+B4
+A4
+*>B2
+=9:|!
+G4
+G4
+=10!|:
+*>C
+C5
+D5
+C5
+B4
+C5
+D5
+C5
+B4
+=11
+A4
+A4
+A4
+=12
+B4
+D5
+C5
+B4
+A4
+B4
+D5
+C5
+B4
+A4
+*>C1
+=13
+G4
+B4
+D5
+*>C
+C5
+D5
+C5
+B4
+C5
+D5
+C5
+B4
+=11
+A4
+A4
+A4
+=12
+B4
+D5
+C5
+B4
+A4
+B4
+D5
+C5
+B4
+A4
+*>C2
+=14:|!
+G4
+G3
+==
+*-
+!!!OTL: 162. Hopke
+!!!Genre:	Hopke
+!!!Mode:	Major
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[f#]
+*G:
+*M2/4
+*>A
+=1
+G4
+D4
+F#4
+D4
+=2
+E4
+D4
+D4
+=3
+E4
+D4
+D4
+=4
+E4
+D4
+D4
+=5
+G4
+D4
+A4
+D4
+=6
+B4
+B4
+D4
+C5
+B4
+=7
+A4
+A4
+D4
+B4
+A4
+*>A1
+=8
+G4
+G5
+*>A
+=1
+G4
+D4
+F#4
+D4
+=2
+E4
+D4
+D4
+=3
+E4
+D4
+D4
+=4
+E4
+D4
+D4
+=5
+G4
+D4
+A4
+D4
+=6
+B4
+B4
+D4
+C5
+B4
+=7
+A4
+A4
+D4
+B4
+A4
+*>A2
+=9:|!
+G4
+!LO:TX:b:Bi:t=Fine
+G3
+r
+=10!|:
+*>B
+A4
+D4
+A4
+D4
+=11
+D4
+A4
+C5
+B4
+A4
+G4
+F#4
+G4
+B4
+=12
+A4
+D4
+A4
+D4
+A4
+D4
+A4
+D4
+=13
+A4
+C5
+B4
+A4
+G4
+=14:|!|:
+*>B
+A4
+D4
+A4
+D4
+=11
+D4
+A4
+C5
+B4
+A4
+G4
+F#4
+G4
+B4
+=12
+A4
+D4
+A4
+D4
+A4
+D4
+A4
+D4
+=13
+A4
+C5
+B4
+A4
+G4
+=14:|!|:
+*>C
+D5
+C5
+=15
+B4
+=16
+B4
+C5
+B4
+C5
+D5
+C5
+=17
+B4
+=18
+D5
+G5
+=19
+B4
+=20
+B4
+C5
+B4
+C5
+D5
+C5
+=21
+B4
+=22:|!
+*>C
+D5
+C5
+=15
+B4
+=16
+B4
+C5
+B4
+C5
+D5
+C5
+=17
+B4
+=18
+D5
+G5
+=19
+B4
+=20
+B4
+C5
+B4
+C5
+D5
+C5
+=21
+B4
+=22:|!
+*>D
+D5
+F5
+E5
+D5
+C5
+=23
+B4
+G4
+B4
+D5
+C5
+B4
+C5
+A4
+=24
+B4
+C5
+D5
+E5
+F5
+E5
+D5
+C5
+=25
+B4
+G4
+B4
+D5
+C5
+B4
+C5
+A4
+=26
+G4
+A4
+B4
+G4
+A4
+B4
+C5
+A4
+=27
+B4
+C5
+D5
+B4
+C5
+D5
+E5
+C5
+=28
+D5
+A4
+D5
+C5
+=29
+B4
+C5
+!LO:TX:b:Bi:t=Da Capo al Fine
+A4
+B4
+G4
+r
+==
+*-
+!!!OTL: 163. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Major
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[f#]
+*G:
+*M2/4
+*>A
+=1
+D4
+G4
+G4
+G4
+=2
+G4
+D4
+=3
+G4
+A4
+B4
+C5
+=4
+B4
+A4
+G4
+=5
+A4
+A4
+G4
+=6
+B4
+A4
+G4
+F#4
+*>A1
+=7
+G4
+D5
+=8
+B4
+G4
+*>A
+=1
+D4
+G4
+G4
+G4
+=2
+G4
+D4
+=3
+G4
+A4
+B4
+C5
+=4
+B4
+A4
+G4
+=5
+A4
+A4
+G4
+=6
+B4
+A4
+G4
+F#4
+*>A2
+=9:|!
+G4
+=10
+!LO:TX:b:Bi:t=Fine
+G4
+r
+*>B
+G4
+=11
+B4
+B4
+=12
+C5
+C5
+=13
+B4
+G4
+A4
+B4
+=14
+A4
+A4
+G4
+=15
+B4
+B4
+=16
+C5
+D5
+C5
+B4
+A4
+=17
+B4
+C5
+=18
+D5
+r
+=19
+B4
+B4
+=20
+C5
+C5
+=21
+B4
+G4
+A4
+B4
+=22
+A4
+A4
+G4
+=23
+D5
+C5
+B4
+A4
+=24
+G4
+F#4
+E4
+F#4
+=25
+G4
+=26||
+G4
+*>C
+B4
+C5
+C#5
+=27
+D5
+=28
+D5
+=29
+D5
+D5
+=30
+D5
+D5
+=31
+B4
+C5
+D5
+C5
+B4
+=32
+B4
+C5
+D5
+D5
+=33
+D5
+B4
+E5
+D5
+=34
+B4
+r
+B4
+=35
+C5
+C5
+C5
+=36
+B4
+B4
+B4
+=37
+A4
+B4
+A4
+G4
+A4
+B4
+=38
+C5
+B4
+A4
+G4
+=39
+r
+C5
+C5
+=40
+B4
+B4
+B4
+=41
+A4
+B4
+A4
+G4
+A4
+B4
+=42
+!LO:TX:b:Bi:t=Da Capo al Fine
+G4
+D4
+==
+*-
+!!!OTL: 164. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Major
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[f#]
+*G:
+*M2/4
+*>A
+=1
+A4
+G4
+A4
+G4
+A4
+G4
+A4
+G4
+A4
+G4
+D4
+=2
+A4
+G4
+A4
+G4
+A4
+G4
+A4
+G4
+A4
+G4
+D4
+=3
+A4
+G4
+A4
+G4
+A4
+G4
+D4
+r
+A4
+G4
+A4
+G4
+A4
+G4
+D4
+r
+=4
+A4
+G4
+A4
+G4
+A4
+G4
+D4
+r
+A4
+G4
+A4
+G4
+A4
+G4
+D4
+r
+=5
+G4
+A4
+B4
+C5
+B4
+A4
+B4
+A4
+G4
+F#4
+=6
+F#4
+A4
+G4
+G4
+G4
+=7
+G4
+A4
+B4
+B4
+A4
+B4
+A4
+G4
+F#4
+=8
+F#4
+A4
+G4
+G4
+G4
+=9
+G4
+A4
+B4
+B4
+A4
+B4
+A4
+G4
+F#4
+=10
+D5
+=11
+D5
+E5
+C5
+C5
+C5
+=12
+C5
+D5
+B4
+B4
+B4
+=13
+A4
+B4
+C5
+D5
+B4
+G4
+A4
+F#4
+=
+!LO:TX:b:Bi:t=Fine
+G4
+r
+=14||
+*>B
+A#4
+=15
+C5
+B4
+A#4
+=16
+C5
+B4
+A#4
+=17
+C5
+B4
+A#4
+C5
+B4
+A#4
+C5
+=18
+B4
+A#4
+C5
+B4
+r
+=19
+B4
+G4
+A4
+B4
+C5
+B4
+C5
+A4
+=20
+A4
+B4
+B4
+B4
+B4
+=21
+B4
+G4
+A4
+B4
+C5
+B4
+C5
+A4
+=22
+A4
+C5
+B4
+G4
+G4
+G4
+=23
+B4
+G4
+A4
+B4
+C5
+B4
+C5
+B4
+=24
+A4
+=25
+A4
+E5
+D5
+C5
+B4
+G4
+A4
+F#4
+=
+G4
+r
+=26||
+*>C
+D4
+=27
+D4
+D4
+D4
+D4
+D4
+C5
+B4
+A4
+=28
+G4
+D4
+G4
+B4
+D5
+r
+=29
+D4
+D4
+D4
+D4
+D4
+C5
+B4
+A4
+=30
+G4
+F#4
+G4
+E4
+D4
+r
+=31
+D4
+D4
+D4
+D4
+D4
+C5
+B4
+A4
+=32
+G4
+D4
+G4
+B4
+D5
+=33
+D5
+E5
+D5
+C5
+B4
+G4
+A4
+F#4
+=34
+!LO:TX:b:Bi:t=Da Capo al Fine
+G4
+r
+==
+*-
+!!!OTL: 165. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Major
+!!!Listening/dance:	dance
+!!!:	*D:
+!!!One_Mode:	no
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[f#]
+*G:
+*M2/4
+*>A
+=1
+!LO:TX:a:i:t=G-major
+G4
+F#4
+G4
+B4
+A4
+G4
+F#4
+A4
+=2
+G4
+F#4
+G4
+B4
+A4
+G4
+F#4
+A4
+=3
+G4
+G5
+G5
+=4
+D5
+C5
+B4
+A4
+B4
+G4
+=5
+G4
+F#4
+G4
+B4
+A4
+G4
+F#4
+A4
+=6
+G4
+F#4
+G4
+B4
+A4
+G4
+F#4
+A4
+=7
+G4
+G5
+G5
+=8
+D5
+C5
+B4
+A4
+G4
+r
+=9:|!|:
+*>A
+=1
+!LO:TX:a:i:t=G-major
+G4
+F#4
+G4
+B4
+A4
+G4
+F#4
+A4
+=2
+G4
+F#4
+G4
+B4
+A4
+G4
+F#4
+A4
+=3
+G4
+G5
+G5
+=4
+D5
+C5
+B4
+A4
+B4
+G4
+=5
+G4
+F#4
+G4
+B4
+A4
+G4
+F#4
+A4
+=6
+G4
+F#4
+G4
+B4
+A4
+G4
+F#4
+A4
+=7
+G4
+G5
+G5
+=8
+D5
+C5
+B4
+A4
+G4
+r
+=9:|!|:
+*>B
+*k[f#c#]
+!!!Begin-Modulation
+*G:
+!LO:TX:a:i:t=G-major
+G5
+F#5
+G5
+D5
+C5
+=18
+B4
+C5
+D5
+D5
+C5
+B4
+A4
+=19
+G4
+G5
+G5
+=20
+D5
+C5
+B4
+A4
+B4
+G4
+=21
+G5
+F#5
+G5
+D5
+C5
+=22
+B4
+C5
+D5
+D5
+C5
+B4
+A4
+=23
+G4
+G5
+G5
+=24
+D5
+C5
+B4
+A4
+G4
+r
+==:|!
+*>C
+D5
+=17:|!|:
+*k[f#]
+!!!End-Modulation
+*G:
+!LO:TX:a:i:t=G-major
+G5
+F#5
+G5
+D5
+C5
+=18
+B4
+C5
+D5
+D5
+C5
+B4
+A4
+=19
+G4
+G5
+G5
+=20
+D5
+C5
+B4
+A4
+B4
+G4
+=21
+G5
+F#5
+G5
+D5
+C5
+=22
+B4
+C5
+D5
+D5
+C5
+B4
+A4
+=23
+G4
+G5
+G5
+=24
+D5
+C5
+B4
+A4
+G4
+r
+==:|!
+*-
+!!!OTL: 166. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Major
+!!!Listening/dance:	dance
+!!!:	*g:
+!!!One_Mode:	no
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[f#]
+*G:
+*M2/4
+*>A
+!LO:TX:a:i:t=G-major
+D5
+=1
+D5
+D5
+B4
+A4
+G4
+=2
+A4
+C5
+B4
+D5
+=3
+D5
+C5
+B4
+A4
+B4
+*>A1
+=4
+A4
+A4
+G4
+*>A
+!LO:TX:a:i:t=G-major
+D5
+=1
+D5
+D5
+B4
+A4
+G4
+=2
+A4
+C5
+B4
+D5
+=3
+D5
+C5
+B4
+A4
+B4
+*>A2
+=5:|!
+A4
+B4
+!LO:TX:b:Bi:t=Fine
+G4
+r
+*>B
+D4
+=6||
+*k[b-e-]
+!!!Begin-Modulation
+*-
+!!!OTL: 167. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Major
+!!!Listening/dance:	dance
+!!!:	*g:
+!!!One_Mode:	no
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[f#]
+*G:
+*M2/4
+*>A
+=1
+!LO:TX:a:i:t=G-major
+D5
+D5
+C5
+C5
+B4
+=2
+D4
+G4
+B4
+D5
+D5
+C5
+C5
+B4
+=3
+D4
+G4
+B4
+D5
+D5
+C5
+C5
+B4
+=4
+D5
+B4
+D5
+B4
+=5
+D5
+D5
+C5
+C5
+B4
+=6
+D4
+G4
+B4
+D5
+D5
+C5
+C5
+B4
+=7
+E5
+D5
+C5
+B4
+A4
+B4
+C5
+A4
+=8
+G4
+=9!|:
+*>B
+*k[b-e-]
+!!!Begin-Modulation
+*G:
+!LO:TX:a:i:t=G-major
+C5
+E5
+A4
+C5
+B4
+D5
+G4
+B4
+=14
+A4
+C5
+F#4
+A4
+G4
+B4
+D5
+B4
+=15
+C5
+E5
+A4
+C5
+B4
+D5
+G4
+B4
+=16
+A4
+C5
+F#4
+A4
+G4
+=:|!
+*>C
+*k[f#]
+!!!End-Modulation
+*G:
+!LO:TX:a:i:t=G-major
+C5
+E5
+A4
+C5
+B4
+D5
+G4
+B4
+=14
+A4
+C5
+F#4
+A4
+G4
+B4
+D5
+B4
+=15
+C5
+E5
+A4
+C5
+B4
+D5
+G4
+B4
+=16
+A4
+C5
+F#4
+A4
+G4
+=:|!
+*-
+!!!OTL: 168. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Major (Mixolydian)
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[f#]
+*G:
+*M2/4
+*>A
+D4
+=1!|:
+G4
+F#4
+D4
+=2
+G4
+F#4
+D4
+=3
+G4
+F#4
+D4
+G4
+F#4
+D4
+=4
+G4
+G4
+=5
+A4
+B4
+C5
+A4
+A4
+B4
+G4
+=6
+A4
+B4
+C5
+A4
+A4
+B4
+G4
+=7
+D5
+C#5
+Bb4
+A4
+G4
+A4
+Bb4
+=8
+G4
+D5
+=9
+D5
+C5
+C5
+B4
+B4
+A4
+G4
+=10
+A4
+B4
+C5
+D5
+B4
+A4
+G4
+=11
+A4
+B4
+C5
+D5
+B4
+A4
+G4
+F#4
+*>A1
+=12
+G4
+G5
+*>A
+D4
+=1!|:
+G4
+F#4
+D4
+=2
+G4
+F#4
+D4
+=3
+G4
+F#4
+D4
+G4
+F#4
+D4
+=4
+G4
+G4
+=5
+A4
+B4
+C5
+A4
+A4
+B4
+G4
+=6
+A4
+B4
+C5
+A4
+A4
+B4
+G4
+=7
+D5
+C#5
+Bb4
+A4
+G4
+A4
+Bb4
+=8
+G4
+D5
+=9
+D5
+C5
+C5
+B4
+B4
+A4
+G4
+=10
+A4
+B4
+C5
+D5
+B4
+A4
+G4
+=11
+A4
+B4
+C5
+D5
+B4
+A4
+G4
+F#4
+*>A2
+=13:|!
+G4
+=14||
+*>B
+!LO:TX:a:t="Segno"
+B4
+G4
+C5
+B4
+A4
+G4
+=15
+B4
+G4
+A4
+B4
+C5
+B4
+A4
+G4
+=16
+B4
+G4
+A4
+B4
+C5
+B4
+C5
+E5
+=17
+D5
+F5
+=18
+F5
+E5
+E5
+D5
+D5
+C5
+C5
+B4
+=19
+D5
+C5
+C5
+B4
+B4
+A4
+G4
+=20
+A4
+B4
+C5
+D5
+B4
+G4
+A4
+F#4
+=21
+!LO:TX:b:Bi:t=Fine
+G4
+=22!|:
+*>C
+D5
+=23
+D5
+=24
+D5
+D5
+=25
+D5
+D5
+=26
+D5
+E5
+F5
+E5
+D5
+C5
+=27
+D5
+D5
+G4
+=28
+D5
+E5
+F5
+E5
+D5
+C5
+=29
+D5
+D5
+G4
+=30
+D5
+E5
+F5
+E5
+D5
+C5
+=31
+D5
+C5
+C5
+B4
+B4
+A4
+G4
+=32
+A4
+B4
+C5
+D5
+B4
+G4
+A4
+F#4
+=33
+!LO:TX:b:Bi:t=Dal Segno al Fine
+G4
+==:!|
+*>C
+D5
+=23
+D5
+=24
+D5
+D5
+=25
+D5
+D5
+=26
+D5
+E5
+F5
+E5
+D5
+C5
+=27
+D5
+D5
+G4
+=28
+D5
+E5
+F5
+E5
+D5
+C5
+=29
+D5
+D5
+G4
+=30
+D5
+E5
+F5
+E5
+D5
+C5
+=31
+D5
+C5
+C5
+B4
+B4
+A4
+G4
+=32
+A4
+B4
+C5
+D5
+B4
+G4
+A4
+F#4
+=33
+!LO:TX:b:Bi:t=Dal Segno al Fine
+G4
+==:!|
+*-
+!!!OTL: 169. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Major (Mixolydian)
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[f#]
+*G:
+*M2/4
+*>A
+=1
+D4
+G4
+G4
+B4
+B4
+D5
+D5
+=2
+F5
+E5
+D5
+C5
+B4
+A4
+G4
+=3
+D4
+G4
+G4
+B4
+B4
+D5
+D5
+=4
+F5
+E5
+D5
+C#5
+D5
+=5
+D4
+G4
+G4
+B4
+B4
+D5
+D5
+=6
+F5
+E5
+D5
+C5
+B4
+A4
+G4
+=7
+G4
+B4
+A4
+G4
+F#4
+E4
+F#4
+*>A1
+=8
+G4
+G5
+*>A
+=1
+D4
+G4
+G4
+B4
+B4
+D5
+D5
+=2
+F5
+E5
+D5
+C5
+B4
+A4
+G4
+=3
+D4
+G4
+G4
+B4
+B4
+D5
+D5
+=4
+F5
+E5
+D5
+C#5
+D5
+=5
+D4
+G4
+G4
+B4
+B4
+D5
+D5
+=6
+F5
+E5
+D5
+C5
+B4
+A4
+G4
+=7
+G4
+B4
+A4
+G4
+F#4
+E4
+F#4
+*>A2
+=:|!
+G4
+=9||
+*>B
+D4
+=10
+D5
+D5
+C5
+B4
+C5
+=11
+D5
+D5
+C5
+B4
+C5
+=12
+D5
+C5
+B4
+C5
+D5
+C5
+B4
+C5
+=13
+D5
+C5
+B4
+C5
+D5
+=14
+D5
+C5
+B4
+C5
+D5
+E5
+F5
+E5
+=15
+D5
+C5
+C5
+B4
+B4
+A4
+A4
+G4
+=16
+D5
+C5
+B4
+C5
+D5
+E5
+F5
+E5
+=17
+D5
+G5
+=18
+D5
+C5
+B4
+C5
+D5
+E5
+F5
+E5
+=19
+D5
+C5
+C5
+B4
+B4
+A4
+A4
+G4
+=20
+G4
+B4
+A4
+G4
+F#4
+E4
+F#4
+=21
+G4
+==
+*-
+!!!OTL: 170. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Major (Mixolydian)
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[f#]
+*G:
+*M2/4
+*>A
+=1
+r
+D4
+G4
+B4
+=2
+B4
+D5
+D5
+B4
+=3
+B4
+D5
+C5
+C5
+A4
+=4
+B4
+A4
+B4
+A4
+G4
+=5
+r
+G4
+B4
+D5
+C5
+=6
+B4
+A4
+G4
+A4
+*>A1
+=7
+G4
+=8
+G5
+*>A
+=1
+r
+D4
+G4
+B4
+=2
+B4
+D5
+D5
+B4
+=3
+B4
+D5
+C5
+C5
+A4
+=4
+B4
+A4
+B4
+A4
+G4
+=5
+r
+G4
+B4
+D5
+C5
+=6
+B4
+A4
+G4
+A4
+*>A2
+=9:|!
+G4
+=10
+G3
+r
+=11||
+*>B
+C5
+A4
+A4
+A4
+=12
+A4
+C5
+=13
+B4
+A4
+G4
+G4
+=14
+G4
+=15
+D5
+E5
+=16
+F5
+E5
+F5
+E5
+D5
+=17
+G5
+B4
+B4
+B4
+=18
+C5
+B4
+=19
+D5
+C5
+D5
+C5
+B4
+=20
+B4
+A4
+B4
+A4
+G4
+=21
+r
+G4
+B4
+D5
+C5
+=22
+B4
+A4
+G4
+A4
+=23
+G4
+=24
+G3
+r
+=25||
+*>C
+D5
+E5
+F5
+=26
+D5
+E5
+D5
+C5
+B4
+=27
+r
+B4
+D5
+C5
+=28
+B4
+C5
+B4
+A4
+G4
+=29
+D5
+E5
+F5
+=30
+G5
+F5
+E5
+D5
+=31
+C#5
+E5
+D5
+=32
+G5
+F#5
+A5
+G5
+=33
+D5
+E5
+F5
+=34
+D5
+E5
+D5
+C5
+B4
+=35
+r
+B4
+D5
+C5
+=36
+B4
+C5
+B4
+A4
+G4
+=37
+r
+B4
+D5
+C5
+=38
+B4
+A4
+G4
+A4
+=39
+G4
+=40
+G3
+r
+==
+*-
+!!!OTL: 171. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Major (Mixolydian)
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[f#]
+*G:
+*M2/4
+*>A
+=1
+D5
+E5
+F5
+E5
+D5
+C5
+B4
+=2
+B4
+C5
+D5
+C5
+B4
+A4
+G4
+=3
+D5
+A5
+G5
+F5
+E5
+D5
+E5
+F5
+=4
+D5
+F#5
+G5
+=5
+D5
+E5
+F5
+E5
+D5
+C5
+B4
+=6
+B4
+C5
+D5
+C5
+B4
+A4
+G4
+=7
+A4
+D5
+C5
+B4
+G4
+A4
+F#4
+=8
+G4
+=9:|!|:
+*>A
+=1
+D5
+E5
+F5
+E5
+D5
+C5
+B4
+=2
+B4
+C5
+D5
+C5
+B4
+A4
+G4
+=3
+D5
+A5
+G5
+F5
+E5
+D5
+E5
+F5
+=4
+D5
+F#5
+G5
+=5
+D5
+E5
+F5
+E5
+D5
+C5
+B4
+=6
+B4
+C5
+D5
+C5
+B4
+A4
+G4
+=7
+A4
+D5
+C5
+B4
+G4
+A4
+F#4
+=8
+G4
+=9:|!|:
+*>B
+D5
+D5
+C5
+B4
+C5
+=10
+D5
+D5
+C5
+B4
+C5
+=11
+D5
+C5
+B4
+C5
+D5
+C5
+B4
+C5
+=12
+D5
+C5
+B4
+C5
+D5
+=13
+D5
+G4
+E5
+D5
+C5
+B4
+=14
+A4
+B4
+C5
+A4
+B4
+G4
+D5
+=15
+D5
+G4
+E5
+D5
+C5
+B4
+=16
+A4
+B4
+C5
+A4
+G4
+=17
+D5
+G4
+E5
+D5
+C5
+B4
+=18
+A4
+B4
+C5
+A4
+B4
+G4
+D5
+=19
+D5
+G4
+E5
+D5
+C5
+B4
+=20
+A4
+B4
+C5
+A4
+G4
+==:!|
+*>B
+D5
+D5
+C5
+B4
+C5
+=10
+D5
+D5
+C5
+B4
+C5
+=11
+D5
+C5
+B4
+C5
+D5
+C5
+B4
+C5
+=12
+D5
+C5
+B4
+C5
+D5
+=13
+D5
+G4
+E5
+D5
+C5
+B4
+=14
+A4
+B4
+C5
+A4
+B4
+G4
+D5
+=15
+D5
+G4
+E5
+D5
+C5
+B4
+=16
+A4
+B4
+C5
+A4
+G4
+=17
+D5
+G4
+E5
+D5
+C5
+B4
+=18
+A4
+B4
+C5
+A4
+B4
+G4
+D5
+=19
+D5
+G4
+E5
+D5
+C5
+B4
+=20
+A4
+B4
+C5
+A4
+G4
+==:!|
+*-
+!!!OTL: 172. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Major (Mixolydian)
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[f#]
+*G:
+*M2/4
+*>A
+=1
+B4
+G4
+C5
+G4
+=2
+D5
+E5
+D5
+C5
+B4
+G4
+B4
+C5
+=3
+D5
+C5
+D5
+C5
+B4
+B4
+A4
+B4
+A4
+G4
+*>A1
+=4
+G4
+F#5
+G5
+G5
+*>A
+=1
+B4
+G4
+C5
+G4
+=2
+D5
+E5
+D5
+C5
+B4
+G4
+B4
+C5
+=3
+D5
+C5
+D5
+C5
+B4
+B4
+A4
+B4
+A4
+G4
+*>A2
+=5:|!
+G4
+=6!|:
+*>B
+D5
+E5
+F5
+E5
+F5
+E5
+D5
+=7
+F5
+E5
+D5
+C5
+B4
+G4
+B4
+C5
+=8
+D5
+C5
+C5
+B4
+B4
+A4
+A4
+G4
+*>B1
+=9
+G4
+G5
+G5
+*>B
+D5
+E5
+F5
+E5
+F5
+E5
+D5
+=7
+F5
+E5
+D5
+C5
+B4
+G4
+B4
+C5
+=8
+D5
+C5
+C5
+B4
+B4
+A4
+A4
+G4
+*>B2
+=10:|!
+G4
+=11!|:
+*>C
+F#5
+G5
+G4
+F#5
+G5
+G4
+=12
+F5
+E5
+D5
+C5
+B4
+G4
+B4
+C5
+=13
+D5
+C5
+D5
+C5
+B4
+B4
+A4
+A4
+G4
+*>C1
+=14
+G4
+G5
+G5
+*>C
+F#5
+G5
+G4
+F#5
+G5
+G4
+=12
+F5
+E5
+D5
+C5
+B4
+G4
+B4
+C5
+=13
+D5
+C5
+D5
+C5
+B4
+B4
+A4
+A4
+G4
+*>C2
+=15:|!
+G4
+==
+*-
+!!!OTL: 173. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Major (Mixolydian)
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[f#]
+*G:
+*M2/4
+*>A
+=1
+D5
+B4
+D5
+B4
+=2
+D5
+B4
+A4
+G4
+=3
+A4
+B4
+D5
+C5
+B4
+A4
+=4
+A4
+C5
+B4
+B4
+=5
+D5
+B4
+D5
+B4
+=6
+D5
+B4
+A4
+G4
+=7
+A4
+B4
+D5
+C5
+B4
+A4
+=8
+G4
+=9||
+*>B
+D5
+E5
+F5
+E5
+D5
+=10
+G5
+B4
+=11
+C5
+B4
+C5
+D5
+=12
+C5
+B4
+G4
+=13
+D5
+E5
+F5
+E5
+D5
+=14
+G5
+B4
+=15
+C5
+B4
+C5
+D5
+=16
+C5
+B4
+G4
+=17
+D5
+G4
+A4
+B4
+=18
+D5
+C5
+B4
+G4
+=19
+A4
+G4
+D5
+C5
+B4
+=20
+A4
+C5
+B4
+B4
+=21
+D5
+G4
+A4
+B4
+=22
+C5
+B4
+G4
+=23
+A4
+G4
+A4
+C5
+B4
+=24
+G4
+==
+*-
+!!!OTL: 174. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Major (Mixolydian)
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[]
+*G:
+*M2/4
+*>A
+=1
+D5
+F5
+E5
+D5
+=2
+F5
+E5
+D5
+G5
+=3
+D5
+F5
+E5
+D5
+=4
+C5
+B4
+A4
+B4
+A4
+G4
+=5
+D5
+F5
+E5
+D5
+=6
+F5
+E5
+D5
+G5
+=7
+D5
+E5
+F5
+E5
+D5
+=8
+C5
+D5
+C5
+B4
+A4
+B4
+A4
+G4
+=9!|:
+*>B
+D5
+D5
+=10
+D5
+B4
+B4
+A4
+=11
+C5
+B4
+A4
+C5
+B4
+A4
+=12
+G4
+D4
+G4
+B4
+=13
+D5
+G5
+=14
+D5
+C5
+=15
+B4
+C5
+D5
+C5
+B4
+A4
+*>B1
+=16
+G4
+r
+*>B
+D5
+D5
+=10
+D5
+B4
+B4
+A4
+=11
+C5
+B4
+A4
+C5
+B4
+A4
+=12
+G4
+D4
+G4
+B4
+=13
+D5
+G5
+=14
+D5
+C5
+=15
+B4
+C5
+D5
+C5
+B4
+A4
+*>B2
+=17:|!
+G4
+G5
+==
+*-
+!!!OTL: 175. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Major
+!!!Listening/dance:	dance
+!!!:	*g:dor
+!!!One_Mode:	no
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[f#]
+*G:
+*M2/4
+*>A
+=1
+!LO:TX:a:i:t=G-major
+G4
+B4
+G4
+=2
+A4
+B4
+C5
+D5
+=3
+r
+B4
+G4
+=4
+C5
+B4
+A4
+G4
+=5
+G4
+B4
+G4
+=6
+A4
+B4
+C5
+D5
+=7
+B4
+G4
+A4
+F#4
+=8
+G4
+=9:|!
+*k[b-]
+!!!Begin-Modulation
+*-
+!!!OTL: 176. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Major
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[f#]
+*G:
+*M2/4
+*>A
+D4
+=1
+D4
+G4
+G4
+G4
+=2
+G4
+D4
+=3
+G4
+A4
+B4
+=4
+A4
+B4
+A4
+G4
+B4
+=5
+B4
+D5
+C5
+B4
+=6
+B4
+A4
+A4
+G4
+=7
+D5
+=8
+C#5
+D5
+r
+D4
+=9
+D4
+G4
+G4
+G4
+=10
+G4
+D4
+=11
+G4
+A4
+B4
+=12
+A4
+B4
+A4
+G4
+B4
+=13
+B4
+D5
+C5
+B4
+=14
+B4
+G4
+A4
+F#4
+=15
+G4
+=
+G4
+r
+=16:|!|:
+C#5
+=17
+*>A
+D4
+=1
+D4
+G4
+G4
+G4
+=2
+G4
+D4
+=3
+G4
+A4
+B4
+=4
+A4
+B4
+A4
+G4
+B4
+=5
+B4
+D5
+C5
+B4
+=6
+B4
+A4
+A4
+G4
+=7
+D5
+=8
+C#5
+D5
+r
+D4
+=9
+D4
+G4
+G4
+G4
+=10
+G4
+D4
+=11
+G4
+A4
+B4
+=12
+A4
+B4
+A4
+G4
+B4
+=13
+B4
+D5
+C5
+B4
+=14
+B4
+G4
+A4
+F#4
+=15
+G4
+=
+G4
+r
+=16:|!|:
+C#5
+=17
+*>B
+C#5
+D5
+E5
+D5
+D5
+=18
+G5
+D5
+=19
+D5
+C5
+D5
+C5
+B4
+=20
+*^
+C5	B4
+B4	.
+A4	A4
+G4	G4
+*v	*v
+=21
+B4
+D5
+C5
+B4
+=22
+B4
+A4
+A4
+G4
+=23
+D5
+=24
+D5
+r
+C#5
+=25
+C#5
+E5
+D5
+D5
+D5
+=26
+G5
+D5
+=27
+D5
+C5
+D5
+C5
+B4
+=28
+B4
+A4
+G4
+=29
+B4
+D5
+C5
+C5
+=30
+C5
+B4
+G4
+B4
+A4
+F#4
+=31
+G4
+=32
+G4
+r
+==
+*>B
+C#5
+D5
+E5
+D5
+D5
+=18
+G5
+D5
+=19
+D5
+C5
+D5
+C5
+B4
+=20
+*^
+C5	B4
+B4	.
+A4	A4
+G4	G4
+*v	*v
+=21
+B4
+D5
+C5
+B4
+=22
+B4
+A4
+A4
+G4
+=23
+D5
+=24
+D5
+r
+C#5
+=25
+C#5
+E5
+D5
+D5
+D5
+=26
+G5
+D5
+=27
+D5
+C5
+D5
+C5
+B4
+=28
+B4
+A4
+G4
+=29
+B4
+D5
+C5
+C5
+=30
+C5
+B4
+G4
+B4
+A4
+F#4
+=31
+G4
+=32
+G4
+r
+==
+*-
+!!!OTL: 177. Sher
+!!!Genre:	Sher
+!!!Mode:	Freygish
+!!!Listening/dance:	dance
+!!!One_Mode:	no
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 178. Sher
+!!!Genre:	Sher
+!!!Mode:	Freygish
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 179. Sher
+!!!Genre:	Sher
+!!!Mode:	Freygish
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 180. Sher
+!!!Genre:	Sher
+!!!Mode:	Freygish
+!!!Listening/dance:	dance
+!!!:	*C:
+!!!One_Mode:	no
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 181. Sher
+!!!Genre:	Sher
+!!!Mode:	Freygish
+!!!Listening/dance:	dance
+!!!One_Mode:	no
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 182. Sher
+!!!Genre:	Sher
+!!!Mode:	Freygish
+!!!Listening/dance:	dance
+!!!:	*c:
+!!!One_Mode:	no
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 183. Sher
+!!!Genre:	Sher
+!!!Mode:	Freygish
+!!!Listening/dance:	dance
+!!!:	*c:
+!!!One_Mode:	no
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 184. Sher
+!!!Genre:	Sher
+!!!Mode:	Altered Dorian
+!!!Listening/dance:	dance
+!!!One_Mode:	no
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-]
+*-
+!!!OTL: 185. Sher
+!!!Genre:	Sher
+!!!Mode:	Altered Dorian
+!!!Listening/dance:	dance
+!!!:	*G:
+!!!One_Mode:	no
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-]
+*G:
+!LO:TX:a:i:t=G-major
+B4
+=18
+C5
+=19
+B4
+A4
+C5
+B4
+A4
+=20
+A4
+G4
+=21
+B4
+=22
+C5
+=23
+B4
+A4
+C5
+B4
+A4
+=24
+D5
+C#5
+D5
+r
+=25
+A4
+=26
+B4
+=27
+A4
+G4
+B4
+A4
+G4
+=28
+G4
+r
+=29
+F#4
+G4
+!!!End-Modulation
+*-
+!!!OTL: 186. Sher
+!!!Genre:	Sher
+!!!Mode:	Altered Dorian
+!!!Listening/dance:	dance
+!!!One_Mode:	no
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-]
+*-
+!!!OTL: 187. Sher
+!!!Genre:	Sher
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	no
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 188. Sher
+!!!Genre:	Sher
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!:	*g:dor
+!!!One_Mode:	no
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 189. Sher
+!!!Genre:	Sher
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!:	*g:
+!!!One_Mode:	no
+**pitch
+*thru
+*I"P1
+!!pagebreak:original
+*clefG2
+*k[b-e-]
+!!!Begin-Modulation
+*-
+!!!OTL: 190. Sher
+!!!Genre:	Sher
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!:	*g:dor
+!!!One_Mode:	no
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 191. Sher
+!!!Genre:	Sher
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!:	*B-:
+!!!One_Mode:	no
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 192. Sher
+!!!Genre:	Sher
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	no
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 193. Sher
+!!!Genre:	Sher
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	no
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 194. Sher
+!!!Genre:	Sher
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	no
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 195. Sher
+!!!Genre:	Sher
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	no
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 196. Sher
+!!!Genre:	Sher
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 197. Sher
+!!!Genre:	Sher
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 198. Sher
+!!!Genre:	Sher
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 199. Sher
+!!!Genre:	Sher
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!:	*B-:
+!!!One_Mode:	no
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 200. Sher
+!!!Genre:	Sher
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 201. Sher
+!!!Genre:	Sher
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	no
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 202. Sher
+!!!Genre:	Sher
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 203. Sher
+!!!Genre:	Sher
+!!!Mode:	Major (Mixolydian)
+!!!Listening/dance:	dance
+!!!:	*g:dor
+!!!One_Mode:	no
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[f#]
+*G:
+*M2/4
+*>intro
+=1
+!LO:TX:a:i:t=G-major
+D5
+=2
+D5
+*>A
+=3!|:
+!LO:TX:a:t="Segno"
+D4
+G4
+A4
+=4
+A4
+C5
+B4
+B4
+=5
+D5
+B4
+B4
+A4
+G4
+=6
+D5
+D5
+=7
+D4
+G4
+A4
+=8
+A4
+C5
+B4
+B4
+=9
+D5
+B4
+B4
+A4
+B4
+B4
+*>A1
+=10
+G4
+*>A
+=3!|:
+!LO:TX:a:t="Segno"
+D4
+G4
+A4
+=4
+A4
+C5
+B4
+B4
+=5
+D5
+B4
+B4
+A4
+G4
+=6
+D5
+D5
+=7
+D4
+G4
+A4
+=8
+A4
+C5
+B4
+B4
+=9
+D5
+B4
+B4
+A4
+B4
+B4
+*>A2
+=:|!
+G4
+=11!|:
+*>B
+B4
+=12
+B4
+D5
+C5
+C5
+=13
+B4
+D5
+C5
+C5
+=14
+B4
+A4
+B4
+C5
+=15
+C5
+B4
+A4
+A4
+=16
+A4
+C5
+B4
+B4
+=17
+A4
+C5
+B4
+B4
+=18
+B4
+A4
+G4
+A4
+B4
+=
+A4
+G4
+=19:|!|:
+*>B
+B4
+=12
+B4
+D5
+C5
+C5
+=13
+B4
+D5
+C5
+C5
+=14
+B4
+A4
+B4
+C5
+=15
+C5
+B4
+A4
+A4
+=16
+A4
+C5
+B4
+B4
+=17
+A4
+C5
+B4
+B4
+=18
+B4
+A4
+G4
+A4
+B4
+=
+A4
+G4
+=19:|!|:
+*>C
+B4
+C5
+=20
+D5
+B4
+D5
+=21
+D5
+B4
+D5
+=22
+D5
+G5
+F#5
+E5
+*>C1
+=23
+D5
+r
+*>C
+B4
+C5
+=20
+D5
+B4
+D5
+=21
+D5
+B4
+D5
+=22
+D5
+G5
+F#5
+E5
+*>C2
+=24:|!
+D5
+r
+=25||
+*>D
+D5
+E5
+F5
+E5
+=26
+D5
+C5
+B4
+=27
+B4
+C5
+D5
+C5
+=28
+B4
+C5
+B4
+A4
+G4
+=29
+D5
+E5
+F5
+E5
+=30
+D5
+E5
+B4
+C5
+=31
+D5
+E5
+F#5
+=32
+G5
+=33
+D5
+E5
+F5
+E5
+=34
+D5
+C5
+B4
+=35
+B4
+C5
+D5
+C5
+=36
+B4
+B4
+A4
+G4
+=37
+A4
+B4
+C5
+D5
+=38
+B4
+G4
+A4
+F#4
+=39
+G4
+=40
+!LO:TX:b:Bi:t=Fine
+G4
+r
+=41||
+*>E
+*k[b-]
+*-
+!!!OTL: 204. Sher
+!!!Genre:	Sher
+!!!Mode:	Major
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[f#]
+*G:
+*M2/4
+*>A
+=1
+D4
+G4
+G4
+=2
+G4
+F#4
+E4
+F#4
+=3
+G4
+=4
+G4
+r
+=5
+G4
+B4
+B4
+=6
+B4
+A4
+G4
+A4
+=7
+B4
+=8
+B4
+r
+=9
+G4
+C5
+C5
+=10
+D5
+D5
+B4
+=11
+C5
+C5
+A4
+=12
+B4
+C5
+B4
+G4
+=13
+D5
+B4
+C5
+A4
+=14
+B4
+G4
+A4
+F#4
+=15
+G4
+=16
+G4
+r
+=17||
+*>B
+G5
+=18
+D5
+=19
+C5
+B4
+C5
+B4
+A4
+=20
+G4
+r
+G4
+G4
+=21
+B4
+C5
+=22
+D5
+Eb5
+D5
+C5
+=23
+D5
+=24
+G5
+r
+=25
+G5
+=26
+D5
+B4
+=27
+C5
+B4
+C5
+B4
+A4
+=28
+G4
+=29
+D5
+B4
+C5
+A4
+=30
+B4
+G4
+A4
+F#4
+=31
+G4
+=32
+G4
+r
+==
+*-
+!!!OTL: 205. Sher
+!!!Genre:	Sher
+!!!Mode:	Major
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[f#]
+*G:
+*M2/4
+*>A
+=1
+D5
+D5
+=2
+E5
+D5
+C5
+=3
+B4
+C5
+B4
+A4
+B4
+A4
+=4
+G4
+A4
+B4
+C5
+=5
+D5
+D5
+=6
+E5
+D5
+C5
+=7
+B4
+C5
+B4
+A4
+B4
+A4
+=8
+G4
+r
+=9:|!|:
+*>A
+=1
+D5
+D5
+=2
+E5
+D5
+C5
+=3
+B4
+C5
+B4
+A4
+B4
+A4
+=4
+G4
+A4
+B4
+C5
+=5
+D5
+D5
+=6
+E5
+D5
+C5
+=7
+B4
+C5
+B4
+A4
+B4
+A4
+=8
+G4
+r
+=9:|!|:
+*>B
+B4
+D5
+G4
+=10
+B4
+D5
+G4
+=11
+E5
+E5
+E5
+E5
+E5
+=12
+D5
+=13
+G5
+B4
+D5
+=14
+C5
+B4
+A4
+=15
+B4
+C5
+B4
+A4
+B4
+A4
+=16
+G4
+r
+=:|!
+*>B
+B4
+D5
+G4
+=10
+B4
+D5
+G4
+=11
+E5
+E5
+E5
+E5
+E5
+=12
+D5
+=13
+G5
+B4
+D5
+=14
+C5
+B4
+A4
+=15
+B4
+C5
+B4
+A4
+B4
+A4
+=16
+G4
+r
+=:|!
+*-
+!!!OTL: 206. Plyeskun
+!!!Genre:	Plyeskun
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 207. Plyeskun
+!!!Genre:	Plyeskun
+!!!Mode:	Altered Dorian
+!!!Listening/dance:	dance
+!!!:	*g:
+!!!One_Mode:	no
+**pitch
+*thru
+*staff1
+*I"P1
+=1-
+*clefG2
+*k[b-]
+*-
+!!!OTL: 208. Plyeskun
+!!!Genre:	Plyeskun
+!!!Mode:	Freygish
+!!!Listening/dance:	dance
+!!!:	*B-:
+!!!One_Mode:	no
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 209. Plyeskun
+!!!Genre:	Plyeskun
+!!!Mode:	Major
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[f#]
+*G:
+*M2/4
+*>A
+=1
+G4
+B4
+B4
+=2
+B4
+D5
+C5
+C5
+B4
+=3
+B4
+A4
+A4
+G4
+=4
+A4
+B4
+C5
+A4
+B4
+=5
+G4
+B4
+B4
+=6
+B4
+D5
+C5
+C5
+B4
+=7
+B4
+A4
+A4
+G4
+=8
+A4
+B4
+C5
+A4
+G4
+r
+=9:|!
+*>A
+=1
+G4
+B4
+B4
+=2
+B4
+D5
+C5
+C5
+B4
+=3
+B4
+A4
+A4
+G4
+=4
+A4
+B4
+C5
+A4
+B4
+=5
+G4
+B4
+B4
+=6
+B4
+D5
+C5
+C5
+B4
+=7
+B4
+A4
+A4
+G4
+=8
+A4
+B4
+C5
+A4
+G4
+r
+=9:|!
+*>B
+D5
+C5
+B4
+A4
+B4
+r
+=10
+D4
+D4
+G4
+r
+=11
+D5
+C5
+B4
+A4
+B4
+r
+=12
+D4
+D4
+G4
+r
+=13
+G4
+F#4
+E4
+A4
+=14
+G4
+=15
+G4
+F#4
+E4
+A4
+=16
+G4
+=17
+G4
+F#4
+E4
+A4
+=18
+G4
+B4
+A4
+C5
+=19
+B4
+D5
+C5
+E5
+=20
+D5
+B4
+C5
+A4
+=21
+!LO:TX:b:Bi:t=D.C.
+G4
+==
+*-
+!!!OTL: 210. Plyeskun
+!!!Genre:	Plyeskun
+!!!Mode:	Major (Mixolydian)
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[f#]
+*G:
+*M2/4
+*>A
+=1
+D4
+G4
+A4
+=2
+B4
+C5
+B4
+A4
+G4
+B4
+=3
+A4
+D4
+E4
+F#4
+=4
+G4
+B4
+A4
+G4
+F#4
+E4
+D4
+=5
+D4
+A4
+A4
+=6
+B4
+C5
+B4
+A4
+G4
+B4
+=7
+A4
+D4
+E4
+F#4
+*>A1
+=8
+G4
+D4
+*>A
+=1
+D4
+G4
+A4
+=2
+B4
+C5
+B4
+A4
+G4
+B4
+=3
+A4
+D4
+E4
+F#4
+=4
+G4
+B4
+A4
+G4
+F#4
+E4
+D4
+=5
+D4
+A4
+A4
+=6
+B4
+C5
+B4
+A4
+G4
+B4
+=7
+A4
+D4
+E4
+F#4
+*>A2
+=9:|!
+G4
+=10!|:
+*>B
+!LO:TX:a:t="Segno"
+A4
+B4
+C5
+A4
+B4
+=11
+D4
+D4
+G4
+=12
+D5
+C5
+B4
+A4
+B4
+=13
+D4
+D4
+!LO:TX:b:Bi:t=Fine
+G4
+=14:|!
+*>B
+!LO:TX:a:t="Segno"
+A4
+B4
+C5
+A4
+B4
+=11
+D4
+D4
+G4
+=12
+D5
+C5
+B4
+A4
+B4
+=13
+D4
+D4
+!LO:TX:b:Bi:t=Fine
+G4
+=14:|!
+*>C
+G4
+F#4
+E4
+A4
+=15
+D4
+=16
+G4
+F#4
+E4
+A4
+=17
+D4
+E4
+F#4
+G4
+A4
+B4
+C#5
+D5
+=18
+G4
+F#4
+E4
+A4
+=19
+D4
+D4
+=20!|:
+*>D
+D5
+=21
+C#5
+D5
+=22
+C#5
+D5
+C#5
+D5
+=23
+C#5
+D5
+C#5
+D5
+=24
+F5
+E5
+E5
+D5
+D5
+C5
+=25
+E5
+D5
+D5
+C5
+C5
+B4
+=26
+D5
+C5
+C5
+B4
+B4
+A4
+=27
+C5
+B4
+B4
+A4
+A4
+G4
+=28
+F5
+E5
+E5
+D5
+D5
+C5
+=29
+E5
+D5
+D5
+C5
+C5
+B4
+=30
+D5
+C5
+C5
+B4
+B4
+A4
+=31
+!LO:TX:b:Bi:t=Dal Segno al Fine
+C5
+B4
+B4
+A4
+A4
+G4
+==
+*>D
+D5
+=21
+C#5
+D5
+=22
+C#5
+D5
+C#5
+D5
+=23
+C#5
+D5
+C#5
+D5
+=24
+F5
+E5
+E5
+D5
+D5
+C5
+=25
+E5
+D5
+D5
+C5
+C5
+B4
+=26
+D5
+C5
+C5
+B4
+B4
+A4
+=27
+C5
+B4
+B4
+A4
+A4
+G4
+=28
+F5
+E5
+E5
+D5
+D5
+C5
+=29
+E5
+D5
+D5
+C5
+C5
+B4
+=30
+D5
+C5
+C5
+B4
+B4
+A4
+=31
+!LO:TX:b:Bi:t=Dal Segno al Fine
+C5
+B4
+B4
+A4
+A4
+G4
+==
+*-
+!!!OTL: 211. Beygele
+!!!Genre:	Beygele
+!!!Mode:	Freygish
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 212. Beygele
+!!!Genre:	Beygele
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 213. Bolgarish
+!!!Genre:	Bolgarish
+!!!Mode:	Freygish
+!!!Listening/dance:	dance
+!!!:	*C:
+!!!One_Mode:	no
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 214. Bolgarish
+!!!Genre:	Bolgarish
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 215. Bolgarish
+!!!Genre:	Bolgarish
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!:	*B-:
+!!!One_Mode:	no
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 216. Bulgar
+!!!Genre:	Bulgar
+!!!Mode:	Major
+!!!Listening/dance:	dance
+!!!:	*g:dor
+!!!One_Mode:	no
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[f#]
+*G:
+*M2/4
+*>A
+=1
+!LO:TX:a:i:t=G-major
+B4
+C5
+=2
+C5
+B4
+=3
+B4
+A4
+B4
+A4
+G4
+=4
+D5
+=5
+B4
+D5
+=6
+C5
+B4
+=7
+B4
+A4
+B4
+A4
+G4
+=8
+G4
+=9:|!|:
+*>A
+=1
+!LO:TX:a:i:t=G-major
+B4
+C5
+=2
+C5
+B4
+=3
+B4
+A4
+B4
+A4
+G4
+=4
+D5
+=5
+B4
+D5
+=6
+C5
+B4
+=7
+B4
+A4
+B4
+A4
+G4
+=8
+G4
+=9:|!|:
+*>B
+*k[b-]
+!!!Begin-Modulation
+*-
+!!!OTL: 217. Bulgar
+!!!Genre:	Bulgar
+!!!Mode:	Major
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[f#]
+*G:
+*M2/4
+*>A
+=1
+D4
+B4
+B4
+B4
+B4
+=2
+B4
+A4
+G4
+=3
+C5
+B4
+C5
+B4
+=4
+C5
+B4
+A4
+=5
+A4
+B4
+C5
+D5
+=6
+B4
+G4
+A4
+F#4
+*>A1
+=7
+G4
+B4
+=8
+D5
+*>A
+=1
+D4
+B4
+B4
+B4
+B4
+=2
+B4
+A4
+G4
+=3
+C5
+B4
+C5
+B4
+=4
+C5
+B4
+A4
+=5
+A4
+B4
+C5
+D5
+=6
+B4
+G4
+A4
+F#4
+*>A2
+=9:|!
+G4
+=10
+G4
+r
+=11!|:
+*>B
+G4
+B4
+D5
+=12
+G4
+B4
+D5
+=13
+C5
+B4
+C5
+B4
+A4
+=14
+A4
+B4
+B4
+=15
+G4
+B4
+D5
+=16
+G4
+B4
+D5
+=17
+C5
+B4
+C5
+B4
+A4
+=18
+G4
+r
+=19:|!|:
+*>B
+G4
+B4
+D5
+=12
+G4
+B4
+D5
+=13
+C5
+B4
+C5
+B4
+A4
+=14
+A4
+B4
+B4
+=15
+G4
+B4
+D5
+=16
+G4
+B4
+D5
+=17
+C5
+B4
+C5
+B4
+A4
+=18
+G4
+r
+=19:|!|:
+*>C
+B4
+C5
+C5
+C5
+=20
+C5
+B4
+C5
+B4
+A4
+=21
+A4
+=22
+A4
+=23
+A4
+B4
+C5
+D5
+=24
+B4
+G4
+A4
+F#4
+*>C1
+=25
+G4
+B4
+=26
+D5
+*>C
+B4
+C5
+C5
+C5
+=20
+C5
+B4
+C5
+B4
+A4
+=21
+A4
+=22
+A4
+=23
+A4
+B4
+C5
+D5
+=24
+B4
+G4
+A4
+F#4
+*>C2
+=27:|!
+G4
+=28
+G4
+r
+==
+*-
+!!!OTL: 218. Khosid
+!!!Genre:	Khosid
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 219. Khosid
+!!!Genre:	Khosid
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 220. Khosidl
+!!!Genre:	Khosidl
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!:	*B-:
+!!!One_Mode:	no
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+!!!Begin-Modulation
+*-
+!!!OTL: 221. Khosid
+!!!Genre:	Khosid
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	no
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 222. Khosid
+!!!Genre:	Khosid
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 223. Khosid
+!!!Genre:	Khosid
+!!!Mode:	Major
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[f#]
+*G:
+*M2/4
+*>A
+D4
+=1
+B4
+C5
+B4
+A4
+G4
+G4
+=2
+A4
+B4
+D5
+C5
+B4
+A4
+G4
+=3
+B4
+D5
+B4
+B4
+D5
+B4
+=4
+B4
+A4
+B4
+A4
+G4
+A4
+B4
+D4
+=5
+B4
+C5
+B4
+A4
+G4
+G4
+=6
+A4
+B4
+D5
+C5
+B4
+A4
+G4
+=7
+B4
+D5
+B4
+B4
+A4
+B4
+A4
+G4
+=8
+G4
+G3
+=9||
+*>B
+B4
+B4
+B4
+B4
+A4
+D5
+B4
+=10
+B4
+A4
+B4
+A4
+G4
+G4
+B4
+D4
+=11
+D4
+F#4
+F#4
+A4
+A4
+C5
+C5
+E5
+=12
+E5
+D5
+D5
+C#5
+D5
+=13
+r
+F5
+E5
+D5
+C5
+B4
+A4
+=14
+r
+E5
+D5
+C5
+B4
+A4
+G4
+=15
+F#4
+E4
+E4
+A4
+G4
+F#4
+=16
+G4
+G3
+=17||
+*>C
+D5
+E5
+F#5
+=18
+G5
+D5
+=19
+D5
+E5
+D5
+C5
+B4
+C5
+=20
+D5
+E5
+D5
+=21
+G5
+F#5
+E5
+D5
+C5
+=22
+B4
+E5
+D5
+=23
+r
+F5
+E5
+D5
+C5
+B4
+A4
+=24
+r
+E5
+D5
+C5
+B4
+A4
+G4
+=25
+F#4
+E4
+E4
+A4
+G4
+F#4
+=26
+G4
+==
+*-
+!!!OTL: 224. Khosid
+!!!Genre:	Khosid
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	no
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 225. Shtok
+!!!Genre:	Shtok
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	no
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 226. Shtok
+!!!Genre:	Shtok
+!!!Mode:	Major
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[f#]
+*G:
+*M2/4
+*>A
+D4
+=1
+B4
+C5
+=2
+D5
+E5
+D5
+C5
+B4
+=3
+C5
+A4
+A4
+=4
+D5
+r
+C#5
+D5
+C5
+=5
+B4
+B4
+C5
+C5
+=6
+D5
+E5
+D5
+C5
+B4
+=7
+C5
+A4
+A4
+=8
+G4
+=9||
+*>B
+B4
+C5
+D5
+E5
+D5
+C#5
+=10
+D5
+E5
+D5
+C#5
+D5
+B4
+=11
+C5
+A4
+A4
+=12
+D5
+r
+D5
+C5
+=13
+B4
+C5
+D5
+E5
+D5
+C#5
+=14
+D5
+E5
+D5
+C#5
+D5
+B4
+=15
+C5
+A4
+A4
+=16
+G4
+G4
+==
+*-
+!!!OTL: 227. Ange
+!!!Genre:	Ange
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!:	*G:frey
+!!!One_Mode:	no
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 228. Ange
+!!!Genre:	Ange
+!!!Mode:	Major
+!!!Listening/dance:	dance
+!!!One_Mode:	no
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[f#]
+*G:
+*M2/4
+*>A
+=1
+!LO:TX:a:i:t=G-major
+B4
+G4
+=2
+B4
+G4
+=3
+B4
+G4
+B4
+G4
+=4
+B4
+G4
+B4
+G4
+=5
+D5
+C5
+B4
+A4
+B4
+G4
+=6
+D5
+C5
+B4
+A4
+B4
+G4
+=7
+D5
+C5
+B4
+A4
+B4
+C5
+D5
+E5
+=8
+D5
+C5
+B4
+A4
+B4
+G4
+=9!|:
+*>B
+!LO:TX:a:t="Segno"
+D4
+G4
+B4
+D5
+=10
+D5
+C5
+B4
+A4
+B4
+=11
+D4
+G4
+B4
+D5
+=12
+C5
+A4
+!LO:TX:b:Bi:t=Fine
+G4
+=13:|!
+!!!Begin-Modulation
+*-
+!!!OTL: 229. Ot azoy
+!!!Genre:	Ot azoy
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!:	*G:frey
+!!!One_Mode:	no
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 230. Lomir zikh iberbetn
+!!!Genre:	Lomir zikh iberbetn
+!!!Mode:	Freygish
+!!!Listening/dance:	dance
+!!!One_Mode:	no
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 231. Broyges-tants
+!!!Genre:	Broyges-tants
+!!!Mode:	Freygish
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 232. Alter yidisher tants
+!!!Genre:	Alter yidisher tants
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 233. Shuster
+!!!Genre:	Shuster
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 234. Shuster
+!!!Genre:	Shuster
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 235. Kozatshke
+!!!Genre:	Kozatshke
+!!!Mode:	Major
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[f#]
+*G:
+*M2/4
+*>A
+=1
+D5
+E5
+F#5
+G5
+D5
+B4
+D5
+C5
+E5
+D5
+C5
+=2
+B4
+G4
+B4
+G4
+C5
+E5
+D5
+C5
+=3
+B4
+G4
+B4
+G4
+C5
+G4
+C5
+G4
+=4
+*^
+B4	r
+G4	.
+B4	.
+G4	.
+A4	A4
+D5	.
+E5	.
+F#5	.
+*v	*v
+=5
+G5
+D5
+B4
+D5
+C5
+E5
+D5
+C5
+=6
+B4
+G4
+B4
+G4
+C5
+E5
+D5
+C5
+=7
+D5
+E5
+F#5
+G5
+A5
+F#5
+D5
+F#5
+=8
+G5
+B5
+G5
+r
+=9:|!|:
+*>A
+=1
+D5
+E5
+F#5
+G5
+D5
+B4
+D5
+C5
+E5
+D5
+C5
+=2
+B4
+G4
+B4
+G4
+C5
+E5
+D5
+C5
+=3
+B4
+G4
+B4
+G4
+C5
+G4
+C5
+G4
+=4
+*^
+B4	r
+G4	.
+B4	.
+G4	.
+A4	A4
+D5	.
+E5	.
+F#5	.
+*v	*v
+=5
+G5
+D5
+B4
+D5
+C5
+E5
+D5
+C5
+=6
+B4
+G4
+B4
+G4
+C5
+E5
+D5
+C5
+=7
+D5
+E5
+F#5
+G5
+A5
+F#5
+D5
+F#5
+=8
+G5
+B5
+G5
+r
+=9:|!|:
+*>B
+A5
+F#5
+D5
+F#5
+A5
+C6
+B5
+A5
+=10
+B5
+G5
+D5
+G5
+B5
+D6
+C6
+B5
+=11
+A5
+F#5
+D5
+F#5
+A5
+C6
+B5
+A5
+=12
+A5
+F#5
+G5
+E5
+D5
+=13
+E5
+C5
+G4
+C5
+E5
+G5
+F#5
+E5
+=14
+D5
+B4
+G4
+B4
+D5
+G5
+F#5
+E5
+=15
+D5
+G5
+F#5
+E5
+D5
+C5
+B4
+A4
+=16
+G4
+B4
+G4
+r
+=:|!
+*>B
+A5
+F#5
+D5
+F#5
+A5
+C6
+B5
+A5
+=10
+B5
+G5
+D5
+G5
+B5
+D6
+C6
+B5
+=11
+A5
+F#5
+D5
+F#5
+A5
+C6
+B5
+A5
+=12
+A5
+F#5
+G5
+E5
+D5
+=13
+E5
+C5
+G4
+C5
+E5
+G5
+F#5
+E5
+=14
+D5
+B4
+G4
+B4
+D5
+G5
+F#5
+E5
+=15
+D5
+G5
+F#5
+E5
+D5
+C5
+B4
+A4
+=16
+G4
+B4
+G4
+r
+=:|!
+*-
+!!!OTL: 236. Kozatshke
+!!!Genre:	Kozatshke
+!!!Mode:	Major
+!!!Listening/dance:	dance
+!!!:	*e:
+!!!One_Mode:	no
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[f#]
+*G:
+*M2/4
+*>A
+=1
+!LO:TX:a:i:t=G-major
+D5
+G5
+D5
+B4
+D5
+A4
+C5
+=2
+B4
+D5
+G5
+D5
+B4
+D5
+A4
+C5
+=3
+B4
+D5
+G5
+F#5
+E5
+A5
+G5
+*>A1
+=4
+F#5
+D5
+E5
+F#5
+A5
+G5
+*>A
+=1
+!LO:TX:a:i:t=G-major
+D5
+G5
+D5
+B4
+D5
+A4
+C5
+=2
+B4
+D5
+G5
+D5
+B4
+D5
+A4
+C5
+=3
+B4
+D5
+G5
+F#5
+E5
+A5
+G5
+*>A2
+=5:|!
+F#5
+D5
+E5
+F#5
+G5
+B4
+!!!Begin-Modulation
+*-
+!!!OTL: 237. Kozatshke
+!!!Genre:	Kozatshke
+!!!Mode:	Major
+!!!Listening/dance:	dance
+!!!:	*e:
+!!!One_Mode:	no
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[f#]
+*G:
+*M2/4
+*[A,A1,A,A2,B,B,C,C]
+*>A
+.
+!LO:TX:a:i:t=G-major
+E5
+D5
+=1
+C#5
+D5
+G5
+D5
+B4
+D5
+C5
+A4
+=2
+G4
+G3
+B4
+D3
+=3
+B4
+A4
+G#4
+A4
+B4
+C5
+B4
+C5
+D5
+=4
+F#5
+E5
+C5
+A4
+E5
+D5
+B4
+G4
+=5
+C#5
+D5
+G5
+D5
+B4
+D5
+C5
+B4
+=6
+G4
+G3
+B4
+D3
+=7
+A4
+G#4
+A4
+B4
+C5
+B4
+C5
+D5
+*>A1
+=8
+F#5
+E5
+C5
+A4
+G4
+*>A2
+=9:|!
+F#5
+E5
+C5
+A4
+!LO:TX:b:Bi:t=Fine
+G4
+=10!|:
+*>B
+F#4
+A4
+D4
+F#4
+A4
+B4
+C5
+A4
+=11
+G4
+A4
+B4
+C5
+D5
+E5
+F#5
+G5
+=12
+A#5
+B5
+F#5
+G5
+D#5
+E5
+A4
+C5
+=13
+F#5
+E5
+C5
+A4
+F#5
+D5
+B4
+G4
+=14
+F#4
+A4
+D4
+F#4
+A4
+B4
+C5
+A4
+=15
+G4
+A4
+B4
+C5
+D5
+E5
+F#5
+G5
+=16
+A#5
+B5
+F#5
+G5
+D#5
+E5
+A4
+C5
+=17
+F#5
+E5
+C5
+A4
+G4
+!!!Begin-Modulation
+*-
+!!!OTL: 238. Kozatshke
+!!!Genre:	Kozatshke
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!:	*B-:
+!!!One_Mode:	no
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 239. Kozatshke (yidishe)
+!!!Genre:	Kozatshke (yidishe)
+!!!Mode:	Major
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[f#]
+*G:
+*M2/4
+*[A,A,B,B]
+*>A
+=1
+D5
+C#5
+D5
+C#5
+D5
+=2
+C#5
+D5
+C#5
+D5
+B4
+A4
+G4
+=3
+F#4
+G4
+A4
+B4
+C5
+D5
+E5
+F#5
+=4
+G5
+F#5
+G5
+E5
+D5
+C5
+=5
+D5
+C#5
+D5
+C#5
+D5
+=6
+C#5
+D5
+C#5
+D5
+B4
+A4
+G4
+=7
+F#4
+G4
+A4
+B4
+C5
+A4
+F#4
+A4
+=8
+G4
+B4
+G4
+r
+=9:|!|:
+*>B
+A5
+G5
+F#5
+E5
+F#5
+E5
+D5
+C5
+=10
+B4
+D5
+G4
+B4
+=11
+A4
+C5
+A4
+A4
+=12
+G4
+A4
+B4
+C5
+D5
+E5
+F#5
+G5
+=13
+A5
+G5
+F#5
+E5
+E5
+D5
+C5
+=14
+B4
+C5
+D5
+G5
+=15
+G5
+F#5
+A5
+G5
+E5
+B4
+C5
+A4
+=16
+G4
+G5
+G4
+r
+=:|!
+*-
+!!!OTL: 240. Bitshok
+!!!Genre:	Bitshok
+!!!Mode:	Major
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[f#]
+*G:
+*M2/4
+*>pickup
+D4
+*>A
+=1!|:
+*^
+G4	G3
+D4	.
+=2	=2
+G4	G3
+D4	.
+=3	=3
+G4	G3
+D4	.
+G4	G3
+D4	.
+=4	=4
+G4	G3
+D4	.
+G4	G3
+D4	.
+=5	=5
+E4	G3
+D4	.
+E4	.
+D4	.
+E4	.
+F#4	.
+*v	*v
+=6
+*^
+G4	G3
+G4	.
+F#4	.
+G4	.
+A4	.
+B4	.
+G4	.
+=7	=7
+E4	G3
+D4	.
+E4	.
+D4	.
+E4	.
+F#4	.
+=8	=8
+G4	G3
+G4	.
+F#4	.
+G4	.
+D4	.
+*v	*v
+=9:|!
+*>A
+=1!|:
+*^
+G4	G3
+D4	.
+=2	=2
+G4	G3
+D4	.
+=3	=3
+G4	G3
+D4	.
+G4	G3
+D4	.
+=4	=4
+G4	G3
+D4	.
+G4	G3
+D4	.
+=5	=5
+E4	G3
+D4	.
+E4	.
+D4	.
+E4	.
+F#4	.
+*v	*v
+=6
+*^
+G4	G3
+G4	.
+F#4	.
+G4	.
+A4	.
+B4	.
+G4	.
+=7	=7
+E4	G3
+D4	.
+E4	.
+D4	.
+E4	.
+F#4	.
+=8	=8
+G4	G3
+G4	.
+F#4	.
+G4	.
+D4	.
+*v	*v
+=9:|!
+*>B
+A4
+B4
+C5
+D5
+B4
+=10
+B4
+A4
+A4
+G4
+B4
+=11
+A4
+B4
+C5
+D5
+B4
+=12
+B4
+A4
+A4
+G4
+G4
+D4
+=13
+F5
+E5
+D5
+C5
+B4
+=14
+B4
+A4
+A4
+G4
+B4
+=15
+F5
+E5
+D5
+C5
+B4
+=16
+B4
+A4
+A4
+G4
+G4
+D4
+=17||
+*>C
+D4
+G4
+B4
+D4
+G4
+B4
+=18
+D4
+G4
+B4
+B4
+A4
+A4
+G4
+=19
+D4
+G4
+B4
+D4
+G4
+B4
+=20
+B4
+A4
+A4
+G4
+D5
+=21
+D4
+G4
+B4
+D4
+G4
+B4
+=22
+D4
+G4
+B4
+B4
+A4
+A4
+G4
+=23
+D4
+G4
+B4
+D4
+G4
+B4
+=24
+B4
+A4
+A4
+G4
+G4
+==
+*-
+!!!OTL: 241. Zhok
+!!!Genre:	Zhok
+!!!Mode:	Freygish
+!!!Listening/dance:	dance
+!!!:	*F:
+!!!One_Mode:	no
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 242. Zhok
+!!!Genre:	Zhok
+!!!Mode:	Freygish
+!!!Listening/dance:	dance
+!!!One_Mode:	no
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 243. Zhok
+!!!Genre:	Zhok
+!!!Mode:	Altered Dorian
+!!!Listening/dance:	dance
+!!!:	*B-:; *G:frey
+!!!One_Mode:	no
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-]
+*-
+!!!OTL: 244. Zhok
+!!!Genre:	Zhok
+!!!Mode:	Altered Dorian
+!!!Listening/dance:	dance
+!!!One_Mode:	no
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-]
+*-
+!!!OTL: 245. Zhok
+!!!Genre:	Zhok
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	no
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 246. Zhok
+!!!Genre:	Zhok
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!:	*B-:
+!!!One_Mode:	no
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+!!!Begin-Modulation
+*-
+!!!OTL: 247. Olandre (lyondre)
+!!!Genre:	Olandre (lyondre)
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!:	*g:dor
+!!!One_Mode:	no
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 248. Olandre (lyondre)
+!!!Genre:	Olandre (lyondre)
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!:	*B-:
+!!!One_Mode:	no
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+!!!Begin-Modulation
+*-
+!!!OTL: 249. Olandre (lyondre)
+!!!Genre:	Olandre (lyondre)
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!:	*B-:
+!!!One_Mode:	no
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+!!!Begin-Modulation
+*-
+!!!OTL: 250. Olandre (lyondre)
+!!!Genre:	Olandre (lyondre)
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	no
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 251. Volekh
+!!!Genre:	Volekh
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!:	*g:dor
+!!!One_Mode:	no
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 252. Volekh
+!!!Genre:	Volekh
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!:	*g:dor; *G:
+!!!One_Mode:	no
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*G:
+=46:|!|:
+*>D
+*k[f#]
+!LO:TX:a:i:t=G-major
+B4
+B4
+B4
+=47
+B4
+A4
+G4
+=48
+C5
+=49
+C5
+=50
+D5
+B4
+A4
+=51
+G4
+A4
+G4
+A4
+=52
+B4
+=53
+G4
+=54
+B4
+B4
+B4
+=55
+B4
+A4
+G4
+=56
+C5
+=57
+C5
+=58
+D5
+G4
+B4
+A4
+=59
+C5
+B4
+A4
+D5
+=60
+G4
+D4
+B3
+D4
+=61
+G4
+=:|!
+!!!End-Modulation
+*>D
+*k[f#]
+!LO:TX:a:i:t=G-major
+B4
+B4
+B4
+=47
+B4
+A4
+G4
+=48
+C5
+=49
+C5
+=50
+D5
+B4
+A4
+=51
+G4
+A4
+G4
+A4
+=52
+B4
+=53
+G4
+=54
+B4
+B4
+B4
+=55
+B4
+A4
+G4
+=56
+C5
+=57
+C5
+=58
+D5
+G4
+B4
+A4
+=59
+C5
+B4
+A4
+D5
+=60
+G4
+D4
+B3
+D4
+=61
+G4
+=:|!
+!!!End-Modulation
+*-
+!!!OTL: 253. Volekh
+!!!Genre:	Volekh
+!!!Mode:	Major
+!!!Listening/dance:	dance
+!!!:	*g:dor
+!!!One_Mode:	no
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[f#]
+*G:
+*M3/4
+*>pickup
+!LO:TX:a:i:t=G-major
+D4
+*>A
+=1!|:
+G4
+A4
+B4
+D5
+C5
+B4
+A4
+=2
+G4
+A4
+G4
+=3
+C#5
+D5
+C#5
+D5
+C5
+B4
+A4
+=4
+B4
+A4
+G4
+=5
+G4
+A4
+B4
+D5
+C5
+B4
+A4
+=6
+B4
+A4
+G4
+=7
+A4
+A4
+G4
+F#4
+E4
+F#4
+*>A1
+=8
+G4
+*>A
+=1!|:
+G4
+A4
+B4
+D5
+C5
+B4
+A4
+=2
+G4
+A4
+G4
+=3
+C#5
+D5
+C#5
+D5
+C5
+B4
+A4
+=4
+B4
+A4
+G4
+=5
+G4
+A4
+B4
+D5
+C5
+B4
+A4
+=6
+B4
+A4
+G4
+=7
+A4
+A4
+G4
+F#4
+E4
+F#4
+*>A2
+=9:|!
+!LO:TX:b:Bi:t=Fine
+G4
+r
+=10!|:
+*>B
+G5
+F#5
+G5
+F#5
+G5
+F#5
+E5
+=11
+D5
+B4
+=12
+D5
+C5
+A4
+D5
+C5
+B4
+A4
+=13
+B4
+G4
+=14
+G5
+F#5
+G5
+F#5
+G5
+F#5
+E5
+=15
+D5
+B4
+=16
+C5
+A4
+D5
+C5
+B4
+A4
+=17
+G4
+!!!Begin-Modulation
+*-
+!!!OTL: 254. Volekh
+!!!Genre:	Volekh
+!!!Mode:	Altered Dorian
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**pitch
+*thru
+*I"P1
+*clefG2
+*k[b-]
+*-

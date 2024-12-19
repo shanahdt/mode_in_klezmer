@@ -1,9 +1,11 @@
+!!!OTL: 129. Freylekhs
 !!!Genre:	Freylekhs
 !!!Mode:	Minor
 !!!Listening/dance:	dance
 !!!:	*g:dor; *B-:
 !!!One_Mode:	no
 **kern
+*thru
 *I"P1
 *clefG2
 *k[b-e-]
@@ -11,6 +13,7 @@
 *M2/4
 *>A
 =1
+!LO:TX:a:i:t=G-minor
 8dL
 16gL
 16gJJ
@@ -64,6 +67,7 @@
 2g
 =9||
 *>B
+!LO:TX:a:i:t=G-raised-fourth
 8gL
 16ddL
 16ddJJ
@@ -111,6 +115,7 @@
 *g:
 =31||
 *>D
+!LO:TX:a:i:t=G-minor
 8aL
 8b-
 8cc

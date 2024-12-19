@@ -1,13 +1,16 @@
+!!!OTL: 151. Freylekhs
 !!!Genre:	Freylekhs
 !!!Mode:	Major
 !!!Listening/dance:	dance
 !!!:	*g:dor
 !!!One_Mode:	no
 **kern
+*thru
 *I"P1
 *clefG2
 *k[f#]
 *g:dor
+!LO:TX:a:i:t=G-raised-fourth
 =9
 (8qff#X/
 2gg)
@@ -24,6 +27,7 @@
 4gg
 8qff#/
 4gg
+*>B
 =13!|:
 8gg
 (8qaa/
@@ -72,6 +76,7 @@
 16b-
 16a
 16gJJ
+*>B1
 =20
 16aLL
 16b-JJ
@@ -93,7 +98,58 @@
 8ggL
 8ddJ
 4gg
+*>B
+=13!|:
+8gg
+(8qaa/
+8ffnJ)
+24eeLL
+24ff
+24eeJ
+8ddJ
+=14
+8ee
+8qgg/
+4ff
+8ff
+=15
+24eeLL
+24ff
+24eeJ
+8ddJ
+8cc#XL
+8b-J
+=16
+8cc#X
+(8qee/
+4dd)
+8dd
+=17
+16cc#XLL
+16dd
+16ee
+16ddJJ
+16cc#LL
+16b-
+16a
+16gJJ
+=18
+(16.aLL
+32ccnJJk)
+4b-
+8dd
+=19
+16cc#XLL
+16dd
+16ee
+16ddJJ
+16cc#LL
+16b-
+16a
+16gJJ
+*>B2
 =25:|!
+!LO:TX:b:Bi:t=Da Capo al Fine
 (16aLL
 16b-JJ)
 4g

@@ -1,15 +1,20 @@
+!!!OTL: 237. Kozatshke
 !!!Genre:	Kozatshke
 !!!Mode:	Major
 !!!Listening/dance:	dance
 !!!:	*e:
 !!!One_Mode:	no
 **kern
+*thru
 *I"P1
 *clefG2
 *k[f#]
 *G:
 *M2/4
+*[A,A1,A,A2,B,B,C,C]
 *>A
+
+!LO:TX:a:i:t=G-major
 (16eeLL
 16ddJJ)
 =1
@@ -68,17 +73,20 @@
 16b
 16cc
 16ddJJ
+*>A1
 =8
 16ff#LL
 16ee
 16cc
 16aJJ
 8gn
+*>A2
 =9:|!
 16ff#LL
 16ee
 16cc
 16aJJ
+!LO:TX:b:Bi:t=Fine
 8g
 =10!|:
 *>B

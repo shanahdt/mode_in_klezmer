@@ -1,8 +1,10 @@
+!!!OTL: 177. Sher
 !!!Genre:	Sher
 !!!Mode:	Freygish
 !!!Listening/dance:	dance
-!!!One_Mode:	yes
+!!!One_Mode:	no
 **kern
+*thru
 *I"P1
 *clefG2
 *k[b-e-a-]
@@ -10,6 +12,7 @@
 *M2/4
 *>A
 =1
+!LO:TX:a:i:t=G-freygish
 4.g
 8a-
 =2
@@ -86,29 +89,13 @@
 =15
 2g
 =16
+!LO:TX:b:Bi:t=Fine
 4g
 4r
 =17:|!
-*>B
-8dd
-4gg
-8gg
-=18
-8ggL
-8ff
-8ee-
-8ddJ
-=19
-(16ffLL
-16ee-J)
-[8ee-J
-8ee-L]
-8ddJ
-=20
-(16ffLL
-16ee-J)
-8ee-J
-4ee-
+!!!Begin-Modulation
+*G:frey
+!LO:TX:a:i:t=G-freygish
 =21
 16ddLL
 16ee-JJ
@@ -125,22 +112,9 @@
 =24
 4dd
 4bn
-=25
-8r
-4gg
-8gg
-=26
-8ggL
-8ff
-8ee-
-8ddJ
-=27
-8ff
-4ee-
-8dd
-=28
-4cc
-4r
+!!!Begin-Modulation
+*G:frey
+!LO:TX:a:i:t=G-freygish
 =29
 8ccL
 8f
@@ -154,6 +128,7 @@
 =31
 2g
 =32
+!LO:TX:b:Bi:t=Da Capo al Fine
 2g
 ==
 *-

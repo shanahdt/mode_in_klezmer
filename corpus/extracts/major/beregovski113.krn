@@ -1,9 +1,11 @@
+!!!OTL: 113. Skotshne
 !!!Genre:	Skotshne
 !!!Mode:	Altered Dorian
 !!!Listening/dance:	dance
 !!!:	*G:
 !!!One_Mode:	no
 **kern
+*thru
 *part1
 *staff1
 *clefG2
@@ -11,6 +13,7 @@
 *G:
 =25||
 *k[f#]
+!LO:TX:a:i:t=G-major
 24bLL
 24cc
 24bJJ

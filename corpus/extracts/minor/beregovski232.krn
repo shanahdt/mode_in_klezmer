@@ -1,8 +1,10 @@
+!!!OTL: 232. Alter yidisher tants
 !!!Genre:	Alter yidisher tants
 !!!Mode:	Minor
 !!!Listening/dance:	dance
 !!!One_Mode:	yes
 **kern
+*thru
 *I"P1
 *clefG2
 *k[b-e-]
@@ -29,6 +31,7 @@
 =4
 4.dd
 8een
+*>B
 =5!|:
 8.ffL
 16eenJk
@@ -44,14 +47,32 @@
 8cc
 8b-
 8aJ
+*>B1
 =8
 4.g
 8een
+*>B
+=5!|:
+8.ffL
+16eenJk
+8ffL
+8ggJ
+=6
+8ffL
+8ee-X
+8dd
+8ccJ
+=7
+8ggL
+8cc
+8b-
+8aJ
+*>B2
 =9:|!
 4g
 4r
 =10||
-*>B
+*>C
 (16ddLL
 16ee-J
 8ddJ)
@@ -73,6 +94,7 @@
 8b-L
 8ccJ
 4dd
+*>D
 =14!|:
 4gg
 8ddL
@@ -87,16 +109,33 @@
 16b-LL
 16aJ
 8gJ
+*>D1
 =17
 8b-
 4g
 8g
+*>D
+=14!|:
+4gg
+8ddL
+16ccL
+16b-JJ
+=15
+8cc
+4b-
+8cc
+=16
+4dd
+16b-LL
+16aJ
+8gJ
+*>D2
 =18:|!
 8b-L
 8gJ
 4r
 =19||
-*>C
+*>E
 8ddL
 8gg
 8gg

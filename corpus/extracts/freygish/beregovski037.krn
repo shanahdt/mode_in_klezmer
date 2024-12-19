@@ -1,9 +1,11 @@
+!!!OTL: 37. Nign
 !!!Genre:	Nign
 !!!Mode:	Freygish
 !!!Listening/dance:	listening
 !!!:	*c:
 !!!One_Mode:	no
 **kern
+*thru
 *I"P1
 *clefG2
 *k[b-e-a-]
@@ -11,6 +13,7 @@
 *M2/4
 *>A
 =1
+!LO:TX:a:i:t=G-freygish
 16gLL
 16f
 16en
@@ -62,7 +65,6 @@
 8a-
 4g
 =8||
-*>B
 8g
-!!!Begin-Modulation
+*>B
 *-

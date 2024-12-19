@@ -1,15 +1,18 @@
+!!!OTL: 65. Gas-nign
 !!!Genre:	Gas-nign
 !!!Mode:	Freygish
 !!!Listening/dance:	listening
 !!!:	*F:
 !!!One_Mode:	no
 **kern
+*thru
 *I"P1
 *clefG2
 *k[b-e-a-]
 *G:frey
 *M3/4
 *>A
+!LO:TX:a:i:t=G-freygish
 4g
 =1
 (16qqdd/LL
@@ -114,6 +117,7 @@
 4r
 !!!Begin-Modulation
 *G:frey
+!LO:TX:a:i:t=G-freygish
 =23
 (8qcc/
 2bn)
@@ -125,6 +129,7 @@
 2.g)
 !!!Begin-Modulation
 *G:frey
+!LO:TX:a:i:t=G-freygish
 =31
 2bn
 16a-XLL

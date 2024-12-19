@@ -1,9 +1,11 @@
+!!!OTL: 207. Plyeskun
 !!!Genre:	Plyeskun
 !!!Mode:	Altered Dorian
 !!!Listening/dance:	dance
 !!!:	*g:
 !!!One_Mode:	no
 **kern
+*thru
 *staff1
 *I"P1
 =1-
@@ -12,6 +14,7 @@
 *g:dor
 *M2/4
 *>A
+!LO:TX:a:i:t=G-raised-fourth
 8.b-\L
 16dd\Jk
 (16dd\LL
@@ -34,6 +37,7 @@
 16cc#\)
 (16cc#\
 16b-\JJ)
+*>A1
 =4
 (16b-/LL
 16a/)
@@ -41,6 +45,31 @@
 16g/JJ)
 8.b-/L
 16g/Jk
+*>A
+!LO:TX:a:i:t=G-raised-fourth
+8.b-\L
+16dd\Jk
+(16dd\LL
+16cc#\)
+(16cc#\
+16b-\JJ)
+=2
+(16dd\LL
+16cc#\)
+(16cc#\
+16b-\JJ)
+(16b-/LL
+16a/)
+(16a/
+16g/JJ)
+=3
+(8.b-\L
+16dd\Jk)
+(16dd\LL
+16cc#\)
+(16cc#\
+16b-\JJ)
+*>A2
 =5:|!
 (16b-/LL
 16a/)
@@ -54,7 +83,14 @@
 *g:dor
 *k[b-e]
 =12:|!|:
+*>B
+*k[b-e-]
+!!!Begin-Modulation
+*g:dor
+*k[b-e]
+=12:|!|:
 *>C
+!LO:TX:a:i:t=G-raised-fourth
 4b-\
 16cc#\LL
 16dd\
@@ -75,6 +111,7 @@
 16dd\
 16cc#\
 16b-\JJ
+*>C1
 =15
 (16b-/LL
 16a/)
@@ -82,7 +119,31 @@
 16g/JJ)
 (8b-/L
 8g/J)
+*>C
+!LO:TX:a:i:t=G-raised-fourth
+4b-\
+16cc#\LL
+16dd\
+16cc#\
+16b-\JJ
+=13
+16cc#\LL
+16dd\
+16cc#\
+16b-\JJ
+(16b-/LL
+16a/)
+(16a/
+16g/JJ)
+=14
+4b-\
+16cc#\LL
+16dd\
+16cc#\
+16b-\JJ
+*>C2
 =16:|!
+!LO:TX:b:Bi:t=Dal Segno al Fine
 (16b-/LL
 16a/)
 (16a/

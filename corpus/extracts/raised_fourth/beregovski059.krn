@@ -1,8 +1,10 @@
+!!!OTL: 59. Skotshne
 !!!Genre:	Skotshne
 !!!Mode:	Altered Dorian
 !!!Listening/dance:	listening
 !!!One_Mode:	yes
 **kern
+*thru
 *I"P1
 *clefG2
 *k[b-]
@@ -48,10 +50,52 @@
 8gJ
 8aL
 8b-J
+*>A1
 =8
 (16aLL
 16b-JJ
 4.g)
+*>A
+=1
+8dL
+8gJ
+8dL
+8gJ
+=2
+8dL
+8gJ
+16b-LL
+16aJ
+8gJ
+=3
+16b-LL
+16aJ
+8gJ
+8aL
+8b-J
+=4
+(16cc#XLL
+16eeJJ)
+4dd
+8r
+=5
+8dL
+8gJ
+8dL
+8gJ
+=6
+8dL
+8gJ
+16b-LL
+16aJ
+8gJ
+=7
+16b-LL
+16aJ
+8gJ
+8aL
+8b-J
+*>A2
 =:|!
 (16aLL
 16b-JJ

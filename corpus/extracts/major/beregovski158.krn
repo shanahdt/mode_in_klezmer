@@ -1,8 +1,10 @@
+!!!OTL: 158. Freylekhs
 !!!Genre:	Freylekhs
 !!!Mode:	Major
 !!!Listening/dance:	dance
 !!!One_Mode:	no
 **kern
+*thru
 *I"P1
 *clefG2
 *k[f#]
@@ -10,6 +12,7 @@
 *M2/4
 *>A
 =1
+!LO:TX:a:i:t=G-major
 4.bt
 8g
 =2
@@ -55,6 +58,7 @@
 8bL
 8gJ
 =9||
+!LO:TX:a:t="Segno"
 *>B
 8r
 8g
@@ -93,6 +97,7 @@
 =16
 8ccL
 8aJ
+!LO:TX:b:Bi:t=Fine
 4g
 !!!Begin-Modulation
 *-

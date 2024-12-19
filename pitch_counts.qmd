@@ -28,7 +28,7 @@ freygish |>
 ## G Raised Fourth
 
 ```{r, echo=F, warning=FALSE, message=FALSE}
-raised <- readHumdrum('corpus/extracts/raised_four/*.krn')
+raised <- readHumdrum('corpus/extracts/raised_fourth/*.krn')
 raised |> 
     pitch(simple = FALSE) |>
     count() |> 

@@ -1,13 +1,60 @@
+!!!OTL: 209. Plyeskun
 !!!Genre:	Plyeskun
 !!!Mode:	Major
 !!!Listening/dance:	dance
 !!!One_Mode:	yes
 **kern
+*thru
 *I"P1
 *clefG2
 *k[f#]
 *G:
 *M2/4
+*>A
+=1
+8g
+4b
+8b
+=2
+(16bLL
+16ddJ
+8ccJ)
+8ccTL
+8bJ
+=3
+8btL
+8aJ
+8aL
+8gJ
+=4
+16aLL
+16b
+16cc
+16aJJ
+4b
+=5
+8g
+4b
+8b
+=6
+16bLL
+16ddJ
+8ccJ
+8ccTL
+8bJ
+=7
+8btL
+8aJ
+8aL
+8gJ
+=8
+16aLL
+16b
+16cc
+16aJJ
+8g
+8r
+=9:|!
 *>A
 =1
 8g
@@ -112,6 +159,7 @@
 8cc
 8aJ
 =21
+!LO:TX:b:Bi:t=D.C.
 2g
 ==
 *-

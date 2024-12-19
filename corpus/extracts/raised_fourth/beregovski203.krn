@@ -1,13 +1,16 @@
+!!!OTL: 203. Sher
 !!!Genre:	Sher
 !!!Mode:	Major (Mixolydian)
 !!!Listening/dance:	dance
 !!!:	*g:dor
 !!!One_Mode:	no
 **kern
+*thru
 *I"P1
 *clefG2
 *k[f#]
 *g:dor
+!LO:TX:a:i:t=G-raised-fourth
 2dd
 =42
 2dd
@@ -37,6 +40,7 @@
 8b-
 8cc#X
 8b-J
+*>E1
 =50
 16cc#XLL
 16cc#J
@@ -57,6 +61,40 @@
 .	8ddJ)
 4gg	4gg
 *v	*v
+*>E
+*k[b-]
+*g:dor
+!LO:TX:a:i:t=G-raised-fourth
+2dd
+=42
+2dd
+=43
+(8qff/
+4dd)
+4dd
+=44
+4dd
+4dd
+=45!|:
+4cc#
+4dd
+=46
+4a
+4b-
+=47
+4cc#X
+4dd
+=48
+4.g
+24b-LL
+24ccn
+24b-JJ
+=49
+8aL
+8b-
+8cc#X
+8b-J
+*>E2
 =53:|!
 8cc#XL
 8b-
@@ -64,6 +102,7 @@
 8b-J
 =54
 [2g
+!LO:TX:b:Bi:t=Dal Segno al Fine
 =55
 4g]
 4r

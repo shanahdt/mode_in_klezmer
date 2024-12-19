@@ -1,16 +1,20 @@
+!!!OTL: 253. Volekh
 !!!Genre:	Volekh
 !!!Mode:	Major
 !!!Listening/dance:	dance
 !!!:	*g:dor
 !!!One_Mode:	no
 **kern
+*thru
 *I"P1
 *clefG2
 *k[f#]
 *G:
 *M3/4
-*>A
+*>pickup
+!LO:TX:a:i:t=G-major
 4d
+*>A
 =1!|:
 8gL
 8aJ
@@ -54,9 +58,56 @@
 16f#
 16e
 16f#JJ)
+*>A1
 =8
 2.g
+*>A
+=1!|:
+8gL
+8aJ
+8bL
+(8qdd/
+8ccJ)
+8bL
+8aJ
+=2
+2g
+8aL
+8gJ
+=3
+(8qcc#X/
+4dd)
+(8qcc#/
+4dd)
+12ccnL
+12b
+12aJ
+=4
+2b
+8aL
+8gJ
+=5
+8gL
+8aJ
+8bL
+(8qdd/
+8ccJ)
+8bL
+8aJ
+=6
+2b
+8aL
+8gJ
+=7
+4a
+4a
+(16gLL
+16f#
+16e
+16f#JJ)
+*>A2
 =9:|!
+!LO:TX:b:Bi:t=Fine
 2g
 4r
 =10!|:

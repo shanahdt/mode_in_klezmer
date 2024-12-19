@@ -1,3 +1,4 @@
+!!!OTL: 25. Skotshne
 !!!Genre:	Skotshne
 !!!Mode:	Freygish
 !!!Listening/dance:	listening
@@ -5,6 +6,7 @@
 !!!One_Mode:	no
 !!!Orig_tonic: unknown
 **kern
+*thru
 *I"P1
 *clefG2
 *k[b-e-a-]
@@ -12,6 +14,7 @@
 *M2/4
 *>A
 =1
+!LO:TX:a:i:t=G-freygish
 16bnLL
 16a-J
 [8gJ
@@ -33,12 +36,39 @@
 16cc
 16b
 16a-JJ
+*>A1
 =4
 (8gL
 8ggJ)
 8.ddL
 16ccJk
+*>A
+=1
+!LO:TX:a:i:t=G-freygish
+16bnLL
+16a-J
+[8gJ
+8gL]
+24bnL
+24dd
+24ccJJ
+=2
+8bnL
+8a-
+8g
+8fJ
+=3
+16enLL
+16f
+16g
+16a-JJ
+16bnLL
+16cc
+16b
+16a-JJ
+*>A2
 =5:|!
+!LO:TX:b:Bi:t=[Fine]
 4g
 4g
 !!!Begin-Modulation

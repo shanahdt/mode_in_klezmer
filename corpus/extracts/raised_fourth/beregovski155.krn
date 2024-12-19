@@ -1,9 +1,11 @@
+!!!OTL: 155. Freylekhs
 !!!Genre:	Freylekhs
 !!!Mode:	Major (Mixolydian)
 !!!Listening/dance:	dance
 !!!:	*g:dor
 !!!One_Mode:	no
 **kern
+*thru
 *I"P1
 *clefG2
 *k[]
@@ -11,6 +13,7 @@
 =11||
 *>C
 *k[b-]
+!LO:TX:a:i:t=G-raised-fourth
 8qcc#X/
 2dd
 =12

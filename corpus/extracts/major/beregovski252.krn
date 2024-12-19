@@ -1,9 +1,11 @@
+!!!OTL: 252. Volekh
 !!!Genre:	Volekh
 !!!Mode:	Minor
 !!!Listening/dance:	dance
 !!!:	*g:dor; *G:
 !!!One_Mode:	no
 **kern
+*thru
 *I"P1
 *clefG2
 *k[b-e-]
@@ -11,6 +13,65 @@
 =46:|!|:
 *>D
 *k[f#]
+!LO:TX:a:i:t=G-major
+4b
+4b
+4b
+=47
+4b
+4a
+4g
+=48
+2.cc
+=49
+2.cc
+=50
+4dd
+4b
+4a
+=51
+4g
+4a
+8gL
+8aJ
+=52
+2.b
+=53
+2.g
+=54
+4b
+4b
+4b
+=55
+4b
+4a
+4g
+=56
+2.cc
+=57
+2.cc
+=58
+4dd
+4g
+8bL
+8aJ
+=59
+4cc
+4b
+8aL
+8ddJ
+=60
+4.g
+8dL
+8B
+8dJ
+=61
+2.g
+=:|!
+!!!End-Modulation
+*>D
+*k[f#]
+!LO:TX:a:i:t=G-major
 4b
 4b
 4b

@@ -1,17 +1,20 @@
+!!!OTL: 57. Skotshne
 !!!Genre:	Skotshne
 !!!Mode:	Altered Dorian
 !!!Listening/dance:	listening
 !!!:	*G:
 !!!One_Mode:	no
 **kern
+*thru
 *I"P1
 *clefG2
 *k[b-]
 *G:
 *>B
-8g
 !!!Begin-Modulation
 *G:
+!LO:TX:a:i:t=G-major
+8g
 =10
 4.b
 (16aLL
@@ -111,10 +114,9 @@
 !!!End-Modulation
 *G:
 *>D
+!LO:TX:a:i:t=G-major
 16dLL
 16gJJ
-!!!Begin-Modulation
-*G:
 =38
 4.b
 (16aLL
@@ -202,9 +204,10 @@
 !!!End-Modulation
 *G:
 *>F
-8d
 !!!Begin-Modulation
 *G:
+!LO:TX:a:i:t=G-major
+8d
 =74
 4g
 8bL

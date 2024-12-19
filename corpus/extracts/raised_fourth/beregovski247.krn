@@ -1,15 +1,43 @@
+!!!OTL: 247. Olandre (lyondre)
 !!!Genre:	Olandre (lyondre)
 !!!Mode:	Minor
 !!!Listening/dance:	dance
 !!!:	*g:dor
 !!!One_Mode:	no
 **kern
+*thru
 *I"P1
 *clefG2
 *k[b-e-]
 *g:dor
 =9:|!
+*>B
+!LO:TX:a:t="Segno"
+4.g
+8a
+8b-L
+8gJ
+=6
+4cc
+8b-L
+8aJ
+4b-
+=7
+4.g
+8a
+8b-L
+8gJ
+=8
+4cc
+8b-L
+8aJ
+!LO:TX:b:Bi:t=Fine
+4g
+!!!Begin-Modulation
+*g:dor
+=9:|!
 *>C
+!LO:TX:a:i:t=G-raised-fourth
 2.dd
 =10
 2.dd
@@ -35,6 +63,7 @@
 8ff
 8eeJ
 =14
+!LO:TX:b:Bi:t=Dal Segno al Fine
 8ffL
 8een
 8dd

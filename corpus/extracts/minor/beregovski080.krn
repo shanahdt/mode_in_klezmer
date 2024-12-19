@@ -1,8 +1,10 @@
+!!!OTL: 80. A gute nakht
 !!!Genre:	A gute nakht
 !!!Mode:	Minor
 !!!Listening/dance:	listening
 !!!One_Mode:	yes
 **kern
+*thru
 *I"P1
 *clefG2
 *k[b-e-]
@@ -101,10 +103,56 @@
 8gg
 8ddL
 8b-J
+*>B1
 =16
 2g
 4f
+*>B
+(4f
+4b-
+4dd)
+=10
+12ffL
+12gg
+12ffJ
+4ee-
+4dd
+=11
+12ccL
+12dd
+12ccJ
+4b-
+8aL
+8b-J
+=12
+12ccL
+12b-
+12aJ
+4.g
+8gg
+=13
+12ggL
+12ff
+12ee-J
+4dd
+8b-L
+8ddJ
+=14
+12ccL
+12dd
+12ccJ
+4b-
+12a-XL
+12g
+12a-J
+=15
+4.g
+8gg
+8ddL
+8b-J
+*>B2
 =17:|!
+!LO:TX:b:Bi:t=D.C.
 2g
 ==
 *-

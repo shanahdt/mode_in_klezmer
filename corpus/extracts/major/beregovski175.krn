@@ -1,9 +1,11 @@
+!!!OTL: 175. Freylekhs
 !!!Genre:	Freylekhs
 !!!Mode:	Major
 !!!Listening/dance:	dance
 !!!:	*g:dor
 !!!One_Mode:	no
 **kern
+*thru
 *I"P1
 *clefG2
 *k[f#]
@@ -11,6 +13,7 @@
 *M2/4
 *>A
 =1
+!LO:TX:a:i:t=G-major
 8g
 4b
 8g
@@ -45,7 +48,6 @@
 =8
 2g
 =9:|!
-*>B
 *k[b-]
 !!!Begin-Modulation
 *-

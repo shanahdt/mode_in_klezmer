@@ -1,9 +1,11 @@
+!!!OTL: 43. Skotshne
 !!!Genre:	Skotshne
 !!!Mode:	Minor
 !!!Listening/dance:	listening
 !!!:	*B-:
 !!!One_Mode:	no
 **kern
+*thru
 *I"P1
 *clefG2
 *k[b-e-]
@@ -11,6 +13,7 @@
 *M2/4
 *>A
 =1
+!LO:TX:a:i:t=G-minor
 8.gL
 16aJk
 16b-LL
@@ -26,6 +29,7 @@
 16cc
 16b-
 16aJJ
+*>A1
 =3
 8gL
 8ggJ
@@ -36,6 +40,25 @@
 8ee-J
 8dL
 8ddJ
+*>A
+=1
+!LO:TX:a:i:t=G-minor
+8.gL
+16aJk
+16b-LL
+16cc
+16b-
+16aJJ
+=2
+16gLL
+16f#X
+16g
+16aJJ
+16b-LL
+16cc
+16b-
+16aJJ
+*>A2
 =5:|!
 16gLL
 16ee-
@@ -62,6 +85,7 @@
 16a
 16b-JJ
 4a
+*>B1
 =9
 16ee-LL
 16dd
@@ -78,6 +102,20 @@
 16gJJ
 8.f#XL
 16dJk
+*>B
+16gLL
+16b-
+16a
+16gJJ
+8.f#XL
+16dJk
+=8
+16f#XLL
+16g
+16a
+16b-JJ
+4a
+*>B2
 =11:|!
 16ee-LL
 16dd
@@ -92,6 +130,8 @@
 4G
 !!!Begin-Modulation
 *g:
+!LO:TX:a:i:t=G-minor
+*>D
 =19||
 (16ddLL
 16cc#X)

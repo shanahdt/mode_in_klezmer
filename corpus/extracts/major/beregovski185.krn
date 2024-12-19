@@ -1,13 +1,16 @@
+!!!OTL: 185. Sher
 !!!Genre:	Sher
 !!!Mode:	Altered Dorian
 !!!Listening/dance:	dance
 !!!:	*G:
 !!!One_Mode:	no
 **kern
+*thru
 *I"P1
 *clefG2
 *k[b-]
 *G:
+!LO:TX:a:i:t=G-major
 2b
 =18
 2cc
@@ -51,17 +54,5 @@
 =29
 4f#
 4g
-=30
-4a
-4b-X
-=31
-8a
-[4.g
-=32
-4g]
-4r
-=33!|:
-*>C
-*k[b-]
 !!!End-Modulation
 *-

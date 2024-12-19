@@ -1,8 +1,10 @@
+!!!OTL: 250. Olandre (lyondre)
 !!!Genre:	Olandre (lyondre)
 !!!Mode:	Minor
 !!!Listening/dance:	dance
-!!!One_Mode:	yes
+!!!One_Mode:	no
 **kern
+*thru
 *I"P1
 *clefG2
 *k[b-e-]
@@ -10,6 +12,7 @@
 *M3/8
 *>A
 =1
+!LO:TX:a:i:t=G-minor
 16g'LL
 (16b-
 16dd)
@@ -41,7 +44,10 @@
 24a
 24gJJ
 =5:|!|:
+!!!Begin-Modulation
+*g:
 *>B
+!LO:TX:a:i:t=F-major
 16f'LL
 (16a
 16cc)
@@ -64,14 +70,8 @@
 (16f
 16a)
 16cc'JJ
-=8
-(16b-LL
-16aJJ)
-24b-LL
-24a
-24gJJ
-8f
-=9:|!
+*>B2
+!LO:TX:a:i:t=G-minor
 (16b-LL
 16aJJ)
 24b-LL

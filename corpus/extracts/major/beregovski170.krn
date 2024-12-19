@@ -1,8 +1,10 @@
+!!!OTL: 170. Freylekhs
 !!!Genre:	Freylekhs
 !!!Mode:	Major (Mixolydian)
 !!!Listening/dance:	dance
 !!!One_Mode:	yes
 **kern
+*thru
 *I"P1
 *clefG2
 *k[f#]
@@ -42,10 +44,46 @@
 (16aLL
 16gJ
 8aJ)
+*>A1
 =7
 2g
 =8
 2gg
+*>A
+=1
+8r
+8dL
+8g
+8bJ
+=2
+(8bL
+8dd)
+(8dd
+8bJ)
+=3
+8b
+(8qdd/
+8cc)
+8cc
+8aJ
+=4
+8.btL
+16aJk
+16bLL
+16aJ
+8gJ
+=5
+8r
+8g
+(16bLL
+16ddJ
+8ccJ)
+=6
+4b
+(16aLL
+16gJ
+8aJ)
+*>A2
 =9:|!
 2g
 =10

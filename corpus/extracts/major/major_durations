@@ -1,0 +1,12881 @@
+!!!OTL: 1. Dobriden
+!!!Genre:	Dobriden
+!!!Mode:Minor
+!!!Listening/dance:	listening
+!!!One_Mode:	yes
+!!!	ABC
+!!!Orig_tonic: D
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 2. Dobriden
+!!!Genre:	Dobriden
+!!!Mode:	Freygish
+!!!Listening/dance:	listening
+!!!One_Mode:	yes
+!!!:	AB
+!!!Orig_tonic: unkown
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 3. Dobriden
+!!!Genre:	Dobriden
+!!!Mode:	Freygish
+!!!Listening/dance:	listening
+!!!One_Mode:	no
+!!!Orig_tonic: unknown
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 4. Dobranoch
+!!!Genre:	Dobranoch
+!!!Mode:	Freygish
+!!!Listening/dance:	listening
+!!!:	*C:
+!!!One_Mode:	no
+!!!Orig_tonic: E
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 5. Dobriden
+!!!Genre:	Dobriden
+!!!Mode:	Minor
+!!!Listening/dance:	listening
+!!!One_Mode:	yes
+!!!Orig_tonic: E
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 6. Dobranoch
+!!!Genre:	Dobranoch
+!!!Mode:	Minor
+!!!Listening/dance:	listening
+!!!One_Mode:	no
+!!!Orig_tonic: C
+**dur
+*MM60
+*thru
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 7. Dobranoch
+!!!Genre:	Dobranoch
+!!!Mode:	Minor
+!!!Listening/dance:	listening
+!!!One_Mode:	no
+!!!Orig_tonic: G
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 8. Mazltov (Dobranoch)
+!!!Genre:	Mazltov (Dobranoch)
+!!!Mode:	Minor
+!!!Listening/dance:	listening
+!!!:	*B-:
+!!!One_Mode:	no
+!!!Orig_tonic: G
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 10. Dobranoch (mazltov)
+!!!Genre:	Dobranoch (mazltov)
+!!!Mode:	Altered Dorian
+!!!Listening/dance:	listening
+!!!One_Mode:	yes
+!!!Orig_tonic: C
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-]
+*-
+!!!OTL: 11. Dobranoch
+!!!Genre:	Dobranoch
+!!!Mode:	Minor
+!!!Listening/dance:	listening
+!!!One_Mode:	no
+!!!Orig_tonic: A
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 12. Dobriden
+!!!Genre:	Dobriden
+!!!Mode:	Freygish
+!!!Listening/dance:	listening
+!!!One_Mode:	no
+!!!Orig_tonic: D
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 15. Freylekhs (tsu der khupe)
+!!!Genre:	Freylekhs (tsu der khupe)
+!!!Mode:	Freygish
+!!!Listening/dance:	listening
+!!!:	*C:
+!!!One_Mode:	no
+!!!Orig_tonic: C
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 16. Freylekhs (fun der khupe)
+!!!Genre:	Freylekhs (fun der khupe)
+!!!Mode:	Minor
+!!!Listening/dance:	listening
+!!!One_Mode:	yes
+!!!Orig_tonic: G
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 19. Khtos, metric section only
+!!!Genre: Khtsos
+!!!Mode: Minor
+!!!One Mode: no
+!!!Orig_tonic: Ab
+**dur
+*MM60
+*thru
+!!pagebreak:original
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 20. Taksim, metric section only
+!!!Genre:	Taksim
+!!!Mode:	Altered Dorian
+!!!Listening/dance:	listening
+!!!One_Mode:	no
+!!!Orig_tonic: unkonwn
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-]
+*G:
+!LO:TX:a:i:t=G-major
+0.5000
+*>C
+=41!|:
+0.5000
+1.5000
+0.5000
+=42
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.5000
+=43
+1.5000
+0.5000
+=44
+0.2500
+0.2500
+0.2500
+0.2500
+0.5000
+0.2500
+0.2500
+=45
+1.5000
+0.5000
+=46
+0.2500
+0.2500
+0.2500
+0.2500
+1.0000
+!!!End-Modulation
+*-
+!!!OTL: 21. Doyne, metric section only
+!!!Genre:	Doyne
+!!!Mode:	Freygish
+!!!Listening/dance:	listening
+!!!:	*c:
+!!!One_Mode:	no
+!!!Orig_tonic: unknown
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: Doyne, metric section only
+!!!Genre:	Doyne
+!!!Mode:	Altered Dorian
+!!!Listening/dance:	listening
+!!!One_Mode:	yes
+!!!Orig_tonic: unknown
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-]
+*-
+!!!OTL: 23. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Freygish
+!!!Listening/dance:	listening
+!!!One_Mode:	yes
+!!!Orig_tonic: unknown
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 24. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Freygish
+!!!Listening/dance:	listening
+!!!One_Mode:	yes
+!!!Orig_tonic: unknown
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 25. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Freygish
+!!!Listening/dance:	listening
+!!!:	*c:; *g:
+!!!One_Mode:	no
+!!!Orig_tonic: unknown
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 26. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Freygish
+!!!Listening/dance:	listening
+!!!One_Mode:	no
+!!!Orig_tonic: A
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 27. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Freygish
+!!!Listening/dance:	listening
+!!!:	*B-:
+!!!One_Mode:	no
+!!!Orig_tonic: unknown
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 28. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Freygish
+!!!Listening/dance:	listening
+!!!:	*C:; *c:
+!!!One_Mode:	no
+!!!Orig_tonic: C
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 29. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Freygish
+!!!Listening/dance:	listening
+!!!One_Mode:	yes
+!!!Orig_tonic: G
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 30. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Freygish
+!!!Listening/dance:	listening
+!!!:	*B-:
+!!!One_Mode:	no
+!!!Orig_tonic: A
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 31. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Freygish
+!!!Listening/dance:	listening
+!!!:	*F:
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 32. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Freygish
+!!!Listening/dance:	listening
+!!!:	*C:; *c:dor
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 33. Lekhaim
+!!!Genre:	Lekhaim
+!!!Mode:	Freygish
+!!!Listening/dance:	listening
+!!!One_Mode:	yes
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 34. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Freygish
+!!!Listening/dance:	listening
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 35. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Freygish
+!!!Listening/dance:	listening
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 36 Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Freygish
+!!!Listening/dance:	listening
+!!!One_Mode:	yes
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 37. Nign
+!!!Genre:	Nign
+!!!Mode:	Freygish
+!!!Listening/dance:	listening
+!!!:	*c:
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 38. Nign
+!!!Genre:	Nign
+!!!Mode:	Minor
+!!!Listening/dance:	listening
+!!!One_Mode:	yes
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 39. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Minor
+!!!Listening/dance:	listening
+!!!One_Mode:	yes
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 40. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Minor
+!!!Listening/dance:	listening
+!!!:	*B-:
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 41. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Minor
+!!!Listening/dance:	listening
+!!!One_Mode:	yes
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 42. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Minor
+!!!Listening/dance:	listening
+!!!:	*B-:
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 43. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Minor
+!!!Listening/dance:	listening
+!!!:	*B-:
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 44. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Minor
+!!!Listening/dance:	listening
+!!!One_Mode:	yes
+**dur
+*MM60
+*thru
+*I"P1
+!!pagebreak:original
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 45. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Minor
+!!!Listening/dance:	listening
+!!!:	*G:frey
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 46. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Minor
+!!!Listening/dance:	listening
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 47. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Minor
+!!!Listening/dance:	listening
+!!!:	*g:dor; *G:; *g:dor
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*G:
+=13:|!|:
+*>A
+=1
+!LO:TX:a:i:t=G-raised-fourth
+0.7500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=2
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=3
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=4
+1.5000
+0.5000
+=5
+0.7500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=6
+0.2500
+0.2500
+1.0000
+0.5000
+=7
+0.2500
+0.2500
+0.2500
+0.2500
+0.5000
+0.2500
+0.2500
+=8
+1.5000
+0.5000
+=9
+0.7500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=10
+0.2500
+0.2500
+1.0000
+0.5000
+=11
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=12
+1.0000
+1.0000
+!!!Begin-Modulation
+*G:
+=13:|!|:
+*>B
+*k[f#]
+*G:
+!LO:TX:a:i:t=G-major
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=14
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=15
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=16
+1.5000
+0.5000
+=17
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=18
+0.2500
+0.2500
+0.2500
+0.2500
+1.0000
+=19
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=20
+1.0000
+1.0000
+!!!End-Modulation
+*G:
+!LO:TX:a:i:t=G-major
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=14
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=15
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=16
+1.5000
+0.5000
+=17
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=18
+0.2500
+0.2500
+0.2500
+0.2500
+1.0000
+=19
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=20
+1.0000
+1.0000
+!!!End-Modulation
+*-
+!!!OTL: 48. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Minor
+!!!Listening/dance:	listening
+!!!:	*B-:
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 49. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Minor
+!!!Listening/dance:	listening
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 50. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Minor
+!!!Listening/dance:	listening
+!!!:	*B-:
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 51. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Minor
+!!!Listening/dance:	listening
+!!!:	*B-:
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL:52. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Minor
+!!!Listening/dance:	listening
+!!!:	*B-:
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 53. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Minor
+!!!Listening/dance:	listening
+!!!:	*B-:
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 54. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Altered Dorian
+!!!Listening/dance:	listening
+!!!:	*G:
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-]
+*G:
+=18!|:
+*>C
+*k[f#]
+*G:
+!LO:TX:a:i:t=G-major
+1.0000
+0.2500
+0.2500
+0.2500
+0.2500
+=19
+0.7500
+0.2500
+0.5000
+0.2500
+0.2500
+=20
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=21
+1.0000
+0.2500
+0.2500
+0.2500
+0.2500
+=22
+1.0000
+0.2500
+0.2500
+0.2500
+0.2500
+=23
+1.0000
+0.5000
+0.2500
+0.2500
+=24
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+*>C1
+=25
+1.0000
+0.2500
+0.2500
+0.2500
+0.2500
+*>C
+*k[f#]
+*G:
+!LO:TX:a:i:t=G-major
+1.0000
+0.2500
+0.2500
+0.2500
+0.2500
+=19
+0.7500
+0.2500
+0.5000
+0.2500
+0.2500
+=20
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=21
+1.0000
+0.2500
+0.2500
+0.2500
+0.2500
+=22
+1.0000
+0.2500
+0.2500
+0.2500
+0.2500
+=23
+1.0000
+0.5000
+0.2500
+0.2500
+=24
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+*>C2
+=26:|!
+2.0000
+!!!End-Modulation
+*G:
+!LO:TX:a:i:t=G-major
+=55:|!
+*>G
+*k[f#]
+*G:
+1.0000
+0.2500
+0.2500
+0.2500
+0.2500
+=56
+1.0000
+0.2500
+0.1250
+0.1250
+0.2500
+0.2500
+=57
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=58
+0.5000
+0.5000
+0.5000
+0.5000
+=59
+1.0000
+0.2500
+0.2500
+0.2500
+0.2500
+=60
+1.0000
+0.2500
+0.1250
+0.1250
+0.2500
+0.2500
+=61
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=62
+2.0000
+=63!|:
+*>H
+0.2500
+0.2500
+0.2500
+0.2500
+1.0000
+=64
+0.2500
+0.2500
+0.2500
+0.2500
+1.0000
+=65
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=66||
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=67||
+0.2500
+0.2500
+0.2500
+0.2500
+1.0000
+=68
+0.2500
+0.2500
+0.2500
+0.2500
+1.0000
+*>H1
+=69
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=70
+2.0000
+*>H
+0.2500
+0.2500
+0.2500
+0.2500
+1.0000
+=64
+0.2500
+0.2500
+0.2500
+0.2500
+1.0000
+=65
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=66||
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=67||
+0.2500
+0.2500
+0.2500
+0.2500
+1.0000
+=68
+0.2500
+0.2500
+0.2500
+0.2500
+1.0000
+*>H2
+=71:|!
+0.2500
+0.2500
+0.2500
+0.2500
+0.5000
+0.5000 0.5000
+=72
+2.0000 2.0000
+!!!End-Modulation
+==
+*-
+!!!OTL: 55. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Altered Dorian
+!!!Listening/dance:	listening
+!!!:	*G:frey; *C:; *G:frey
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-]
+*-
+!!!OTL: 56. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Altered Dorian
+!!!Listening/dance:	listening
+!!!:	*g:
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+!!!Begin-Modulation
+*-
+!!!OTL: 57. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Altered Dorian
+!!!Listening/dance:	listening
+!!!:	*G:
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-]
+*G:
+*>B
+!!!Begin-Modulation
+*G:
+!LO:TX:a:i:t=G-major
+0.5000
+=10
+1.5000
+0.2500
+0.2500
+=11
+0.2500
+0.2500
+0.2500
+0.2500
+0.5000
+0.2500
+0.2500
+=12
+0.5000
+0.2500
+0.2500
+0.1667
+0.1667
+0.1667
+0.5000
+=13
+0.5000
+0.5000
+0.5000
+0.5000
+=14
+1.5000
+0.2500
+0.2500
+=15
+0.2500
+0.2500
+0.2500
+0.2500
+0.5000
+0.2500
+0.2500
+=16
+0.2500
+0.2500
+0.2500
+0.2500
+0.1667
+0.1667
+0.1667
+0.5000
+=17
+1.0000
+0.5000
+0.2500
+0.2500
+=18
+1.5000
+0.5000
+=19
+0.2500
+0.2500
+0.2500
+0.2500
+1.0000
+=20
+0.2500
+0.2500
+1.0000
+0.2500
+0.2500
+=21
+0.2500
+0.2500
+0.2500
+0.2500
+0.5000
+0.2500
+0.2500
+=22
+1.5000
+0.2500
+0.2500
+=23
+0.2500
+0.2500
+0.2500
+0.2500
+1.0000
+=24
+0.1667
+0.1667
+0.1667
+0.5000
+0.5000
+0.5000
+=
+1.0000
+0.5000
+=25||
+*k[b-]
+!!!End-Modulation
+*G:
+*>D
+!LO:TX:a:i:t=G-major
+0.2500
+0.2500
+=38
+1.5000
+0.2500
+0.2500
+=39
+0.2500
+0.2500
+0.2500
+0.2500
+1.0000
+=40
+0.1667
+0.1667
+0.1667
+0.5000
+0.5000
+0.5000
+=41
+0.5000
+0.5000
+0.1667
+0.1667
+0.1667
+0.5000
+=42
+1.5000
+0.2500
+0.2500
+=43
+0.5000
+0.5000
+0.2500
+0.2500
+0.5000
+=44
+0.5000
+0.5000
+0.5000
+0.5000
+=45
+1.5000
+0.2500
+0.2500
+=46
+1.5000
+0.5000
+=47
+0.5000
+0.5000
+1.0000
+=48
+0.1667
+0.1667
+0.1667
+0.5000
+0.2500
+0.2500
+0.2500
+0.2500
+=49
+0.5000
+0.5000
+0.3750
+0.1250
+0.5000
+=50
+1.5000
+0.2500
+0.2500
+=51
+0.5000
+0.5000
+1.0000
+=52
+0.1667
+0.1667
+0.1667
+0.5000
+0.5000
+0.5000
+=
+1.5000
+=53||
+*k[b-]
+!!!End-Modulation
+*G:
+*>F
+!!!Begin-Modulation
+*G:
+!LO:TX:a:i:t=G-major
+0.5000
+=74
+1.0000
+0.5000
+0.5000
+=75
+1.5000
+0.5000
+=76
+0.2500
+0.2500
+0.2500
+0.2500
+0.5000
+0.5000
+=77
+0.2500
+0.2500
+1.0000
+0.2500
+0.2500
+=78
+1.0000
+0.5000
+0.5000
+=79
+1.0000
+0.2500
+0.2500
+0.7500
+0.2500
+=80
+1.0000
+0.5000
+0.5000
+=81
+1.0000
+0.5000
+0.2500
+0.2500
+=82
+1.0000
+0.2500
+0.2500
+0.5000
+=83
+0.2500
+0.2500
+1.5000
+0.5000
+=84
+0.5000
+0.5000
+0.5000
+0.5000
+=85
+0.2500
+0.2500
+1.0000
+0.5000
+=86
+1.0000
+0.5000
+0.5000
+=87
+1.5000
+0.5000
+=88
+1.0000
+0.1667
+0.1667
+0.1667
+0.5000
+=
+1.0000
+0.5000
+=89||
+*k[b-]
+!!!End-Modulation
+*-
+!!!OTL: 58. Freylekhs (fun der khupe)
+!!!Genre:	Freylekhs (fun der khupe)
+!!!Mode:	Altered Dorian
+!!!Listening/dance:	listening
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*clefG2
+*k[b-]
+*-
+!!!OTL: 59. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Altered Dorian
+!!!Listening/dance:	listening
+!!!One_Mode:	yes
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-]
+*-
+!!!OTL: 60. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Altered Dorian
+!!!Listening/dance:	listening
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-]
+*-
+!!!OTL: 61. Gas-nign
+!!!Genre:	Gas-nign
+!!!Mode:	Freygish
+!!!Listening/dance:	listening
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 62. Gas-nign
+!!!Genre:	Gas-nign
+!!!Mode:	Freygish
+!!!Listening/dance:	listening
+!!!:	*F:
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 63. Gas-nign
+!!!Genre:	Gas-nign
+!!!Mode:	Freygish
+!!!Listening/dance:	listening
+!!!:	*F:
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 64. Gas-nign
+!!!Genre:	Gas-nign
+!!!Mode:	Freygish
+!!!Listening/dance:	listening
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 65. Gas-nign
+!!!Genre:	Gas-nign
+!!!Mode:	Freygish
+!!!Listening/dance:	listening
+!!!:	*F:
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 66. Gas-nign
+!!!Genre:	Gas-nign
+!!!Mode:	Freygish
+!!!Listening/dance:	listening
+!!!One_Mode:	yes
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 67. Gas-nign
+!!!Genre:	Gas-nign
+!!!Mode:	Freygish
+!!!Listening/dance:	listening
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 68. Gas-nign
+!!!Genre:	Gas-nign
+!!!Mode:	Freygish
+!!!Listening/dance:	listening
+!!!One_Mode:	yes
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 69. Gas-nign
+!!!Genre:	Gas-nign
+!!!Mode:	Freygish
+!!!Listening/dance:	listening
+!!!:	*g:
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 70. Gas-nign
+!!!Genre:	Gas-nign
+!!!Mode:	Freygish
+!!!Listening/dance:	listening
+!!!:	*C:
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 71. Gas-nign
+!!!Genre:	Gas-nign
+!!!Mode:	Minor
+!!!Listening/dance:	listening
+!!!:	*B-:
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+!!!Begin-Modulation
+*-
+!!!OTL: 72. Gas-nign
+!!!Genre:	Gas-nign
+!!!Mode:	Minor
+!!!Listening/dance:	listening
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 73. Gas-nign
+!!!Genre:	Gas-nign
+!!!Mode:	Minor
+!!!Listening/dance:	listening
+!!!:	*B-:
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 74. Gas-nign
+!!!Genre:	Gas-nign
+!!!Mode:	Minor
+!!!Listening/dance:	listening
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 75. Gas-nign
+!!!Genre:	Gas-nign
+!!!Mode:	Minor
+!!!Listening/dance:	listening
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 76. Gas-nign
+!!!Genre:	Gas-nign
+!!!Mode:	Minor
+!!!Listening/dance:	listening
+!!!One_Mode:	yes
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 77. Gas-nign
+!!!Genre:	Gas-nign
+!!!Mode:	Minor
+!!!Listening/dance:	listening
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 78. Gas-nign
+!!!Genre:	Gas-nign
+!!!Mode:	Minor
+!!!Listening/dance:	listening
+!!!:	*B-
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 79. A gute nakht
+!!!Genre:	A gute nakht
+!!!Mode:	Freygish
+!!!Listening/dance:	listening
+!!!One_Mode:	yes
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 80. A gute nakht
+!!!Genre:	A gute nakht
+!!!Mode:	Minor
+!!!Listening/dance:	listening
+!!!One_Mode:	yes
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 81. Zay gezunt
+!!!Genre:	Zay gezunt
+!!!Mode:	Freygish
+!!!Listening/dance:	listening
+!!!One_Mode:	yes
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 82. Zay gezunt
+!!!Genre:	Zay gezunt
+!!!Mode:	Freygish
+!!!Listening/dance:	listening
+!!!:	*c:
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 83. Zay gezunt
+!!!Genre:	Zay gezunt
+!!!Mode:	Minor
+!!!Listening/dance:	listening
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 84. Zay gezunt
+!!!Genre:	Zay gezunt
+!!!Mode:	Minor
+!!!Listening/dance:	listening
+!!!One_Mode:	yes
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 85. Redl
+!!!Genre:	Redl
+!!!Mode:	Freygish
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**dur
+*MM60
+*thru
+*I"P1
+!!pagebreak:original
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 86. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Freygish
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**dur
+*MM60
+*thru
+*part1
+*staff1
+*clefG2
+*-
+!!!OTL: 87. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Freygish
+!!!Listening/dance:	dance
+!!!:	*F:
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*part1
+*staff1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 88. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Freygish
+!!!Listening/dance:	dance
+!!!:	*c:
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*part1
+*staff1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 89. Tants
+!!!Genre:	Tants
+!!!Mode:	Freygish
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**dur
+*MM60
+*thru
+*part1
+*staff1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 90. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Freygish
+!!!Listening/dance:	dance
+!!!:	*C:
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*part1
+*staff1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 91. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Freygish
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**dur
+*MM60
+*thru
+*part1
+*staff1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 92. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Freygish
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**dur
+*MM60
+*thru
+*part1
+*staff1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 93. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Freygish
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**dur
+*MM60
+*thru
+*part1
+*staff1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 94. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Freygish
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**dur
+*MM60
+*thru
+*part1
+*staff1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 95. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Freygish
+!!!Listening/dance:	dance
+!!!:	*c
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*part1
+*staff1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 96. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Freygish
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**dur
+*MM60
+*thru
+*part1
+*staff1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 97. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Freygish
+!!!Listening/dance:	dance
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*part1
+*staff1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 98. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Freygish
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**dur
+*MM60
+*thru
+*part1
+*staff1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 99. Hopke
+!!!Genre:	Hopke
+!!!Mode:	Freygish
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**dur
+*MM60
+*thru
+*part1
+*staff1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 100. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Freygish
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**dur
+*MM60
+*thru
+*part1
+*staff1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 101. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+!!pagebreak:original
+*clefG2
+*k[f#]
+*G:
+*M2/4
+*>A
+=1
+!LO:TX:a:i:t=G-major
+0.5000
+0.5000
+0.5000
+0.5000
+=2
+0.5000
+0.5000
+1.0000
+=3
+0.5000
+0.5000
+0.5000
+0.5000
+=4
+0.5000
+0.5000
+1.0000
+=5
+0.5000
+0.5000
+0.5000
+0.5000
+=6
+1.0000
+1.0000
+=7
+0.5000
+0.5000
+0.5000
+0.5000
+*>A1
+=8
+0.5000
+0.2500
+0.2500
+0.5000
+0.5000
+!!linebreak:original
+*>A
+=1
+!LO:TX:a:i:t=G-major
+0.5000
+0.5000
+0.5000
+0.5000
+=2
+0.5000
+0.5000
+1.0000
+=3
+0.5000
+0.5000
+0.5000
+0.5000
+=4
+0.5000
+0.5000
+1.0000
+=5
+0.5000
+0.5000
+0.5000
+0.5000
+=6
+1.0000
+1.0000
+=7
+0.5000
+0.5000
+0.5000
+0.5000
+*>A2
+=9:|!
+2.0000
+*>B
+=10!|:
+*k[b-e-]
+*-
+!!!OTL: 102. Hopke
+!!!Genre:	Hopke
+!!!Mode:	Freygish
+!!!Listening/dance:	dance
+!!!:	*F:; *C:
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*part1
+*staff1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 103. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Freygish
+!!!Listening/dance:	dance
+!!!:	*F:
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*part1
+*staff1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 104. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Freygish
+!!!Listening/dance:	dance
+!!!:	*B-:
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*part1
+*staff1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 105. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Altered Dorian
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**dur
+*MM60
+*thru
+*part1
+*staff1
+*clefG2
+*k[b-]
+*-
+!!!OTL: 106. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Altered Dorian
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**dur
+*MM60
+*thru
+*part1
+*staff1
+*clefG2
+*k[b-]
+*-
+!!!OTL: 107. Karahod
+!!!Genre:	Karahod
+!!!Mode:	Altered Dorian
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**dur
+*MM60
+*thru
+*part1
+*staff1
+*clefG2
+*k[b-]
+*-
+!!!OTL: 108. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Altered Dorian
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**dur
+*MM60
+*thru
+*part1
+*staff1
+*clefG2
+*k[b-]
+*-
+!!!OTL: 109. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Altered Dorian
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**dur
+*MM60
+*thru
+*part1
+*staff1
+*clefG2
+*k[b-]
+*-
+!!!OTL: 110. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Altered Dorian
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**dur
+*MM60
+*thru
+*part1
+*staff1
+*clefG2
+*k[b-]
+*-
+!!!OTL: 111. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Altered Dorian
+!!!Listening/dance:	dance
+!!!:	*B-:
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*part1
+*staff1
+*clefG2
+*k[b-]
+*-
+!!!OTL: 112. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Altered Dorian
+!!!Listening/dance:	dance
+!!!:	*G:
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*part1
+*staff1
+*clefG2
+*k[b-]
+*G:
+=10:|!|:
+*k[f#]
+*>B
+0.5000
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=7
+0.5000
+0.2500
+0.2500
+0.5000
+0.5000
+=8
+0.5000
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=9
+0.5000
+0.2500
+0.2500
+1.0000
+!!!Begin-Modulation
+*G:
+=10:|!|:
+*k[f#]
+*>C
+!LO:TX:a:i:t=G-major
+0.7500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=11
+0.5000
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=12
+0.5000
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=13
+0.2500
+0.2500
+0.2500
+0.2500
+1.0000
+=14:|!|:
+*>C
+!LO:TX:a:i:t=G-major
+0.7500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=11
+0.5000
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=12
+0.5000
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=13
+0.2500
+0.2500
+0.2500
+0.2500
+1.0000
+=14:|!|:
+*>D
+0.5000
+1.0000
+0.5000
+=15
+0.7500
+0.2500
+0.2500
+0.2500
+0.5000
+=16
+0.5000
+1.0000
+0.5000
+=17
+0.2500
+0.2500
+0.2500
+0.2500
+1.0000
+=:|!
+!!!End-Modulation
+*>D
+0.5000
+1.0000
+0.5000
+=15
+0.7500
+0.2500
+0.2500
+0.2500
+0.5000
+=16
+0.5000
+1.0000
+0.5000
+=17
+0.2500
+0.2500
+0.2500
+0.2500
+1.0000
+=:|!
+!!!End-Modulation
+*-
+!!!OTL: 113. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Altered Dorian
+!!!Listening/dance:	dance
+!!!:	*G:
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*part1
+*staff1
+*clefG2
+*k[b-]
+*G:
+=25||
+*k[f#]
+!LO:TX:a:i:t=G-major
+0.1667
+0.1667
+0.1667
+0.5000
+0.1667
+0.1667
+0.1667
+0.5000
+=26
+0.1667
+0.1667
+0.1667
+0.5000
+0.1667
+0.1667
+0.1667
+0.5000
+=27
+0.5000
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=28
+1.0000
+1.0000
+=29
+0.1667
+0.1667
+0.1667
+0.5000
+0.2500
+0.2500
+0.2500
+0.2500
+=30
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=31
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=32
+0.5000
+0.5000
+1.0000
+=33
+2.0000
+=34
+2.0000
+=35
+1.0000
+1.0000
+=36
+0.5000
+0.5000
+0.5000
+0.5000
+=37
+0.1667
+0.1667
+0.1667
+0.2500
+0.2500
+0.1667
+0.1667
+0.1667
+0.2500
+0.2500
+=38
+0.1667
+0.1667
+0.1667
+0.2500
+0.2500
+0.1667
+0.1667
+0.1667
+0.2500
+0.2500
+=39
+0.5000
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=40
+0.5000
+0.5000
+0.5000
+1.0000
+=41
+0.1667
+0.1667
+0.1667
+0.5000
+0.1667
+0.1667
+0.1667
+0.5000
+=42
+0.2500
+0.2500
+0.2500
+0.2500
+0.1667
+0.1667
+0.1667
+0.5000
+=43
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=44
+0.5000
+0.5000
+1.0000
+=45
+2.0000
+=46
+2.0000
+=47
+0.5000
+1.0000
+1.0000
+=48
+0.5000
+1.0000
+0.5000
+0.2500
+0.2500
+!!!End-Modulation
+*-
+!!!OTL: 114. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Altered Dorian
+!!!Listening/dance:	dance
+!!!:	*g:; *G:; *g:
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*part1
+*staff1
+*clefG2
+*k[b-e-]
+!!!Begin-Modulation
+*G:
+=40:|!|:
+*>C
+1.5000
+0.5000
+=17
+1.5000
+0.5000
+=18
+0.7500
+0.2500
+0.7500
+0.2500
+=19
+1.5000
+0.5000
+=20
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=21
+0.5000
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=22
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=23
+1.5000
+0.5000
+=24
+0.7500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=25
+0.7500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=26
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=27
+1.5000
+0.5000
+=28
+1.0000
+0.5000
+0.5000
+0.5000
+0.5000
+=29
+1.5000
+0.1667
+0.1667
+0.1667
+=30
+1.0000
+0.5000
+0.5000
+0.5000
+0.5000
+=31
+0.5000
+0.5000
+0.5000
+0.5000
+=32
+1.0000
+0.5000
+0.5000
+0.5000
+0.5000
+=33
+1.5000
+0.1667
+0.1667
+0.1667
+=34
+1.0000
+0.5000
+0.5000
+0.5000
+0.5000
+=35
+0.5000
+0.5000
+0.5000
+0.5000
+=36
+1.5000
+0.2500
+0.2500
+=37
+1.5000
+0.2500
+0.2500
+=38
+0.5000
+0.2500
+0.2500
+0.5000
+0.2500
+0.2500
+=39
+1.5000
+0.5000
+!!!Begin-Modulation
+*G:
+=40:|!|:
+*>D
+*k[f#]
+!LO:TX:a:i:t=G-major
+1.5000
+0.2500
+0.2500
+=41
+1.5000
+0.2500
+0.2500
+=42
+0.5000
+0.2500
+0.2500
+0.5000
+0.2500
+0.2500
+=43
+1.5000
+0.5000
+=44
+0.2500
+0.2500
+0.2500
+0.2500
+0.7500
+0.2500
+=45
+0.2500
+0.2500
+0.2500
+0.2500
+0.7500
+0.2500
+=46
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+*>D1
+=47
+0.2500
+0.2500
+0.5000
+0.2500
+0.2500
+0.2500
+0.2500
+*>D
+*k[f#]
+!LO:TX:a:i:t=G-major
+1.5000
+0.2500
+0.2500
+=41
+1.5000
+0.2500
+0.2500
+=42
+0.5000
+0.2500
+0.2500
+0.5000
+0.2500
+0.2500
+=43
+1.5000
+0.5000
+=44
+0.2500
+0.2500
+0.2500
+0.2500
+0.7500
+0.2500
+=45
+0.2500
+0.2500
+0.2500
+0.2500
+0.7500
+0.2500
+=46
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+*>D2
+=48:|!
+0.2500
+0.2500
+1.0000
+0.5000
+*>E
+=49!|:
+0.2500
+0.2500
+0.2500
+0.2500
+1.0000
+=50
+0.2500
+0.2500
+0.2500
+0.2500
+1.0000
+=51
+0.2500
+0.2500
+0.2500
+0.2500
+1.0000
+=52
+0.2500
+0.2500
+0.2500
+0.2500
+1.0000
+!!!End-Modulation
+!!!Begin-Modulation
+*-
+!!!OTL: 115. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Altered Dorian
+!!!Listening/dance:	dance
+!!!:	*G:
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*part1
+*staff1
+*clefG2
+*k[b-]
+*G:
+=22||
+*>C
+*k[f#]
+!LO:TX:a:i:t=G-major
+1.5000
+0.5000
+=23
+0.2500
+0.2500
+0.2500
+0.2500
+1.0000
+=24
+1.5000
+0.5000
+=25
+0.2500
+0.2500
+0.2500
+0.2500
+0.5000
+0.2500
+0.2500
+=26
+1.5000
+0.5000
+=27
+0.2500
+0.2500
+0.2500
+0.2500
+1.0000
+!!!End-Modulation
+*-
+!!!OTL: 116. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Altered Dorian
+!!!Listening/dance:	dance
+!!!:	*G:
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*part1
+*staff1
+*clefG2
+*k[b-]
+*G:
+=18!|:
+*>C
+*k[f#]
+!LO:TX:a:i:t=G-major
+!LO:TX:a:t="Segno"
+0.2500
+0.2500
+0.2500
+0.2500
+0.5000
+0.5000
+=19
+0.2500
+0.2500
+0.2500
+0.2500
+0.5000
+0.5000
+=20
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=21
+0.5000
+0.5000
+1.0000
+=22
+0.2500
+0.2500
+0.2500
+0.2500
+0.5000
+0.5000
+=23
+0.5000
+0.5000
+0.5000
+1.0000
+!!!End-Modulation
+*-
+!!!OTL: 117. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Altered Dorian
+!!!Listening/dance:	dance
+!!!:	*G:
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*part1
+*staff1
+*clefG2
+*k[b-]
+*G:
+=10!|:
+*k[f#]
+*>B
+!LO:TX:a:i:t=G-major
+!LO:TX:a:t="Segno"
+0.2500
+0.2500
+0.2500
+0.2500
+0.5000
+0.2500
+0.2500
+=11
+0.2500
+0.2500
+0.2500
+0.2500
+0.5000
+0.2500
+0.2500
+=12
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+*>B1
+=13
+1.0000
+1.0000
+*>B
+!LO:TX:a:i:t=G-major
+!LO:TX:a:t="Segno"
+0.2500
+0.2500
+0.2500
+0.2500
+0.5000
+0.2500
+0.2500
+=11
+0.2500
+0.2500
+0.2500
+0.2500
+0.5000
+0.2500
+0.2500
+=12
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+*>B2
+=14:|!
+!LO:TX:b:Bi:t=Fine
+2.0000
+!!!End-Modulation
+*-
+!!!OTL: 118. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Altered Dorian
+!!!Listening/dance:	dance
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*part1
+*staff1
+*clefG2
+*k[b-]
+*G:
+*>B
+!LO:TX:a:i:t=G-major
+0.5000
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=10
+0.5000
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=11
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=12
+2.0000
+=13
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=14
+0.2500
+0.2500
+0.2500
+0.2500
+1.0000
+=15
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=16
+2.0000
+!!!End-Modulation
+*-
+!!!OTL: 119. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Altered Dorian
+!!!Listening/dance:	dance
+!!!:	*G:
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*part1
+*staff1
+*clefG2
+*k[b-]
+*G:
+=14!|:
+*>C
+*k[f#]
+!LO:TX:a:i:t=G-major
+2.0000
+=15
+2.0000
+=16
+0.5000
+1.0000
+0.5000
+1.0000
+=17
+1.0000
+0.7500
+0.2500
+=18
+0.2500
+0.2500
+0.2500
+0.2500
+0.7500
+0.2500
+=19
+0.2500
+0.2500
+0.2500
+0.2500
+0.7500
+0.2500
+=20
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+*>C1
+=21
+0.2500
+0.2500
+1.0000
+0.1667
+0.1667
+0.1667
+*>C
+*k[f#]
+!LO:TX:a:i:t=G-major
+2.0000
+=15
+2.0000
+=16
+0.5000
+1.0000
+0.5000
+1.0000
+=17
+1.0000
+0.7500
+0.2500
+=18
+0.2500
+0.2500
+0.2500
+0.2500
+0.7500
+0.2500
+=19
+0.2500
+0.2500
+0.2500
+0.2500
+0.7500
+0.2500
+=20
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+*>C2
+=22:|!
+!LO:TX:b:Bi:t=Da Capo al Fine
+0.2500
+0.2500
+1.0000
+0.5000
+!!!End-Modulation
+==
+*-
+!!!OTL: 120. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Altered Dorian
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**dur
+*MM60
+*thru
+*part1
+*staff1
+*clefG2
+*k[b-]
+*-
+!!!OTL: 121. Freylekhs (Karahod)
+!!!Genre:	Freylekhs (Karahod)
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 122. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 123. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 124. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 125. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 126. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Freygish
+!!!Listening/dance:	dance
+!!!:	*G:frey
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+!!!Begin-Modulation
+*-
+!!!OTL: 127. Freylekhs
+!!!Genre:	Freylekh
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!:	*B-:
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 128. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 129. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!:	*g:dor; *B-:
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 130. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 131. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!:	*g:dor
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 132. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 133. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!:	*B-:
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+!!!Begin-Modulation
+*-
+!!!OTL: 134. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 135. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!:	*G:frey
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 136. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 137. Vol'ner (Freylekhs)
+!!!Genre:	Vol'ner (Freylekhs)
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 138. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 139. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 140. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 141. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 142. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 143. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 144. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!:	*B-:
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 145. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 146. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 147. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*g
+*M2/4
+*>A
+=1
+0.2500
+0.5000
+0.2500
+0.5000
+0.5000
+0.5000
+=2
+0.2500
+0.5000
+0.2500
+0.5000
+0.5000
+0.5000
+=3
+0.2500
+0.2500
+1.0000
+0.1667
+0.1667
+0.1667
+=4
+0.5000
+0.5000
+0.5000
+0.5000
+=5
+0.2500
+0.5000
+0.2500
+0.5000
+0.5000
+0.5000
+=6
+0.2500
+0.5000
+0.2500
+0.5000
+0.5000
+0.5000
+=7
+0.2500
+0.2500
+1.0000
+0.1667
+0.1667
+0.1667
+=8
+1.0000
+!LO:TX:b:Bi:t=Fine
+1.0000
+=9:|!
+*>A
+=1
+0.2500
+0.5000
+0.2500
+0.5000
+0.5000
+0.5000
+=2
+0.2500
+0.5000
+0.2500
+0.5000
+0.5000
+0.5000
+=3
+0.2500
+0.2500
+1.0000
+0.1667
+0.1667
+0.1667
+=4
+0.5000
+0.5000
+0.5000
+0.5000
+=5
+0.2500
+0.5000
+0.2500
+0.5000
+0.5000
+0.5000
+=6
+0.2500
+0.5000
+0.2500
+0.5000
+0.5000
+0.5000
+=7
+0.2500
+0.2500
+1.0000
+0.1667
+0.1667
+0.1667
+=8
+1.0000
+!LO:TX:b:Bi:t=Fine
+1.0000
+=9:|!
+*>B
+0.2500
+0.2500
+0.2500
+0.2500
+0.5000
+0.5000
+=10
+0.5000
+0.2500
+0.2500
+0.5000
+0.5000
+=11
+0.2500
+0.2500
+0.2500
+0.2500
+0.5000
+0.5000
+=12
+0.5000
+0.2500
+0.2500
+0.5000
+0.5000
+=13
+0.2500
+0.2500
+0.2500
+0.2500
+0.5000
+0.5000
+=14
+0.5000
+0.2500
+0.2500
+0.7500
+0.2500
+=15
+0.2500
+0.2500
+0.2500
+0.2500
+0.5000
+0.5000
+=16
+0.5000
+0.2500
+0.2500
+1.0000
+=17||
+*>C
+1.5000
+0.5000
+=18
+0.5000
+0.5000
+0.5000
+0.5000
+=19
+0.2500
+0.2500
+0.2500
+0.2500
+0.5000
+0.2500
+0.2500
+=20
+0.5000
+0.5000
+0.5000
+0.5000
+=21
+0.2500
+0.2500
+0.2500
+0.2500
+0.5000
+0.2500
+0.2500
+=22
+0.2500
+0.2500
+0.2500
+0.2500
+0.5000
+0.2500
+0.2500
+=23
+0.5000
+0.5000
+0.2500
+0.2500
+0.5000
+=24
+!LO:TX:b:Bi:t=Da Capo al Fine
+1.0000
+0.5000
+1.0000
+==
+*-
+!!!OTL: 148. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 149. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 150. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Major
+!!!Listening/dance:	dance
+!!!:	*g:dor
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[f#]
+*G:
+*M2/4
+*>A
+!LO:TX:a:i:t=G-major
+0.5000
+=1
+0.5000
+0.5000
+0.1250
+0.1250
+0.1250
+0.1250
+0.5000
+=2
+0.5000
+0.5000
+0.1250
+0.1250
+0.1250
+0.1250
+0.5000
+=3
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=4
+0.1667
+0.1667
+0.1667
+0.5000
+0.1667
+0.1667
+0.1667
+0.5000
+=5
+0.5000
+0.5000
+0.1250
+0.1250
+0.1250
+0.1250
+0.5000
+=6
+0.2500
+0.2500
+0.2500
+0.2500
+0.1250
+0.1250
+0.1250
+0.1250
+0.5000
+=7
+0.5000
+0.5000
+0.2500
+0.2500
+0.2500
+0.2500
+=
+!LO:TX:b:Bi:t=Fine
+1.0000
+0.5000
+=8:|!
+*k[b-]
+!!!Begin-Modulation
+*-
+!!!OTL: 151. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Major
+!!!Listening/dance:	dance
+!!!:	*g:dor
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[f#]
+*G:
+*M2/4
+*>A
+!LO:TX:a:i:t=G-major
+0.5000
+=1
+0.5000
+0.5000
+0.1250
+0.1250
+0.1250
+0.1250
+0.5000
+=2
+0.2500
+0.2500
+0.2500
+0.2500
+0.1667
+0.1667
+0.1667
+0.5000
+=3
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=4
+0.1000
+0.1000
+0.1000
+0.1000
+0.1000
+0.5000
+0.5000
+0.5000
+=5
+0.5000
+0.5000
+0.1667
+0.1667
+0.1667
+0.5000
+=6
+0.2500
+0.2500
+0.2500
+0.2500
+0.1667
+0.1667
+0.1667
+0.5000
+=7
+0.5000
+0.5000
+0.2500
+0.2500
+0.2500
+0.2500
+=
+!LO:TX:b:Bi:t=Fine
+1.0000
+0.5000
+*>A
+!LO:TX:a:i:t=G-major
+0.5000
+=1
+0.5000
+0.5000
+0.1250
+0.1250
+0.1250
+0.1250
+0.5000
+=2
+0.2500
+0.2500
+0.2500
+0.2500
+0.1667
+0.1667
+0.1667
+0.5000
+=3
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=4
+0.1000
+0.1000
+0.1000
+0.1000
+0.1000
+0.5000
+0.5000
+0.5000
+=5
+0.5000
+0.5000
+0.1667
+0.1667
+0.1667
+0.5000
+=6
+0.2500
+0.2500
+0.2500
+0.2500
+0.1667
+0.1667
+0.1667
+0.5000
+=7
+0.5000
+0.5000
+0.2500
+0.2500
+0.2500
+0.2500
+=
+!LO:TX:b:Bi:t=Fine
+1.0000
+0.5000
+*>fanfare
+=8:|!
+*k[b-]
+0.5000
+!!!Begin-Modulation
+*-
+!!!OTL: 152. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Major
+!!!Listening/dance:	dance
+!!!:	*g:dor
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[f#]
+*G:
+*M2/4
+*>A
+=1
+!LO:TX:a:i:t=G-major
+0.5000
+0.2500
+0.2500
+0.5000
+0.5000
+=2
+0.2500
+0.2500
+0.5000
+0.7500
+0.2500
+=3
+0.2500
+0.2500
+0.5000
+0.5000
+0.2500
+0.2500
+=4
+0.2500
+0.2500
+1.5000
+=5
+0.5000
+0.2500
+0.2500
+0.5000
+0.5000
+=6
+0.2500
+0.2500
+0.5000
+0.7500
+0.2500
+=7
+0.2500
+0.2500
+0.5000
+0.5000
+0.2500
+0.2500
+*>A1
+=8
+0.2500
+0.2500
+1.5000
+*>A
+=1
+!LO:TX:a:i:t=G-major
+0.5000
+0.2500
+0.2500
+0.5000
+0.5000
+=2
+0.2500
+0.2500
+0.5000
+0.7500
+0.2500
+=3
+0.2500
+0.2500
+0.5000
+0.5000
+0.2500
+0.2500
+=4
+0.2500
+0.2500
+1.5000
+=5
+0.5000
+0.2500
+0.2500
+0.5000
+0.5000
+=6
+0.2500
+0.2500
+0.5000
+0.7500
+0.2500
+=7
+0.2500
+0.2500
+0.5000
+0.5000
+0.2500
+0.2500
+*>A2
+=9:|!
+0.2500
+0.2500
+1.0000
+0.5000
+!!!Begin-Modulation
+*G:
+=18||
+*>C
+*k[f#]
+*G:
+!LO:TX:a:i:t=G-major
+0.5000
+0.2500
+0.2500
+0.5000
+0.2500
+0.2500
+=19
+0.5000
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=20
+0.5000
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=21
+1.5000
+0.5000
+=22
+0.5000
+0.2500
+0.2500
+1.0000
+=23
+0.5000
+0.2500
+0.2500
+1.0000
+=24
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=25
+2.0000
+==
+*-
+!!!OTL: 153. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Major
+!!!Listening/dance:	dance
+!!!:	*g:dor
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[f#]
+*G:
+*M2/4
+*>A
+=1
+!LO:TX:a:i:t=G-major
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=2
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=3
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=4
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+1.0000
+!!!Begin-Modulation
+*G:
+=9:|!|:
+*>B
+!LO:TX:a:i:t=G-raised-fourth
+0.5000
+1.0000
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=6
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=7
+0.5000
+1.0000
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=8
+0.2500
+0.2500
+0.2500
+0.2500
+1.0000
+!!!End-Modulation
+*G:
+=9:|!|:
+*>C
+!LO:TX:a:i:t=G-major
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=10
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=11
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=12
+0.2500
+0.2500
+0.2500
+0.2500
+1.0000
+=:|!
+*>C
+!LO:TX:a:i:t=G-major
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=10
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=11
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=12
+0.2500
+0.2500
+0.2500
+0.2500
+1.0000
+=:|!
+*-
+!!!OTL: 154. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Major
+!!!Listening/dance:	dance
+!!!:	*g:dor; *G:frey
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[f#]
+*G:
+*M2/4
+*>pickup
+!LO:TX:a:i:t=G-major
+0.2500
+0.2500
+0.2500
+*>A
+=1!|:
+0.1250
+0.1250
+0.1250
+0.1250
+0.2500
+0.2500
+0.1250
+0.1250
+0.1250
+0.1250
+0.5000
+=2
+0.2500
+0.2500
+0.2500
+0.2500
+0.1250
+0.1250
+0.1250
+0.1250
+0.5000
+=3
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=4
+0.5000
+0.5000
+0.5000
+1.0000
+=5
+0.1250
+0.1250
+0.1250
+0.1250
+0.2500
+0.2500
+0.1250
+0.1250
+0.1250
+0.1250
+0.5000
+=6
+0.2500
+0.2500
+0.2500
+0.2500
+0.1250
+0.1250
+0.1250
+0.1250
+0.5000
+=7
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+*>A1
+=8
+1.5000
+0.2500
+0.2500
+*>A
+=1!|:
+0.1250
+0.1250
+0.1250
+0.1250
+0.2500
+0.2500
+0.1250
+0.1250
+0.1250
+0.1250
+0.5000
+=2
+0.2500
+0.2500
+0.2500
+0.2500
+0.1250
+0.1250
+0.1250
+0.1250
+0.5000
+=3
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=4
+0.5000
+0.5000
+0.5000
+1.0000
+=5
+0.1250
+0.1250
+0.1250
+0.1250
+0.2500
+0.2500
+0.1250
+0.1250
+0.1250
+0.1250
+0.5000
+=6
+0.2500
+0.2500
+0.2500
+0.2500
+0.1250
+0.1250
+0.1250
+0.1250
+0.5000
+=7
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+*>A2
+=9:|!
+!LO:TX:b:Bi:t=Fine
+2.0000
+!!!Begin-Modulation
+*-
+!!!OTL: 155. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Major (Mixolydian)
+!!!Listening/dance:	dance
+!!!:	*g:dor
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[]
+*G:
+*M2/4
+*>A
+=1
+!LO:TX:a:i:t=G-major
+0.5000
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=2
+0.5000
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=3
+0.5000
+0.5000
+0.2500
+0.2500
+0.2500
+0.2500
+*>A1
+=4
+0.2500
+0.2500
+0.2500
+0.2500
+1.0000
+*>A
+=1
+!LO:TX:a:i:t=G-major
+0.5000
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=2
+0.5000
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=3
+0.5000
+0.5000
+0.2500
+0.2500
+0.2500
+0.2500
+*>A2
+=5:|!
+0.2500
+0.2500
+0.2500
+0.2500
+1.0000
+=6!|:
+*>B
+0.5000
+0.5000
+0.2500
+0.2500
+0.2500
+0.2500
+=7
+0.5000
+0.5000
+0.5000
+0.2500
+0.2500
+0.2500
+0.2500
+=8
+0.5000
+0.5000
+0.2500
+0.2500
+0.2500
+0.2500
+*>B1
+=9
+0.2500
+0.2500
+0.2500
+0.2500
+0.7500
+0.2500
+*>B
+0.5000
+0.5000
+0.2500
+0.2500
+0.2500
+0.2500
+=7
+0.5000
+0.5000
+0.5000
+0.2500
+0.2500
+0.2500
+0.2500
+=8
+0.5000
+0.5000
+0.2500
+0.2500
+0.2500
+0.2500
+*>B2
+=10:|!
+*k[]
+*G:
+=25!|:
+*>D
+*k[]
+!LO:TX:a:i:t=G-major
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=26
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=27
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=28
+0.2500
+0.2500
+0.2500
+0.2500
+1.0000
+=:|!
+*>D
+*k[]
+!LO:TX:a:i:t=G-major
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=26
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=27
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=28
+0.2500
+0.2500
+0.2500
+0.2500
+1.0000
+=:|!
+*-
+!!!OTL: 156. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Major
+!!!Listening/dance:	dance
+!!!:	*g:dor
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[f#]
+*G:
+*M2/4
+*>A
+=1
+!LO:TX:a:i:t=G-major
+0.5000
+0.5000
+0.5000
+0.5000
+=2
+0.5000
+0.5000
+0.5000
+0.1667
+0.1667
+0.1667
+0.5000
+=3
+1.5000
+0.5000
+=4
+0.5000
+0.5000
+1.0000
+=5
+0.5000
+0.5000
+0.5000
+0.5000
+=6
+0.5000
+0.5000
+0.5000
+0.5000
+=7
+1.5000
+0.5000
+=8
+0.5000
+0.5000
+0.5000
+1.0000
+=9
+0.5000
+0.5000
+0.5000
+0.5000
+=10
+0.5000
+0.5000
+0.2500
+0.2500
+0.2500
+0.2500
+=11
+1.5000
+0.5000
+=12
+0.2500
+0.2500
+0.5000
+0.5000
+1.0000
+=13
+0.5000
+0.5000
+0.2500
+0.2500
+0.5000
+0.5000
+*>A1
+=14
+0.2500
+0.2500
+0.5000
+0.5000
+0.5000
+0.5000
+=15
+2.0000
+=16
+1.0000
+1.0000
+*>A
+=1
+!LO:TX:a:i:t=G-major
+0.5000
+0.5000
+0.5000
+0.5000
+=2
+0.5000
+0.5000
+0.5000
+0.1667
+0.1667
+0.1667
+0.5000
+=3
+1.5000
+0.5000
+=4
+0.5000
+0.5000
+1.0000
+=5
+0.5000
+0.5000
+0.5000
+0.5000
+=6
+0.5000
+0.5000
+0.5000
+0.5000
+=7
+1.5000
+0.5000
+=8
+0.5000
+0.5000
+0.5000
+1.0000
+=9
+0.5000
+0.5000
+0.5000
+0.5000
+=10
+0.5000
+0.5000
+0.2500
+0.2500
+0.2500
+0.2500
+=11
+1.5000
+0.5000
+=12
+0.2500
+0.2500
+0.5000
+0.5000
+1.0000
+=13
+0.5000
+0.5000
+0.2500
+0.2500
+0.5000
+0.5000
+*>A2
+=17:|!
+0.5000
+0.5000
+0.5000
+0.5000
+0.5000
+=18
+0.5000
+2.0000
+!!!Begin-Modulation
+*G:
+=30||
+*>C
+*k[f#]
+!LO:TX:a:i:t=G-major
+1.0000
+1.0000
+=31
+0.5000
+0.5000
+0.5000
+0.5000
+=32
+0.1667
+0.1667
+0.1667
+0.5000
+0.5000
+0.5000
+=33
+0.5000
+0.1667
+0.1667
+0.1667
+0.5000
+0.5000
+=34
+0.1667
+0.1667
+0.1667
+0.5000
+0.5000
+0.5000
+=35
+0.5000
+0.5000
+0.1667
+0.1667
+0.1667
+0.5000
+=36
+0.1667
+0.1667
+0.1667
+0.5000
+0.5000
+0.5000
+=37
+0.5000
+0.1667
+0.1667
+0.1667
+0.5000
+0.5000
+=38
+1.0000
+1.0000
+=39
+1.5000
+0.5000
+=40
+1.5000
+0.5000
+=41
+0.7500
+0.2500
+0.7500
+0.2500
+=42
+0.5000
+0.5000
+0.5000
+0.5000
+=43
+0.5000
+0.5000
+0.5000
+0.5000
+=44
+0.5000
+0.5000
+0.5000
+0.5000
+=45
+0.5000
+0.1667
+0.1667
+0.1667
+0.5000
+0.5000
+=46
+0.1667
+0.1667
+0.1667
+0.5000
+0.5000
+0.5000
+=47
+0.5000
+0.2500
+0.2500
+0.5000
+0.5000
+=48
+0.5000
+0.5000
+0.5000
+0.5000
+=49
+0.5000
+0.5000
+0.5000
+0.2500
+0.2500
+0.2500
+0.2500
+=50
+!LO:TX:b:Bi:t=D.C.
+2.0000
+==
+*-
+!!!OTL: 157. Hopke
+!!!Genre:	Hopke
+!!!Mode:	Major
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[f#]
+*G:
+*M2/4
+*>A
+=1
+0.5000
+1.0000
+0.5000
+=2
+0.5000
+0.5000
+1.0000
+=3
+0.5000
+0.2500
+0.2500
+0.5000
+0.5000
+=4
+0.5000
+0.5000
+0.7500
+0.2500
+=5
+0.5000
+1.0000
+0.5000
+=6
+0.5000
+0.5000
+1.0000
+=7
+0.5000
+0.2500
+0.2500
+0.5000
+0.5000
+=8
+1.0000
+1.0000
+=9:|!|:
+*>A
+=1
+0.5000
+1.0000
+0.5000
+=2
+0.5000
+0.5000
+1.0000
+=3
+0.5000
+0.2500
+0.2500
+0.5000
+0.5000
+=4
+0.5000
+0.5000
+0.7500
+0.2500
+=5
+0.5000
+1.0000
+0.5000
+=6
+0.5000
+0.5000
+1.0000
+=7
+0.5000
+0.2500
+0.2500
+0.5000
+0.5000
+=8
+1.0000
+1.0000
+=9:|!|:
+*>B
+0.2500
+0.2500
+1.0000
+0.5000
+=10
+0.2500
+0.2500
+0.5000
+1.0000
+=11
+0.5000
+0.2500
+0.2500
+0.5000
+0.5000
+=12
+0.5000
+0.5000
+0.7500
+0.2500
+=13
+0.2500
+0.2500
+1.0000
+0.5000
+=14
+0.2500
+0.2500
+0.5000
+1.0000
+=15
+0.2500
+0.2500
+0.5000
+0.5000
+0.5000
+=16
+1.0000
+1.0000
+=:|!
+*>B
+0.2500
+0.2500
+1.0000
+0.5000
+=10
+0.2500
+0.2500
+0.5000
+1.0000
+=11
+0.5000
+0.2500
+0.2500
+0.5000
+0.5000
+=12
+0.5000
+0.5000
+0.7500
+0.2500
+=13
+0.2500
+0.2500
+1.0000
+0.5000
+=14
+0.2500
+0.2500
+0.5000
+1.0000
+=15
+0.2500
+0.2500
+0.5000
+0.5000
+0.5000
+=16
+1.0000
+1.0000
+=:|!
+*-
+!!!OTL: 158. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Major
+!!!Listening/dance:	dance
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[f#]
+*G:
+*M2/4
+*>A
+=1
+!LO:TX:a:i:t=G-major
+1.5000
+0.5000
+=2
+1.5000
+0.5000
+=3
+0.5000
+0.5000
+0.5000
+0.5000
+=4
+0.5000
+0.5000
+1.0000
+=5
+0.2500
+0.2500
+0.2500
+0.2500
+0.5000
+0.5000
+=6
+0.2500
+0.2500
+0.2500
+0.2500
+0.5000
+0.5000
+=7
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=8
+0.2500
+0.2500
+0.2500
+0.2500
+0.5000
+0.5000
+=9||
+!LO:TX:a:t="Segno"
+*>B
+0.5000
+0.5000
+0.5000
+0.5000
+=10
+0.5000
+0.5000
+0.5000
+0.5000
+0.5000
+=11
+0.5000
+0.5000
+0.5000
+0.5000
+=12
+0.5000
+0.5000
+1.0000
+=13
+0.5000
+0.5000
+0.5000
+0.5000
+=14
+0.5000
+0.5000
+0.5000
+0.5000
+=15
+0.5000
+0.5000
+0.5000
+0.5000
+=16
+0.5000
+0.5000
+!LO:TX:b:Bi:t=Fine
+1.0000
+!!!Begin-Modulation
+*-
+!!!OTL: 159. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Major
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[f#]
+*G:
+*M2/4
+*>A
+=1
+1.0000
+0.5000
+0.5000
+0.2500
+0.2500
+=2
+0.5000
+0.5000
+0.2500
+0.2500
+0.5000
+0.5000
+0.2500
+0.2500
+=3
+0.2500
+0.2500
+0.2500
+0.2500
+1.0000
+=4
+0.2500
+0.2500
+0.2500
+0.2500
+1.0000
+=5
+1.0000
+0.5000
+0.2500
+0.2500
+=6
+0.5000
+0.2500
+0.2500
+0.5000
+0.2500
+0.2500
+=7
+0.2500
+0.2500
+0.2500
+0.2500
+1.0000
+=8
+0.5000
+0.2500
+0.2500
+0.2500
+0.2500
+1.0000
+=9:|!|:
+*>A
+=1
+1.0000
+0.5000
+0.5000
+0.2500
+0.2500
+=2
+0.5000
+0.5000
+0.2500
+0.2500
+0.5000
+0.5000
+0.2500
+0.2500
+=3
+0.2500
+0.2500
+0.2500
+0.2500
+1.0000
+=4
+0.2500
+0.2500
+0.2500
+0.2500
+1.0000
+=5
+1.0000
+0.5000
+0.2500
+0.2500
+=6
+0.5000
+0.2500
+0.2500
+0.5000
+0.2500
+0.2500
+=7
+0.2500
+0.2500
+0.2500
+0.2500
+1.0000
+=8
+0.5000
+0.2500
+0.2500
+0.2500
+0.2500
+1.0000
+=9:|!|:
+*>B
+0.2500
+0.2500
+0.2500
+0.2500
+1.0000
+=10
+0.2500
+0.2500
+0.2500
+0.2500
+1.0000
+=11
+0.2500
+0.2500
+0.2500
+0.2500
+1.0000
+=12
+0.2500
+0.2500
+0.2500
+0.2500
+1.0000
+=13:|!|:
+*>B
+0.2500
+0.2500
+0.2500
+0.2500
+1.0000
+=10
+0.2500
+0.2500
+0.2500
+0.2500
+1.0000
+=11
+0.2500
+0.2500
+0.2500
+0.2500
+1.0000
+=12
+0.2500
+0.2500
+0.2500
+0.2500
+1.0000
+=13:|!|:
+*>C
+0.5000
+0.7500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=14
+0.2500
+0.2500
+0.2500
+0.2500
+1.0000
+=15
+0.2500
+0.2500
+0.2500
+0.2500
+1.0000
+=16
+0.2500
+0.2500
+0.2500
+0.2500
+0.7500
+0.2500
+=17
+0.7500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=18
+0.2500
+0.2500
+0.2500
+0.2500
+1.0000
+=19
+0.2500
+0.2500
+0.2500
+0.2500
+1.0000
+=20
+0.2500
+0.2500
+0.2500
+0.2500
+1.0000
+==:|!
+*>C
+0.5000
+0.7500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=14
+0.2500
+0.2500
+0.2500
+0.2500
+1.0000
+=15
+0.2500
+0.2500
+0.2500
+0.2500
+1.0000
+=16
+0.2500
+0.2500
+0.2500
+0.2500
+0.7500
+0.2500
+=17
+0.7500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=18
+0.2500
+0.2500
+0.2500
+0.2500
+1.0000
+=19
+0.2500
+0.2500
+0.2500
+0.2500
+1.0000
+=20
+0.2500
+0.2500
+0.2500
+0.2500
+1.0000
+==:|!
+*-
+!!!OTL: 160. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Major
+!!!Listening/dance:	dance
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[f#]
+*G:
+*M2/4
+*>A
+=1
+!LO:TX:a:i:t=G-major
+0.5000
+0.5000
+0.5000
+1.0000
+=2
+0.5000
+0.5000
+1.0000
+=3
+0.5000
+0.5000
+0.5000
+1.0000
+=4
+0.5000
+0.5000
+1.0000
+=5
+0.5000
+0.5000
+0.5000
+0.5000
+=6
+0.5000
+0.5000
+0.5000
+0.5000
+=7
+0.5000
+0.5000
+0.5000
+0.5000
+*>A1
+=8
+0.5000
+0.5000
+1.0000
+*>A
+=1
+!LO:TX:a:i:t=G-major
+0.5000
+0.5000
+0.5000
+1.0000
+=2
+0.5000
+0.5000
+1.0000
+=3
+0.5000
+0.5000
+0.5000
+1.0000
+=4
+0.5000
+0.5000
+1.0000
+=5
+0.5000
+0.5000
+0.5000
+0.5000
+=6
+0.5000
+0.5000
+0.5000
+0.5000
+=7
+0.5000
+0.5000
+0.5000
+0.5000
+*>A2
+=9:|!
+1.5000
+0.5000
+=10!|:
+!!!Begin-Modulation
+*G:
+=19!|:
+*>C
+!LO:TX:a:i:t=G-major
+2.0000
+=20
+2.0000
+=21
+0.5000
+0.5000
+0.5000
+0.5000
+=22
+2.0000
+=23
+0.5000
+0.5000
+0.5000
+0.5000
+=24
+2.0000
+=25
+0.5000
+0.5000
+0.5000
+0.5000
+=26
+2.0000
+=27
+0.5000
+0.5000
+0.5000
+0.5000
+*>C1
+=28
+0.5000
+0.5000
+0.3333
+0.3333
+0.3333
+=29
+2.0000
+=30
+2.0000
+*>C
+!LO:TX:a:i:t=G-major
+2.0000
+=20
+2.0000
+=21
+0.5000
+0.5000
+0.5000
+0.5000
+=22
+2.0000
+=23
+0.5000
+0.5000
+0.5000
+0.5000
+=24
+2.0000
+=25
+0.5000
+0.5000
+0.5000
+0.5000
+=26
+2.0000
+=27
+0.5000
+0.5000
+0.5000
+0.5000
+*>C2
+=31:|!
+0.5000
+0.5000
+0.5000
+0.5000
+=32
+2.0000
+=33
+!LO:TX:b:Bi:t=Dal Segno al Fine
+1.0000
+1.0000
+==
+*-
+!!!OTL: 161. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Major
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[f#]
+*G:
+*M2/4
+*>A
+=1
+0.5000
+0.2500
+0.2500
+0.5000
+0.5000
+=2
+0.2500
+0.2500
+0.5000
+0.2500
+0.2500
+0.5000
+0.5000
+=3
+0.5000
+0.2500
+0.2500
+0.5000
+0.5000
+=4
+0.2500
+0.2500
+0.2500
+0.2500
+1.0000
+=5:|!|:
+*>A
+=1
+0.5000
+0.2500
+0.2500
+0.5000
+0.5000
+=2
+0.2500
+0.2500
+0.5000
+0.2500
+0.2500
+0.5000
+0.5000
+=3
+0.5000
+0.2500
+0.2500
+0.5000
+0.5000
+=4
+0.2500
+0.2500
+0.2500
+0.2500
+1.0000
+=5:|!|:
+*>B
+0.7500
+0.2500
+0.7500
+0.2500
+=6
+0.2500
+0.2500
+0.2500
+0.2500
+0.5000
+0.5000
+=7
+0.5000
+0.5000
+0.2500
+0.2500
+0.2500
+0.2500
+*>B1
+=8
+0.5000
+0.5000
+1.0000
+*>B
+0.7500
+0.2500
+0.7500
+0.2500
+=6
+0.2500
+0.2500
+0.2500
+0.2500
+0.5000
+0.5000
+=7
+0.5000
+0.5000
+0.2500
+0.2500
+0.2500
+0.2500
+*>B2
+=9:|!
+1.0000
+1.0000
+=10!|:
+*>C
+0.5000
+0.5000
+0.2500
+0.2500
+0.5000
+0.5000
+0.2500
+0.2500
+=11
+0.5000
+0.5000
+1.0000
+=12
+0.2500
+0.5000
+0.2500
+0.2500
+0.2500
+0.2500
+0.5000
+0.2500
+0.2500
+0.2500
+*>C1
+=13
+0.5000
+0.5000
+1.0000
+*>C
+0.5000
+0.5000
+0.2500
+0.2500
+0.5000
+0.5000
+0.2500
+0.2500
+=11
+0.5000
+0.5000
+1.0000
+=12
+0.2500
+0.5000
+0.2500
+0.2500
+0.2500
+0.2500
+0.5000
+0.2500
+0.2500
+0.2500
+*>C2
+=14:|!
+1.0000
+1.0000
+==
+*-
+!!!OTL: 162. Hopke
+!!!Genre:	Hopke
+!!!Mode:	Major
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[f#]
+*G:
+*M2/4
+*>A
+=1
+0.7500
+0.2500
+0.7500
+0.2500
+=2
+0.7500
+0.2500
+1.0000
+=3
+0.7500
+0.2500
+1.0000
+=4
+0.7500
+0.2500
+1.0000
+=5
+0.7500
+0.2500
+0.7500
+0.2500
+=6
+1.0000
+0.2500
+0.2500
+0.2500
+0.2500
+=7
+1.0000
+0.2500
+0.2500
+0.2500
+0.2500
+*>A1
+=8
+1.0000
+1.0000
+*>A
+=1
+0.7500
+0.2500
+0.7500
+0.2500
+=2
+0.7500
+0.2500
+1.0000
+=3
+0.7500
+0.2500
+1.0000
+=4
+0.7500
+0.2500
+1.0000
+=5
+0.7500
+0.2500
+0.7500
+0.2500
+=6
+1.0000
+0.2500
+0.2500
+0.2500
+0.2500
+=7
+1.0000
+0.2500
+0.2500
+0.2500
+0.2500
+*>A2
+=9:|!
+1.0000
+!LO:TX:b:Bi:t=Fine
+0.5000
+0.5000
+=10!|:
+*>B
+0.7500
+0.2500
+0.7500
+0.2500
+=11
+0.5000
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=12
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=13
+0.2500
+0.2500
+0.2500
+0.2500
+1.0000
+=14:|!|:
+*>B
+0.7500
+0.2500
+0.7500
+0.2500
+=11
+0.5000
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=12
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=13
+0.2500
+0.2500
+0.2500
+0.2500
+1.0000
+=14:|!|:
+*>C
+1.5000
+0.5000
+=15
+2.0000
+=16
+0.2500
+0.2500
+0.2500
+0.2500
+0.7500
+0.2500
+=17
+2.0000
+=18
+1.5000
+0.5000
+=19
+2.0000
+=20
+0.2500
+0.2500
+0.2500
+0.2500
+0.7500
+0.2500
+=21
+2.0000
+=22:|!
+*>C
+1.5000
+0.5000
+=15
+2.0000
+=16
+0.2500
+0.2500
+0.2500
+0.2500
+0.7500
+0.2500
+=17
+2.0000
+=18
+1.5000
+0.5000
+=19
+2.0000
+=20
+0.2500
+0.2500
+0.2500
+0.2500
+0.7500
+0.2500
+=21
+2.0000
+=22:|!
+*>D
+1.0000
+0.2500
+0.2500
+0.2500
+0.2500
+=23
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=24
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=25
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=26
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=27
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=28
+0.5000
+1.0000
+0.2500
+0.2500
+=29
+0.2500
+0.2500
+!LO:TX:b:Bi:t=Da Capo al Fine
+0.2500
+0.2500
+0.5000
+0.5000
+==
+*-
+!!!OTL: 163. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Major
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[f#]
+*G:
+*M2/4
+*>A
+=1
+0.5000
+0.5000
+0.5000
+0.5000
+=2
+1.5000
+0.5000
+=3
+0.5000
+0.5000
+0.5000
+0.5000
+=4
+1.0000
+0.5000
+0.5000
+=5
+0.5000
+1.0000
+0.5000
+=6
+0.5000
+0.5000
+0.5000
+0.5000
+*>A1
+=7
+1.0000
+1.0000
+=8
+1.0000
+1.0000
+*>A
+=1
+0.5000
+0.5000
+0.5000
+0.5000
+=2
+1.5000
+0.5000
+=3
+0.5000
+0.5000
+0.5000
+0.5000
+=4
+1.0000
+0.5000
+0.5000
+=5
+0.5000
+1.0000
+0.5000
+=6
+0.5000
+0.5000
+0.5000
+0.5000
+*>A2
+=9:|!
+2.0000
+=10
+!LO:TX:b:Bi:t=Fine
+1.0000
+0.5000
+*>B
+0.5000
+=11
+1.0000
+1.0000
+=12
+1.0000
+1.0000
+=13
+0.5000
+0.5000
+0.5000
+0.5000
+=14
+0.5000
+0.5000
+1.0000
+=15
+1.0000
+1.0000
+=16
+0.7500
+0.1250
+0.1250
+0.5000
+0.5000
+=17
+1.0000
+1.0000
+=18
+1.5000
+0.5000
+=19
+1.0000
+1.0000
+=20
+1.0000
+1.0000
+=21
+0.5000
+0.5000
+0.5000
+0.5000
+=22
+0.5000
+0.5000
+1.0000
+=23
+0.5000
+0.5000
+0.5000
+0.5000
+=24
+0.5000
+0.5000
+0.5000
+0.5000
+=25
+2.0000
+=26||
+0.5000
+*>C
+0.5000
+0.5000
+0.5000
+=27
+2.0000
+=28
+2.0000
+=29
+1.0000
+1.0000
+=30
+1.0000
+1.0000
+=31
+0.2500
+0.2500
+1.0000
+0.2500
+0.2500
+=32
+0.2500
+0.2500
+1.0000
+0.5000
+=33
+0.5000
+0.5000
+0.5000
+0.5000
+=34
+1.0000
+0.5000
+0.5000
+=35
+0.5000
+0.5000
+1.0000
+=36
+0.5000
+0.5000
+1.0000
+=37
+0.2500
+0.2500
+0.5000
+0.5000
+0.5000
+0.5000
+=38
+0.5000
+0.5000
+0.5000
+0.5000
+=39
+0.5000
+0.5000
+1.0000
+=40
+0.5000
+0.5000
+1.0000
+=41
+0.2500
+0.2500
+0.5000
+0.5000
+0.5000
+0.5000
+=42
+!LO:TX:b:Bi:t=Da Capo al Fine
+1.5000
+0.5000
+==
+*-
+!!!OTL: 164. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Major
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[f#]
+*G:
+*M2/4
+*>A
+=1
+0.1111
+0.1111
+0.1111
+0.1111
+0.1111
+0.1111
+0.1111
+0.1111
+0.1111
+0.5000
+0.5000
+=2
+0.1111
+0.1111
+0.1111
+0.1111
+0.1111
+0.1111
+0.1111
+0.1111
+0.1111
+0.5000
+0.5000
+=3
+0.1250
+0.1250
+0.1250
+0.1250
+0.1250
+0.1250
+0.1250
+0.1250
+0.1250
+0.1250
+0.1250
+0.1250
+0.1250
+0.1250
+0.1250
+0.1250
+=4
+0.1250
+0.1250
+0.1250
+0.1250
+0.1250
+0.1250
+0.1250
+0.1250
+0.1250
+0.1250
+0.1250
+0.1250
+0.1250
+0.1250
+0.1250
+0.1250
+=5
+0.2500
+0.2500
+0.5000
+0.5000
+0.1250
+0.1250
+0.1250
+0.1250
+0.2500
+0.2500
+=6
+0.2500
+0.2500
+0.5000
+0.5000
+0.5000
+=7
+0.2500
+0.2500
+0.5000
+0.1250
+0.1250
+0.1250
+0.1250
+0.2500
+0.2500
+=8
+0.2500
+0.2500
+0.5000
+0.5000
+0.5000
+=9
+0.2500
+0.2500
+0.5000
+0.1250
+0.1250
+0.1250
+0.1250
+0.2500
+0.2500
+=10
+2.0000
+=11
+0.2500
+0.2500
+0.5000
+0.5000
+0.5000
+=12
+0.2500
+0.2500
+0.5000
+0.5000
+0.5000
+=13
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=
+!LO:TX:b:Bi:t=Fine
+1.0000
+0.5000
+=14||
+*>B
+0.5000
+=15
+0.5000
+1.5000
+0.5000
+=16
+0.5000
+1.5000
+0.5000
+=17
+0.5000
+0.5000
+0.2500
+0.2500
+0.5000
+0.2500
+0.2500
+=18
+0.5000
+0.2500
+0.2500
+0.5000
+0.5000
+=19
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=20
+0.2500
+0.2500
+0.5000
+0.5000
+0.5000
+=21
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=22
+0.2500
+0.5000
+0.2500
+0.5000
+0.5000
+0.5000
+=23
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=24
+2.0000
+=25
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=
+1.0000
+0.5000
+=26||
+*>C
+0.5000
+=27
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=28
+0.2500
+0.2500
+0.2500
+0.2500
+0.5000
+0.5000
+=29
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=30
+0.2500
+0.2500
+0.2500
+0.2500
+0.5000
+0.5000
+=31
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=32
+0.2500
+0.2500
+0.2500
+0.2500
+1.0000
+=33
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=34
+!LO:TX:b:Bi:t=Da Capo al Fine
+1.0000
+1.0000
+==
+*-
+!!!OTL: 165. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Major
+!!!Listening/dance:	dance
+!!!:	*D:
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[f#]
+*G:
+*M2/4
+*>A
+=1
+!LO:TX:a:i:t=G-major
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=2
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=3
+0.5000
+1.0000
+0.5000
+=4
+0.2500
+0.2500
+0.2500
+0.2500
+0.5000
+0.5000
+=5
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=6
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=7
+0.5000
+1.0000
+0.5000
+=8
+0.2500
+0.2500
+0.2500
+0.2500
+0.5000
+0.5000
+=9:|!|:
+*>A
+=1
+!LO:TX:a:i:t=G-major
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=2
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=3
+0.5000
+1.0000
+0.5000
+=4
+0.2500
+0.2500
+0.2500
+0.2500
+0.5000
+0.5000
+=5
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=6
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=7
+0.5000
+1.0000
+0.5000
+=8
+0.2500
+0.2500
+0.2500
+0.2500
+0.5000
+0.5000
+=9:|!|:
+*>B
+*k[f#c#]
+!!!Begin-Modulation
+*G:
+!LO:TX:a:i:t=G-major
+1.0000
+0.5000
+0.5000
+0.2500
+0.2500
+=18
+0.2500
+0.2500
+0.5000
+0.2500
+0.2500
+0.2500
+0.2500
+=19
+0.5000
+1.0000
+0.5000
+=20
+0.2500
+0.2500
+0.2500
+0.2500
+0.5000
+0.5000
+=21
+1.0000
+0.5000
+0.5000
+0.2500
+0.2500
+=22
+0.2500
+0.2500
+0.5000
+0.2500
+0.2500
+0.2500
+0.2500
+=23
+0.5000
+1.0000
+0.5000
+=24
+0.2500
+0.2500
+0.2500
+0.2500
+0.5000
+0.5000
+==:|!
+*>C
+0.5000
+=17:|!|:
+*k[f#]
+!!!End-Modulation
+*G:
+!LO:TX:a:i:t=G-major
+1.0000
+0.5000
+0.5000
+0.2500
+0.2500
+=18
+0.2500
+0.2500
+0.5000
+0.2500
+0.2500
+0.2500
+0.2500
+=19
+0.5000
+1.0000
+0.5000
+=20
+0.2500
+0.2500
+0.2500
+0.2500
+0.5000
+0.5000
+=21
+1.0000
+0.5000
+0.5000
+0.2500
+0.2500
+=22
+0.2500
+0.2500
+0.5000
+0.2500
+0.2500
+0.2500
+0.2500
+=23
+0.5000
+1.0000
+0.5000
+=24
+0.2500
+0.2500
+0.2500
+0.2500
+0.5000
+0.5000
+==:|!
+*-
+!!!OTL: 166. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Major
+!!!Listening/dance:	dance
+!!!:	*g:
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[f#]
+*G:
+*M2/4
+*>A
+!LO:TX:a:i:t=G-major
+0.5000
+=1
+0.2500
+0.2500
+0.5000
+0.5000
+0.5000
+=2
+0.5000
+0.5000
+1.0000
+0.5000
+=3
+0.2500
+0.2500
+0.5000
+0.5000
+0.5000
+*>A1
+=4
+0.2500
+0.2500
+1.0000
+*>A
+!LO:TX:a:i:t=G-major
+0.5000
+=1
+0.2500
+0.2500
+0.5000
+0.5000
+0.5000
+=2
+0.5000
+0.5000
+1.0000
+0.5000
+=3
+0.2500
+0.2500
+0.5000
+0.5000
+0.5000
+*>A2
+=5:|!
+0.2500
+0.2500
+!LO:TX:b:Bi:t=Fine
+0.5000
+0.5000
+*>B
+0.5000
+=6||
+*k[b-e-]
+!!!Begin-Modulation
+*-
+!!!OTL: 167. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Major
+!!!Listening/dance:	dance
+!!!:	*g:
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[f#]
+*G:
+*M2/4
+*>A
+=1
+!LO:TX:a:i:t=G-major
+1.0000
+0.2500
+0.2500
+0.2500
+0.2500
+=2
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=3
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=4
+0.5000
+0.5000
+0.5000
+0.5000
+=5
+1.0000
+0.2500
+0.2500
+0.2500
+0.2500
+=6
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=7
+0.5000
+0.5000
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=8
+2.0000
+=9!|:
+*>B
+*k[b-e-]
+!!!Begin-Modulation
+*G:
+!LO:TX:a:i:t=G-major
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=14
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=15
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=16
+0.2500
+0.2500
+0.2500
+0.2500
+1.0000
+=:|!
+*>C
+*k[f#]
+!!!End-Modulation
+*G:
+!LO:TX:a:i:t=G-major
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=14
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=15
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=16
+0.2500
+0.2500
+0.2500
+0.2500
+1.0000
+=:|!
+*-
+!!!OTL: 168. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Major (Mixolydian)
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[f#]
+*G:
+*M2/4
+*>A
+0.5000
+=1!|:
+1.5000
+0.2500
+0.2500
+=2
+1.5000
+0.2500
+0.2500
+=3
+0.5000
+0.2500
+0.2500
+0.5000
+0.2500
+0.2500
+=4
+1.5000
+0.5000
+=5
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.5000
+=6
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.5000
+=7
+0.5000
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=8
+1.0000
+1.0000
+=9
+0.2500
+0.2500
+0.2500
+0.2500
+0.5000
+0.2500
+0.2500
+=10
+0.2500
+0.2500
+0.2500
+0.2500
+0.5000
+0.2500
+0.2500
+=11
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+*>A1
+=12
+1.0000
+1.0000
+*>A
+0.5000
+=1!|:
+1.5000
+0.2500
+0.2500
+=2
+1.5000
+0.2500
+0.2500
+=3
+0.5000
+0.2500
+0.2500
+0.5000
+0.2500
+0.2500
+=4
+1.5000
+0.5000
+=5
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.5000
+=6
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.5000
+=7
+0.5000
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=8
+1.0000
+1.0000
+=9
+0.2500
+0.2500
+0.2500
+0.2500
+0.5000
+0.2500
+0.2500
+=10
+0.2500
+0.2500
+0.2500
+0.2500
+0.5000
+0.2500
+0.2500
+=11
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+*>A2
+=13:|!
+2.0000
+=14||
+*>B
+!LO:TX:a:t="Segno"
+0.7500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=15
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=16
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=17
+1.0000
+1.0000
+=18
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=19
+0.2500
+0.2500
+0.2500
+0.2500
+0.5000
+0.2500
+0.2500
+=20
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=21
+!LO:TX:b:Bi:t=Fine
+2.0000
+=22!|:
+*>C
+2.0000
+=23
+2.0000
+=24
+1.0000
+1.0000
+=25
+1.0000
+1.0000
+=26
+0.2500
+0.2500
+0.5000
+0.2500
+0.2500
+0.5000
+=27
+0.5000
+0.5000
+1.0000
+=28
+0.2500
+0.2500
+0.5000
+0.2500
+0.2500
+0.5000
+=29
+0.5000
+0.5000
+1.0000
+=30
+0.2500
+0.2500
+0.5000
+0.2500
+0.2500
+0.5000
+=31
+0.2500
+0.2500
+0.2500
+0.2500
+0.5000
+0.2500
+0.2500
+=32
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=33
+!LO:TX:b:Bi:t=Dal Segno al Fine
+2.0000
+==:!|
+*>C
+2.0000
+=23
+2.0000
+=24
+1.0000
+1.0000
+=25
+1.0000
+1.0000
+=26
+0.2500
+0.2500
+0.5000
+0.2500
+0.2500
+0.5000
+=27
+0.5000
+0.5000
+1.0000
+=28
+0.2500
+0.2500
+0.5000
+0.2500
+0.2500
+0.5000
+=29
+0.5000
+0.5000
+1.0000
+=30
+0.2500
+0.2500
+0.5000
+0.2500
+0.2500
+0.5000
+=31
+0.2500
+0.2500
+0.2500
+0.2500
+0.5000
+0.2500
+0.2500
+=32
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=33
+!LO:TX:b:Bi:t=Dal Segno al Fine
+2.0000
+==:!|
+*-
+!!!OTL: 169. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Major (Mixolydian)
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[f#]
+*G:
+*M2/4
+*>A
+=1
+0.5000
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=2
+0.2500
+0.2500
+0.2500
+0.2500
+0.5000
+0.2500
+0.2500
+=3
+0.5000
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=4
+0.2500
+0.2500
+0.2500
+0.2500
+1.0000
+=5
+0.5000
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=6
+0.2500
+0.2500
+0.2500
+0.2500
+0.5000
+0.2500
+0.2500
+=7
+0.5000
+0.5000
+0.5000
+0.2500
+0.2500
+0.2500
+0.2500
+*>A1
+=8
+1.0000
+1.0000
+*>A
+=1
+0.5000
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=2
+0.2500
+0.2500
+0.2500
+0.2500
+0.5000
+0.2500
+0.2500
+=3
+0.5000
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=4
+0.2500
+0.2500
+0.2500
+0.2500
+1.0000
+=5
+0.5000
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=6
+0.2500
+0.2500
+0.2500
+0.2500
+0.5000
+0.2500
+0.2500
+=7
+0.5000
+0.5000
+0.5000
+0.2500
+0.2500
+0.2500
+0.2500
+*>A2
+=:|!
+1.5000
+=9||
+*>B
+0.5000
+=10
+1.0000
+0.2500
+0.2500
+0.2500
+0.2500
+=11
+1.0000
+0.2500
+0.2500
+0.2500
+0.2500
+=12
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=13
+0.2500
+0.2500
+0.2500
+0.2500
+1.0000
+=14
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=15
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=16
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=17
+1.0000
+1.0000
+=18
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=19
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=20
+0.5000
+0.5000
+0.5000
+0.2500
+0.2500
+0.2500
+0.2500
+=21
+2.0000
+==
+*-
+!!!OTL: 170. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Major (Mixolydian)
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[f#]
+*G:
+*M2/4
+*>A
+=1
+0.5000
+0.5000
+0.5000
+0.5000
+=2
+0.5000
+0.5000
+0.5000
+0.5000
+=3
+0.5000
+0.5000
+0.5000
+0.5000
+0.5000
+=4
+0.7500
+0.2500
+0.2500
+0.2500
+0.5000
+=5
+0.5000
+0.5000
+0.2500
+0.2500
+0.5000
+=6
+1.0000
+0.2500
+0.2500
+0.5000
+*>A1
+=7
+2.0000
+=8
+2.0000
+*>A
+=1
+0.5000
+0.5000
+0.5000
+0.5000
+=2
+0.5000
+0.5000
+0.5000
+0.5000
+=3
+0.5000
+0.5000
+0.5000
+0.5000
+0.5000
+=4
+0.7500
+0.2500
+0.2500
+0.2500
+0.5000
+=5
+0.5000
+0.5000
+0.2500
+0.2500
+0.5000
+=6
+1.0000
+0.2500
+0.2500
+0.5000
+*>A2
+=9:|!
+2.0000
+=10
+1.0000
+1.0000
+=11||
+*>B
+0.5000
+0.5000
+0.5000
+0.5000
+=12
+1.5000
+0.5000
+=13
+0.7500
+0.2500
+0.5000
+0.5000
+=14
+2.0000
+=15
+1.5000
+0.5000
+=16
+0.7500
+0.2500
+0.2500
+0.2500
+0.5000
+=17
+0.5000
+0.5000
+0.5000
+0.5000
+=18
+1.5000
+0.5000
+=19
+0.5000
+0.2500
+0.2500
+0.5000
+0.5000
+=20
+0.5000
+0.2500
+0.2500
+0.5000
+0.5000
+=21
+0.5000
+0.5000
+0.2500
+0.2500
+0.5000
+=22
+1.0000
+0.2500
+0.2500
+0.5000
+=23
+2.0000
+=24
+1.0000
+1.0000
+=25||
+*>C
+1.0000
+0.5000
+0.5000
+=26
+0.5000
+0.2500
+0.2500
+0.5000
+0.5000
+=27
+0.5000
+0.5000
+0.5000
+0.5000
+=28
+0.5000
+0.2500
+0.2500
+0.5000
+0.5000
+=29
+1.0000
+0.5000
+0.5000
+=30
+0.5000
+0.5000
+0.5000
+0.5000
+=31
+0.2500
+0.2500
+1.5000
+=32
+0.5000
+0.2500
+0.2500
+1.0000
+=33
+1.0000
+0.5000
+0.5000
+=34
+0.5000
+0.2500
+0.2500
+0.5000
+0.5000
+=35
+0.5000
+0.5000
+0.5000
+0.5000
+=36
+0.5000
+0.2500
+0.2500
+0.5000
+0.5000
+=37
+0.5000
+0.5000
+0.5000
+0.5000
+=38
+1.0000
+0.2500
+0.2500
+0.5000
+=39
+2.0000
+=40
+1.0000
+1.0000
+==
+*-
+!!!OTL: 171. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Major (Mixolydian)
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[f#]
+*G:
+*M2/4
+*>A
+=1
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.5000
+=2
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.5000
+=3
+0.5000
+0.5000
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=4
+1.0000
+0.5000
+1.0000
+=5
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.5000
+=6
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.5000
+=7
+0.5000
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=8
+2.0000
+=9:|!|:
+*>A
+=1
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.5000
+=2
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.5000
+=3
+0.5000
+0.5000
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=4
+1.0000
+0.5000
+1.0000
+=5
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.5000
+=6
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.5000
+=7
+0.5000
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=8
+2.0000
+=9:|!|:
+*>B
+1.0000
+0.2500
+0.2500
+0.2500
+0.2500
+=10
+1.0000
+0.2500
+0.2500
+0.2500
+0.2500
+=11
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=12
+0.2500
+0.2500
+0.2500
+0.2500
+1.0000
+=13
+0.2500
+0.2500
+0.5000
+0.5000
+0.2500
+0.2500
+=14
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.5000
+=15
+0.2500
+0.2500
+0.5000
+0.5000
+0.2500
+0.2500
+=16
+0.2500
+0.2500
+0.2500
+0.2500
+1.0000
+=17
+0.2500
+0.2500
+0.5000
+0.5000
+0.2500
+0.2500
+=18
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.5000
+=19
+0.2500
+0.2500
+0.5000
+0.5000
+0.2500
+0.2500
+=20
+0.2500
+0.2500
+0.2500
+0.2500
+1.0000
+==:!|
+*>B
+1.0000
+0.2500
+0.2500
+0.2500
+0.2500
+=10
+1.0000
+0.2500
+0.2500
+0.2500
+0.2500
+=11
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=12
+0.2500
+0.2500
+0.2500
+0.2500
+1.0000
+=13
+0.2500
+0.2500
+0.5000
+0.5000
+0.2500
+0.2500
+=14
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.5000
+=15
+0.2500
+0.2500
+0.5000
+0.5000
+0.2500
+0.2500
+=16
+0.2500
+0.2500
+0.2500
+0.2500
+1.0000
+=17
+0.2500
+0.2500
+0.5000
+0.5000
+0.2500
+0.2500
+=18
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.5000
+=19
+0.2500
+0.2500
+0.5000
+0.5000
+0.2500
+0.2500
+=20
+0.2500
+0.2500
+0.2500
+0.2500
+1.0000
+==:!|
+*-
+!!!OTL: 172. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Major (Mixolydian)
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[f#]
+*G:
+*M2/4
+*>A
+=1
+0.5000
+0.5000
+0.5000
+0.5000
+=2
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=3
+0.2500
+0.2500
+0.5000
+0.2500
+0.2500
+0.2500
+0.2500
+0.5000
+0.2500
+0.2500
+*>A1
+=4
+0.5000
+0.5000
+0.5000
+1.0000
+*>A
+=1
+0.5000
+0.5000
+0.5000
+0.5000
+=2
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=3
+0.2500
+0.2500
+0.5000
+0.2500
+0.2500
+0.2500
+0.2500
+0.5000
+0.2500
+0.2500
+*>A2
+=5:|!
+2.0000
+=6!|:
+*>B
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.5000
+=7
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=8
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+*>B1
+=9
+0.5000
+0.5000
+1.0000
+*>B
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.5000
+=7
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=8
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+*>B2
+=10:|!
+2.0000
+=11!|:
+*>C
+0.5000
+0.5000
+0.5000
+0.5000
+0.5000
+0.5000
+=12
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=13
+0.2500
+0.2500
+0.5000
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+*>C1
+=14
+0.5000
+0.5000
+1.0000
+*>C
+0.5000
+0.5000
+0.5000
+0.5000
+0.5000
+0.5000
+=12
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=13
+0.2500
+0.2500
+0.5000
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+*>C2
+=15:|!
+2.0000
+==
+*-
+!!!OTL: 173. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Major (Mixolydian)
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[f#]
+*G:
+*M2/4
+*>A
+=1
+0.5000
+0.5000
+0.5000
+0.5000
+=2
+0.5000
+0.5000
+0.5000
+0.5000
+=3
+0.5000
+0.5000
+0.5000
+0.2500
+0.2500
+0.5000
+=4
+0.5000
+0.5000
+1.0000
+0.5000
+=5
+0.5000
+0.5000
+0.5000
+0.5000
+=6
+0.5000
+0.5000
+0.5000
+0.5000
+=7
+0.5000
+0.5000
+0.5000
+0.2500
+0.2500
+0.5000
+=8
+2.0000
+=9||
+*>B
+0.7500
+0.2500
+0.3333
+0.3333
+0.3333
+=10
+1.5000
+0.5000
+=11
+0.5000
+0.5000
+0.5000
+0.5000
+=12
+0.5000
+1.0000
+0.5000
+=13
+0.7500
+0.2500
+0.3333
+0.3333
+0.3333
+=14
+1.5000
+0.5000
+=15
+0.5000
+0.5000
+0.5000
+0.5000
+=16
+0.5000
+1.0000
+0.5000
+=17
+0.5000
+0.5000
+0.5000
+0.5000
+=18
+0.5000
+0.5000
+1.0000
+0.5000
+=19
+0.5000
+0.5000
+0.5000
+0.5000
+0.5000
+=20
+0.5000
+0.5000
+1.0000
+0.5000
+=21
+0.5000
+0.5000
+0.5000
+0.5000
+=22
+0.5000
+1.0000
+0.5000
+=23
+0.5000
+0.5000
+0.5000
+0.5000
+0.5000
+=24
+2.0000
+==
+*-
+!!!OTL: 174. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Major (Mixolydian)
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[]
+*G:
+*M2/4
+*>A
+=1
+1.0000
+0.2500
+0.2500
+0.5000
+=2
+0.2500
+0.2500
+0.5000
+1.0000
+=3
+1.0000
+0.2500
+0.2500
+0.5000
+=4
+0.5000
+0.5000
+0.2500
+0.2500
+0.5000
+0.5000
+=5
+1.0000
+0.2500
+0.2500
+0.5000
+=6
+0.2500
+0.2500
+0.5000
+1.0000
+=7
+0.7500
+0.2500
+0.2500
+0.2500
+0.5000
+=8
+0.2500
+0.2500
+0.5000
+0.5000
+0.1667
+0.1667
+0.1667
+0.5000
+=9!|:
+*>B
+1.0000
+1.0000
+=10
+0.2500
+0.2500
+1.0000
+0.5000
+=11
+0.2500
+0.2500
+0.5000
+0.2500
+0.2500
+0.5000
+=12
+0.5000
+0.5000
+0.5000
+0.5000
+=13
+1.0000
+1.0000
+=14
+1.5000
+0.5000
+=15
+0.2500
+0.2500
+0.5000
+0.2500
+0.2500
+0.5000
+*>B1
+=16
+1.0000
+1.0000
+*>B
+1.0000
+1.0000
+=10
+0.2500
+0.2500
+1.0000
+0.5000
+=11
+0.2500
+0.2500
+0.5000
+0.2500
+0.2500
+0.5000
+=12
+0.5000
+0.5000
+0.5000
+0.5000
+=13
+1.0000
+1.0000
+=14
+1.5000
+0.5000
+=15
+0.2500
+0.2500
+0.5000
+0.2500
+0.2500
+0.5000
+*>B2
+=17:|!
+1.0000
+1.0000
+==
+*-
+!!!OTL: 175. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Major
+!!!Listening/dance:	dance
+!!!:	*g:dor
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[f#]
+*G:
+*M2/4
+*>A
+=1
+!LO:TX:a:i:t=G-major
+0.5000
+1.0000
+0.5000
+=2
+0.5000
+0.5000
+0.5000
+0.5000
+=3
+0.5000
+1.0000
+0.5000
+=4
+0.5000
+0.5000
+0.5000
+0.5000
+=5
+0.5000
+1.0000
+0.5000
+=6
+0.5000
+0.5000
+0.5000
+0.5000
+=7
+0.5000
+0.5000
+0.5000
+0.5000
+=8
+2.0000
+=9:|!
+*k[b-]
+!!!Begin-Modulation
+*-
+!!!OTL: 176. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Major
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[f#]
+*G:
+*M2/4
+*>A
+0.5000
+=1
+0.5000
+0.5000
+0.5000
+0.5000
+=2
+1.5000
+0.5000
+=3
+0.5000
+0.5000
+1.0000
+=4
+0.1667
+0.1667
+0.1667
+1.0000
+0.5000
+=5
+0.5000
+0.5000
+1.0000
+0.5000
+=6
+0.5000
+0.5000
+0.5000
+0.5000
+=7
+2.0000
+=8
+0.5000
+1.0000
+0.5000
+0.5000
+=9
+0.5000
+0.5000
+0.5000
+0.5000
+=10
+1.5000
+0.5000
+=11
+0.5000
+0.5000
+1.0000
+=12
+0.1667
+0.1667
+0.1667
+1.0000
+0.5000
+=13
+0.5000
+0.5000
+1.0000
+0.5000
+=14
+0.5000
+0.5000
+0.5000
+0.5000
+=15
+2.0000
+=
+1.0000
+0.5000
+=16:|!|:
+0.5000
+=17
+*>A
+0.5000
+=1
+0.5000
+0.5000
+0.5000
+0.5000
+=2
+1.5000
+0.5000
+=3
+0.5000
+0.5000
+1.0000
+=4
+0.1667
+0.1667
+0.1667
+1.0000
+0.5000
+=5
+0.5000
+0.5000
+1.0000
+0.5000
+=6
+0.5000
+0.5000
+0.5000
+0.5000
+=7
+2.0000
+=8
+0.5000
+1.0000
+0.5000
+0.5000
+=9
+0.5000
+0.5000
+0.5000
+0.5000
+=10
+1.5000
+0.5000
+=11
+0.5000
+0.5000
+1.0000
+=12
+0.1667
+0.1667
+0.1667
+1.0000
+0.5000
+=13
+0.5000
+0.5000
+1.0000
+0.5000
+=14
+0.5000
+0.5000
+0.5000
+0.5000
+=15
+2.0000
+=
+1.0000
+0.5000
+=16:|!|:
+0.5000
+=17
+*>B
+0.5000
+0.5000
+0.5000
+0.5000
+0.5000
+=18
+1.5000
+0.5000
+=19
+0.5000
+0.5000
+0.5000
+0.5000
+0.5000
+=20
+*^
+0.5000	1.0000
+0.5000	.
+0.5000	0.5000
+0.5000	0.5000
+*v	*v
+=21
+0.5000
+0.5000
+1.0000
+0.5000
+=22
+0.5000
+0.5000
+0.5000
+0.5000
+=23
+2.0000
+=24
+1.0000
+0.5000
+0.5000
+=25
+0.5000
+0.5000
+0.5000
+0.5000
+0.5000
+=26
+1.5000
+0.5000
+=27
+0.5000
+0.5000
+0.5000
+0.5000
+0.5000
+=28
+1.0000
+0.5000
+0.5000
+=29
+0.5000
+0.5000
+1.0000
+0.5000
+=30
+0.5000
+0.5000
+0.5000
+0.5000
+0.5000
+0.5000
+=31
+2.0000
+=32
+1.0000
+1.0000
+==
+*>B
+0.5000
+0.5000
+0.5000
+0.5000
+0.5000
+=18
+1.5000
+0.5000
+=19
+0.5000
+0.5000
+0.5000
+0.5000
+0.5000
+=20
+*^
+0.5000	1.0000
+0.5000	.
+0.5000	0.5000
+0.5000	0.5000
+*v	*v
+=21
+0.5000
+0.5000
+1.0000
+0.5000
+=22
+0.5000
+0.5000
+0.5000
+0.5000
+=23
+2.0000
+=24
+1.0000
+0.5000
+0.5000
+=25
+0.5000
+0.5000
+0.5000
+0.5000
+0.5000
+=26
+1.5000
+0.5000
+=27
+0.5000
+0.5000
+0.5000
+0.5000
+0.5000
+=28
+1.0000
+0.5000
+0.5000
+=29
+0.5000
+0.5000
+1.0000
+0.5000
+=30
+0.5000
+0.5000
+0.5000
+0.5000
+0.5000
+0.5000
+=31
+2.0000
+=32
+1.0000
+1.0000
+==
+*-
+!!!OTL: 177. Sher
+!!!Genre:	Sher
+!!!Mode:	Freygish
+!!!Listening/dance:	dance
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 178. Sher
+!!!Genre:	Sher
+!!!Mode:	Freygish
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 179. Sher
+!!!Genre:	Sher
+!!!Mode:	Freygish
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 180. Sher
+!!!Genre:	Sher
+!!!Mode:	Freygish
+!!!Listening/dance:	dance
+!!!:	*C:
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 181. Sher
+!!!Genre:	Sher
+!!!Mode:	Freygish
+!!!Listening/dance:	dance
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 182. Sher
+!!!Genre:	Sher
+!!!Mode:	Freygish
+!!!Listening/dance:	dance
+!!!:	*c:
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 183. Sher
+!!!Genre:	Sher
+!!!Mode:	Freygish
+!!!Listening/dance:	dance
+!!!:	*c:
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 184. Sher
+!!!Genre:	Sher
+!!!Mode:	Altered Dorian
+!!!Listening/dance:	dance
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-]
+*-
+!!!OTL: 185. Sher
+!!!Genre:	Sher
+!!!Mode:	Altered Dorian
+!!!Listening/dance:	dance
+!!!:	*G:
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-]
+*G:
+!LO:TX:a:i:t=G-major
+2.0000
+=18
+2.0000
+=19
+0.5000
+0.5000
+0.2500
+0.2500
+0.5000
+=20
+1.5000
+0.5000
+=21
+2.0000
+=22
+2.0000
+=23
+0.5000
+0.5000
+0.2500
+0.2500
+0.5000
+=24
+0.5000
+0.5000
+0.5000
+0.5000
+=25
+2.0000
+=26
+2.0000
+=27
+0.5000
+0.5000
+0.2500
+0.2500
+0.5000
+=28
+1.5000
+0.5000
+=29
+1.0000
+1.0000
+!!!End-Modulation
+*-
+!!!OTL: 186. Sher
+!!!Genre:	Sher
+!!!Mode:	Altered Dorian
+!!!Listening/dance:	dance
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-]
+*-
+!!!OTL: 187. Sher
+!!!Genre:	Sher
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 188. Sher
+!!!Genre:	Sher
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!:	*g:dor
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 189. Sher
+!!!Genre:	Sher
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!:	*g:
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*I"P1
+!!pagebreak:original
+*clefG2
+*k[b-e-]
+!!!Begin-Modulation
+*-
+!!!OTL: 190. Sher
+!!!Genre:	Sher
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!:	*g:dor
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 191. Sher
+!!!Genre:	Sher
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!:	*B-:
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 192. Sher
+!!!Genre:	Sher
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 193. Sher
+!!!Genre:	Sher
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 194. Sher
+!!!Genre:	Sher
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 195. Sher
+!!!Genre:	Sher
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 196. Sher
+!!!Genre:	Sher
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 197. Sher
+!!!Genre:	Sher
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 198. Sher
+!!!Genre:	Sher
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 199. Sher
+!!!Genre:	Sher
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!:	*B-:
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 200. Sher
+!!!Genre:	Sher
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 201. Sher
+!!!Genre:	Sher
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 202. Sher
+!!!Genre:	Sher
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 203. Sher
+!!!Genre:	Sher
+!!!Mode:	Major (Mixolydian)
+!!!Listening/dance:	dance
+!!!:	*g:dor
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[f#]
+*G:
+*M2/4
+*>intro
+=1
+!LO:TX:a:i:t=G-major
+2.0000
+=2
+2.0000
+*>A
+=3!|:
+!LO:TX:a:t="Segno"
+0.5000
+1.0000
+0.5000
+=4
+0.5000
+0.5000
+0.5000
+1.0000
+=5
+0.5000
+0.2500
+0.2500
+0.5000
+0.5000
+=6
+1.0000
+1.0000
+=7
+0.5000
+1.0000
+0.5000
+=8
+0.5000
+0.5000
+0.5000
+1.0000
+=9
+0.5000
+0.2500
+0.2500
+0.5000
+0.2500
+0.2500
+*>A1
+=10
+2.0000
+*>A
+=3!|:
+!LO:TX:a:t="Segno"
+0.5000
+1.0000
+0.5000
+=4
+0.5000
+0.5000
+0.5000
+1.0000
+=5
+0.5000
+0.2500
+0.2500
+0.5000
+0.5000
+=6
+1.0000
+1.0000
+=7
+0.5000
+1.0000
+0.5000
+=8
+0.5000
+0.5000
+0.5000
+1.0000
+=9
+0.5000
+0.2500
+0.2500
+0.5000
+0.2500
+0.2500
+*>A2
+=:|!
+1.5000
+=11!|:
+*>B
+0.5000
+=12
+0.5000
+0.5000
+0.5000
+1.0000
+=13
+0.5000
+0.5000
+0.5000
+1.0000
+=14
+0.7500
+0.2500
+0.5000
+0.5000
+=15
+0.5000
+0.5000
+1.0000
+0.5000
+=16
+0.5000
+0.5000
+0.5000
+1.0000
+=17
+0.5000
+0.5000
+0.5000
+1.0000
+=18
+0.5000
+0.5000
+0.5000
+0.5000
+0.5000
+=
+0.5000
+1.0000
+=19:|!|:
+*>B
+0.5000
+=12
+0.5000
+0.5000
+0.5000
+1.0000
+=13
+0.5000
+0.5000
+0.5000
+1.0000
+=14
+0.7500
+0.2500
+0.5000
+0.5000
+=15
+0.5000
+0.5000
+1.0000
+0.5000
+=16
+0.5000
+0.5000
+0.5000
+1.0000
+=17
+0.5000
+0.5000
+0.5000
+1.0000
+=18
+0.5000
+0.5000
+0.5000
+0.5000
+0.5000
+=
+0.5000
+1.0000
+=19:|!|:
+*>C
+0.2500
+0.2500
+=20
+0.5000
+0.5000
+1.0000
+=21
+0.5000
+0.5000
+1.0000
+=22
+0.5000
+0.5000
+0.5000
+0.5000
+*>C1
+=23
+1.0000
+0.5000
+*>C
+0.2500
+0.2500
+=20
+0.5000
+0.5000
+1.0000
+=21
+0.5000
+0.5000
+1.0000
+=22
+0.5000
+0.5000
+0.5000
+0.5000
+*>C2
+=24:|!
+1.0000
+1.0000
+=25||
+*>D
+0.2500
+0.2500
+1.0000
+0.5000
+=26
+0.5000
+0.5000
+1.0000
+=27
+0.2500
+0.2500
+1.0000
+0.5000
+=28
+0.2500
+0.2500
+0.2500
+0.2500
+1.0000
+=29
+0.2500
+0.2500
+1.0000
+0.5000
+=30
+0.5000
+0.5000
+0.5000
+0.5000
+=31
+1.5000
+0.2500
+0.2500
+=32
+2.0000
+=33
+0.2500
+0.2500
+1.0000
+0.5000
+=34
+0.5000
+0.5000
+1.0000
+=35
+0.2500
+0.2500
+1.0000
+0.5000
+=36
+0.2500
+0.2500
+0.5000
+1.0000
+=37
+0.5000
+0.5000
+0.5000
+0.5000
+=38
+0.5000
+0.5000
+0.5000
+0.5000
+=39
+2.0000
+=40
+!LO:TX:b:Bi:t=Fine
+1.0000
+1.0000
+=41||
+*>E
+*k[b-]
+*-
+!!!OTL: 204. Sher
+!!!Genre:	Sher
+!!!Mode:	Major
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[f#]
+*G:
+*M2/4
+*>A
+=1
+0.5000
+1.0000
+0.5000
+=2
+0.5000
+0.5000
+0.5000
+0.5000
+=3
+2.0000
+=4
+1.0000
+1.0000
+=5
+0.5000
+1.0000
+0.5000
+=6
+0.5000
+0.5000
+0.5000
+0.5000
+=7
+2.0000
+=8
+1.0000
+1.0000
+=9
+0.5000
+1.0000
+0.5000
+=10
+0.5000
+0.5000
+1.0000
+=11
+0.5000
+0.5000
+1.0000
+=12
+0.2500
+0.2500
+0.5000
+1.0000
+=13
+0.7500
+0.2500
+0.5000
+0.5000
+=14
+0.5000
+0.5000
+0.5000
+0.5000
+=15
+2.0000
+=16
+1.0000
+1.0000
+=17||
+*>B
+2.0000
+=18
+2.0000
+=19
+0.5000
+0.5000
+0.2500
+0.2500
+0.5000
+=20
+1.0000
+0.5000
+0.2500
+0.2500
+=21
+1.0000
+1.0000
+=22
+1.0000
+0.2500
+0.2500
+0.5000
+=23
+2.0000
+=24
+1.0000
+1.0000
+=25
+2.0000
+=26
+1.5000
+0.5000
+=27
+0.5000
+0.5000
+0.2500
+0.2500
+0.5000
+=28
+2.0000
+=29
+0.5000
+0.5000
+0.5000
+0.5000
+=30
+0.5000
+0.5000
+0.5000
+0.5000
+=31
+2.0000
+=32
+1.0000
+1.0000
+==
+*-
+!!!OTL: 205. Sher
+!!!Genre:	Sher
+!!!Mode:	Major
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[f#]
+*G:
+*M2/4
+*>A
+=1
+1.0000
+1.0000
+=2
+0.5000
+1.0000
+0.5000
+=3
+0.5000
+0.2500
+0.2500
+0.5000
+0.2500
+0.2500
+=4
+0.5000
+0.5000
+0.5000
+0.5000
+=5
+1.0000
+1.0000
+=6
+0.5000
+1.0000
+0.5000
+=7
+0.5000
+0.2500
+0.2500
+0.5000
+0.2500
+0.2500
+=8
+1.0000
+1.0000
+=9:|!|:
+*>A
+=1
+1.0000
+1.0000
+=2
+0.5000
+1.0000
+0.5000
+=3
+0.5000
+0.2500
+0.2500
+0.5000
+0.2500
+0.2500
+=4
+0.5000
+0.5000
+0.5000
+0.5000
+=5
+1.0000
+1.0000
+=6
+0.5000
+1.0000
+0.5000
+=7
+0.5000
+0.2500
+0.2500
+0.5000
+0.2500
+0.2500
+=8
+1.0000
+1.0000
+=9:|!|:
+*>B
+0.5000
+0.5000
+1.0000
+=10
+0.5000
+0.5000
+1.0000
+=11
+0.5000
+0.2500
+0.2500
+0.5000
+0.5000
+=12
+2.0000
+=13
+0.5000
+0.5000
+1.0000
+=14
+0.5000
+0.5000
+1.0000
+=15
+0.5000
+0.2500
+0.2500
+0.5000
+0.2500
+0.2500
+=16
+1.0000
+1.0000
+=:|!
+*>B
+0.5000
+0.5000
+1.0000
+=10
+0.5000
+0.5000
+1.0000
+=11
+0.5000
+0.2500
+0.2500
+0.5000
+0.5000
+=12
+2.0000
+=13
+0.5000
+0.5000
+1.0000
+=14
+0.5000
+0.5000
+1.0000
+=15
+0.5000
+0.2500
+0.2500
+0.5000
+0.2500
+0.2500
+=16
+1.0000
+1.0000
+=:|!
+*-
+!!!OTL: 206. Plyeskun
+!!!Genre:	Plyeskun
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 207. Plyeskun
+!!!Genre:	Plyeskun
+!!!Mode:	Altered Dorian
+!!!Listening/dance:	dance
+!!!:	*g:
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*staff1
+*I"P1
+=1-
+*clefG2
+*k[b-]
+*-
+!!!OTL: 208. Plyeskun
+!!!Genre:	Plyeskun
+!!!Mode:	Freygish
+!!!Listening/dance:	dance
+!!!:	*B-:
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 209. Plyeskun
+!!!Genre:	Plyeskun
+!!!Mode:	Major
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[f#]
+*G:
+*M2/4
+*>A
+=1
+0.5000
+1.0000
+0.5000
+=2
+0.2500
+0.2500
+0.5000
+0.5000
+0.5000
+=3
+0.5000
+0.5000
+0.5000
+0.5000
+=4
+0.2500
+0.2500
+0.2500
+0.2500
+1.0000
+=5
+0.5000
+1.0000
+0.5000
+=6
+0.2500
+0.2500
+0.5000
+0.5000
+0.5000
+=7
+0.5000
+0.5000
+0.5000
+0.5000
+=8
+0.2500
+0.2500
+0.2500
+0.2500
+0.5000
+0.5000
+=9:|!
+*>A
+=1
+0.5000
+1.0000
+0.5000
+=2
+0.2500
+0.2500
+0.5000
+0.5000
+0.5000
+=3
+0.5000
+0.5000
+0.5000
+0.5000
+=4
+0.2500
+0.2500
+0.2500
+0.2500
+1.0000
+=5
+0.5000
+1.0000
+0.5000
+=6
+0.2500
+0.2500
+0.5000
+0.5000
+0.5000
+=7
+0.5000
+0.5000
+0.5000
+0.5000
+=8
+0.2500
+0.2500
+0.2500
+0.2500
+0.5000
+0.5000
+=9:|!
+*>B
+0.2500
+0.2500
+0.2500
+0.2500
+0.5000
+0.5000
+=10
+0.5000
+0.5000
+0.5000
+0.5000
+=11
+0.2500
+0.2500
+0.2500
+0.2500
+0.5000
+0.5000
+=12
+0.5000
+0.5000
+0.5000
+0.5000
+=13
+0.5000
+0.5000
+0.5000
+0.5000
+=14
+2.0000
+=15
+0.5000
+0.5000
+0.5000
+0.5000
+=16
+2.0000
+=17
+0.5000
+0.5000
+0.5000
+0.5000
+=18
+0.5000
+0.5000
+0.5000
+0.5000
+=19
+0.5000
+0.5000
+0.5000
+0.5000
+=20
+0.5000
+0.5000
+0.5000
+0.5000
+=21
+!LO:TX:b:Bi:t=D.C.
+2.0000
+==
+*-
+!!!OTL: 210. Plyeskun
+!!!Genre:	Plyeskun
+!!!Mode:	Major (Mixolydian)
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[f#]
+*G:
+*M2/4
+*>A
+=1
+0.5000
+1.0000
+0.5000
+=2
+0.2500
+0.2500
+0.2500
+0.2500
+0.5000
+0.5000
+=3
+0.5000
+0.5000
+0.5000
+0.5000
+=4
+0.5000
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=5
+0.5000
+1.0000
+0.5000
+=6
+0.2500
+0.2500
+0.2500
+0.2500
+0.5000
+0.5000
+=7
+0.5000
+0.5000
+0.5000
+0.5000
+*>A1
+=8
+1.5000
+0.5000
+*>A
+=1
+0.5000
+1.0000
+0.5000
+=2
+0.2500
+0.2500
+0.2500
+0.2500
+0.5000
+0.5000
+=3
+0.5000
+0.5000
+0.5000
+0.5000
+=4
+0.5000
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=5
+0.5000
+1.0000
+0.5000
+=6
+0.2500
+0.2500
+0.2500
+0.2500
+0.5000
+0.5000
+=7
+0.5000
+0.5000
+0.5000
+0.5000
+*>A2
+=9:|!
+2.0000
+=10!|:
+*>B
+!LO:TX:a:t="Segno"
+0.2500
+0.2500
+0.2500
+0.2500
+1.0000
+=11
+0.5000
+0.5000
+1.0000
+=12
+0.2500
+0.2500
+0.2500
+0.2500
+1.0000
+=13
+0.5000
+0.5000
+!LO:TX:b:Bi:t=Fine
+1.0000
+=14:|!
+*>B
+!LO:TX:a:t="Segno"
+0.2500
+0.2500
+0.2500
+0.2500
+1.0000
+=11
+0.5000
+0.5000
+1.0000
+=12
+0.2500
+0.2500
+0.2500
+0.2500
+1.0000
+=13
+0.5000
+0.5000
+!LO:TX:b:Bi:t=Fine
+1.0000
+=14:|!
+*>C
+0.5000
+0.5000
+0.5000
+0.5000
+=15
+2.0000
+=16
+0.5000
+0.5000
+0.5000
+0.5000
+=17
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=18
+0.5000
+0.5000
+0.5000
+0.5000
+=19
+1.5000
+0.5000
+=20!|:
+*>D
+2.0000
+=21
+0.5000
+2.0000
+=22
+0.5000
+1.0000
+0.5000
+1.0000
+=23
+0.5000
+1.0000
+0.5000
+1.0000
+=24
+0.7500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=25
+0.7500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=26
+0.7500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=27
+0.7500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=28
+0.7500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=29
+0.7500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=30
+0.7500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=31
+!LO:TX:b:Bi:t=Dal Segno al Fine
+0.7500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+==
+*>D
+2.0000
+=21
+0.5000
+2.0000
+=22
+0.5000
+1.0000
+0.5000
+1.0000
+=23
+0.5000
+1.0000
+0.5000
+1.0000
+=24
+0.7500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=25
+0.7500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=26
+0.7500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=27
+0.7500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=28
+0.7500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=29
+0.7500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=30
+0.7500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=31
+!LO:TX:b:Bi:t=Dal Segno al Fine
+0.7500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+==
+*-
+!!!OTL: 211. Beygele
+!!!Genre:	Beygele
+!!!Mode:	Freygish
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 212. Beygele
+!!!Genre:	Beygele
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 213. Bolgarish
+!!!Genre:	Bolgarish
+!!!Mode:	Freygish
+!!!Listening/dance:	dance
+!!!:	*C:
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 214. Bolgarish
+!!!Genre:	Bolgarish
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 215. Bolgarish
+!!!Genre:	Bolgarish
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!:	*B-:
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 216. Bulgar
+!!!Genre:	Bulgar
+!!!Mode:	Major
+!!!Listening/dance:	dance
+!!!:	*g:dor
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[f#]
+*G:
+*M2/4
+*>A
+=1
+!LO:TX:a:i:t=G-major
+1.5000
+0.5000
+=2
+1.5000
+0.5000
+=3
+0.5000
+0.5000
+0.5000
+0.5000
+0.5000
+=4
+2.0000
+=5
+1.5000
+0.5000
+=6
+1.5000
+0.5000
+=7
+0.5000
+0.5000
+0.5000
+0.5000
+0.5000
+=8
+2.0000
+=9:|!|:
+*>A
+=1
+!LO:TX:a:i:t=G-major
+1.5000
+0.5000
+=2
+1.5000
+0.5000
+=3
+0.5000
+0.5000
+0.5000
+0.5000
+0.5000
+=4
+2.0000
+=5
+1.5000
+0.5000
+=6
+1.5000
+0.5000
+=7
+0.5000
+0.5000
+0.5000
+0.5000
+0.5000
+=8
+2.0000
+=9:|!|:
+*>B
+*k[b-]
+!!!Begin-Modulation
+*-
+!!!OTL: 217. Bulgar
+!!!Genre:	Bulgar
+!!!Mode:	Major
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[f#]
+*G:
+*M2/4
+*>A
+=1
+0.5000
+0.2500
+0.2500
+0.5000
+0.5000
+=2
+0.5000
+0.5000
+1.0000
+=3
+0.7500
+0.2500
+0.7500
+0.2500
+=4
+0.5000
+0.5000
+1.0000
+=5
+0.5000
+0.5000
+0.5000
+0.5000
+=6
+0.5000
+0.5000
+0.5000
+0.5000
+*>A1
+=7
+1.0000
+1.0000
+=8
+2.0000
+*>A
+=1
+0.5000
+0.2500
+0.2500
+0.5000
+0.5000
+=2
+0.5000
+0.5000
+1.0000
+=3
+0.7500
+0.2500
+0.7500
+0.2500
+=4
+0.5000
+0.5000
+1.0000
+=5
+0.5000
+0.5000
+0.5000
+0.5000
+=6
+0.5000
+0.5000
+0.5000
+0.5000
+*>A2
+=9:|!
+2.0000
+=10
+1.0000
+1.0000
+=11!|:
+*>B
+1.0000
+0.5000
+0.5000
+=12
+1.0000
+0.5000
+0.5000
+=13
+0.7500
+0.2500
+0.3333
+0.3333
+0.3333
+=14
+0.5000
+0.5000
+1.0000
+=15
+1.0000
+0.5000
+0.5000
+=16
+1.0000
+0.5000
+0.5000
+=17
+0.7500
+0.2500
+0.3333
+0.3333
+0.3333
+=18
+1.0000
+1.0000
+=19:|!|:
+*>B
+1.0000
+0.5000
+0.5000
+=12
+1.0000
+0.5000
+0.5000
+=13
+0.7500
+0.2500
+0.3333
+0.3333
+0.3333
+=14
+0.5000
+0.5000
+1.0000
+=15
+1.0000
+0.5000
+0.5000
+=16
+1.0000
+0.5000
+0.5000
+=17
+0.7500
+0.2500
+0.3333
+0.3333
+0.3333
+=18
+1.0000
+1.0000
+=19:|!|:
+*>C
+0.5000
+0.5000
+0.5000
+0.5000
+=20
+0.7500
+0.2500
+0.3333
+0.3333
+0.3333
+=21
+2.0000
+=22
+2.0000
+=23
+0.5000
+0.5000
+0.5000
+0.5000
+=24
+0.5000
+0.5000
+0.5000
+0.5000
+*>C1
+=25
+1.0000
+1.0000
+=26
+2.0000
+*>C
+0.5000
+0.5000
+0.5000
+0.5000
+=20
+0.7500
+0.2500
+0.3333
+0.3333
+0.3333
+=21
+2.0000
+=22
+2.0000
+=23
+0.5000
+0.5000
+0.5000
+0.5000
+=24
+0.5000
+0.5000
+0.5000
+0.5000
+*>C2
+=27:|!
+2.0000
+=28
+1.0000
+1.0000
+==
+*-
+!!!OTL: 218. Khosid
+!!!Genre:	Khosid
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 219. Khosid
+!!!Genre:	Khosid
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 220. Khosidl
+!!!Genre:	Khosidl
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!:	*B-:
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+!!!Begin-Modulation
+*-
+!!!OTL: 221. Khosid
+!!!Genre:	Khosid
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 222. Khosid
+!!!Genre:	Khosid
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 223. Khosid
+!!!Genre:	Khosid
+!!!Mode:	Major
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[f#]
+*G:
+*M2/4
+*>A
+0.5000
+=1
+0.5000
+0.2500
+0.2500
+0.2500
+0.5000
+0.5000
+=2
+0.5000
+0.2500
+0.5000
+0.2500
+0.2500
+0.2500
+0.5000
+=3
+0.2500
+0.2500
+0.5000
+0.2500
+0.2500
+0.5000
+=4
+0.5000
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.5000
+=5
+0.5000
+0.2500
+0.2500
+0.2500
+0.5000
+0.5000
+=6
+0.5000
+0.2500
+0.5000
+0.2500
+0.2500
+0.2500
+0.5000
+=7
+0.2500
+0.2500
+0.5000
+0.2500
+0.2500
+0.5000
+0.2500
+0.2500
+=8
+1.0000
+1.0000
+=9||
+*>B
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.5000
+=10
+0.2500
+0.2500
+0.5000
+0.2500
+0.2500
+0.2500
+0.2500
+0.5000
+=11
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=12
+0.2500
+0.2500
+0.2500
+0.2500
+1.0000
+=13
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.5000
+=14
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.5000
+=15
+0.7500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=16
+1.0000
+1.0000
+=17||
+*>C
+1.5000
+0.2500
+0.2500
+=18
+1.5000
+0.5000
+=19
+0.5000
+0.5000
+0.2500
+0.2500
+0.5000
+0.5000
+=20
+0.5000
+0.5000
+1.0000
+=21
+0.5000
+0.2500
+0.2500
+0.5000
+0.5000
+=22
+0.5000
+0.5000
+1.0000
+=23
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.5000
+=24
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.5000
+=25
+0.7500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=26
+2.0000
+==
+*-
+!!!OTL: 224. Khosid
+!!!Genre:	Khosid
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 225. Shtok
+!!!Genre:	Shtok
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 226. Shtok
+!!!Genre:	Shtok
+!!!Mode:	Major
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[f#]
+*G:
+*M2/4
+*>A
+0.5000
+=1
+1.0000
+1.0000
+=2
+0.2500
+0.2500
+0.2500
+0.2500
+1.0000
+=3
+0.5000
+1.0000
+0.5000
+=4
+0.5000
+0.5000
+0.5000
+0.7500
+0.2500
+=5
+0.5000
+0.5000
+0.5000
+0.5000
+=6
+0.2500
+0.2500
+0.2500
+0.2500
+1.0000
+=7
+0.5000
+1.0000
+0.5000
+=8
+2.0000
+=9||
+*>B
+0.7500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=10
+0.2500
+0.2500
+0.2500
+0.2500
+0.5000
+0.5000
+=11
+0.5000
+1.0000
+0.5000
+=12
+0.5000
+0.5000
+0.7500
+0.2500
+=13
+0.7500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=14
+0.2500
+0.2500
+0.2500
+0.2500
+0.5000
+0.5000
+=15
+0.5000
+1.0000
+0.5000
+=16
+1.0000
+1.0000
+==
+*-
+!!!OTL: 227. Ange
+!!!Genre:	Ange
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!:	*G:frey
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 228. Ange
+!!!Genre:	Ange
+!!!Mode:	Major
+!!!Listening/dance:	dance
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[f#]
+*G:
+*M2/4
+*>A
+=1
+!LO:TX:a:i:t=G-major
+1.5000
+0.5000
+=2
+1.5000
+0.5000
+=3
+0.7500
+0.2500
+0.7500
+0.2500
+=4
+0.7500
+0.2500
+0.7500
+0.2500
+=5
+0.2500
+0.2500
+0.2500
+0.2500
+0.5000
+0.5000
+=6
+0.2500
+0.2500
+0.2500
+0.2500
+0.5000
+0.5000
+=7
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=8
+0.2500
+0.2500
+0.2500
+0.2500
+0.5000
+0.5000
+=9!|:
+*>B
+!LO:TX:a:t="Segno"
+0.7500
+0.2500
+0.5000
+0.5000
+=10
+0.5000
+0.5000
+0.5000
+0.5000
+0.5000
+=11
+0.7500
+0.2500
+0.5000
+0.5000
+=12
+0.5000
+0.5000
+!LO:TX:b:Bi:t=Fine
+1.0000
+=13:|!
+!!!Begin-Modulation
+*-
+!!!OTL: 229. Ot azoy
+!!!Genre:	Ot azoy
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!:	*G:frey
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 230. Lomir zikh iberbetn
+!!!Genre:	Lomir zikh iberbetn
+!!!Mode:	Freygish
+!!!Listening/dance:	dance
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 231. Broyges-tants
+!!!Genre:	Broyges-tants
+!!!Mode:	Freygish
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 232. Alter yidisher tants
+!!!Genre:	Alter yidisher tants
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 233. Shuster
+!!!Genre:	Shuster
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 234. Shuster
+!!!Genre:	Shuster
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 235. Kozatshke
+!!!Genre:	Kozatshke
+!!!Mode:	Major
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[f#]
+*G:
+*M2/4
+*>A
+=1
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=2
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=3
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=4
+*^
+0.2500	1.0000
+0.2500	.
+0.2500	.
+0.2500	.
+0.5000	1.0000
+0.1667	.
+0.1667	.
+0.1667	.
+*v	*v
+=5
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=6
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=7
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=8
+0.5000
+0.5000
+0.5000
+0.5000
+=9:|!|:
+*>A
+=1
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=2
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=3
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=4
+*^
+0.2500	1.0000
+0.2500	.
+0.2500	.
+0.2500	.
+0.5000	1.0000
+0.1667	.
+0.1667	.
+0.1667	.
+*v	*v
+=5
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=6
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=7
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=8
+0.5000
+0.5000
+0.5000
+0.5000
+=9:|!|:
+*>B
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=10
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=11
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=12
+0.2500
+0.2500
+0.2500
+0.2500
+1.0000
+=13
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=14
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=15
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=16
+0.5000
+0.5000
+0.5000
+0.5000
+=:|!
+*>B
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=10
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=11
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=12
+0.2500
+0.2500
+0.2500
+0.2500
+1.0000
+=13
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=14
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=15
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=16
+0.5000
+0.5000
+0.5000
+0.5000
+=:|!
+*-
+!!!OTL: 236. Kozatshke
+!!!Genre:	Kozatshke
+!!!Mode:	Major
+!!!Listening/dance:	dance
+!!!:	*e:
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[f#]
+*G:
+*M2/4
+*>A
+=1
+!LO:TX:a:i:t=G-major
+0.5000
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=2
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=3
+0.2500
+0.2500
+0.2500
+0.2500
+0.5000
+0.2500
+0.2500
+*>A1
+=4
+0.2500
+0.2500
+0.2500
+0.2500
+0.5000
+0.5000
+*>A
+=1
+!LO:TX:a:i:t=G-major
+0.5000
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=2
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=3
+0.2500
+0.2500
+0.2500
+0.2500
+0.5000
+0.2500
+0.2500
+*>A2
+=5:|!
+0.2500
+0.2500
+0.2500
+0.2500
+0.7500
+0.2500
+!!!Begin-Modulation
+*-
+!!!OTL: 237. Kozatshke
+!!!Genre:	Kozatshke
+!!!Mode:	Major
+!!!Listening/dance:	dance
+!!!:	*e:
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[f#]
+*G:
+*M2/4
+*[A,A1,A,A2,B,B,C,C]
+*>A
+
+!LO:TX:a:i:t=G-major
+0.2500
+0.2500
+=1
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=2
+0.5000
+0.5000
+0.5000
+0.5000
+=3
+0.5000
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=4
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=5
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=6
+0.5000
+0.5000
+0.5000
+0.5000
+=7
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+*>A1
+=8
+0.2500
+0.2500
+0.2500
+0.2500
+0.5000
+*>A2
+=9:|!
+0.2500
+0.2500
+0.2500
+0.2500
+!LO:TX:b:Bi:t=Fine
+0.5000
+=10!|:
+*>B
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=11
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=12
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=13
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=14
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=15
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=16
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=17
+0.2500
+0.2500
+0.2500
+0.2500
+1.0000
+!!!Begin-Modulation
+*-
+!!!OTL: 238. Kozatshke
+!!!Genre:	Kozatshke
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!:	*B-:
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 239. Kozatshke (yidishe)
+!!!Genre:	Kozatshke (yidishe)
+!!!Mode:	Major
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[f#]
+*G:
+*M2/4
+*[A,A,B,B]
+*>A
+=1
+1.0000
+0.5000
+0.5000
+0.5000
+0.5000
+=2
+0.5000
+0.5000
+0.5000
+0.5000
+0.5000
+0.2500
+0.2500
+=3
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=4
+0.2500
+0.2500
+0.2500
+0.2500
+0.5000
+0.5000
+=5
+1.0000
+0.5000
+0.5000
+0.5000
+0.5000
+=6
+0.5000
+0.5000
+0.5000
+0.5000
+0.5000
+0.2500
+0.2500
+=7
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=8
+0.5000
+0.5000
+0.5000
+0.5000
+=9:|!|:
+*>B
+0.5000
+0.2500
+0.2500
+0.5000
+0.5000
+0.2500
+0.2500
+0.5000
+=10
+0.2500
+0.2500
+1.0000
+0.5000
+=11
+0.2500
+0.2500
+1.0000
+0.5000
+=12
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=13
+0.5000
+0.2500
+0.2500
+0.5000
+0.2500
+0.2500
+0.5000
+=14
+0.2500
+0.2500
+1.0000
+0.5000
+=15
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+0.2500
+=16
+0.5000
+0.5000
+0.5000
+0.5000
+=:|!
+*-
+!!!OTL: 240. Bitshok
+!!!Genre:	Bitshok
+!!!Mode:	Major
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[f#]
+*G:
+*M2/4
+*>pickup
+0.5000
+*>A
+=1!|:
+*^
+1.5000	2.0000
+0.5000	.
+=2	=2
+1.5000	2.0000
+0.5000	.
+=3	=3
+0.5000	1.0000
+0.5000	.
+0.5000	1.0000
+0.5000	.
+=4	=4
+0.5000	1.0000
+0.5000	.
+0.5000	1.0000
+0.5000	.
+=5	=5
+0.7500	2.0000
+0.2500	.
+0.2500	.
+0.2500	.
+0.2500	.
+0.2500	.
+*v	*v
+=6
+*^
+0.5000	2.0000
+0.2500	.
+0.2500	.
+0.2500	.
+0.2500	.
+0.2500	.
+0.2500	.
+=7	=7
+0.7500	2.0000
+0.2500	.
+0.2500	.
+0.2500	.
+0.2500	.
+0.2500	.
+=8	=8
+0.5000	2.0000
+0.2500	.
+0.2500	.
+0.5000	.
+0.5000	.
+*v	*v
+=9:|!
+*>A
+=1!|:
+*^
+1.5000	2.0000
+0.5000	.
+=2	=2
+1.5000	2.0000
+0.5000	.
+=3	=3
+0.5000	1.0000
+0.5000	.
+0.5000	1.0000
+0.5000	.
+=4	=4
+0.5000	1.0000
+0.5000	.
+0.5000	1.0000
+0.5000	.
+=5	=5
+0.7500	2.0000
+0.2500	.
+0.2500	.
+0.2500	.
+0.2500	.
+0.2500	.
+*v	*v
+=6
+*^
+0.5000	2.0000
+0.2500	.
+0.2500	.
+0.2500	.
+0.2500	.
+0.2500	.
+0.2500	.
+=7	=7
+0.7500	2.0000
+0.2500	.
+0.2500	.
+0.2500	.
+0.2500	.
+0.2500	.
+=8	=8
+0.5000	2.0000
+0.2500	.
+0.2500	.
+0.5000	.
+0.5000	.
+*v	*v
+=9:|!
+*>B
+0.2500
+0.2500
+0.2500
+0.2500
+1.0000
+=10
+0.2500
+0.2500
+0.2500
+0.2500
+1.0000
+=11
+0.2500
+0.2500
+0.2500
+0.2500
+1.0000
+=12
+0.2500
+0.2500
+0.2500
+0.2500
+0.5000
+0.5000
+=13
+0.2500
+0.2500
+0.2500
+0.2500
+1.0000
+=14
+0.2500
+0.2500
+0.2500
+0.2500
+1.0000
+=15
+0.2500
+0.2500
+0.2500
+0.2500
+1.0000
+=16
+0.2500
+0.2500
+0.2500
+0.2500
+0.5000
+0.5000
+=17||
+*>C
+0.2500
+0.2500
+0.5000
+0.2500
+0.2500
+0.5000
+=18
+0.2500
+0.2500
+0.5000
+0.2500
+0.2500
+0.2500
+0.2500
+=19
+0.2500
+0.2500
+0.5000
+0.2500
+0.2500
+0.5000
+=20
+0.2500
+0.2500
+0.2500
+0.2500
+1.0000
+=21
+0.2500
+0.2500
+0.5000
+0.2500
+0.2500
+0.5000
+=22
+0.2500
+0.2500
+0.5000
+0.2500
+0.2500
+0.2500
+0.2500
+=23
+0.2500
+0.2500
+0.5000
+0.2500
+0.2500
+0.5000
+=24
+0.2500
+0.2500
+0.2500
+0.2500
+1.0000
+==
+*-
+!!!OTL: 241. Zhok
+!!!Genre:	Zhok
+!!!Mode:	Freygish
+!!!Listening/dance:	dance
+!!!:	*F:
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 242. Zhok
+!!!Genre:	Zhok
+!!!Mode:	Freygish
+!!!Listening/dance:	dance
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 243. Zhok
+!!!Genre:	Zhok
+!!!Mode:	Altered Dorian
+!!!Listening/dance:	dance
+!!!:	*B-:; *G:frey
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-]
+*-
+!!!OTL: 244. Zhok
+!!!Genre:	Zhok
+!!!Mode:	Altered Dorian
+!!!Listening/dance:	dance
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-]
+*-
+!!!OTL: 245. Zhok
+!!!Genre:	Zhok
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 246. Zhok
+!!!Genre:	Zhok
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!:	*B-:
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+!!!Begin-Modulation
+*-
+!!!OTL: 247. Olandre (lyondre)
+!!!Genre:	Olandre (lyondre)
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!:	*g:dor
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 248. Olandre (lyondre)
+!!!Genre:	Olandre (lyondre)
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!:	*B-:
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+!!!Begin-Modulation
+*-
+!!!OTL: 249. Olandre (lyondre)
+!!!Genre:	Olandre (lyondre)
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!:	*B-:
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+!!!Begin-Modulation
+*-
+!!!OTL: 250. Olandre (lyondre)
+!!!Genre:	Olandre (lyondre)
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 251. Volekh
+!!!Genre:	Volekh
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!:	*g:dor
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 252. Volekh
+!!!Genre:	Volekh
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!:	*g:dor; *G:
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*G:
+=46:|!|:
+*>D
+*k[f#]
+!LO:TX:a:i:t=G-major
+1.0000
+1.0000
+1.0000
+=47
+1.0000
+1.0000
+1.0000
+=48
+3.0000
+=49
+3.0000
+=50
+1.0000
+1.0000
+1.0000
+=51
+1.0000
+1.0000
+0.5000
+0.5000
+=52
+3.0000
+=53
+3.0000
+=54
+1.0000
+1.0000
+1.0000
+=55
+1.0000
+1.0000
+1.0000
+=56
+3.0000
+=57
+3.0000
+=58
+1.0000
+1.0000
+0.5000
+0.5000
+=59
+1.0000
+1.0000
+0.5000
+0.5000
+=60
+1.5000
+0.5000
+0.5000
+0.5000
+=61
+3.0000
+=:|!
+!!!End-Modulation
+*>D
+*k[f#]
+!LO:TX:a:i:t=G-major
+1.0000
+1.0000
+1.0000
+=47
+1.0000
+1.0000
+1.0000
+=48
+3.0000
+=49
+3.0000
+=50
+1.0000
+1.0000
+1.0000
+=51
+1.0000
+1.0000
+0.5000
+0.5000
+=52
+3.0000
+=53
+3.0000
+=54
+1.0000
+1.0000
+1.0000
+=55
+1.0000
+1.0000
+1.0000
+=56
+3.0000
+=57
+3.0000
+=58
+1.0000
+1.0000
+0.5000
+0.5000
+=59
+1.0000
+1.0000
+0.5000
+0.5000
+=60
+1.5000
+0.5000
+0.5000
+0.5000
+=61
+3.0000
+=:|!
+!!!End-Modulation
+*-
+!!!OTL: 253. Volekh
+!!!Genre:	Volekh
+!!!Mode:	Major
+!!!Listening/dance:	dance
+!!!:	*g:dor
+!!!One_Mode:	no
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[f#]
+*G:
+*M3/4
+*>pickup
+!LO:TX:a:i:t=G-major
+1.0000
+*>A
+=1!|:
+0.5000
+0.5000
+0.5000
+0.5000
+0.5000
+0.5000
+0.5000
+=2
+2.0000
+0.5000
+0.5000
+=3
+0.5000
+1.0000
+0.5000
+1.0000
+0.3333
+0.3333
+0.3333
+=4
+2.0000
+0.5000
+0.5000
+=5
+0.5000
+0.5000
+0.5000
+0.5000
+0.5000
+0.5000
+0.5000
+=6
+2.0000
+0.5000
+0.5000
+=7
+1.0000
+1.0000
+0.2500
+0.2500
+0.2500
+0.2500
+*>A1
+=8
+3.0000
+*>A
+=1!|:
+0.5000
+0.5000
+0.5000
+0.5000
+0.5000
+0.5000
+0.5000
+=2
+2.0000
+0.5000
+0.5000
+=3
+0.5000
+1.0000
+0.5000
+1.0000
+0.3333
+0.3333
+0.3333
+=4
+2.0000
+0.5000
+0.5000
+=5
+0.5000
+0.5000
+0.5000
+0.5000
+0.5000
+0.5000
+0.5000
+=6
+2.0000
+0.5000
+0.5000
+=7
+1.0000
+1.0000
+0.2500
+0.2500
+0.2500
+0.2500
+*>A2
+=9:|!
+!LO:TX:b:Bi:t=Fine
+2.0000
+1.0000
+=10!|:
+*>B
+0.5000
+0.5000
+0.5000
+0.5000
+0.3333
+0.3333
+0.3333
+=11
+2.0000
+1.0000
+=12
+0.5000
+0.5000
+0.5000
+0.5000
+0.5000
+0.5000
+0.5000
+=13
+2.0000
+1.0000
+=14
+0.5000
+0.5000
+0.5000
+0.5000
+0.3333
+0.3333
+0.3333
+=15
+2.0000
+1.0000
+=16
+0.5000
+0.5000
+0.5000
+0.5000
+0.5000
+0.5000
+=17
+3.0000
+!!!Begin-Modulation
+*-
+!!!OTL: 254. Volekh
+!!!Genre:	Volekh
+!!!Mode:	Altered Dorian
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**dur
+*MM60
+*thru
+*I"P1
+*clefG2
+*k[b-]
+*-

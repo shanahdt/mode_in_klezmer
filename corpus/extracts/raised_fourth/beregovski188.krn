@@ -1,14 +1,18 @@
+!!!OTL: 188. Sher
 !!!Genre:	Sher
 !!!Mode:	Minor
 !!!Listening/dance:	dance
 !!!:	*g:dor
 !!!One_Mode:	no
 **kern
+*thru
 *I"P1
 *clefG2
 *k[b-e-]
 *g:dor
+*>B
 =9!|:
+!LO:TX:a:i:t=G-raised-fourth
 8aL
 8b-J
 8cc#X
@@ -26,6 +30,7 @@
 12b-L
 12a
 12gJ
+*>B1
 =12
 12aL
 12b-
@@ -33,10 +38,11 @@
 12b-L
 12a
 12gJ
+*>B2
 =13:|!
 2g
 =14||
-*>B
+*>C
 *k[b-]
 8een
 4ff

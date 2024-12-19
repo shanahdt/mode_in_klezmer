@@ -1,13 +1,50 @@
+!!!OTL: 219. Khosid
 !!!Genre:	Khosid
 !!!Mode:	Minor
 !!!Listening/dance:	dance
 !!!One_Mode:	yes
 **kern
+*thru
 *I"P1
 *clefG2
 *k[b-e-]
 *g:
 *M2/4
+*>A
+=1
+(16gLL
+16ee-)
+16dd
+16ccJJ
+(16ccLL
+16dd)
+16cc
+16b-JJ
+=2
+(8qcc/
+16b-LL)
+16a
+16g
+16aJJ
+(8qcc/
+8b-L)
+8dJ
+=3
+(16gLL
+16ee-)
+16dd
+16ccJJ
+16ccLL
+16dd
+16cc
+16b-JJ
+=4
+(16b-LL
+16a)
+(16a
+16gJJ)
+4g
+=5:|!
 *>A
 =1
 (16gLL

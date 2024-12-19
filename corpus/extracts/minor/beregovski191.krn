@@ -1,16 +1,20 @@
+!!!OTL: 191. Sher
 !!!Genre:	Sher
 !!!Mode:	Minor
 !!!Listening/dance:	dance
 !!!:	*B-:
 !!!One_Mode:	no
 **kern
+*thru
 *I"P1
 *clefG2
 *k[b-e-]
 *g:
 *M2/4
-*>A
+*>pickup
+!LO:TX:a:i:t=G-minor
 8d
+*>A
 =1
 8.b-L
 16gJk
@@ -41,10 +45,44 @@
 8dJ
 8enL
 8f#XJ
+*>A1
 =8
 4g
 4d
+*>A
+=1
+8.b-L
+16gJk
+8gL
+8gJ
+=2
+2g
+=3
+8aL
+8b-
+8cc
+8ddJ
+=4
+8ccL
+8b-
+8a
+8gJ
+=5
+8b-L
+8g
+8g
+8gJ
+=6
+4.g
+8b-
+=7
+8aL
+8dJ
+8enL
+8f#XJ
+*>A2
 =9:|!
+!LO:TX:b:Bi:t=Fine
 4g
 4r
 !!!Begin-Modulation

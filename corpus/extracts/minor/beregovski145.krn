@@ -1,8 +1,10 @@
+!!!OTL: 145. Freylekhs
 !!!Genre:	Freylekhs
 !!!Mode:	Minor
 !!!Listening/dance:	dance
 !!!One_Mode:	yes
 **kern
+*thru
 *I"P1
 *clefG2
 *k[b-e-]
@@ -100,10 +102,35 @@
 8ccJ
 8b-L
 8aJ
+*>B1
 =20
 8gL
 8aJ
 4b-
+*>B
+16gLL
+16g
+16g
+16gJJ
+16ccLL
+16cc
+16cc
+16ccJJ
+=18
+16b-LL
+16b-
+16b-
+16b-JJ
+16aLL
+16a
+16a
+16aJJ
+=19
+8gL
+8ccJ
+8b-L
+8aJ
+*>B2
 =21:|!
 2g
 =22!|:

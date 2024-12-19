@@ -1,15 +1,19 @@
+!!!OTL: 207. Plyeskun
 !!!Genre:	Plyeskun
 !!!Mode:	Altered Dorian
 !!!Listening/dance:	dance
 !!!:	*g:
 !!!One_Mode:	no
 **kern
+*thru
 *staff1
 *I"P1
 =1-
 *clefG2
 *k[b-]
 *g:
+!LO:TX:a:i:t=G-minor
+!LO:TX:a:t="Segno"
 16cc\LL
 16dd\
 16ee-\
@@ -47,6 +51,50 @@
 =11
 8g/L
 8g/J
+!LO:TX:b:Bi:t=Fine
+4g/
+!!!End-Modulation
+*g:
+!LO:TX:a:i:t=G-minor
+!LO:TX:a:t="Segno"
+16cc\LL
+16dd\
+16ee-\
+16dd\JJ
+16ff\LL
+16ee-\
+16dd\
+16ee-\JJ
+=7
+8cc\L
+8cc\J
+4cc\
+=8
+16b-\LL
+16cc\
+16dd\
+16ee-\JJ
+16dd\LL
+16cc\
+16b-\
+16a\JJ
+=9
+8b-\L
+8b-\J
+4b-\
+=10
+16g/LL
+16a/
+16b-/
+16a/JJ
+16cc\LL
+16b-\
+16a\
+16b-\JJ
+=11
+8g/L
+8g/J
+!LO:TX:b:Bi:t=Fine
 4g/
 !!!End-Modulation
 *-

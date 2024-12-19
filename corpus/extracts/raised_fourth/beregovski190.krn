@@ -1,13 +1,16 @@
+!!!OTL: 190. Sher
 !!!Genre:	Sher
 !!!Mode:	Minor
 !!!Listening/dance:	dance
 !!!:	*g:dor
 !!!One_Mode:	no
 **kern
+*thru
 *I"P1
 *clefG2
 *k[b-e-]
 *g:dor
+!LO:TX:a:i:t=G-raised-fourth
 2dd
 =16
 8cc#XL
@@ -77,6 +80,7 @@
 8f#XJ
 =30
 [2g
+!LO:TX:b:Bi:t=Da Capo al Fine
 =31
 4g]
 8r

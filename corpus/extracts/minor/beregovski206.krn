@@ -1,8 +1,10 @@
+!!!OTL: 206. Plyeskun
 !!!Genre:	Plyeskun
 !!!Mode:	Minor
 !!!Listening/dance:	dance
 !!!One_Mode:	yes
 **kern
+*thru
 *I"P1
 *clefG2
 *k[b-e-]
@@ -32,6 +34,7 @@
 16cc)
 (16cc
 16b-JJ)
+*>A1
 =4
 (16b-LL
 16a)
@@ -39,6 +42,31 @@
 16gJJ)
 8ggL
 8ggJ
+*>A
+=1
+8b-L
+8ddJ
+(16ddLL
+16cc)
+(16cc
+16b-JJ)
+=2
+(16ddLL
+16cc)
+(16cc
+16b-JJ)
+(16b-LL
+16a)
+(16a
+16gJJ)
+=3
+8b-L
+8ddJ
+(16ddLL
+16cc)
+(16cc
+16b-JJ)
+*>A2
 =5:|!
 (16b-LL
 16a)
@@ -47,6 +75,7 @@
 4g
 =6!|:
 *>B
+!LO:TX:a:t="Segno"
 16ccLL
 16dd
 16ee-
@@ -84,6 +113,49 @@
 =11
 8gL
 8gJ
+!LO:TX:b:Bi:t=Fine
+4g
+=12:|!
+*>B
+!LO:TX:a:t="Segno"
+16ccLL
+16dd
+16ee-
+16ddJJ
+16ffLL
+16ee-
+16dd
+16ee-JJ
+=7
+8ccL
+8ccJ
+4cc
+=8
+16b-LL
+16cc
+16dd
+16ccJJ
+16ddLL
+16cc
+16b-
+16aJJ
+=9
+8b-L
+8b-J
+4b-
+=10
+16gLL
+16a
+16b-
+16aJJ
+16ccLL
+16b-
+16a
+16b-JJ
+=11
+8gL
+8gJ
+!LO:TX:b:Bi:t=Fine
 4g
 =12:|!
 *>C
@@ -126,6 +198,7 @@
 16b-L
 16aJJ
 =19
+!LO:TX:b:Bi:t=Dal Segno al Fine
 4g
 4g
 ==

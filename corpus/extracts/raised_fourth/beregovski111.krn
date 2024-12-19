@@ -1,9 +1,11 @@
+!!!OTL: 111. Freylekhs
 !!!Genre:	Freylekhs
 !!!Mode:	Altered Dorian
 !!!Listening/dance:	dance
 !!!:	*B-:
 !!!One_Mode:	no
 **kern
+*thru
 *part1
 *staff1
 *clefG2
@@ -12,6 +14,7 @@
 *M2/4
 =1-
 *>A
+!LO:TX:a:i:t=G-raised-fourth
 (>8qff#X/
 8gg)
 4gg
@@ -45,6 +48,7 @@
 (16ddLL
 16cc#XJ
 8b-J)
+*>A1
 =8
 16b-LL
 16aJ
@@ -52,9 +56,46 @@
 8g
 16r
 16dd
+*>A
+!LO:TX:a:i:t=G-raised-fourth
+(>8qff#X/
+8gg)
+4gg
+8gg
+=2
+4g
+4ff
+=3
+(16ffLL
+16eeJ
+8ddJ)
+(16ddLL
+16cc#XJ
+8b-J)
+=4
+(16b-LL
+16aJ
+8gJ)
+4dd
+=5
+8gg
+4gg
+8gg
+=6
+4g
+4ff
+=7
+(16ffLL
+16eeJ
+8ddJ)
+(16ddLL
+16cc#XJ
+8b-J)
+*>A2
 =9:|!
 16b-LL
 16aJ
+!LO:TX:b:Bi:t=Fine
 8gJ
 8gL
 8b-J
@@ -96,6 +137,7 @@
 (>16ddLL
 16cc#XJ
 8b-J)
+*>B1
 =17
 16b-LL
 16aJ
@@ -104,6 +146,44 @@
 24b-LL
 24ccn
 24b-JJ
+*>B
+(>16qb-/LL
+16qcc#X/JJ
+8aL)
+8b-
+8cc#
+8ddJ
+=11
+4.a
+8ff
+=12
+(>16ffLL
+16eeJ
+8ddJ)
+(>16ddLL
+16cc#XJ
+8b-J)
+=13
+16b-LL
+16aJ
+8gJ
+4dd
+=14
+8aL
+8b-
+8cc#X
+8ddJ
+=15
+4.a
+8ff
+=16
+(>16ffLL
+16eeJ
+8ddJ)
+(>16ddLL
+16cc#XJ
+8b-J)
+*>B2
 =18:|!
 16b-LL
 16aJ

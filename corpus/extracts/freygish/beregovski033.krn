@@ -1,8 +1,10 @@
+!!!OTL: 33. Lekhaim
 !!!Genre:	Lekhaim
 !!!Mode:	Freygish
 !!!Listening/dance:	listening
 !!!One_Mode:	yes
 **kern
+*thru
 *I"P1
 *clefG2
 *k[b-e-a-]
@@ -46,11 +48,51 @@
 16cc
 (16bn
 16a-JJ)
+*>A1
 =8
 16bnLL
 16a-JJ
 4g
 8r
+*>A
+=1
+8gL
+8ee-J
+8ddL
+16ccL
+16bnJJ
+=2
+16ccLL
+16ddJJ
+4.bn
+=3
+8bnL
+8gJ
+8bL
+8gJ
+=4
+(16bnLL
+16ccJJ
+4dd)
+8gg
+=5
+8gL
+8ee-J
+16ddLL
+16ccJ
+8bnJ
+=6
+16ccLL
+16ddJJ
+4.cc
+=7
+8ccL
+[8fJ
+16fLL]
+16cc
+(16bn
+16a-JJ)
+*>A2
 =9:|!
 16bnLL
 16a-JJ
@@ -101,6 +143,7 @@
 =17
 4.dd
 8cc
+*>C
 =18||
 8.bnL
 16a-Jk

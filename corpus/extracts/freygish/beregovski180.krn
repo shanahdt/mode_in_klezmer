@@ -1,9 +1,11 @@
+!!!OTL: 180. Sher
 !!!Genre:	Sher
 !!!Mode:	Freygish
 !!!Listening/dance:	dance
 !!!:	*C:
 !!!One_Mode:	no
 **kern
+*thru
 *I"P1
 *clefG2
 *k[b-e-a-]
@@ -11,6 +13,7 @@
 *M2/4
 *>A
 =1
+!LO:TX:a:i:t=G-freygish
 8bnL
 8ccJ
 4dd
@@ -82,6 +85,7 @@
 =33||
 *>C
 *k[b-e-a-]
+!LO:TX:a:i:t=G-freygish
 8.ee-L
 16ddJk
 12ee-L

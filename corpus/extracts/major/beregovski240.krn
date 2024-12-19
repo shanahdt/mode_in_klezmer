@@ -1,15 +1,68 @@
+!!!OTL: 240. Bitshok
 !!!Genre:	Bitshok
 !!!Mode:	Major
 !!!Listening/dance:	dance
 !!!One_Mode:	yes
 **kern
+*thru
 *I"P1
 *clefG2
 *k[f#]
 *G:
 *M2/4
-*>A
+*>pickup
 8d
+*>A
+=1!|:
+*^
+(4.gT	2G
+8d)	.
+=2	=2
+(4.gT	2G
+8d)	.
+=3	=3
+(8gTL	4G
+8dJ)	.
+(8gTL	4G
+8dJ)	.
+=4	=4
+(8gL	4G
+8dJ)	.
+(8gL	4G
+8dJ)	.
+=5	=5
+8.eL	2G
+16dJk	.
+(16eLL	.
+16d	.
+16e	.
+16f#JJ)	.
+*v	*v
+=6
+*^
+8gL	2G
+(16gL	.
+16f#JJ)	.
+(16gLL	.
+16a	.
+16b	.
+16gJJ)	.
+=7	=7
+8.eL	2G
+16dJk	.
+16eLL	.
+16d	.
+16e	.
+16f#JJ	.
+=8	=8
+8gL	2G
+(16gL	.
+16f#JJ)	.
+(8gL	.
+8dJ)	.
+*v	*v
+=9:|!
+*>A
 =1!|:
 *^
 (4.gT	2G

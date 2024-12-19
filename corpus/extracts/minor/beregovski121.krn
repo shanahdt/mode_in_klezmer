@@ -1,18 +1,21 @@
+!!!OTL: 121. Freylekhs (Karahod)
 !!!Genre:	Freylekhs (Karahod)
 !!!Mode:	Minor
 !!!Listening/dance:	dance
 !!!One_Mode:	no
 **kern
+*thru
 *I"P1
 *clefG2
 *k[b-e-]
 *g:
 *M2/4
-*>A
 !!!Begin-Modulation
 *g:
-*>B
+!LO:TX:a:i:t=G-minor
+!LO:TX:a:t="Segno"
 8a
+*>B
 =7!|:
 8gL
 16aL
@@ -33,6 +36,7 @@
 16a)
 (16a
 16gJJ)
+*>B1
 =9
 8gL
 16aL
@@ -44,6 +48,28 @@
 =10
 8cc
 4.dd
+*>B
+=7!|:
+8gL
+16aL
+16b-JJ
+16ccLL
+16dd
+(16qqcc/LL
+16qqdd/JJ
+16cc)
+16b-JJ
+=8
+16ccLL
+16dd
+16cc
+16b-JJ
+((8qcc/
+16b-LL)
+16a)
+(16a
+16gJJ)
+*>B2
 =11:|!
 8.b-L
 16aJk
@@ -52,6 +78,7 @@
 16g
 16f#XJJ
 =
+!LO:TX:b:Bi:t=Fine
 4.g
 !!!Begin-Modulation
 *-

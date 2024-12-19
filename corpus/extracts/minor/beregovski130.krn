@@ -1,8 +1,10 @@
+!!!OTL: 130. Freylekhs
 !!!Genre:	Freylekhs
 !!!Mode:	Minor
 !!!Listening/dance:	dance
 !!!One_Mode:	yes
 **kern
+*thru
 *I"P1
 *clefG2
 *k[b-e-]
@@ -51,6 +53,7 @@
 2dd
 =9||
 *>B
+!LO:TX:a:t="Segno"
 8ddL
 8ee-
 8ff
@@ -130,6 +133,7 @@
 16cc
 16b-
 16aJJ
+!LO:TX:b:Bi:t=Fine
 4g
 =23||
 *>C
@@ -185,6 +189,7 @@
 8ddJ
 16ee-LL
 16dd
+!LO:TX:b:Bi:t=Dal Segno al Fine
 16ee-
 16ggJJ
 =34

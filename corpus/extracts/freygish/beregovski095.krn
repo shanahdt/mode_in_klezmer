@@ -1,9 +1,11 @@
+!!!OTL: 95. Freylekhs
 !!!Genre:	Freylekhs
 !!!Mode:	Freygish
 !!!Listening/dance:	dance
 !!!:	*c
 !!!One_Mode:	no
 **kern
+*thru
 *part1
 *staff1
 *clefG2
@@ -12,6 +14,7 @@
 *M2/4
 *>A
 =1-
+!LO:TX:a:i:t=G-freygish
 16gLL
 16a-JJ
 4bn
@@ -55,18 +58,67 @@
 16cc
 16b
 16a-JJ
+*>A1
 =8
 4g
 (>8qff#X/
 8gg)
 8r
+*>A
+=1-
+!LO:TX:a:i:t=G-freygish
+16gLL
+16a-JJ
+4bn
+8b
+=2
+(>16bnLL
+16ddJJ)
+4cc
+8cc
+=3
+(<8qcc/
+8.bnL)
+16a-Jk
+16gLL
+16f
+16g
+16a-JJ
+=4
+8.bnL
+16gJk
+16ddLL
+16cc
+16b
+16a-JJ
+=5
+16gLL
+16a-JJ
+4bn
+8b
+=6
+(>16bnLL
+16ddJJ
+4cc)
+8cc
+=7
+16ffLL
+16ee-
+16dd
+16ccJJ
+16bnLL
+16cc
+16b
+16a-JJ
+*>A2
 =9:|!
 4g
 4r
 !!!Begin-Modulation
 *G:frey
+!LO:TX:a:i:t=G-freygish
 =19||
-*>D
+*>C
 8bnL
 8cc
 8dd

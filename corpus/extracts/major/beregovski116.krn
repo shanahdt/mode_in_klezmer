@@ -1,9 +1,11 @@
+!!!OTL: 116. Skotshne
 !!!Genre:	Skotshne
 !!!Mode:	Altered Dorian
 !!!Listening/dance:	dance
 !!!:	*G:
 !!!One_Mode:	no
 **kern
+*thru
 *part1
 *staff1
 *clefG2
@@ -12,6 +14,8 @@
 =18!|:
 *>C
 *k[f#]
+!LO:TX:a:i:t=G-major
+!LO:TX:a:t="Segno"
 16bLL
 16g
 16b

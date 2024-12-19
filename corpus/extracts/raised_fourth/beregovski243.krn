@@ -1,9 +1,11 @@
+!!!OTL: 243. Zhok
 !!!Genre:	Zhok
 !!!Mode:	Altered Dorian
 !!!Listening/dance:	dance
 !!!:	*B-:; *G:frey
 !!!One_Mode:	no
 **kern
+*thru
 *I"P1
 *clefG2
 *k[b-]
@@ -11,6 +13,7 @@
 *M3/4
 *>A
 =1
+!LO:TX:a:i:t=G-raised-fourth
 4d
 4g
 8b-L

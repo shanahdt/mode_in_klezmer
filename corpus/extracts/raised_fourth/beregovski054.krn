@@ -1,9 +1,11 @@
+!!!OTL: 54. Skotshne
 !!!Genre:	Skotshne
 !!!Mode:	Altered Dorian
 !!!Listening/dance:	listening
 !!!:	*G:
 !!!One_Mode:	no
 **kern
+*thru
 *I"P1
 *clefG2
 *k[b-]
@@ -11,6 +13,7 @@
 *M2/4
 *>A
 =1
+!LO:TX:a:i:t=G-raised-fourth
 8dL
 8g
 8b-
@@ -120,8 +123,65 @@
 16b-
 16a
 16b-JJ
+*>B1
 =16
 2g
+*>B
+16ggLL
+16ff
+16ee
+16ddJJ
+8cc#XL
+8b-J
+=10
+16cc#XLL
+(8qee/
+16dd)
+16cc#
+16b-JJ
+8aL
+8gJ
+=11
+16aLL
+16b-
+16cc#X
+16ddJJ
+(8qdd/
+16cc#LL)
+16b-
+16a
+16gJJ
+=12
+4dd
+4gg
+=13
+16ggLL
+16aa
+16bb-
+16aaJJ
+16ggLL
+16ff
+16ee
+16ddJJ
+=14
+16eeLL
+16ff
+16gg
+16ffJJ
+16eeLL
+16dd
+16cc#X
+16b-JJ
+=15
+16cc#XLL
+16dd
+16ee
+16ddJJ
+16cc#LL
+16b-
+16a
+16b-JJ
+*>B2
 =17:|!
 [4g
 16gLL]
@@ -130,6 +190,7 @@
 16aJJ
 !!!Begin-Modulation
 *g:dor
+!LO:TX:a:i:t=G-raised-fourth
 =27||
 *>D
 *k[b-]

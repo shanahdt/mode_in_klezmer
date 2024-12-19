@@ -1,9 +1,11 @@
+!!!OTL: 167. Freylekhs
 !!!Genre:	Freylekhs
 !!!Mode:	Major
 !!!Listening/dance:	dance
 !!!:	*g:
 !!!One_Mode:	no
 **kern
+*thru
 *I"P1
 *clefG2
 *k[f#]
@@ -11,6 +13,7 @@
 *M2/4
 *>A
 =1
+!LO:TX:a:i:t=G-major
 4dd
 (16ddLL
 16cc)
@@ -70,6 +73,45 @@
 *k[b-e-]
 !!!Begin-Modulation
 *G:
+!LO:TX:a:i:t=G-major
+(16ccLL
+16ee)
+16a'
+16cc'JJ
+(16bLL
+16dd)
+16g'
+16b'JJ
+=14
+(16aLL
+16cc)
+16f#'
+16a'JJ
+(16gLL
+16b)
+16dd'
+16b'JJ
+=15
+(16ccLL
+16ee)
+16a'
+16cc'JJ
+(16bLL
+16dd)
+16g'
+16b'JJ
+=16
+16aLL
+16cc
+16f#
+16aJJ
+4g
+=:|!
+*>C
+*k[f#]
+!!!End-Modulation
+*G:
+!LO:TX:a:i:t=G-major
 (16ccLL
 16ee)
 16a'

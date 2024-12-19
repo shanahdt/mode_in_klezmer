@@ -1,44 +1,17 @@
+!!!OTL: 126. Freylekhs
 !!!Genre:	Freylekhs
 !!!Mode:	Freygish
 !!!Listening/dance:	dance
-!!!:	*c:dor
+!!!:	*G:frey
 !!!One_Mode:	no
 **kern
+*thru
 *I"P1
 *clefG2
 *k[b-e-]
 !!!Begin-Modulation
 *G:frey
-=10||
-*k[b-e-a-]
-16bnLL
-16ccJJ
-4dd
-8dd
-=11
-(8qff/
-8ee-L)
-8ddJ
-8.ccL
-16ccJk
-=12
-16bnLL
-16cc
-16dd
-16ee-JJ
-16ff#XLL
-16gg
-16ff#
-16ee-JJ
-=13
-16ff#XLL
-16gg
-16ff#
-16ee-JJ
-(16ee-LL
-16dd)
-(16dd
-16ccJJ)
+!LO:TX:a:i:t=G-freygish
 =14
 16bnLL
 16ccJJ

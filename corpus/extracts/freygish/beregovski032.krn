@@ -1,9 +1,11 @@
+!!!OTL: 32. Skotshne
 !!!Genre:	Skotshne
 !!!Mode:	Freygish
 !!!Listening/dance:	listening
 !!!:	*C:; *c:dor
 !!!One_Mode:	no
 **kern
+*thru
 *I"P1
 *clefG2
 *k[b-e-a-]
@@ -11,6 +13,7 @@
 *M2/4
 *>A
 =1
+!LO:TX:a:i:t=G-freygish
 16bnLL
 16ccJ
 8ddJ
@@ -65,6 +68,7 @@
 8g
 =9:|!|:
 *>B
+!LO:TX:a:t="Segno"
 16ccLL
 16bn
 16a-
@@ -115,12 +119,67 @@
 16cc
 16b
 16a-JJ
+*>B1
 =16
+!LO:TX:b:Bi:t=Fine
 (16a-LL
 16gJ)
 8gJ
 8r
 8g
+*>B
+!LO:TX:a:t="Segno"
+16ccLL
+16bn
+16a-
+16gJJ
+8fL
+8fJ
+=10
+8gL
+8gJ
+16a-LL
+16g
+16a-
+16ccJJ
+=11
+8bnL
+8bJ
+16ccLL
+16b
+16cc
+16ee-JJ
+=12
+4dd
+4gg
+=13
+16aa-LL
+16gg
+16ff
+16ee-JJ
+16ffLL
+16ee-
+16dd
+16ccJJ
+=14
+16ddLL
+16cc
+16bn
+16a-JJ
+16bLL
+16a-
+16g
+16fJJ
+=15
+16enLL
+16f
+16g
+16a-JJ
+16bnLL
+16cc
+16b
+16a-JJ
+*>B2
 =17:|!
 16a-LL
 16gJ
@@ -131,4 +190,7 @@
 16cc
 16ddJJ
 !!!Begin-Modulation
+*G:frey
+8b
+==
 *-

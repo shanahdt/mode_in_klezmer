@@ -1,8 +1,10 @@
+!!!OTL: 230. Lomir zikh iberbetn
 !!!Genre:	Lomir zikh iberbetn
 !!!Mode:	Freygish
 !!!Listening/dance:	dance
-!!!One_Mode:	yes
+!!!One_Mode:	no
 **kern
+*thru
 *I"P1
 *clefG2
 *k[b-e-a-]
@@ -10,6 +12,7 @@
 *M2/4
 *>A
 =1
+!LO:TX:a:i:t=G-minor
 8dL
 16gL
 16gJJ
@@ -33,22 +36,11 @@
 16bJJ
 8a-L
 8gJ
-=5
-8ccL
-8g
-8ee-
-8ddJ
-=6
-2cc
-=7
-8ccL
-8g
-8ee-
-8ddJ
-=8
-2cc
+!!!Begin-Modulation
+*G:frey
 =9!|:
 *>B
+!LO:TX:a:i:t=G-freygish
 16bnLL
 16ccJJ
 4dd
@@ -70,11 +62,36 @@
 16cc
 16b
 16a-JJ
+*>B1
 =12
 8gL
 8bn
 8dd
 8ggJ
+*>B
+!LO:TX:a:i:t=G-freygish
+16bnLL
+16ccJJ
+4dd
+8cc
+=10
+8ccL
+16bnL
+16ccJJ
+16bLL
+16a-
+16g
+16fJJ
+=11
+16enLL
+16f
+16g
+16a-JJ
+16bnLL
+16cc
+16b
+16a-JJ
+*>B2
 =13:|!
 4g
 4g

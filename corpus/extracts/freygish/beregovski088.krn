@@ -1,17 +1,21 @@
+!!!OTL: 88. Freylekhs
 !!!Genre:	Freylekhs
 !!!Mode:	Freygish
 !!!Listening/dance:	dance
 !!!:	*c:
 !!!One_Mode:	no
 **kern
+*thru
 *part1
 *staff1
 *clefG2
 *k[b-e-a-]
 *G:frey
 *M2/4
+>*[A,B,B1,B,B2,C,C1,C,C2]
 *>A
 =1-
+!LO:TX:a:i:t=G-freygish
 8gL
 16ddL
 16ddJJ
@@ -73,6 +77,7 @@
 16gJJ
 =9!|:
 *>B
+!LO:TX:a:t="Segno"
 8.ccL
 16bnJk
 (<16bLL
@@ -91,12 +96,15 @@
 (<16a-
 16gJJ)
 =12
+*>B1
 8gL
 (8qff#X/
 8ggJ)
 8ggL
 8ggJ
 =13:|!
+*>B2
+!LO:TX:b:Bi:t=Fine
 4g
 4gg
 !!!Begin-Modulation

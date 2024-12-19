@@ -1,13 +1,16 @@
+!!!OTL: 58. Freylekhs (fun der khupe)
 !!!Genre:	Freylekhs (fun der khupe)
 !!!Mode:	Altered Dorian
 !!!Listening/dance:	listening
 !!!One_Mode:	no
 **kern
+*thru
 *clefG2
 *k[b-]
 *g:dor
 *M2/4
 *>A
+!LO:TX:a:i:t=G-raised-fourth
 24ddLL
 24ee
 24ddJJ
@@ -90,7 +93,56 @@
 =15
 2g
 =16
+!LO:TX:b:Bi:t=Fine
 4g
 4r
 !!!Begin-Modulation
+*g:dor
+!LO:TX:a:i:t=G-raised-fourth
+=28
+(16ddLL
+16cc#X)
+(16cc#
+16b-JJ)
+(16b-LL
+16a)
+(16a
+16gJJ)
+=29
+8.b-TL
+16aJk
+16b-LL
+16aJ
+8gJ
+=30
+8.b-L
+16aJk
+16b-LL
+16aJ
+8gJ
+=31
+2ccn
+=32
+4.gg
+8ee-
+=33
+8ddL
+8cc#XJ
+16ddLL
+16cc#J
+8b-J
+=34
+16ddLL
+16cc#XJ
+8b-J
+16b-LL
+16aJ
+8gJ
+=35
+4.g
+!LO:TX:b:Bi:t=Da Capo al Fine
+8r
+=36
+4.gg
+==
 *-

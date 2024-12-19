@@ -1,9 +1,11 @@
+!!!OTL: 208. Plyeskun
 !!!Genre:	Plyeskun
 !!!Mode:	Freygish
 !!!Listening/dance:	dance
 !!!:	*B-:
 !!!One_Mode:	no
 **kern
+*thru
 *I"P1
 *clefG2
 *k[b-e-a-]
@@ -11,6 +13,7 @@
 *M2/4
 *>A
 =1
+!LO:TX:a:i:t=G-freygish
 16ddLL
 16dd
 16dd
@@ -35,6 +38,7 @@
 8bnL
 8ddJ
 4b
+*>B
 =5!|:
 8ffL
 8ee-J
@@ -50,39 +54,33 @@
 16a-Jk)
 (8.bL
 16a-Jk)
+*>B1
 =8
 8gL
 8ggJ
 8ggL
 8ggJ
+*>B
+=5!|:
+8ffL
+8ee-J
+8ddL
+8ccJ
+=6
+8bnL
+8f
+8g
+8a-J
+=7
+(8.bnL
+16a-Jk)
+(8.bL
+16a-Jk)
+*>B2
 =:|!
 8a-
 4g
 =9||
 *k[b-e-]
 !!!Begin-Modulation
-*G:frey
-8ffL
-8ee-J
-8ddL
-8ccJ
-=21
-8bnL
-8fJ
-8gL
-8a-J
-=22
-8.bnL
-16a-Jk
-8.bL
-16a-Jk
-=23
-8gL
-8ggJ
-8ggL
-8ggJ
-=24:|!
-(8a-
-4.g)
-==
 *-

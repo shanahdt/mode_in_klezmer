@@ -1,8 +1,10 @@
+!!!OTL: 244. Zhok
 !!!Genre:	Zhok
 !!!Mode:	Altered Dorian
 !!!Listening/dance:	dance
-!!!One_Mode:	yes
+!!!One_Mode:	no
 **kern
+*thru
 *I"P1
 *clefG2
 *k[b-]
@@ -10,6 +12,7 @@
 *M3/8
 *>A
 =1
+!LO:TX:a:i:t=G-raised-fourth
 4g
 16dLL
 16gJJ
@@ -28,6 +31,7 @@
 =5
 4dd
 8dd
+*>A1
 =6
 8cc#XL
 8b-J
@@ -39,6 +43,28 @@
 4dd
 =8
 4.gg
+*>A
+=1
+!LO:TX:a:i:t=G-raised-fourth
+4g
+16dLL
+16gJJ
+=2
+4b-
+16gLL
+16b-JJ
+=3
+4dd
+8dd
+=4
+8cc#XL
+8b-J
+(16aLL
+16gJJ)
+=5
+4dd
+8dd
+*>A2
 =9:|!
 8cc#XL
 8b-J
@@ -50,6 +76,7 @@
 8g
 8gJ
 =11
+!LO:TX:b:Bi:t=Fine
 4g
 8r
 ==12
@@ -140,22 +167,9 @@
 =31
 4dd
 8r
-=32
-8eeL
-8ffJ
-16gg#XLL
-16aaJJ
-=33
-8gg#XL
-8ffJ
-16ee
-(8qgg#/
-16ffJJ)
-=34
-[4.dd
-=35
-4dd]
-8r
+!!!Begin-Modulation
+*g:dor
+!LO:TX:a:i:t=G-raised-fourth
 =36
 8.ggL
 16ddJk
@@ -181,6 +195,7 @@
 8cc#XL
 8b-J
 16aLL
+!LO:TX:b:Bi:t=Da Capo al Fine
 (8qcc#/
 16b-JJ)
 =41

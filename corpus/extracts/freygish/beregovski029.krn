@@ -1,9 +1,11 @@
+!!!OTL: 29. Skotshne
 !!!Genre:	Skotshne
 !!!Mode:	Freygish
 !!!Listening/dance:	listening
 !!!One_Mode:	yes
 !!!Orig_tonic: G
 **kern
+*thru
 *I"P1
 *clefG2
 *k[b-e-a-]
@@ -110,6 +112,7 @@
 8ccJ)
 8bnL
 8gJ
+*>B1
 =21
 8gL
 8ccJ
@@ -125,6 +128,30 @@
 2dd
 =24
 2gg
+*>B
+8gL
+8ccJ
+(16bnLL
+16ddJ
+8ccJ)
+=18
+8ddL
+8ee-
+8dd
+8ccJ
+=19
+16ccLL
+16ee-J
+8ddJ
+8ddL
+8ddJ
+=20
+(16ddLL
+16ee-J
+8ccJ)
+8bnL
+8gJ
+*>B2
 =25:|!
 16gLL
 16bnJ

@@ -1,10 +1,12 @@
-!!!Genre:	Dobranotsh
+!!!OTL: 4. Dobranoch
+!!!Genre:	Dobranoch
 !!!Mode:	Freygish
 !!!Listening/dance:	listening
 !!!:	*C:
 !!!One_Mode:	no
 !!!Orig_tonic: E
 **kern
+*thru
 *I"P1
 *clefG2
 *k[b-e-a-]
@@ -12,6 +14,7 @@
 *M3/4
 *>A
 =1
+!LO:TX:a:i:t=G-freygish
 4g
 4gg
 8ffL
@@ -78,6 +81,45 @@
 2.g
 !!!Begin-Modulation
 *G:frey
+!LO:TX:a:i:t=G-freygish
+=25:|!
+*>B
+*k[]
+4.cc
+8g
+8ccL
+8ddJ
+=18
+4ee
+4dd
+4cc
+=19
+4dd
+(8qee/
+4dd)
+(8qee/
+4dd)
+=20
+4dd
+4b
+4g
+=21
+4.cc
+8g
+8ccL
+8ddJ
+=22
+8eeL
+8eeJ
+4dd
+4cc
+=23
+2.dd
+=24
+2.gg
+!!!End-Modulation
+*G:frey
+!LO:TX:a:i:t=G-freygish
 =25:|!
 *>C
 *k[b-e-a-]
@@ -112,10 +154,45 @@
 4a-
 (8gL
 8fJ)
+*>C1
 =31
 2.g
 =32
 2.gg
+*>C
+*k[b-e-a-]
+4.ff
+8een
+8ffL
+8ggJ
+=26
+8ffL
+8ffJ
+4ee-X
+8ddL
+8ccJ
+=27
+4.dd
+8cc
+8ddL
+8ee-J
+=28
+8ddL
+8ddJ
+4cc
+8bnL
+8a-J
+=29
+4bn
+4cc
+8ddL
+8ccJ
+=30
+4bn
+4a-
+(8gL
+8fJ)
+*>C2
 =33:|!
 4g
 (8qa-/

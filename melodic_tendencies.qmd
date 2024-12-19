@@ -13,7 +13,7 @@ library(DT)
 freygish <- readHumdrum('corpus/extracts/freygish/*.krn')
 major <- readHumdrum('corpus/extracts/major/*.krn')
 minor <- readHumdrum('corpus/extracts/minor/*.krn')
-raised_four <- readHumdrum('corpus/extracts/raised_four/*.krn')
+raised_four <- readHumdrum('corpus/extracts/raised_fourth/*.krn')
 ```
 
 ```{r, echo=F, warnings=FALSE, message=FALSE}

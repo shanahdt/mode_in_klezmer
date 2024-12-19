@@ -1,9 +1,11 @@
+!!!OTL: 55. Skotshne
 !!!Genre:	Skotshne
 !!!Mode:	Altered Dorian
 !!!Listening/dance:	listening
 !!!:	*G:frey; *C:; *G:frey
 !!!One_Mode:	no
 **kern
+*thru
 *I"P1
 *clefG2
 *k[b-]
@@ -11,6 +13,7 @@
 *M2/4
 *>A
 =1
+!LO:TX:a:i:t=G-raised-fourth
 8ggL
 (8gJ
 8b-L)

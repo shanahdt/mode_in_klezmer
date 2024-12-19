@@ -1,8 +1,10 @@
+!!!OTL: 74. Gas-nign
 !!!Genre:	Gas-nign
 !!!Mode:	Minor
 !!!Listening/dance:	listening
-!!!One_Mode:	yes
+!!!One_Mode:	no
 **kern
+*thru
 *I"P1
 *clefG2
 *k[b-e-]
@@ -10,6 +12,7 @@
 *M3/4
 *>A
 =1
+!LO:TX:a:i:t=G-minor
 (8qg/
 4dd)
 4gg
@@ -99,7 +102,31 @@
 2g
 4r
 =17:|!|:
+!!!Begin-Modulation
+*g:
+!LO:TX:a:i:t=G-minor
+=29
+(4.dd
+16b-LL
+16ddJJ)
+8ccL
+8aJ
+=30
+4.b-
+(16gLL
+16b-JJ)
+8aL
+8f#XJ
+=31
+4g
+4dd
+8b-L
+8ddJ
+*>B1
+=32
+2.g
 *>B
+!LO:TX:a:i:t=Bb-major
 2f
 8b-L
 8ccJ
@@ -166,6 +193,8 @@
 (8qb-/
 8aL)
 8gJ
+*g:
+!LO:TX:a:i:t=G-minor
 =29
 (4.dd
 16b-LL
@@ -183,8 +212,7 @@
 4dd
 8b-L
 8ddJ
-=32
-2.g
+*>B2
 =:|!
 2g
 =33||

@@ -1,9 +1,11 @@
+!!!OTL: 156. Freylekhs
 !!!Genre:	Freylekhs
 !!!Mode:	Major
 !!!Listening/dance:	dance
 !!!:	*g:dor
 !!!One_Mode:	no
 **kern
+*thru
 *I"P1
 *clefG2
 *k[f#]
@@ -11,10 +13,11 @@
 =19||
 *k[b-]
 8gL)
-*>B
+!LO:TX:a:i:t=G-raised-fourth
 8g
 8b-
 8ddJ
+*>B
 =20!|:
 4.gg
 8ff#X
@@ -43,6 +46,7 @@
 24ffJJ
 8eeL
 8ddJ
+*>B1
 =25
 8cc#XL
 8b-J
@@ -56,6 +60,36 @@
 8g
 8b-
 8ddJ
+*>B
+=20!|:
+4.gg
+8ff#X
+=21
+8.ggL
+16ff#XJk
+8.ggL
+16ff#Jk
+=22
+8ggL
+24ffnL
+24gg
+24ffJJ
+8eeL
+8ddJ
+=23
+8cc#XL
+8ddJ
+16b-LL
+16aJ
+8gJ
+=24
+8r
+24ffLL
+24gg
+24ffJJ
+8eeL
+8ddJ
+*>B2
 =28:|!
 8cc#XL
 8dd

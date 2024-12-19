@@ -1,15 +1,19 @@
+!!!OTL: 182. Sher
 !!!Genre:	Sher
 !!!Mode:	Freygish
 !!!Listening/dance:	dance
 !!!:	*c:
 !!!One_Mode:	no
 **kern
+*thru
 *I"P1
 *clefG2
 *k[b-e-a-]
 *G:frey
 *M2/4
+*[A,B,C,C1,C,C2]
 *>A
+!LO:TX:a:i:t=G-freygish
 8g
 =1
 8fL
@@ -65,9 +69,11 @@
 16gJJ)
 4g
 *>B
-8g
 !!!Begin-Modulation
 *G:frey
+!LO:TX:a:i:t=G-freygish
+8f
+*>C
 =17!|:
 8f
 4bn
@@ -110,11 +116,15 @@
 16ccJJ
 (8.bL
 16a-Jk)
+!!!End-Modulation1
+*>C1
 =24
 (16a-LL
 16gJJ)
 4g
 8g
+!!!End-Modulation2
+*>C2
 =25:|!
 8gL
 8ddJ
