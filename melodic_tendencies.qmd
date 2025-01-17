@@ -33,6 +33,10 @@ bigram_table <- function(mode){
     mutate(percentage = signif(n / sum(n) * 100, digits=3)) |>
     datatable()
   
+  data <- y |> dplyr::count(bigram) |>
+    arrange(desc(n)) |> 
+    mutate(percentage = signif(n / sum(n) * 100, digits=3)) 
+    write.csv(data, "data.csv")
 }
 ```
 

@@ -12,8 +12,8 @@ library(tidyverse)
 library(janitor)
 library(DT)
 df <- read.csv("data/beregovski-metadata.tsv", sep="\t", header=TRUE)
-df <- df |> clean_names(case="upper_camel")
-df <- df |>  select(!c(Mode, ModulationPathway, ModulationMeasures, OneMode, ModeNotes))
+df <- df |> clean_names()
+df <- df |>  select(!c(mode, modulation_pathway, modulation_measures, one_mode, mode_notes))
 df |>          
     datatable(filter="top", rownames=FALSE, escape=FALSE )
 ```

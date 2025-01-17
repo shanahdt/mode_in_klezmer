@@ -43,7 +43,7 @@ website:
 
   page-footer:
     right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
-    left: "&copy; Copyright 2023, Yonatan Malin and Daniel Shanahan"
+    left: "&copy; Copyright 2024, Yonatan Malin and Daniel Shanahan"
     background: "#D9E3E4"
 
 

@@ -35,6 +35,13 @@ raised |>
     as_tibble() |> 
     arrange(desc(n)) |>
     datatable(filter="top")
+
+raised_data <- raised |> 
+    pitch(simple = FALSE) |>
+    count() |> 
+    as_tibble() |> 
+    arrange(desc(n)) 
+write.csv(raised_data, "raised_fourth_percentages.csv")
 ```
 
 ## G Major
