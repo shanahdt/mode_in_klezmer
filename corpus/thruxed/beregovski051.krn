@@ -301,6 +301,9 @@
 4.g
 8r
 *>C
+!!!Begin-Modulation
+*B-:
+!LO:TX:a:i:t=Bb-major
 16B-LL
 (16b-
 16a)
@@ -356,7 +359,6 @@
 (16ccJJ
 *>C2
 =30:|!
-!LO:TX:a:i:t=[Bb-major continued]
 16aLL
 (16aa
 16gg)
