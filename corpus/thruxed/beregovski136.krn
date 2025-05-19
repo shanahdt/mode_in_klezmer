@@ -57,11 +57,7 @@
 4bb-
 !!!Begin-Modulation2
 =9:|!
-!LO:TX:a:i:t=G-minor
-2g
-=10
-2g
-=11!|:
+
 !!!End-Modulation
 *g:
 !! THRU ERROR: label A1 does not exist, skipping.
@@ -106,11 +102,6 @@
 8aJ
 !!!Begin-Modulation1
 =7
-4b-
-4dd
-=8
-4ff
-4bb-
 !!!Begin-Modulation2
 =9:|!
 !LO:TX:a:i:t=G-minor
