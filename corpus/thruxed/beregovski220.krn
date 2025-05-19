@@ -177,9 +177,6 @@
 !!!Begin-Modulation
 *B-:
 !LO:TX:a:i:t=Bb-major
-16FLL
-16B-
-16cJJ
 =11!|:
 [4d
 16dLL]
