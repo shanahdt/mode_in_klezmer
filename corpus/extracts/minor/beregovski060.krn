@@ -8,6 +8,158 @@
 *I"P1
 *clefG2
 *k[b-]
+!! *g:dor
+!! *M2/4
+!! *>A
+!! !LO:TX:a:i:t=G-raised-fourth
+!! (8d
+!! =1
+!! 8b-)
+!! (8qcc/
+!! (16b-L)
+!! 16aJJ)
+!! 8gL
+!! 8f#XJ
+!! =2
+!! (8atL
+!! 8gJ)
+!! 8GL 8d
+!! 8gJ
+!! =3
+!! 16f#XLL
+!! 16g
+!! 16a
+!! 16b-JJ
+!! 16cc#XLL
+!! 16dd
+!! 16ee
+!! 16cc#JJ
+!! =4
+!! 8.ddL
+!! 16cc#XJk
+!! 8ddL
+!! 24b-L
+!! 24a
+!! 24gJJ
+!! =5
+!! 16eeLL
+!! 16dd
+!! 16cc#X
+!! 16ddJJ
+!! (8.cc#tL
+!! 16b-Jk)
+!! =6
+!! 16ddLL
+!! 16cc#X
+!! 16b-
+!! 16aJJ
+!! 4b-
+!! =7
+!! 16b-LL
+!! 16a
+!! 16g
+!! 16b-JJ
+!! 16aLL
+!! 16g
+!! 16f#X
+!! 16aJJ
+!! =
+!! 4.g
+!! =8:|!
+!! *>A
+!! !LO:TX:a:i:t=G-raised-fourth
+!! (8d
+!! =1
+!! 8b-)
+!! (8qcc/
+!! (16b-L)
+!! 16aJJ)
+!! 8gL
+!! 8f#XJ
+!! =2
+!! (8atL
+!! 8gJ)
+!! 8GL 8d
+!! 8gJ
+!! =3
+!! 16f#XLL
+!! 16g
+!! 16a
+!! 16b-JJ
+!! 16cc#XLL
+!! 16dd
+!! 16ee
+!! 16cc#JJ
+!! =4
+!! 8.ddL
+!! 16cc#XJk
+!! 8ddL
+!! 24b-L
+!! 24a
+!! 24gJJ
+!! =5
+!! 16eeLL
+!! 16dd
+!! 16cc#X
+!! 16ddJJ
+!! (8.cc#tL
+!! 16b-Jk)
+!! =6
+!! 16ddLL
+!! 16cc#X
+!! 16b-
+!! 16aJJ
+!! 4b-
+!! =7
+!! 16b-LL
+!! 16a
+!! 16g
+!! 16b-JJ
+!! 16aLL
+!! 16g
+!! 16f#X
+!! 16aJJ
+!! =
+!! 4.g
+!! =8:|!
+!! 8dd
+!! *>B
+!! =9!|:
+!! 16ggLL
+!! 16ff
+!! 16ee
+!! 16ddJJ
+!! 16cc#XLL
+!! 16dd
+!! 16ee
+!! 16ffJJ
+!! =10
+!! 8.ddL
+!! 16cc#XJk
+!! 8ddL
+!! 24b-L
+!! 24a
+!! 24gJJ
+!! =11
+!! (16dLL
+!! 16fJ)
+!! 24b-L
+!! 24a
+!! 24gJJ
+!! (16ddLL
+!! 16gJ)
+!! 24b-L
+!! 24a
+!! 24gJJ
+!! =12
+!! (16ggLL
+!! 16gJ)
+!! 24b-L
+!! 24a
+!! 24gJJ
+!! 8eeeeL
+!! 8ddJ
+!! !!!Begin-Modulation
 *g:
 =13
 !LO:TX:a:i:t=G-minor
@@ -62,8 +214,10 @@
 4g
 =:|!
 !!!End-Modulation
+*g:
 *>B
 =9!|:
+!LO:TX:a:i:t=G-raised-fourth
 16ggLL
 16ff
 16ee

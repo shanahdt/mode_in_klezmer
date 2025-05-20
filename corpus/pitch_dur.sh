@@ -1,6 +1,6 @@
-for file in extracts/major/*.krn
+for file in extracts/freygish/*.krn
 	do
-		pitch=$(pitch $file)
-		duration=$(dur $file)
+		pitch=$(pitch -x $file | rid -GLId)
+		duration=$(dur $file | rid -GLId)
 		printf "$pitch,$duration\n"
 	done

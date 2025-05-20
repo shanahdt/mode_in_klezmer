@@ -116,6 +116,36 @@
 8f
 =10!|:
 !!!Begin-Modulation
+!! *B-:
+!! *>B
+!! !LO:TX:a:i:t=Bb-major
+!! 8fL
+!! 16b-L
+!! 16b-JJ
+!! 16b-LL
+!! 16b-
+!! 16b-
+!! 16b-JJ
+!! =11
+!! (16ccLL
+!! 16ddJJ)
+!! 4b-
+!! 8ff
+!! =12
+!! (16ffLL
+!! 16ee-)
+!! (16ee-
+!! 16ddJJ)
+!! (16ddLL
+!! 16cc)
+!! (16cc
+!! 16b-JJ)
+!! =13
+!! (16ccLL
+!! 16ddJJ)
+!! 4b-
+!! 8b-
+!! !!!End-Modulation
 *g:
 !LO:TX:a:i:t=G-minor
 =14

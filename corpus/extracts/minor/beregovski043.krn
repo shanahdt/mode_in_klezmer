@@ -129,10 +129,68 @@
 4g
 4G
 !!!Begin-Modulation
+!! *B-:
+!! !LO:TX:a:i:t=Bb-major
+!! =13!|:
+!! *>C
+!! [4b-
+!! 16b-LL]
+!! 16f
+!! 16b-
+!! 16ddJJ
+!! =14
+!! [4cc
+!! 8ccL]
+!! 8ggJ
+!! *>C1
+!! =15
+!! (16ggLL
+!! 16ff)
+!! (16ff
+!! 16ee-JJ)
+!! (16ee-LL
+!! 16dd)
+!! (16dd
+!! 16ffJJ)
+!! =16
+!! (16ffLL
+!! 16ee-)
+!! (16ee-
+!! 16ddJJ)
+!! (16ddLL
+!! 16cc)
+!! (16cc
+!! 16b-JJ)
+!! *>C
+!! [4b-
+!! 16b-LL]
+!! 16f
+!! 16b-
+!! 16ddJJ
+!! =14
+!! [4cc
+!! 8ccL]
+!! 8ggJ
+!! *>C2
+!! =17:|!
+!! (16ggLL
+!! 16ff)
+!! (16ff
+!! 16ee-JJ)
+!! (16ee-LL
+!! 16dd)
+!! (16dd
+!! 16ccJJ)
+!! =18
+!! 16ccLL
+!! 16ddJJ
+!! 4b-
+!! 8r
+!! *>D
+!! =19||
+!! !!!End-Modulation
 *g:
 !LO:TX:a:i:t=G-minor
-*>D
-=19||
 (16ddLL
 16cc#X)
 (16cc#

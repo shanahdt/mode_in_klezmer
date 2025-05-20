@@ -199,6 +199,38 @@
 4r
 =28||
 !!!Begin-Modulation
+!! *B-:
+!! *>C
+!! !LO:TX:a:i:t=Bb-major
+!! 4dd
+!! 8ccL
+!! 8b-J
+!! =29
+!! 4.cc
+!! 8g
+!! =30
+!! 8b-L
+!! 8b-J
+!! 8aL
+!! 8gJ
+!! =31
+!! 4.f
+!! 8f
+!! =32
+!! 4b-
+!! 4cc
+!! =33
+!! 8ddL
+!! 16ee-L
+!! 16ddJJ
+!! 8ccL
+!! 8b-J
+!! =34
+!! 2ff
+!! =35
+!! (8qeen/
+!! 2ff)
+!! !!!End-Modulation
 *g:
 !LO:TX:a:i:t=G-minor
 =36

@@ -122,6 +122,51 @@
 =17:|!
 2g
 !!!Begin-Modulation
+!! *G:
+!! =18!|:
+!! *>C
+!! *k[f#]
+!! !LO:TX:a:i:t=G-major
+!! !LO:TX:a:t="Segno"
+!! 16bLL
+!! 16g
+!! 16b
+!! 16ddJJ
+!! (8ccL
+!! 8bJ)
+!! =19
+!! 16bLL
+!! 16g
+!! 16b
+!! 16ddJJ
+!! 8ccL
+!! 8bJ
+!! =20
+!! 16bLL
+!! 16cc
+!! 16dd
+!! 16eeJJ
+!! 16ffnLL
+!! 16ee
+!! 16dd
+!! 16cc#XJJ
+!! =21
+!! 8dd
+!! 8r
+!! 4gg^
+!! =22
+!! 16bLL
+!! 16g
+!! 16b
+!! 16ddJJ
+!! (8ccnL
+!! 8bJ)
+!! =23
+!! 8dd
+!! 8r
+!! (>8qcc#X/
+!! 4dd)
+!! !!!End-Modulation
 *g:dor
 !LO:TX:a:i:t=G-raised-fourth
 =24

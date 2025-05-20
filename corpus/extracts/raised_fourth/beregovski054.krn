@@ -67,6 +67,61 @@
 =8
 4g
 4G
+=1||
+!LO:TX:a:i:t=G-raised-fourth
+8dL
+8g
+8b-
+8ddJ
+=2
+16cc#XLL
+16dd
+16ee
+16ddJJ
+16cc#LL
+16b-
+16a
+16gJJ
+=3
+16cc#XLL
+16dd
+16ee
+16ddJJ
+16cc#LL
+16b-
+16a
+16b-JJ
+=4
+(16cc#XLL
+16eeJ
+8ddJ)
+4gg
+=5
+8dL
+8g
+8b-
+8ddJ
+=6
+16cc#XLL
+16dd
+16ee
+16ddJJ
+16cc#LL
+16b-
+16a
+16gJJ
+=7
+16b-LL
+16a
+16ccnX
+16b-JJ
+16ddLL
+16cc
+16b-
+16aJJ
+=8
+4g
+4G
 =9:|!|:
 *>B
 16ggLL
@@ -189,6 +244,119 @@
 16g
 16aJJ
 !!!Begin-Modulation
+!! *G:
+!! =18!|:
+!! *>C
+!! *k[f#]
+!! *G:
+!! !LO:TX:a:i:t=G-major
+!! [4b
+!! 16bLL]
+!! 16g
+!! 16dd
+!! 16ccJJ
+!! =19
+!! 8.bL
+!! 16aJk
+!! 8bL
+!! 16aL
+!! 16gJJ
+!! =20
+!! 16aLL
+!! 16b
+!! 16cc
+!! 16eeJJ
+!! 16ddLL
+!! 16cc
+!! 16b
+!! 16aJJ
+!! =21
+!! [4b
+!! 16bLL]
+!! 16d
+!! 16g
+!! 16aJJ
+!! =22
+!! [4b
+!! 16bLL]
+!! 16g
+!! 16dd
+!! 16ccJJ
+!! =23
+!! 4b
+!! 8bL
+!! (16aL
+!! 16gJJ)
+!! =24
+!! 16aLL
+!! 16b
+!! 16cc
+!! 16eeJJ
+!! 16ddLL
+!! 16cc
+!! 16b
+!! 16aJJ
+!! *>C1
+!! =25
+!! [4g
+!! 16gLL]
+!! 16d
+!! 16g
+!! 16aJJ
+!! *>C
+!! *k[f#]
+!! *G:
+!! !LO:TX:a:i:t=G-major
+!! [4b
+!! 16bLL]
+!! 16g
+!! 16dd
+!! 16ccJJ
+!! =19
+!! 8.bL
+!! 16aJk
+!! 8bL
+!! 16aL
+!! 16gJJ
+!! =20
+!! 16aLL
+!! 16b
+!! 16cc
+!! 16eeJJ
+!! 16ddLL
+!! 16cc
+!! 16b
+!! 16aJJ
+!! =21
+!! [4b
+!! 16bLL]
+!! 16d
+!! 16g
+!! 16aJJ
+!! =22
+!! [4b
+!! 16bLL]
+!! 16g
+!! 16dd
+!! 16ccJJ
+!! =23
+!! 4b
+!! 8bL
+!! (16aL
+!! 16gJJ)
+!! =24
+!! 16aLL
+!! 16b
+!! 16cc
+!! 16eeJJ
+!! 16ddLL
+!! 16cc
+!! 16b
+!! 16aJJ
+!! *>C2
+!! =26:|!
+!! 2g
+!! !!!End-Modulation
 *g:dor
 !LO:TX:a:i:t=G-raised-fourth
 =27||
@@ -352,5 +520,225 @@
 16aJJ
 =54
 2g
+=43!|:
+*>F
+2gg
+=44
+2gg
+=45
+4gg
+4gg
+=46
+4gg
+4gg
+=47
+8ggL
+16ffL
+16eeJJ
+8ddL
+8cc#XJ
+=48
+16ddLL
+16cc#X
+16b-
+16aJJ
+4g
+=49
+8ggL
+16ffL
+16eeJJ
+8ddL
+8cc#XJ
+=50
+4dd
+4gg
+=51
+8ggL
+16ffL
+16eeJJ
+8ddL
+8cc#XJ
+=52
+16ddLL
+16cc#X
+16b-
+16aJJ
+4g
+=53
+16b-LL
+16a
+16ccn
+16b-JJ
+16ddLL
+16cc
+16b-
+16aJJ
+=54
+2g
 !!!Begin-Modulation
+!! *G:
+!! !LO:TX:a:i:t=G-major
+!! =55:|!
+!! *>G
+!! *k[f#]
+!! *G:
+!! 4b
+!! 16bLL
+!! 16a
+!! 16dd
+!! 16ccJJ
+!! =56
+!! 4b
+!! 16bLL
+!! 32ccL
+!! 32bJ
+!! 16a
+!! 16gJJ
+!! =57
+!! 16aLL
+!! 16b
+!! 16cc
+!! 16eeJJ
+!! 16ddLL
+!! 16cc
+!! 16b
+!! 16aJJ
+!! =58
+!! 8gL
+!! 8gg
+!! 8gg
+!! 8ggJ
+!! =59
+!! 4b
+!! 16bLL
+!! 16a
+!! 16dd
+!! 16ccJJ
+!! =60
+!! 4b
+!! 16bLL
+!! 32ccL
+!! 32bJ
+!! 16a
+!! 16gJJ
+!! =61
+!! 16aLL
+!! 16b
+!! 16cc
+!! 16eeJJ
+!! 16ddLL
+!! 16cc
+!! 16b
+!! 16aJJ
+!! =62
+!! 2g
+!! =63!|:
+!! *>H
+!! 16f#LL
+!! 16d
+!! 16f#
+!! 16dJJ
+!! 4g
+!! =64
+!! 16f#LL
+!! 16d
+!! 16f#
+!! 16dJJ
+!! 4g
+!! =65
+!! 16f#LL
+!! 16d
+!! 16f#
+!! 16dJJ
+!! 16gLL
+!! 16d
+!! 16g
+!! 16dJJ
+!! =66||
+!! 16aLL
+!! 16d
+!! 16a
+!! 16dJJ
+!! 16ccLL
+!! 16b
+!! 16a
+!! 16gJJ
+!! =67||
+!! 16f#LL
+!! 16d
+!! 16f#
+!! 16dJJ
+!! 4g
+!! =68
+!! 16f#LL
+!! 16d
+!! 16f#
+!! 16dJJ
+!! 4g
+!! *>H1
+!! =69
+!! 16aLL
+!! 16ee
+!! 16dd
+!! 16ccJJ
+!! 16bLL
+!! 16cc
+!! 16a
+!! 16bJJ
+!! =70
+!! 2g
+!! *>H
+!! 16f#LL
+!! 16d
+!! 16f#
+!! 16dJJ
+!! 4g
+!! =64
+!! 16f#LL
+!! 16d
+!! 16f#
+!! 16dJJ
+!! 4g
+!! =65
+!! 16f#LL
+!! 16d
+!! 16f#
+!! 16dJJ
+!! 16gLL
+!! 16d
+!! 16g
+!! 16dJJ
+!! =66||
+!! 16aLL
+!! 16d
+!! 16a
+!! 16dJJ
+!! 16ccLL
+!! 16b
+!! 16a
+!! 16gJJ
+!! =67||
+!! 16f#LL
+!! 16d
+!! 16f#
+!! 16dJJ
+!! 4g
+!! =68
+!! 16f#LL
+!! 16d
+!! 16f#
+!! 16dJJ
+!! 4g
+!! *>H2
+!! =71:|!
+!! 16gLL
+!! 16a
+!! 16b
+!! 16ccJJ
+!! 8ddL
+!! 8aJ 8ff#
+!! =72
+!! 2b 2gg
+!! !!!End-Modulation
+!! ==
 *-

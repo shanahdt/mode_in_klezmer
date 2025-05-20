@@ -10,196 +10,231 @@
 *I"P1
 *clefG2
 *k[b-e-a-]
-*G:frey
-*M3/4
-*>A
-=1
-!LO:TX:a:i:t=G-freygish
-4g
-4gg
-8ffL
-8ee-J
-=2
-4dd
-4ee-
-8ddL
-8ccJ
-=3
-4bn
-4cc
-(8bnL
-8a-J)
-=4
-2.g
-=5
-4g
-4gg
-8ffL
-8ee-J
-=6
-4dd
-4ee-
-8ffL
-8ggJ
-=7
-2.dd
-=8
-2.gg
-=9
-4g
-4gg
-8ffL
-8ee-J
-=10
-4dd
-4ee-
-8ddL
-8ccJ
-=11
-4bn
-4cc
-8bnL
-8a-J
-=12
-2.g
-=13
-4dd
-4cc
-4bn
-=14
-4bn
-4f
-8gL
-8a-J
-=15
-4g
-(8qa-/
-4g)
-(8qa-/
-4g)
-=16
-2.g
-!!!Begin-Modulation
-*G:frey
-!LO:TX:a:i:t=G-freygish
-=25:|!
-*>B
-*k[]
-4.cc
-8g
-8ccL
-8ddJ
-=18
-4ee
-4dd
-4cc
-=19
-4dd
-(8qee/
-4dd)
-(8qee/
-4dd)
-=20
-4dd
-4b
-4g
-=21
-4.cc
-8g
-8ccL
-8ddJ
-=22
-8eeL
-8eeJ
-4dd
-4cc
-=23
-2.dd
-=24
-2.gg
-!!!End-Modulation
-*G:frey
-!LO:TX:a:i:t=G-freygish
-=25:|!
-*>C
-*k[b-e-a-]
-4.ff
-8een
-8ffL
-8ggJ
-=26
-8ffL
-8ffJ
-4ee-X
-8ddL
-8ccJ
-=27
-4.dd
-8cc
-8ddL
-8ee-J
-=28
-8ddL
-8ddJ
-4cc
-8bnL
-8a-J
-=29
-4bn
-4cc
-8ddL
-8ccJ
-=30
-4bn
-4a-
-(8gL
-8fJ)
-*>C1
-=31
-2.g
-=32
-2.gg
-*>C
-*k[b-e-a-]
-4.ff
-8een
-8ffL
-8ggJ
-=26
-8ffL
-8ffJ
-4ee-X
-8ddL
-8ccJ
-=27
-4.dd
-8cc
-8ddL
-8ee-J
-=28
-8ddL
-8ddJ
-4cc
-8bnL
-8a-J
-=29
-4bn
-4cc
-8ddL
-8ccJ
-=30
-4bn
-4a-
-(8gL
-8fJ)
-*>C2
-=33:|!
-4g
-(8qa-/
-4g)
-(8qa-/
-4g)
-=34
-2.g
-==
+!! *G:frey
+!! *M3/4
+!! *>A
+!! =1
+!! !LO:TX:a:i:t=G-freygish
+!! 4g
+!! 4gg
+!! 8ffL
+!! 8ee-J
+!! =2
+!! 4dd
+!! 4ee-
+!! 8ddL
+!! 8ccJ
+!! =3
+!! 4bn
+!! 4cc
+!! (8bnL
+!! 8a-J)
+!! =4
+!! 2.g
+!! =5
+!! 4g
+!! 4gg
+!! 8ffL
+!! 8ee-J
+!! =6
+!! 4dd
+!! 4ee-
+!! 8ffL
+!! 8ggJ
+!! =7
+!! 2.dd
+!! =8
+!! 2.gg
+!! =9
+!! 4g
+!! 4gg
+!! 8ffL
+!! 8ee-J
+!! =10
+!! 4dd
+!! 4ee-
+!! 8ddL
+!! 8ccJ
+!! =11
+!! 4bn
+!! 4cc
+!! 8bnL
+!! 8a-J
+!! =12
+!! 2.g
+!! =13
+!! 4dd
+!! 4cc
+!! 4bn
+!! =14
+!! 4bn
+!! 4f
+!! 8gL
+!! 8a-J
+!! =15
+!! 4g
+!! (8qa-/
+!! 4g)
+!! (8qa-/
+!! 4g)
+!! =16
+!! 2.g
+!! !!!Begin-Modulation
+!! *C:
+!! !LO:TX:a:i:t=C-major
+!! =17!|:
+!! *>B
+!! *k[]
+!! 4.cc
+!! 8g
+!! 8ccL
+!! 8ddJ
+!! =18
+!! 4ee
+!! 4dd
+!! 4cc
+!! =19
+!! 4dd
+!! (8qee/
+!! 4dd)
+!! (8qee/
+!! 4dd)
+!! =20
+!! 4dd
+!! 4b
+!! 4g
+!! =21
+!! 4.cc
+!! 8g
+!! 8ccL
+!! 8ddJ
+!! =22
+!! 8eeL
+!! 8eeJ
+!! 4dd
+!! 4cc
+!! =23
+!! 2.dd
+!! =24
+!! 2.gg
+!! =25:|!
+!! *>B
+!! *k[]
+!! 4.cc
+!! 8g
+!! 8ccL
+!! 8ddJ
+!! =18
+!! 4ee
+!! 4dd
+!! 4cc
+!! =19
+!! 4dd
+!! (8qee/
+!! 4dd)
+!! (8qee/
+!! 4dd)
+!! =20
+!! 4dd
+!! 4b
+!! 4g
+!! =21
+!! 4.cc
+!! 8g
+!! 8ccL
+!! 8ddJ
+!! =22
+!! 8eeL
+!! 8eeJ
+!! 4dd
+!! 4cc
+!! =23
+!! 2.dd
+!! =24
+!! 2.gg
+!! !!!End-Modulation
+!! *G:frey
+!! !LO:TX:a:i:t=G-freygish
+!! =25:|!
+!! *>C
+!! *k[b-e-a-]
+!! 4.ff
+!! 8een
+!! 8ffL
+!! 8ggJ
+!! =26
+!! 8ffL
+!! 8ffJ
+!! 4ee-X
+!! 8ddL
+!! 8ccJ
+!! =27
+!! 4.dd
+!! 8cc
+!! 8ddL
+!! 8ee-J
+!! =28
+!! 8ddL
+!! 8ddJ
+!! 4cc
+!! 8bnL
+!! 8a-J
+!! =29
+!! 4bn
+!! 4cc
+!! 8ddL
+!! 8ccJ
+!! =30
+!! 4bn
+!! 4a-
+!! (8gL
+!! 8fJ)
+!! *>C1
+!! =31
+!! 2.g
+!! =32
+!! 2.gg
+!! *>C
+!! *k[b-e-a-]
+!! 4.ff
+!! 8een
+!! 8ffL
+!! 8ggJ
+!! =26
+!! 8ffL
+!! 8ffJ
+!! 4ee-X
+!! 8ddL
+!! 8ccJ
+!! =27
+!! 4.dd
+!! 8cc
+!! 8ddL
+!! 8ee-J
+!! =28
+!! 8ddL
+!! 8ddJ
+!! 4cc
+!! 8bnL
+!! 8a-J
+!! =29
+!! 4bn
+!! 4cc
+!! 8ddL
+!! 8ccJ
+!! =30
+!! 4bn
+!! 4a-
+!! (8gL
+!! 8fJ)
+!! *>C2
+!! =33:|!
+!! 4g
+!! (8qa-/
+!! 4g)
+!! (8qa-/
+!! 4g)
+!! =34
+!! 2.g
+!! ==
 *-

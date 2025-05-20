@@ -1,15 +1,15 @@
-!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
-!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
-!! NLB identifier: NLB144897_01
-!! NLB record number: 144897
-!! NLB strophe/voice number: 1
+Published by the Meertens Institute (http://www.meertens.knaw.nl)
+Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+NLB identifier: NLB144897_01
+NLB record number: 144897
+NLB strophe/voice number: 1
 **kern
 *staff1
 *M3/4
 *MM120
 *k[]
 *C:
-!! verse 0
+verse 0
 =1
 {4g
 8g
@@ -36,7 +36,7 @@
 8ff
 8ee
 8ff;}
-!! verse 1
+verse 1
 =5
 {4gg
 8ff
@@ -57,7 +57,7 @@
 =8
 2cc
 4cc;}
-!! verse 2
+verse 2
 =9
 {4ee
 8dd
@@ -78,7 +78,7 @@
 4b
 4g#
 4e;}
-!! verse 3
+verse 3
 =13
 {4ee
 8dd
@@ -99,7 +99,7 @@
 8b
 =16
 4.a;}
-!! verse 4
+verse 4
 {8dd
 8ee
 8ff
@@ -126,7 +126,7 @@
 8a
 8b
 8g;}
-!! verse 5
+verse 5
 =21
 {4cc
 8g
@@ -147,4 +147,4 @@
 4cc;}
 ==|!
 *-
-!! produced by wce2krn 1.64 (released on 7 June 2014)
+produced by wce2krn 1.64 (released on 7 June 2014)

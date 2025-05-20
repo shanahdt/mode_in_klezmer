@@ -9,307 +9,511 @@
 *I"P1
 *clefG2
 *k[b-e-]
-*G:frey
-=19!|:
-*k[b-e-a-]
-!LO:TX:a:i:t=G-freygish
-2gg
-=20
-(8qff#X/
-2gg)
-=21
-8r
-8g
-8a-L
-8bnJ
-=22
-8ccL
-8dd
-8ee-
-8ffJ
-=23
-24ggLL
-24aa-
-24ggJ
-8ffJ
-24aa-LL
-24bb-X
-24aa-J
-8ggJ
-=24
-8ffL
-8ee-J
-24ggLL
-24aa-
-24ggJ
-8ffJ
-=25
-24ee-LL
-24ff
-24ee-J
-8ddJ
-8ffL
-8ee-J
-=26
-24ddLL
-24ee-
-24ddJ
-8ccJ
-(8qff/
-8ee-L)
-8ddJ
-=27
-24ccLL
-24dd
-24ccJ
-8bnJ
-8ddL
-8ccJ
-=28
-16ee-LL
-16ddJ
-8ccJ
-8ffL
-8ee-J
-=29
-4.dd
-8cc
-=30
-8bnL
-8a-J
-4g
-=31:|!|:
-*>C
-8dd
-!!!Begin-Modulation
-*G:frey
-=19!|:
-*k[b-e-a-]
-!LO:TX:a:i:t=G-freygish
-2gg
-=20
-(8qff#X/
-2gg)
-=21
-8r
-8g
-8a-L
-8bnJ
-=22
-8ccL
-8dd
-8ee-
-8ffJ
-=23
-24ggLL
-24aa-
-24ggJ
-8ffJ
-24aa-LL
-24bb-X
-24aa-J
-8ggJ
-=24
-8ffL
-8ee-J
-24ggLL
-24aa-
-24ggJ
-8ffJ
-=25
-24ee-LL
-24ff
-24ee-J
-8ddJ
-8ffL
-8ee-J
-=26
-24ddLL
-24ee-
-24ddJ
-8ccJ
-(8qff/
-8ee-L)
-8ddJ
-=27
-24ccLL
-24dd
-24ccJ
-8bnJ
-8ddL
-8ccJ
-=28
-16ee-LL
-16ddJ
-8ccJ
-8ffL
-8ee-J
-=29
-4.dd
-8cc
-=30
-8bnL
-8a-J
-4g
-=31:|!|:
-*>D
-(16qqg/LL
-16qqcc/JJ
-4bn)
-4b
-=32
-8r
-8gL
-8a-
-8bnJ
-=33
-(16ccLL
-16ddJ
-8ccJ)
-4cc
-=34
-8r
-8ccL
-8dd
-8ee-J
-=35
-8ffL
-24ee-L
-24ff
-24ee-JJ
-8ddL
-8ccJ
-=36
-8bnL
-8cc
-8dd
-8ee-J
-=37
-4.dd
-8cc
-=38
-24bnLL
-24cc
-24bJ
-8a-J
-4g
-=39
-4bn
-4b
-=40
-8r
-8gL
-8a-
-8bnJ
-=41
-16ccLL
-16ddJ
-8ccJ
-4cc
-=42
-8r
-8ccL
-8dd
-8ee-J
-=43
-8ffL
-24ee-L
-24ff
-24ee-JJ
-8ddL
-8ccJ
-=44
-8bn
-(8qdd/
-8cc)
-8b
-8a-J
-*>D1
-=45
-2g
-=46
-4.gg
-8gg
-*>D
-(16qqg/LL
-16qqcc/JJ
-4bn)
-4b
-=32
-8r
-8gL
-8a-
-8bnJ
-=33
-(16ccLL
-16ddJ
-8ccJ)
-4cc
-=34
-8r
-8ccL
-8dd
-8ee-J
-=35
-8ffL
-24ee-L
-24ff
-24ee-JJ
-8ddL
-8ccJ
-=36
-8bnL
-8cc
-8dd
-8ee-J
-=37
-4.dd
-8cc
-=38
-24bnLL
-24cc
-24bJ
-8a-J
-4g
-=39
-4bn
-4b
-=40
-8r
-8gL
-8a-
-8bnJ
-=41
-16ccLL
-16ddJ
-8ccJ
-4cc
-=42
-8r
-8ccL
-8dd
-8ee-J
-=43
-8ffL
-24ee-L
-24ff
-24ee-JJ
-8ddL
-8ccJ
-=44
-8bn
-(8qdd/
-8cc)
-8b
-8a-J
-*>D2
-=47:|!
-4g
-4gg
-=48
-!LO:TX:b:Bi:t=Da Capo al Fine
-4dd
-4bn
-!!!End-Modulation
-==
+!! *g:
+!! *M2/4
+!! *>A
+!! =1
+!! !LO:TX:a:i:t=G-minor
+!! 24gLL
+!! 24a
+!! 24gJ
+!! 8dJ
+!! 24gLL
+!! 24a
+!! 24gJ
+!! 8dJ
+!! =2
+!! 8gL
+!! 8aJ
+!! 4b-
+!! =3
+!! 24aLL
+!! 24b-
+!! 24aJ
+!! 8gJ
+!! 8aL
+!! 8b-J
+!! =4
+!! 8cc#X
+!! 8qeen/
+!! 8ddJ
+!! 16b-LL
+!! 16aJ
+!! 8gJ
+!! =5
+!! 24gLL
+!! 24a
+!! 24gJ
+!! 8dJ
+!! 24gLL
+!! 24a
+!! 24gJ
+!! 8dJ
+!! =6
+!! 8gL
+!! 8aJ
+!! 4b-
+!! =7
+!! 24aLL
+!! 24b-
+!! 24aJ
+!! 8gJ
+!! 8aL
+!! 8b-J
+!! *>A1
+!! =8
+!! !LO:TX:b:Bi:t=Fine
+!! 4g
+!! 8r
+!! 8d
+!! *>A
+!! =1
+!! !LO:TX:a:i:t=G-minor
+!! 24gLL
+!! 24a
+!! 24gJ
+!! 8dJ
+!! 24gLL
+!! 24a
+!! 24gJ
+!! 8dJ
+!! =2
+!! 8gL
+!! 8aJ
+!! 4b-
+!! =3
+!! 24aLL
+!! 24b-
+!! 24aJ
+!! 8gJ
+!! 8aL
+!! 8b-J
+!! =4
+!! 8cc#X
+!! 8qeen/
+!! 8ddJ
+!! 16b-LL
+!! 16aJ
+!! 8gJ
+!! =5
+!! 24gLL
+!! 24a
+!! 24gJ
+!! 8dJ
+!! 24gLL
+!! 24a
+!! 24gJ
+!! 8dJ
+!! =6
+!! 8gL
+!! 8aJ
+!! 4b-
+!! =7
+!! 24aLL
+!! 24b-
+!! 24aJ
+!! 8gJ
+!! 8aL
+!! 8b-J
+!! *>A2
+!! =9:|!
+!! 4g
+!! 8r
+!! 8g
+!! =10!|:
+!! *>B
+!! 4cc
+!! 8ddL
+!! (8qff/
+!! 8ee-J)
+!! =11
+!! (16ddLL
+!! 16ee-JJ)
+!! 4cc
+!! 8a
+!! =12
+!! 4b-
+!! 8ccL
+!! 8ddJ
+!! =13
+!! *^
+!! 4ryy	16ccLL
+!! .	16ddJJ
+!! .	4b-
+!! 8ryy	.
+!! 24aLL	8a
+!! 24b-	.
+!! 24aJJ	.
+!! *v	*v
+!! =14
+!! 4g
+!! 8aL
+!! 8b-J
+!! =15
+!! 4cc
+!! 8r
+!! 8dd
+!! =16
+!! (16ddLL
+!! 16cc#XJ
+!! 8b-J)
+!! 16b-LL
+!! 16aJ
+!! 8gJ
+!! *>B1
+!! =17
+!! 16aLL
+!! 16b-J
+!! 8ccnJ
+!! 16b-LL
+!! 16aJ
+!! 8gJ
+!! *>B
+!! 4cc
+!! 8ddL
+!! (8qff/
+!! 8ee-J)
+!! =11
+!! (16ddLL
+!! 16ee-JJ)
+!! 4cc
+!! 8a
+!! =12
+!! 4b-
+!! 8ccL
+!! 8ddJ
+!! =13
+!! *^
+!! 4ryy	16ccLL
+!! .	16ddJJ
+!! .	4b-
+!! 8ryy	.
+!! 24aLL	8a
+!! 24b-	.
+!! 24aJJ	.
+!! *v	*v
+!! =14
+!! 4g
+!! 8aL
+!! 8b-J
+!! =15
+!! 4cc
+!! 8r
+!! 8dd
+!! =16
+!! (16ddLL
+!! 16cc#XJ
+!! 8b-J)
+!! 16b-LL
+!! 16aJ
+!! 8gJ
+!! *>B2
+!! =18:|!
+!! 4.g
+!! *>C
+!! 8dd
+!! !!!Begin-Modulation
+!! *G:frey
+!! =19!|:
+!! *k[b-e-a-]
+!! !LO:TX:a:i:t=G-freygish
+!! 2gg
+!! =20
+!! (8qff#X/
+!! 2gg)
+!! =21
+!! 8r
+!! 8g
+!! 8a-L
+!! 8bnJ
+!! =22
+!! 8ccL
+!! 8dd
+!! 8ee-
+!! 8ffJ
+!! =23
+!! 24ggLL
+!! 24aa-
+!! 24ggJ
+!! 8ffJ
+!! 24aa-LL
+!! 24bb-X
+!! 24aa-J
+!! 8ggJ
+!! =24
+!! 8ffL
+!! 8ee-J
+!! 24ggLL
+!! 24aa-
+!! 24ggJ
+!! 8ffJ
+!! =25
+!! 24ee-LL
+!! 24ff
+!! 24ee-J
+!! 8ddJ
+!! 8ffL
+!! 8ee-J
+!! =26
+!! 24ddLL
+!! 24ee-
+!! 24ddJ
+!! 8ccJ
+!! (8qff/
+!! 8ee-L)
+!! 8ddJ
+!! =27
+!! 24ccLL
+!! 24dd
+!! 24ccJ
+!! 8bnJ
+!! 8ddL
+!! 8ccJ
+!! =28
+!! 16ee-LL
+!! 16ddJ
+!! 8ccJ
+!! 8ffL
+!! 8ee-J
+!! =29
+!! 4.dd
+!! 8cc
+!! =30
+!! 8bnL
+!! 8a-J
+!! 4g
+!! =31:|!|:
+!! *>C
+!! 8dd
+!! !!!Begin-Modulation
+!! *G:frey
+!! =19!|:
+!! *k[b-e-a-]
+!! !LO:TX:a:i:t=G-freygish
+!! 2gg
+!! =20
+!! (8qff#X/
+!! 2gg)
+!! =21
+!! 8r
+!! 8g
+!! 8a-L
+!! 8bnJ
+!! =22
+!! 8ccL
+!! 8dd
+!! 8ee-
+!! 8ffJ
+!! =23
+!! 24ggLL
+!! 24aa-
+!! 24ggJ
+!! 8ffJ
+!! 24aa-LL
+!! 24bb-X
+!! 24aa-J
+!! 8ggJ
+!! =24
+!! 8ffL
+!! 8ee-J
+!! 24ggLL
+!! 24aa-
+!! 24ggJ
+!! 8ffJ
+!! =25
+!! 24ee-LL
+!! 24ff
+!! 24ee-J
+!! 8ddJ
+!! 8ffL
+!! 8ee-J
+!! =26
+!! 24ddLL
+!! 24ee-
+!! 24ddJ
+!! 8ccJ
+!! (8qff/
+!! 8ee-L)
+!! 8ddJ
+!! =27
+!! 24ccLL
+!! 24dd
+!! 24ccJ
+!! 8bnJ
+!! 8ddL
+!! 8ccJ
+!! =28
+!! 16ee-LL
+!! 16ddJ
+!! 8ccJ
+!! 8ffL
+!! 8ee-J
+!! =29
+!! 4.dd
+!! 8cc
+!! =30
+!! 8bnL
+!! 8a-J
+!! 4g
+!! =31:|!|:
+!! *>D
+!! (16qqg/LL
+!! 16qqcc/JJ
+!! 4bn)
+!! 4b
+!! =32
+!! 8r
+!! 8gL
+!! 8a-
+!! 8bnJ
+!! =33
+!! (16ccLL
+!! 16ddJ
+!! 8ccJ)
+!! 4cc
+!! =34
+!! 8r
+!! 8ccL
+!! 8dd
+!! 8ee-J
+!! =35
+!! 8ffL
+!! 24ee-L
+!! 24ff
+!! 24ee-JJ
+!! 8ddL
+!! 8ccJ
+!! =36
+!! 8bnL
+!! 8cc
+!! 8dd
+!! 8ee-J
+!! =37
+!! 4.dd
+!! 8cc
+!! =38
+!! 24bnLL
+!! 24cc
+!! 24bJ
+!! 8a-J
+!! 4g
+!! =39
+!! 4bn
+!! 4b
+!! =40
+!! 8r
+!! 8gL
+!! 8a-
+!! 8bnJ
+!! =41
+!! 16ccLL
+!! 16ddJ
+!! 8ccJ
+!! 4cc
+!! =42
+!! 8r
+!! 8ccL
+!! 8dd
+!! 8ee-J
+!! =43
+!! 8ffL
+!! 24ee-L
+!! 24ff
+!! 24ee-JJ
+!! 8ddL
+!! 8ccJ
+!! =44
+!! 8bn
+!! (8qdd/
+!! 8cc)
+!! 8b
+!! 8a-J
+!! *>D1
+!! =45
+!! 2g
+!! =46
+!! 4.gg
+!! 8gg
+!! *>D
+!! (16qqg/LL
+!! 16qqcc/JJ
+!! 4bn)
+!! 4b
+!! =32
+!! 8r
+!! 8gL
+!! 8a-
+!! 8bnJ
+!! =33
+!! (16ccLL
+!! 16ddJ
+!! 8ccJ)
+!! 4cc
+!! =34
+!! 8r
+!! 8ccL
+!! 8dd
+!! 8ee-J
+!! =35
+!! 8ffL
+!! 24ee-L
+!! 24ff
+!! 24ee-JJ
+!! 8ddL
+!! 8ccJ
+!! =36
+!! 8bnL
+!! 8cc
+!! 8dd
+!! 8ee-J
+!! =37
+!! 4.dd
+!! 8cc
+!! =38
+!! 24bnLL
+!! 24cc
+!! 24bJ
+!! 8a-J
+!! 4g
+!! =39
+!! 4bn
+!! 4b
+!! =40
+!! 8r
+!! 8gL
+!! 8a-
+!! 8bnJ
+!! =41
+!! 16ccLL
+!! 16ddJ
+!! 8ccJ
+!! 4cc
+!! =42
+!! 8r
+!! 8ccL
+!! 8dd
+!! 8ee-J
+!! =43
+!! 8ffL
+!! 24ee-L
+!! 24ff
+!! 24ee-JJ
+!! 8ddL
+!! 8ccJ
+!! =44
+!! 8bn
+!! (8qdd/
+!! 8cc)
+!! 8b
+!! 8a-J
+!! *>D2
+!! =47:|!
+!! 4g
+!! 4gg
+!! =48
+!! !LO:TX:b:Bi:t=Da Capo al Fine
+!! 4dd
+!! 4bn
+!! !!!End-Modulation
+!! ==
 *-

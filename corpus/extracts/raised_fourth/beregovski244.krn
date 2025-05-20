@@ -168,6 +168,25 @@
 4dd
 8r
 !!!Begin-Modulation
+!! *d:dor
+!! !LO:TX:a:i:t=D-raised-fourth
+!! =32
+!! 8eeL
+!! 8ffJ
+!! 16gg#XLL
+!! 16aaJJ
+!! =33
+!! 8gg#XL
+!! 8ffJ
+!! 16ee
+!! (8qgg#/
+!! 16ffJJ)
+!! =34
+!! [4.dd
+!! =35
+!! 4dd]
+!! 8r
+!! !!!End-Modulation
 *g:dor
 !LO:TX:a:i:t=G-raised-fourth
 =36

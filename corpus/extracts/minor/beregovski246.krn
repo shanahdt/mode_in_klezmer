@@ -10,6 +10,107 @@
 *clefG2
 *k[b-e-]
 !!!Begin-Modulation
+!! *B-:
+!! *M3/8
+!! *>A
+!! !LO:TX:a:i:t=Bb-major
+!! 8f
+!! =1
+!! 8ffL
+!! 8ee-J
+!! (16qqdd/LL
+!! 16qqee-/JJ
+!! (16.ddLL)
+!! 32ccJJk)
+!! =2
+!! 8ffL
+!! 8ee-J
+!! (16qqdd/LL
+!! 16qqee-/JJ
+!! (16ddLL)
+!! 16ee-JJ)
+!! =3
+!! 8ffL
+!! 8ggJ
+!! (16qqff/LL
+!! 16qqgg/JJ
+!! 16.ffLL)
+!! 32ee-JJk
+!! =4
+!! 8ddL
+!! 8ccJ
+!! 16b-LL
+!! 16ccJJ
+!! =5
+!! 16ccLL
+!! (8qee-/
+!! 16dd)
+!! (16dd
+!! 16cc)
+!! (16cc
+!! 16aJJ)
+!! =6
+!! 8.b-L
+!! 16fL
+!! 16g
+!! 16aJJ
+!! *>A1
+!! =7
+!! 4b-
+!! (8qb-/
+!! 8bb-)
+!! =8
+!! (8qb-/
+!! 4bb-)
+!! *>A
+!! !LO:TX:a:i:t=Bb-major
+!! 8f
+!! =1
+!! 8ffL
+!! 8ee-J
+!! (16qqdd/LL
+!! 16qqee-/JJ
+!! (16.ddLL)
+!! 32ccJJk)
+!! =2
+!! 8ffL
+!! 8ee-J
+!! (16qqdd/LL
+!! 16qqee-/JJ
+!! (16ddLL)
+!! 16ee-JJ)
+!! =3
+!! 8ffL
+!! 8ggJ
+!! (16qqff/LL
+!! 16qqgg/JJ
+!! 16.ffLL)
+!! 32ee-JJk
+!! =4
+!! 8ddL
+!! 8ccJ
+!! 16b-LL
+!! 16ccJJ
+!! =5
+!! 16ccLL
+!! (8qee-/
+!! 16dd)
+!! (16dd
+!! 16cc)
+!! (16cc
+!! 16aJJ)
+!! =6
+!! 8.b-L
+!! 16fL
+!! 16g
+!! 16aJJ
+!! *>A2
+!! =9:||
+!! 4.b-
+!! =
+!! 4b-
+!! =10||
+!! !!!End-Modulation
 *g:
 !LO:TX:a:i:t=G-minor
 8b-
@@ -61,14 +162,7 @@
 4.gg
 !!!End-Modulation2
 =19:|!
-(16ccLL
-(8qee-/
-16dd))
-(16dd
-16b-)
-(8qdd/
-(16cc)
-16aJJ)
+
 *>B
 =11!|:
 *^

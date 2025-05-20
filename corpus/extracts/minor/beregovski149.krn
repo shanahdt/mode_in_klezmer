@@ -113,6 +113,39 @@
 =16
 2dd
 !!!Begin-Modulation
+!! *B-:
+!! !LO:TX:a:i:t=Bb-major
+!! =17
+!! 16b-LL
+!! 16cc
+!! 16dd
+!! 16ee-JJ
+!! 16ddLL
+!! 16ee-
+!! 16dd
+!! 16ee-JJ
+!! =18
+!! 16ddLL
+!! 16ee-
+!! 16dd
+!! 16ee-JJ
+!! 8.ddL
+!! 16ccJk
+!! =19
+!! (16ccLL
+!! 16g)
+!! (16g
+!! 16ccJJ)
+!! (16ccLL
+!! 16g)
+!! (16g
+!! 16ccJJ)
+!! =20
+!! 8ccL
+!! 16b-L
+!! 16aJJ
+!! 4b-
+!! !!!End-Modulation
 *g:
 !LO:TX:a:i:t=G-minor
 =21

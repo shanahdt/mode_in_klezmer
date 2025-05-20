@@ -138,6 +138,72 @@
 =9:|!
 2g
 !!!Begin-Modulation
+!! *G:
+!! =10!|:
+!! *k[f#]
+!! *>B
+!! !LO:TX:a:i:t=G-major
+!! !LO:TX:a:t="Segno"
+!! 16ff#XLL
+!! 16gg
+!! 16ff#
+!! 16ggJJ
+!! 8eeL
+!! 16ddL
+!! 16ccJJ
+!! =11
+!! 16bLL
+!! 16dd
+!! 16b
+!! 16ddJJ
+!! 8bL
+!! 16aL
+!! 16gJJ
+!! =12
+!! 16aLL
+!! 16b
+!! 16cc
+!! 16ddJJ
+!! 16bLL
+!! 16g
+!! 16a
+!! 16f#JJ
+!! *>B1
+!! =13
+!! 4g
+!! 4gg
+!! *>B
+!! !LO:TX:a:i:t=G-major
+!! !LO:TX:a:t="Segno"
+!! 16ff#XLL
+!! 16gg
+!! 16ff#
+!! 16ggJJ
+!! 8eeL
+!! 16ddL
+!! 16ccJJ
+!! =11
+!! 16bLL
+!! 16dd
+!! 16b
+!! 16ddJJ
+!! 8bL
+!! 16aL
+!! 16gJJ
+!! =12
+!! 16aLL
+!! 16b
+!! 16cc
+!! 16ddJJ
+!! 16bLL
+!! 16g
+!! 16a
+!! 16f#JJ
+!! *>B2
+!! =14:|!
+!! !LO:TX:b:Bi:t=Fine
+!! 2g
+!! !!!End-Modulation
 *g:dor
 =15!|:
 *k[b-]

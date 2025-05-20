@@ -41,7 +41,6 @@ raised_data <- raised |>
     count() |> 
     as_tibble() |> 
     arrange(desc(n)) 
-write.csv(raised_data, "raised_fourth_percentages.csv")
 ```
 
 ## G Major
@@ -55,6 +54,7 @@ major <- major |>
 major |> count() |> as_tibble() |> 
     arrange(desc(n)) |> 
     datatable(filter="top")
+
 ```
 
 ## G Minor

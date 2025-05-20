@@ -1,11 +1,9465 @@
+!!!OTL: 1. Dobriden
+!!!Genre:	Dobriden
+!!!Mode:Minor
+!!!Listening/dance:	listening
+!!!One_Mode:	yes
+!!!	ABC
+!!!Orig_tonic: D
+**kern
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 2. Dobriden
+!!!Genre:	Dobriden
+!!!Mode:	Freygish
+!!!Listening/dance:	listening
+!!!One_Mode:	yes
+!!!:	AB
+!!!Orig_tonic: unkown
+**kern
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 3. Dobriden
+!!!Genre:	Dobriden
+!!!Mode:	Freygish
+!!!Listening/dance:	listening
+!!!One_Mode:	no
+!!!Orig_tonic: unknown
+**kern
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 4. Dobranoch
+!!!Genre:	Dobranoch
+!!!Mode:	Freygish
+!!!Listening/dance:	listening
+!!!:	*C:
+!!!One_Mode:	no
+!!!Orig_tonic: E
+**kern
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 5. Dobriden
+!!!Genre:	Dobriden
+!!!Mode:	Minor
+!!!Listening/dance:	listening
+!!!One_Mode:	yes
+!!!Orig_tonic: E
+**kern
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 6. Dobranoch
+!!!Genre:	Dobranoch
+!!!Mode:	Minor
+!!!Listening/dance:	listening
+!!!One_Mode:	no
+!!!Orig_tonic: C
+**kern
+*clefG2
+*>[pickup,A,A1,A,A2,B,B1,B,B2,C,C]
+*k[b-e-]
+*-
+!!!OTL: 7. Dobranoch
+!!!Genre:	Dobranoch
+!!!Mode:	Minor
+!!!Listening/dance:	listening
+!!!One_Mode:	no
+!!!Orig_tonic: G
+**kern
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 8. Mazltov (Dobranoch)
+!!!Genre:	Mazltov (Dobranoch)
+!!!Mode:	Minor
+!!!Listening/dance:	listening
+!!!:	*B-:
+!!!One_Mode:	no
+!!!Orig_tonic: G
+**kern
+*I"P1
+*clefG2
+*>[A,A,B,B1,B,B2,C,C1,C,C2,D,D1,D,D2]
+*k[b-e-]
+*-
+!!!OTL: 10. Dobranoch (mazltov)
+!!!Genre:	Dobranoch (mazltov)
+!!!Mode:	Altered Dorian
+!!!Listening/dance:	listening
+!!!One_Mode:	yes
+!!!Orig_tonic: C
+**kern
+*I"P1
+*clefG2
+*k[b-]
+*g:dor
+*M3/4
+*>[A,A1,A,A2,B,B,C,C1,C,C2]
+*>A
+=1
+2d
+4g
+=2
+2b-
+4dd
+=3
+(8.cc#XL
+16eeJk
+4dd)
+4dd
+=4
+2dd
+12ddL
+12cc#X
+12ddJ
+=5
+4ee
+4dd
+4cc#X
+=6
+4b-
+4a
+(16b-LL
+16aJ)
+8gJ
+=7
+(8.cc#XL
+16eeJk
+4dd)
+4dd
+=8
+4.gg
+8dd
+8b-L
+8gJ
+=9
+2d
+4g'
+=10
+2b-
+4dd
+=11
+[2.cc#Xt
+=12
+2cc#]
+12b-L
+12a
+12b-J
+=13
+4ee
+4dd
+4cc#X
+=14
+4b-
+4a
+(8ddL
+8f#XJ)
+*>A1
+=15
+4.g
+8g
+8aL
+8b-J
+=16
+4.cc#Xt
+8b-
+8aL
+8gJ
+*>A2
+=17:|!
+2.g
+=18
+2.G
+=19!|:
+*>B
+4dd
+4.gg
+8ee
+=20
+4.ff
+8ee
+(16ffLL
+16eeJ)
+8ddJ
+=21
+4dd
+4.ff
+8ee
+=22
+4.dd
+8cc#X
+16ddLL
+16cc#J
+8b-J
+=23
+4b-
+4ee
+4dd
+=24
+4.cc#X
+8b-
+8aL
+8gJ
+=25
+(8.cc#XL
+16eeJk
+4dd)
+4dd
+=26
+2gg
+4dd
+=27
+4dd
+4.gg
+8ee
+=28
+4.ff
+8ee
+(16ffLL
+16eeJ
+8ddJ)
+=29
+4dd
+4.ff
+8ee
+=30
+4.dd
+(8cc#X
+16ddLL
+16cc#J
+8b-J)
+=31
+4b-
+4ee
+4dd
+=32
+4.cc#Xt
+8b-
+8aL
+8b-J
+=33
+2.g
+=34
+2.G
+=35:|!|:
+*>C
+4cc#X
+4dd
+(qdd/
+8cc#L)
+8b-J
+=36
+4cc#X
+(8qee/
+2dd)
+=37
+4g
+8r
+8g
+8aL
+8b-J
+=38
+4.cc#
+8b-
+8aL
+8gJ
+=39
+4cc#X
+4dd
+8cc#L
+8b-J
+=40
+4cc#X
+(8qee/
+2dd)
+=41
+4cc#X
+8r
+8ddL
+8ee
+8ffJ
+=42
+4.gg
+8ff
+8eeL
+8ddJ
+=43
+4cc#X
+4dd
+8cc#L
+8b-J
+=44
+4cc#X
+(8qee/
+2dd)
+=45
+4.g
+8g
+8aL
+8b-J
+=46
+4.cc#X
+8b-
+(8aL
+8gJ)
+=47
+4.bb-
+8aa
+8ggL
+8bb-J
+=48
+4.aa
+8gg
+8ff#XL
+8aaJ
+=49
+4.gg
+8dd
+8b-L
+8ddJ
+*>C1
+=50
+2g
+4g
+*>C2
+=51:|!
+2.g
+==
+*-
+!!!OTL: 11. Dobranoch
+!!!Genre:	Dobranoch
+!!!Mode:	Minor
+!!!Listening/dance:	listening
+!!!One_Mode:	no
+!!!Orig_tonic: A
+**kern
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 12. Dobriden
+!!!Genre:	Dobriden
+!!!Mode:	Freygish
+!!!Listening/dance:	listening
+!!!One_Mode:	no
+!!!Orig_tonic: D
+**kern
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 15. Freylekhs (tsu der khupe)
+!!!Genre:	Freylekhs (tsu der khupe)
+!!!Mode:	Freygish
+!!!Listening/dance:	listening
+!!!:	*C:
+!!!One_Mode:	no
+!!!Orig_tonic: C
+**kern
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 16. Freylekhs (fun der khupe)
+!!!Genre:	Freylekhs (fun der khupe)
+!!!Mode:	Minor
+!!!Listening/dance:	listening
+!!!One_Mode:	yes
+!!!Orig_tonic: G
+**kern
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 19. Khtos, metric section only
+!!!Genre: Khtsos
+!!!Mode: Minor
+!!!One Mode: no
+!!!Orig_tonic: Ab
+**kern
+!!pagebreak:original
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 20. Taksim, metric section only
+!!!Genre:	Taksim
+!!!Mode:	Altered Dorian
+!!!Listening/dance:	listening
+!!!One_Mode:	no
+!!!Orig_tonic: unkonwn
+**kern
+*I"P1
+*clefG2
+*k[b-]
+*g:dor
+*M2/4
+*[A,B,C,C1,C,C2]
+*>A
+!LO:TX:a:i:t=G-raised-fourth
+8d
+=1
+8.gL
+16dJk
+8b-L
+8ddJ
+=2
+(16ddLL
+16cc#X)
+(16cc#X
+16b-JJ)
+4dd
+=3
+16cc#XLL
+16dd
+16ee
+16ddJJ
+16cc#LL
+16b-
+16a
+16b-JJ
+=4
+8cc#
+(8qee/
+8ddJ)
+16cc#XLL
+16b-
+16a
+16gJJ
+=5
+8.gL
+16dJk
+8b-L
+8ddJ
+=6
+(16ddLL
+16cc#X)
+(16cc#
+16b-JJ)
+4dd
+=7
+16cc#XLL
+16dd
+16ee
+16ddJJ
+16cc#LL
+16b-
+16a
+16b-JJ
+=8
+4g
+8gg
+16r
+16d
+=9
+8.gL
+16dJk
+8b-L
+8ddJ
+=10
+(16ddLL
+16cc#X)
+(16cc#
+16b-JJ)
+4dd
+=11
+(16qqcc#/LL
+16qqdd/JJ
+(16cc#XLL)
+16dd
+16ee
+16ffJJ
+16eeLL
+16dd
+16cc#)
+16b-JJ
+=12
+(16aLL
+16b-
+16cc#X
+16ddJJ
+16cc#LL
+16b-
+16a
+16gJJ)
+=13
+8.gL
+16dJk
+8b-L
+8ddJ
+=14
+(16ddLL
+16cc#X)
+(16cc#
+16b-JJ)
+4dd
+=15
+16cc#XLL
+16dd
+16ee
+16ddJJ
+16cc#LL
+16b-
+16a
+16gJJ
+=
+!LO:TX:b:Bi:t=Fine
+(16aLL
+16b-J
+8gJ)
+8r
+=16||
+*>B
+8dd
+=17
+4.gg
+8dd
+=18
+4.gg
+8dd
+=19
+(16qqgg/LL
+16qqaa/JJ
+8ggL)
+8dd
+(16qqgg/LL
+16qqaa/JJ
+8gg)
+8ddJ
+=20
+(16qqgg/LL
+16qqaa/JJ
+8ggL)
+8ddJ
+8ggL
+16r
+16ddJk
+=21
+16gg'LL
+(16ff
+16ee
+16ddJJ)
+16ff'LL
+(16ee
+16dd
+16cc#XJJ)
+=22
+16ee'LL
+(16dd
+16cc#X
+16b-JJ)
+16cc#'LL
+(16b-
+16a
+16gJJ)
+=23
+16ggLL
+16ff
+16ee
+16ddJJ
+16cc#XLL
+16dd
+16ee
+16cc#JJ
+=24
+8dd
+8r
+4gg
+=25
+16ggLL
+16ff
+16ee
+16ddJJ
+16ffLL
+16ee
+16dd
+16cc#XJJ
+=26
+16eeLL
+16dd
+16cc#
+16b-JJ
+16cc#XLL
+16b-
+16a
+16gJJ
+=27
+8b-L
+8ddJ
+16cc#XLL
+16b-
+16a
+16b-JJ
+=28
+4g
+8r
+8dd
+=29
+4.gg
+8dd
+=30
+4.gg
+8dd
+=31
+(16ddLL
+16gg)
+(16gg
+16ddJJ)
+(16ddLL
+16gg)
+(16gg
+16ddJJ)
+=32
+(16ddLL
+16gg)
+(16gg
+16ddJJ)
+8gg
+16r
+16g
+=33
+16ggLL
+16ff
+16ee
+16ddJJ
+16ffLL
+16ee
+16dd
+16cc#XJJ
+=34
+16eeLL
+16dd
+16cc#X
+16b-JJ
+16cc#LL
+16b-
+16a
+16gJJ
+=35
+16ggLL
+16ff
+16ee
+16ddJJ
+16cc#XLL
+16dd
+16ee
+16cc#JJ
+=36
+8dd
+8r
+4gg
+=37
+16ggLL
+16ff
+16ee
+16ddJJ
+16ffLL
+16ee
+16dd
+16cc#XJJ
+=38
+16eeLL
+16dd
+16cc#X
+16b-JJ
+16cc#XLL
+16b-
+16a
+16gJJ
+=39
+8b-L
+8ddJ
+16cc#XLL
+16b-
+16a
+16b-JJ
+=
+4g
+8r
+=40||
+*k[]
+!!!Begin-Modulation
+*g:dor
+!LO:TX:a:i:t=G-raised-fourth
+=47
+16cc#XLL
+16dd
+16ee
+16ddJJ
+16cc#LL
+16b-X
+16a
+16b-JJ
+=48
+*>C1
+(8a
+4g)
+8d
+=49:|!
+*>C2
+!LO:TX:b:Bi:t=Allegro Da Capo al Fine
+(16aLL
+16b-XJJ)
+4g
+==
+*-
+!!!OTL: 21. Doyne, metric section only
+!!!Genre:	Doyne
+!!!Mode:	Freygish
+!!!Listening/dance:	listening
+!!!:	*c:
+!!!One_Mode:	no
+!!!Orig_tonic: unknown
+**kern
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: Doyne, metric section only
+!!!Genre:	Doyne
+!!!Mode:	Altered Dorian
+!!!Listening/dance:	listening
+!!!One_Mode:	yes
+!!!Orig_tonic: unknown
+**kern
+*I"P1
+*clefG2
+*k[b-]
+*g:dor
+*M2/4
+*>A
+=1
+8gL
+16dL
+16dJJ
+8GL
+8dJ
+=2
+8D
+8d
+8GL
+8dJ
+=3
+16cc#XLL
+(8qee/
+16dd)
+16dd
+16ddJJ
+16.cc#LL
+32b-k
+16a
+16b-JJ
+=4
+16cc#XLL
+(8qee/
+16dd)
+16dd
+16ddJJ
+16.cc#LL
+32b-k
+16a
+16gJJ
+=5
+16aLL
+16b-
+16cc#XJJ
+(8qee/
+16ddJJ)
+16.cc#LL
+32b-k
+16a
+16gJJ
+=6
+4dd
+4r
+=7
+16ggLL
+16aa
+16bb-
+16aaJJ
+16ggLL
+16ff
+16ee
+16ddJJ
+=8
+16.ggLL
+32ffk
+(16qqee/LL
+16qqff/JJ
+16ee)
+16ddJJ
+(16qqcc#X/LL
+16qqdd/JJ
+16cc#XLL)
+16b-
+16a
+16gJJ
+=9
+16aLL
+(8qccX/
+16b-)
+16b-
+16b-JJ
+(16qqa/LL
+16qqb-/JJ
+16aLL)
+16g
+16f#
+16gJJ
+=10
+4g
+8r
+16cc#XLL
+16cc#JJ
+=11
+(8qee/
+4.dd)
+(16.cc#XLL
+32eeJJk
+=12
+4.dd)
+(16.cc#XLL
+32eeJJk
+=13
+8ddL)
+(16.cc#XL
+32eeJJk
+8ddL)
+(16.cc#L
+32eeJJk
+=14
+4dd)
+8r
+8b-
+=15
+16b-LL
+(8qee/
+16dd)
+16cc#X
+16b-JJ
+4dd
+=16
+16b-LL
+16dd
+(16qqcc#X\LL
+16qqdd\JJ
+16cc#X)
+16b-JJ
+4dd
+=17
+16cc#XLL
+(8qee/
+16dd)
+16cc#
+16b-JJ
+16aLL
+16g
+16a
+16b-JJ
+=18
+8gL
+8ggJ
+8r
+8gg
+=19
+16cc#LL
+(8qee/
+16dd)
+16cc#X
+16b-JJ
+4dd
+=20
+16cc#XLL
+(8qee/
+16dd)
+16cc#
+16b-JJ
+8ddL
+(56gLL
+56a
+56b-
+56ccn
+56dd
+56ee
+56ff#XJJJ
+=21
+4gg)
+(8dL
+16eL
+16f#XJJ
+=22
+4g)
+4r
+==
+*-
+!!!OTL: 23. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Freygish
+!!!Listening/dance:	listening
+!!!One_Mode:	yes
+!!!Orig_tonic: unknown
+**kern
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 24. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Freygish
+!!!Listening/dance:	listening
+!!!One_Mode:	yes
+!!!Orig_tonic: unknown
+**kern
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 25. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Freygish
+!!!Listening/dance:	listening
+!!!:	*c:; *g:
+!!!One_Mode:	no
+!!!Orig_tonic: unknown
+**kern
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 26. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Freygish
+!!!Listening/dance:	listening
+!!!One_Mode:	no
+!!!Orig_tonic: A
+**kern
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 27. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Freygish
+!!!Listening/dance:	listening
+!!!:	*B-:
+!!!One_Mode:	no
+!!!Orig_tonic: unknown
+**kern
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 28. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Freygish
+!!!Listening/dance:	listening
+!!!:	*C:; *c:
+!!!One_Mode:	no
+!!!Orig_tonic: C
+**kern
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 29. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Freygish
+!!!Listening/dance:	listening
+!!!One_Mode:	yes
+!!!Orig_tonic: G
+**kern
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 30. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Freygish
+!!!Listening/dance:	listening
+!!!:	*B-:
+!!!One_Mode:	no
+!!!Orig_tonic: A
+**kern
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 31. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Freygish
+!!!Listening/dance:	listening
+!!!:	*F:
+!!!One_Mode:	no
+**kern
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 32. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Freygish
+!!!Listening/dance:	listening
+!!!:	*C:; *c:dor
+!!!One_Mode:	no
+**kern
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 33. Lekhaim
+!!!Genre:	Lekhaim
+!!!Mode:	Freygish
+!!!Listening/dance:	listening
+!!!One_Mode:	yes
+**kern
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 34. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Freygish
+!!!Listening/dance:	listening
+!!!One_Mode:	no
+**kern
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 35. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Freygish
+!!!Listening/dance:	listening
+!!!One_Mode:	no
+**kern
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 36 Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Freygish
+!!!Listening/dance:	listening
+!!!One_Mode:	yes
+**kern
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 37. Nign
+!!!Genre:	Nign
+!!!Mode:	Freygish
+!!!Listening/dance:	listening
+!!!:	*c:
+!!!One_Mode:	no
+**kern
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 38. Nign
+!!!Genre:	Nign
+!!!Mode:	Minor
+!!!Listening/dance:	listening
+!!!One_Mode:	yes
+**kern
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 39. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Minor
+!!!Listening/dance:	listening
+!!!One_Mode:	yes
+**kern
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 40. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Minor
+!!!Listening/dance:	listening
+!!!:	*B-:
+!!!One_Mode:	no
+**kern
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 41. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Minor
+!!!Listening/dance:	listening
+!!!One_Mode:	yes
+**kern
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 42. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Minor
+!!!Listening/dance:	listening
+!!!:	*B-:
+!!!One_Mode:	no
+**kern
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 43. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Minor
+!!!Listening/dance:	listening
+!!!:	*B-:
+!!!One_Mode:	no
+**kern
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 44. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Minor
+!!!Listening/dance:	listening
+!!!One_Mode:	yes
+**kern
+*I"P1
+!!pagebreak:original
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 45. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Minor
+!!!Listening/dance:	listening
+!!!:	*G:frey
+!!!One_Mode:	no
+**kern
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 46. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Minor
+!!!Listening/dance:	listening
+!!!One_Mode:	no
+**kern
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 47. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Minor
+!!!Listening/dance:	listening
+!!!:	*g:dor; *G:; *g:dor
+!!!One_Mode:	no
+**kern
+*I"P1
+*clefG2
+*k[b-e-]
+*g:dor
+=21:|!|:
+*>C
+*k[b-]
+!LO:TX:a:i:t=G-raised-fourth
+16cc#XLL
+16dd
+16ee
+16ffJJ
+16eeLL
+16dd
+16cc#
+16b-JJ
+=22
+16cc#XLL
+16dd
+16ee
+16ffJJ
+16eeLL
+16dd
+16cc#
+16ddJJ
+=23
+4.ee
+8ee
+=24
+16eeLL
+16ff
+16bb-
+16aaJJ
+16ggLL
+16ff
+16ee
+16ddJJ
+=25
+4.cc#X
+8a
+=26
+8ddL
+16cc#XL
+16b-JJ
+16aLL
+16g
+16b-
+16aJJ
+=27
+4g
+4G
+!!!End-Modulation
+=:|!
+*-
+!!!OTL: 48. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Minor
+!!!Listening/dance:	listening
+!!!:	*B-:
+!!!One_Mode:	no
+**kern
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 49. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Minor
+!!!Listening/dance:	listening
+!!!One_Mode:	no
+**kern
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 50. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Minor
+!!!Listening/dance:	listening
+!!!:	*B-:
+!!!One_Mode:	no
+**kern
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 51. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Minor
+!!!Listening/dance:	listening
+!!!:	*B-:
+!!!One_Mode:	no
+**kern
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL:52. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Minor
+!!!Listening/dance:	listening
+!!!:	*B-:
+!!!One_Mode:	no
+**kern
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 53. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Minor
+!!!Listening/dance:	listening
+!!!:	*B-:
+!!!One_Mode:	no
+**kern
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 54. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Altered Dorian
+!!!Listening/dance:	listening
+!!!:	*G:
+!!!One_Mode:	no
+**kern
+*I"P1
+*clefG2
+*k[b-]
+*g:dor
+*M2/4
+*>[A,B,B1,B,B2,C,C1,C,C2,D,E,F,G,H,H1,H,H2]
+*>A
+=1
+!LO:TX:a:i:t=G-raised-fourth
+8dL
+8g
+8b-
+8ddJ
+=2
+16cc#XLL
+16dd
+16ee
+16ddJJ
+16cc#LL
+16b-
+16a
+16gJJ
+=3
+16cc#XLL
+16dd
+16ee
+16ddJJ
+16cc#LL
+16b-
+16a
+16b-JJ
+=4
+(16cc#XLL
+16eeJ
+8ddJ)
+4gg
+=5
+8dL
+8g
+8b-
+8ddJ
+=6
+16cc#XLL
+16dd
+16ee
+16ddJJ
+16cc#LL
+16b-
+16a
+16gJJ
+=7
+16b-LL
+16a
+16ccnX
+16b-JJ
+16ddLL
+16cc
+16b-
+16aJJ
+=8
+4g
+4G
+=9:|!|:
+*>B
+16ggLL
+16ff
+16ee
+16ddJJ
+8cc#XL
+8b-J
+=10
+16cc#XLL
+(8qee/
+16dd)
+16cc#
+16b-JJ
+8aL
+8gJ
+=11
+16aLL
+16b-
+16cc#X
+16ddJJ
+(8qdd/
+16cc#LL)
+16b-
+16a
+16gJJ
+=12
+4dd
+4gg
+=13
+16ggLL
+16aa
+16bb-
+16aaJJ
+16ggLL
+16ff
+16ee
+16ddJJ
+=14
+16eeLL
+16ff
+16gg
+16ffJJ
+16eeLL
+16dd
+16cc#X
+16b-JJ
+=15
+16cc#XLL
+16dd
+16ee
+16ddJJ
+16cc#LL
+16b-
+16a
+16b-JJ
+*>B1
+=16
+2g
+*>B2
+=17:|!
+[4g
+16gLL]
+16d
+16g
+16aJJ
+!!!Begin-Modulation
+*g:dor
+!LO:TX:a:i:t=G-raised-fourth
+=27||
+*>D
+*k[b-]
+16aLL
+16b-
+16a
+16b-JJ
+16cc#XLL
+16dd
+16cc#
+16ddJJ
+=28
+16eeLL
+16ff
+16ee
+16ddJJ
+16cc#XLL
+16b-
+16a
+16gJJ
+=29
+16aLL
+16b-
+16cc#X
+16ddJJ
+16eeLL
+16dd
+16cc#
+16b-JJ
+=30
+8aL
+8aa
+8aa
+8aaJ
+=31
+16aLL
+16b-
+16a
+16b-JJ
+16cc#XLL
+16dd
+16cc#
+16ddJJ
+=32
+16eeLL
+16ff
+16ee
+16ddJJ
+16cc#XLL
+16b-
+16a
+16gJJ
+=33
+16cc#XLL
+16dd
+16ee
+16ddJJ
+16cc#LL
+16b-
+16a
+16b-JJ
+=34
+2g
+=35||
+*>E
+8dL
+8g
+8b-
+8ddJ
+=36
+16cc#XLL
+16dd
+16cc#
+16b-JJ
+8aL
+8gJ
+=37
+8ddL
+8cc#XJ
+16b-LL
+16a
+16b-
+16cc#JJ
+=38
+4dd
+4gg
+=39
+8dL
+8g
+8b-
+8ddJ
+=40
+16cc#XLL
+16dd
+16cc#
+16b-JJ
+8aL
+8gJ
+=41
+8ddL
+8cc#XJ
+16b-LL
+16aJ
+8ddJ
+=42
+2g
+=43!|:
+*>F
+2gg
+=44
+2gg
+=45
+4gg
+4gg
+=46
+4gg
+4gg
+=47
+8ggL
+16ffL
+16eeJJ
+8ddL
+8cc#XJ
+=48
+16ddLL
+16cc#X
+16b-
+16aJJ
+4g
+=49
+8ggL
+16ffL
+16eeJJ
+8ddL
+8cc#XJ
+=50
+4dd
+4gg
+=51
+8ggL
+16ffL
+16eeJJ
+8ddL
+8cc#XJ
+=52
+16ddLL
+16cc#X
+16b-
+16aJJ
+4g
+=53
+16b-LL
+16a
+16ccn
+16b-JJ
+16ddLL
+16cc
+16b-
+16aJJ
+=54
+2g
+!!!Begin-Modulation
+*-
+!!!OTL: 55. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Altered Dorian
+!!!Listening/dance:	listening
+!!!:	*G:frey; *C:; *G:frey
+!!!One_Mode:	no
+**kern
+*I"P1
+*clefG2
+*k[b-]
+*g:dor
+*M2/4
+*>[A,B,B1,B,B2,C,D]
+*>A
+=1
+!LO:TX:a:i:t=G-raised-fourth
+8ggL
+(8gJ
+8b-L)
+(8gJ
+=2
+8ddL)
+(8gJ
+8b-L)
+(8gJ
+=3
+8ggL)
+(8gJ
+8b-L)
+(8gJ
+=4
+8ddL)
+(8gJ
+8b-L)
+8gJ
+=5
+16ddLL
+16cc#X
+16dd
+16eeJJ
+16ffLL
+16ee
+16dd
+16cc#JJ
+=6
+2dd
+=7
+8b-TL
+8ddJ
+8ddL
+(8qdd/
+16cc#XL)
+16b-JJ
+=8
+8cc#
+(8qee/
+4dd)
+8g
+=9
+8b-TL
+8ddJ
+8ddL
+(8qdd/
+16cc#XL)
+16b-JJ
+=10
+8b-L
+8aJ
+16cc#XLL
+16b-
+16a
+16gJJ
+=11
+(8b-L
+8ddJ)
+8ddL
+(8qdd/
+16cc#XL)
+16b-JJ
+=12
+8cc#X
+(8qee/
+4dd)
+8g
+=13
+8b-L
+8ddJ
+16ddLL
+16cc#X
+16b-
+16aJJ
+=14
+4g
+4r
+!!!Begin-Modulation
+*-
+!!!OTL: 56. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Altered Dorian
+!!!Listening/dance:	listening
+!!!:	*g:
+!!!One_Mode:	no
+**kern
+*I"P1
+*clefG2
+*k[b-e-]
+!!!Begin-Modulation
+*g:dor
+*>C
+*k[b-]
+!!!End-Modulation
+*g:dor
+!LO:TX:a:i:t=G-raised-fourth
+(8qcc#/
+2dd)
+=10
+(8qcc#/
+2dd)
+=11
+(8qcc#/
+4dd)
+(8qcc#/
+4dd)
+=12
+(8qcc#/
+4dd)
+(8qcc#/
+4dd)
+=13
+(16eeLL
+16dd)
+(16cc#X
+16ddJJ)
+(8cc#tL
+8b-J)
+=14
+(16eeLL
+16dd)
+(16cc#X
+16ddJJ)
+(8cc#tL
+8b-J)
+=15
+(16eeLL
+16dd)
+(16cc#X
+16ddJJ)
+8cc#tL
+8b-J
+=16
+(16ddLL
+16cc#X)
+(16b-
+16aJJ)
+4g
+=17
+(8qcc#/
+2dd)
+=18
+(8qff#X/
+2gg)
+=19
+(8qaa/
+4bb-)
+(8qff#X/
+4gg)
+=20
+(8qccc#/
+4ddd)
+(8qaa/
+4bb-)
+=21
+(16eeeLL
+16ddd)
+(16ccc#X
+16dddJJ)
+(8ccc#tL
+8bb-J)
+=22
+(16eeeLL
+16ddd)
+(16ccc#X
+16dddJJ)
+(8ccc#tL
+8bb-J)
+=23
+(16eeeLL
+16ddd)
+(16ccc#X
+16dddJJ)
+(8ccc#tL
+8bb-J)
+=24
+16dddLL
+16ccc#X
+16bb-
+16aaJJ
+4gg
+=25!|:
+*>D
+(8qff#X/
+2gg)
+=26
+(8qff#X/
+2gg)
+=27
+8gL
+(16aaL
+16bb-JJ)
+(16ff#XLL
+16gg)
+(16cc#X
+16ddJJ)
+=28
+(16aLL
+16b-)
+(16f#X
+16gJJ)
+(16c#LL
+16d)
+(16A
+16B-JJ)
+=29
+*^
+8dL	4ryy
+16bb-L	.
+16aaJJ	.
+*v	*v
+16ggLL
+16aaJ
+8bb-J
+=30
+8ddL
+16bb-L
+16aaJJ
+16ggLL
+16aaJ
+8bb-J
+=31
+8ddL
+16bb-L
+16aaJJ
+16ggLL
+16ffJ
+8eeJ
+=32
+8r
+16ggLL
+16ffJJ
+16eeLL
+16ddJ
+8cc#XJ
+=33
+8r
+16eeLL
+16ddJJ
+16cc#XLL
+16b-J
+8aJ
+=34
+(16ddLL
+16cc#X)
+!LO:TX:b:Bi:t=Da Capo
+16b-'
+16a'JJ
+4g
+=35:|!
+!LO:TX:a:t=Coda
+16gLL
+16f#X
+16g
+16aJJ
+20b-LL
+20ccn
+20dd
+20ee
+20ff#XJJ
+=36
+8b- 8gg
+8r
+8b- 8bb-
+8r
+=37
+8G 8d 8b- 8gg
+8r
+4r
+==
+*-
+!!!OTL: 57. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Altered Dorian
+!!!Listening/dance:	listening
+!!!:	*G:
+!!!One_Mode:	no
+**kern
+*I"P1
+*clefG2
+*k[b-]
+*g:dor
+*M2/4
+*>[A,A1,A,A2,B,C,D,E,F,G]
+*>A
+!LO:TX:a:i:t=G-raised-fourth
+(16.cc#XLL
+32eeJJk
+=1!|:
+[4dd)
+8ddL_
+16.ddL]
+(32eeJJk
+=2
+4.cc#Xt)
+(16b-LL
+16ddJJ)
+=3
+(16ddLL
+16cc#X)
+(16cc#
+16b-JJ)
+(16b-LL
+16aJ
+8gJ)
+=4
+8g'L
+8b-'
+8dd'
+8gg'J
+=5
+(8qgg/
+[4dd)
+8ddL_
+16.ddL]
+(32eeJJk
+=6
+4.cc#X)
+16b-LL
+16ddJJ
+=7
+(16ddLL
+16cc#X)
+(16cc#
+16b-JJ)
+(16b-LL
+16a)
+(16a
+16gJJ)
+*>A1
+=8
+4g
+16r
+16dLL
+16g
+16b-JJ
+*>A2
+=:|!
+4.g
+=9||
+*k[f#]
+*g:dor
+*>C
+!LO:TX:a:i:t=G-raised-fourth
+(16cc#XLL
+16eeJJ
+=26
+2dd)
+=27
+2gg
+=28
+4bb-
+4gg
+=29
+4dd
+24cc#LL
+24dd
+24cc#J
+8b-J
+=30
+(8qb-/
+8ddL)
+8ddJ
+(24cc#LL
+24dd)
+24cc#J
+8b-J
+=31
+8ddL
+8ddJ
+24cc#LL
+24dd
+24cc#J
+8b-J
+=32
+8ddL
+8ddJ
+24cc#LL
+24dd
+24cc#
+16b-
+16aJJ
+=33
+8g
+4dd
+8dd
+=34
+8qcc#/
+4dd
+8qdd/
+8cc#L
+8b-J
+=35
+(8qb-/
+4.dd)
+(16b-LL
+16ddJJ)
+=36
+(16ddLL
+16cc#)
+(16cc#
+16b-JJ)
+(16b-LL
+16a)
+(16a
+16gJJ)
+=
+4g
+8r
+=37||
+*k[f#]
+!!!Begin-Modulation
+*g:dor
+*>E
+!LO:TX:a:i:t=G-raised-fourth
+(16.cc#XLL
+32eeJJk
+=54
+2dd)
+=55
+2gg
+=56
+(8.ggL
+16ff#XJk)
+(8.ggL
+16ff#Jk)
+=57
+16ggLL
+16r
+16gg
+16r
+16gg
+16r
+16ggJJ
+16r
+=58
+4gg
+(16ggLL
+16ffnJ)
+8ffJ
+=59
+4ee
+(16eeLL
+16ddJ)
+8ddJ
+=60
+(16cc#XLL
+16dd
+16ee
+16ddJJ)
+8cc#L
+8b-J
+=61
+(8qb-/
+4dd)
+8r
+8dd
+=62
+(16ggLL
+16aa
+16bb-
+16aaJJ
+16ggLL
+16ff
+16ee
+16ddJJ)
+=63
+(16cc#XLL
+16dd
+16ee
+16ddJJ
+16cc#LL
+16b-
+16a
+16gJJ)
+=64
+16b-LL
+16a
+16ccn
+16b-JJ
+16aLL
+16g
+16f#
+16dJJ
+=65
+4.g
+8g
+=66
+4gg
+16ffnLL
+16gg
+16ff
+16eeJJ
+=67
+(16ddLL
+16eeJ
+8cc#XJ)
+4dd
+=68
+16cc#XLL
+16dd
+16ee
+16ddJJ
+8cc#L
+24b-L
+24a
+24gJJ
+=69
+4dd
+8r
+8gg
+=70
+16ggLL
+16aa
+16bb-
+16aaJJ
+16ggLL
+16ff
+16ee
+16ddJJ
+=71
+16cc#XLL
+16dd
+16ee
+16ddJJ
+8cc#L
+16gL
+16aJJ
+=72
+8.b-L
+16aJk
+16ccnLL
+16b-
+16a
+16dJJ
+=
+4.g
+=73||
+*k[f#]
+*g:dor
+*>G
+!LO:TX:a:i:t=G-raised-fourth
+16.cc#XLL
+32eeJJk
+=90
+4dd
+8cc#XL
+8b-J
+=91
+8dd
+4dd
+8cc#X
+=92
+(16ddLL
+16cc#X)
+(16cc#
+16b-JJ)
+(16b-LL
+16a)
+(16a
+16gJJ)
+=93
+8gL
+8ddJ
+(8qff#X/
+8ggL)
+(8qff#/
+8ggJ)
+=94
+4dd
+24cc#LL
+24dd
+24cc#J
+8b-J
+=95
+(16.cc#LL
+32eeJJk
+4dd)
+(16b-LL
+16ddJJ)
+=96
+(16ddLL
+16cc#)
+(16cc#
+16b-JJ)
+(16b-LL
+16a)
+(16a
+16gJJ)
+=97
+4g
+8r
+==
+*-
+!!!OTL: 58. Freylekhs (fun der khupe)
+!!!Genre:	Freylekhs (fun der khupe)
+!!!Mode:	Altered Dorian
+!!!Listening/dance:	listening
+!!!One_Mode:	no
+**kern
+*clefG2
+*k[b-]
+*g:dor
+*M2/4
+*>[A,B]
+*>A
+!LO:TX:a:i:t=G-raised-fourth
+24ddLL
+24ee
+24ddJJ
+=1
+8cc#L
+8ddJ
+8eeL
+8ddJ
+=2
+(8cc#L
+8b-J)
+(8aL
+8gJ)
+=3
+(16cc#LL
+16eeJJ
+[4.dd)
+=4
+4dd]
+8r
+8g
+=5
+8ggL
+8ffJ
+8eeL
+8ddJ
+=6
+(8.cc#XL
+16b-Jk)
+(16cc#LL
+16b-
+16a
+16gJJ)
+=7
+(16cc#LL
+16eeJJ
+[4.dd)
+=8
+4dd_
+16ddLL]
+16dd
+16ee
+16ddJJ
+=9
+(16cc#LL
+16dd
+16ee
+16ddJJ)
+(16cc#LL
+16dd
+16ee
+16ddJJ)
+=10
+(16cc#LL
+16dd
+16ee
+16ddJJ
+16cc#LL
+16b-
+16a
+16gJJ)
+=11
+4.ccn
+8dd
+=12
+2ee-X
+=13
+8ddL
+8cc#XJ
+16ddLL
+16cc#J
+8b-J
+=14
+16ddLL
+16cc#J
+8b-J
+16b-LL
+16aJ
+8gJ
+=15
+2g
+=16
+!LO:TX:b:Bi:t=Fine
+4g
+4r
+!!!Begin-Modulation
+*g:dor
+!LO:TX:a:i:t=G-raised-fourth
+=28
+(16ddLL
+16cc#X)
+(16cc#
+16b-JJ)
+(16b-LL
+16a)
+(16a
+16gJJ)
+=29
+8.b-TL
+16aJk
+16b-LL
+16aJ
+8gJ
+=30
+8.b-L
+16aJk
+16b-LL
+16aJ
+8gJ
+=31
+2ccn
+=32
+4.gg
+8ee-
+=33
+8ddL
+8cc#XJ
+16ddLL
+16cc#J
+8b-J
+=34
+16ddLL
+16cc#XJ
+8b-J
+16b-LL
+16aJ
+8gJ
+=35
+4.g
+!LO:TX:b:Bi:t=Da Capo al Fine
+8r
+=36
+4.gg
+==
+*-
+!!!OTL: 59. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Altered Dorian
+!!!Listening/dance:	listening
+!!!One_Mode:	yes
+**kern
+*I"P1
+*clefG2
+*k[b-]
+*g:dor
+*M2/4
+*>[A,A1,A,A2,B,C]
+*>A
+=1
+8dL
+8gJ
+8dL
+8gJ
+=2
+8dL
+8gJ
+16b-LL
+16aJ
+8gJ
+=3
+16b-LL
+16aJ
+8gJ
+8aL
+8b-J
+=4
+(16cc#XLL
+16eeJJ)
+4dd
+8r
+=5
+8dL
+8gJ
+8dL
+8gJ
+=6
+8dL
+8gJ
+16b-LL
+16aJ
+8gJ
+=7
+16b-LL
+16aJ
+8gJ
+8aL
+8b-J
+*>A1
+=8
+(16aLL
+16b-JJ
+4.g)
+*>A2
+=:|!
+(16aLL
+16b-JJ
+4g)
+=9||
+*>B
+8dd
+=10
+8cc#XL
+8ddJ
+8eeL
+8ffJ
+=11
+(8qff/
+8ee)
+4.dd
+=12
+(8qee/
+8dd)
+4.cc#X
+=13
+8cc#X
+4.b-
+=14
+(16ffLL
+16eeJ
+8ddJ)
+(16ddLL
+16ccnJ
+8b-J)
+=15
+(16ddLL
+16ccnJ
+8b-J)
+(16b-LL
+16aJ)
+8gJ
+=16
+2g
+=17
+4.gg
+8dd
+=18
+8cc#XL
+8ddJ
+8eeL
+8ffJ
+=19
+8ee
+4.aa
+=20
+8ggL
+8ffJ
+8eeL
+8ddJ
+=21
+8cc#X
+4.b-
+=22
+16ffLL
+16eeJ
+8ddJ
+16ddLL
+16ccnJ
+8b-J
+=23
+16ddLL
+16ccnJ
+8b-J
+16b-LL
+16aJ
+8gJ
+=24
+2g
+=25
+4G
+4r
+=26||
+*>C
+8ddL
+8gJ
+8aL
+8b-J
+=27
+8ccnL
+8b-J
+8aL
+8gJ
+=28
+8b-L
+8aJ
+8b-L
+8ccnJ
+=29
+2dd
+=30
+8ffL
+8eeJ
+8ddL
+8cc#XJ
+=31
+8ddL
+8cc#J
+8ddL
+8eeJ
+=32
+8ffL
+8eeJ
+8ddL
+8cc#XJ
+=33
+2dd
+=34
+8cc#XL
+8ddJ
+8eeL
+8ffJ
+=35
+8ee
+4.aa
+=36
+8ggL
+8ffJ
+8eeL
+8ddJ
+=37
+8cc#X
+4.b-
+=38
+(16ffLL
+16eeJ
+8ddJ)
+(16ddLL
+16cc#XJ
+8b-J)
+=39
+(16ddLL
+16ccnJ
+8b-J)
+(16b-LL
+16aJ
+8gJ)
+=40
+2g
+=41
+4G
+4r
+==
+*-
+!!!OTL: 60. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Altered Dorian
+!!!Listening/dance:	listening
+!!!One_Mode:	no
+**kern
+*I"P1
+*clefG2
+*k[b-]
+*g:dor
+*M2/4
+*>[A,A,B,B]
+*>A
+!LO:TX:a:i:t=G-raised-fourth
+(8d
+=1
+8b-)
+(8qcc/
+(16b-L)
+16aJJ)
+8gL
+8f#XJ
+=2
+(8atL
+8gJ)
+8GL 8d
+8gJ
+=3
+16f#XLL
+16g
+16a
+16b-JJ
+16cc#XLL
+16dd
+16ee
+16cc#JJ
+=4
+8.ddL
+16cc#XJk
+8ddL
+24b-L
+24a
+24gJJ
+=5
+16eeLL
+16dd
+16cc#X
+16ddJJ
+(8.cc#tL
+16b-Jk)
+=6
+16ddLL
+16cc#X
+16b-
+16aJJ
+4b-
+=7
+16b-LL
+16a
+16g
+16b-JJ
+16aLL
+16g
+16f#X
+16aJJ
+=
+4.g
+=8:|!
+8dd
+*>B
+=9!|:
+16ggLL
+16ff
+16ee
+16ddJJ
+16cc#XLL
+16dd
+16ee
+16ffJJ
+=10
+8.ddL
+16cc#XJk
+8ddL
+24b-L
+24a
+24gJJ
+=11
+(16dLL
+16fJ)
+24b-L
+24a
+24gJJ
+(16ddLL
+16gJ)
+24b-L
+24a
+24gJJ
+=12
+(16ggLL
+16gJ)
+24b-L
+24a
+24gJJ
+8eeeeL
+8ddJ
+!!!Begin-Modulation
+*-
+!!!OTL: 61. Gas-nign
+!!!Genre:	Gas-nign
+!!!Mode:	Freygish
+!!!Listening/dance:	listening
+!!!One_Mode:	no
+**kern
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 62. Gas-nign
+!!!Genre:	Gas-nign
+!!!Mode:	Freygish
+!!!Listening/dance:	listening
+!!!:	*F:
+!!!One_Mode:	no
+**kern
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 63. Gas-nign
+!!!Genre:	Gas-nign
+!!!Mode:	Freygish
+!!!Listening/dance:	listening
+!!!:	*F:
+!!!One_Mode:	no
+**kern
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 64. Gas-nign
+!!!Genre:	Gas-nign
+!!!Mode:	Freygish
+!!!Listening/dance:	listening
+!!!One_Mode:	no
+**kern
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 65. Gas-nign
+!!!Genre:	Gas-nign
+!!!Mode:	Freygish
+!!!Listening/dance:	listening
+!!!:	*F:
+!!!One_Mode:	no
+**kern
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 66. Gas-nign
+!!!Genre:	Gas-nign
+!!!Mode:	Freygish
+!!!Listening/dance:	listening
+!!!One_Mode:	yes
+**kern
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 67. Gas-nign
+!!!Genre:	Gas-nign
+!!!Mode:	Freygish
+!!!Listening/dance:	listening
+!!!One_Mode:	no
+**kern
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 68. Gas-nign
+!!!Genre:	Gas-nign
+!!!Mode:	Freygish
+!!!Listening/dance:	listening
+!!!One_Mode:	yes
+**kern
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 69. Gas-nign
+!!!Genre:	Gas-nign
+!!!Mode:	Freygish
+!!!Listening/dance:	listening
+!!!:	*g:
+!!!One_Mode:	no
+**kern
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 70. Gas-nign
+!!!Genre:	Gas-nign
+!!!Mode:	Freygish
+!!!Listening/dance:	listening
+!!!:	*C:
+!!!One_Mode:	no
+**kern
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 71. Gas-nign
+!!!Genre:	Gas-nign
+!!!Mode:	Minor
+!!!Listening/dance:	listening
+!!!:	*B-:
+!!!One_Mode:	no
+**kern
+*I"P1
+*clefG2
+*k[b-e-]
+!!!Begin-Modulation
+*-
+!!!OTL: 72. Gas-nign
+!!!Genre:	Gas-nign
+!!!Mode:	Minor
+!!!Listening/dance:	listening
+!!!One_Mode:	no
+**kern
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 73. Gas-nign
+!!!Genre:	Gas-nign
+!!!Mode:	Minor
+!!!Listening/dance:	listening
+!!!:	*B-:
+!!!One_Mode:	no
+**kern
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 74. Gas-nign
+!!!Genre:	Gas-nign
+!!!Mode:	Minor
+!!!Listening/dance:	listening
+!!!One_Mode:	no
+**kern
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 75. Gas-nign
+!!!Genre:	Gas-nign
+!!!Mode:	Minor
+!!!Listening/dance:	listening
+!!!One_Mode:	no
+**kern
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 76. Gas-nign
+!!!Genre:	Gas-nign
+!!!Mode:	Minor
+!!!Listening/dance:	listening
+!!!One_Mode:	yes
+**kern
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 77. Gas-nign
+!!!Genre:	Gas-nign
+!!!Mode:	Minor
+!!!Listening/dance:	listening
+!!!One_Mode:	no
+**kern
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 78. Gas-nign
+!!!Genre:	Gas-nign
+!!!Mode:	Minor
+!!!Listening/dance:	listening
+!!!:	*B-
+!!!One_Mode:	no
+**kern
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 79. A gute nakht
+!!!Genre:	A gute nakht
+!!!Mode:	Freygish
+!!!Listening/dance:	listening
+!!!One_Mode:	yes
+**kern
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 80. A gute nakht
+!!!Genre:	A gute nakht
+!!!Mode:	Minor
+!!!Listening/dance:	listening
+!!!One_Mode:	yes
+**kern
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 81. Zay gezunt
+!!!Genre:	Zay gezunt
+!!!Mode:	Freygish
+!!!Listening/dance:	listening
+!!!One_Mode:	yes
+**kern
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 82. Zay gezunt
+!!!Genre:	Zay gezunt
+!!!Mode:	Freygish
+!!!Listening/dance:	listening
+!!!:	*c:
+!!!One_Mode:	no
+**kern
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 83. Zay gezunt
+!!!Genre:	Zay gezunt
+!!!Mode:	Minor
+!!!Listening/dance:	listening
+!!!One_Mode:	no
+**kern
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 84. Zay gezunt
+!!!Genre:	Zay gezunt
+!!!Mode:	Minor
+!!!Listening/dance:	listening
+!!!One_Mode:	yes
+**kern
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 85. Redl
+!!!Genre:	Redl
+!!!Mode:	Freygish
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**kern
+*I"P1
+!!pagebreak:original
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 86. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Freygish
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**kern
+*part1
+*staff1
+*clefG2
+*-
+!!!OTL: 87. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Freygish
+!!!Listening/dance:	dance
+!!!:	*F:
+!!!One_Mode:	no
+**kern
+*part1
+*staff1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 88. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Freygish
+!!!Listening/dance:	dance
+!!!:	*c:
+!!!One_Mode:	no
+**kern
+*part1
+*staff1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 89. Tants
+!!!Genre:	Tants
+!!!Mode:	Freygish
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**kern
+*part1
+*staff1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 90. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Freygish
+!!!Listening/dance:	dance
+!!!:	*C:
+!!!One_Mode:	no
+**kern
+*part1
+*staff1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 91. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Freygish
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**kern
+*part1
+*staff1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 92. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Freygish
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**kern
+*part1
+*staff1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 93. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Freygish
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**kern
+*part1
+*staff1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 94. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Freygish
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**kern
+*part1
+*staff1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 95. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Freygish
+!!!Listening/dance:	dance
+!!!:	*c
+!!!One_Mode:	no
+**kern
+*part1
+*staff1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 96. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Freygish
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**kern
+*part1
+*staff1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 97. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Freygish
+!!!Listening/dance:	dance
+!!!One_Mode:	no
+**kern
+*part1
+*staff1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 98. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Freygish
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**kern
+*part1
+*staff1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 99. Hopke
+!!!Genre:	Hopke
+!!!Mode:	Freygish
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**kern
+*part1
+*staff1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 100. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Freygish
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**kern
+*part1
+*staff1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 101. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	no
+**kern
+!!pagebreak:original
+*clefG2
+*k[f#]
+*-
+!!!OTL: 102. Hopke
+!!!Genre:	Hopke
+!!!Mode:	Freygish
+!!!Listening/dance:	dance
+!!!:	*F:; *C:
+!!!One_Mode:	no
+**kern
+*part1
+*staff1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 103. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Freygish
+!!!Listening/dance:	dance
+!!!:	*F:
+!!!One_Mode:	no
+**kern
+*part1
+*staff1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 104. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Freygish
+!!!Listening/dance:	dance
+!!!:	*B-:
+!!!One_Mode:	no
+**kern
+*part1
+*staff1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 105. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Altered Dorian
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**kern
+*part1
+*staff1
+*clefG2
+*k[b-]
+*g:dor
+*M2/4
+*>[A,A1,A,A2,B,B]
+=1-
+*>A
+(<8qa/
+16gLL)
+16f#X
+16g
+16aJJ
+8b-L
+8ddJ
+=2
+8.cc#XL
+16eeJk
+16ddLL
+16cc#
+16b-
+16aJJ
+=3
+8gL
+16ggL
+16ffJJ
+(>8qff/
+16eeLL)
+16dd
+16ee
+16ffJJ
+=4
+8dd
+8r
+4gg^
+=5
+(>16ggLL
+16aaJ
+8ffJ)
+(>16ffLL
+16ggJ
+8eeJ)
+=6
+(>16eeLL
+16ffJ
+8ddJ)
+(>16ddLL
+16eeJ
+8cc#XJ)
+=7
+(>8qee/
+16ddLL)
+16cc#X
+16dd
+16eeJJ
+16ffLL
+16ee
+16dd
+16cc#JJ
+=8
+(>8qee/
+4.dd)
+8bn
+=9
+16ccnLL
+16bn
+16cc
+16bJJ
+16ffLL
+16ee
+16dd
+16cc#XJJ
+=10
+16ddLL
+16cc#X
+16b-X
+16aJJ
+4g
+=11
+16gLL
+16dd
+16cc#X
+16b-JJ
+16aLL
+16g
+16a
+16b-JJ
+*>A1
+=12
+4.g
+8r
+*>A2
+=13:|!
+4g
+16r
+16gLL
+16b-
+16ddJJ
+=14!|:
+*>B
+[4gg
+16ggLL]
+16ff
+16ee
+16ddJJ
+=15
+16eeLL
+16ffJ
+8ddJ
+8r
+8dd
+=16
+16ggLL
+16dd
+16gg
+16ddJJ
+16ggLL
+16ff
+16ee
+16ddJJ
+=17
+16eeLL
+16ffJ
+8ddJ
+8r
+8bn
+=18
+8.bnL
+16ddJk
+(>16ddLL
+16ccn)
+(>16cc
+16bJJ)
+=19
+8.bnL
+16ffJk
+(>16ffLL
+16ee)
+(>16ee
+16ddJJ)
+=20
+(>8qee/
+16ddLL)
+16cc#X
+16dd
+16eeJJ
+16ffLL
+16ee
+16dd
+16cc#JJ
+=21
+(>8qee/
+4.dd)
+8bn
+=22
+16ccnLL
+16bn
+16cc
+16bJJ
+16ffLL
+16ee
+16dd
+16cc#XJJ
+=23
+(>8qee/
+16ddLL)
+16cc#X
+16b-X
+16aJJ
+4g
+=24
+16gLL
+16dd
+16cc#X
+16b-JJ
+16aLL
+16g
+16a
+16b-JJ
+=25
+2g
+=:|!
+*-
+!!!OTL: 106. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Altered Dorian
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**kern
+*part1
+*staff1
+*clefG2
+*k[b-]
+*g:dor
+*M2/4
+*>[A,B,B1,B,B2]
+=1-
+*>A
+16dLL
+16g
+16f#X
+16gJJ
+16aLL
+(<8qcc/
+16b-)
+16a
+16gJJ
+=2
+16eeLL
+16dd
+16cc#X
+16b-JJ
+16cc#LL
+16b-
+16a
+16gJJ
+=3
+16gLL
+16ff
+16ee
+16ddJJ
+16cc#XLL
+16dd
+16ee
+16cc#JJ
+=4
+(>8qee/
+4dd)
+4gg^
+=5
+16dLL
+16g
+16f#X
+16gJJ
+16aLL
+16b-
+16a
+16gJJ
+=6
+16eeLL
+16dd
+16cc#X
+16b-JJ
+16cc#LL
+16b-
+16a
+16gJJ
+=7
+32b-LLL
+32ccnJ
+16b-
+16a
+16gJJ
+16f#XLL
+16d
+16f#
+16aJJ
+=8
+4g
+8r
+==
+8dd
+=9
+2gg
+=10
+2gg
+=11!|:
+*>B
+4gg
+4gg
+=12
+4gg
+8r
+8gg
+=13
+(>16ggLL
+16ff)
+(>16ff
+16eeJJ)
+4gg
+=14
+(>16ggLL
+16ff)
+(>16ff
+16eeJJ)
+(>8qgg/
+8.ffL)
+16eeJk
+=15
+16ddLL
+16ff
+16ee
+16ddJJ
+16cc#XLL
+16dd
+16ee
+16cc#JJ
+=16
+(>8qee/
+4.dd)
+8dd
+=17
+(>16ddLL
+16cc#X)
+(>16cc#
+16b-JJ)
+4dd
+=18
+(>16ddLL
+16cc#X)
+(>16cc#
+16b-JJ)
+4b-
+=19
+32b-LLL
+32ccnJ
+16b-
+16a
+16gJJ
+16f#XLL
+16d
+16f#
+16aJJ
+*>B1
+=20
+4.g
+40ddLLL
+40ee
+40dd
+40cc#X
+40ddJJJ
+=21
+2gg
+=22
+2bb-
+*>B2
+=23:|!
+2g
+==
+*-
+!!!OTL: 107. Karahod
+!!!Genre:	Karahod
+!!!Mode:	Altered Dorian
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**kern
+*part1
+*staff1
+*clefG2
+*k[b-]
+*g:dor
+*M2/4
+*>[A,A1,A,A2,B,B1,B,B2]
+=1-
+*>A
+8r
+16ddLL
+16ddJJ
+8ddL
+8ddJ
+=2
+16cc#XLL
+16eeJ
+8ddJ
+4g
+=3
+8r
+8gL
+8a
+8b-J
+=4
+4.cc#tX
+8b-
+=5
+8r
+8ffL
+8ee
+8ddJ
+=6
+16cc#XLL
+16eeJ
+8ddJ
+4b-
+=7
+16ddLL
+16cc#XJ
+8b-J
+16b-LL
+16aJ
+8gJ
+*>A1
+=8
+8gL
+8b-
+8dd
+8ggJ
+*>A2
+=9:|!
+4.g
+8d
+=10!|:
+*>B
+16gLL
+16f#X
+16g
+16aJJ
+16b-LL
+16a
+16b-
+16cc#XJJ
+=11
+16ddLL
+16cc#X
+16dd
+16eeJJ
+16ffnLL
+16ee
+16ff
+16ggJJ
+=12
+16ffLL
+16ee
+16dd
+16ffJJ
+16eeLL
+16dd
+16cc#X
+16eeJJ
+=13
+8ddL
+8gJ
+8aL
+8b-J
+=14
+8cc#XtL
+8b-J
+4dd
+=15
+8r
+8gL
+8a
+8b-J
+*>B1
+=16
+4.cc#X
+8b-
+=17
+16ddLL
+16cc#XJ
+8b-J
+16b-LL
+16aJ
+8gJ
+*>B2
+=18:|!
+16ddLL
+16cc#XJ
+8b-J
+16b-LL
+16aJ
+8gJ
+=19
+2g
+==
+*-
+!!!OTL: 108. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Altered Dorian
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**kern
+*part1
+*staff1
+*clefG2
+*k[b-]
+*g:dor
+*M2/4
+*>[A,A1,A,A2,B]
+=1-
+*>A
+4g
+8dL
+8gJ
+=2
+8aL
+8b-
+8cc#X
+8ddJ
+=3
+4cc#X
+16b-LL
+16aJ
+8gJ
+=4
+8cc#X
+(>8qee/
+4dd)
+8r
+=5
+4g
+8dL
+8gJ
+=6
+8aL
+8b-
+8cc#X
+8ddJ
+=7
+4cc#X
+16b-LL
+16aJ
+8gJ
+*>A1
+=8
+4.g
+8r
+*>A2
+=9:|!
+4.g
+8dd
+=10
+*>B
+4gg
+4ff
+=11
+4ee
+4dd
+=12
+4ee
+4dd
+=13
+4.cc#X
+8b-
+=14
+8ddL
+8dd
+8dd
+8ddJ
+=15
+4cc#X
+16b-LL
+16aJ
+8gJ
+=16
+8cc#X
+(>8qee/
+[4.dd)
+=17
+8ddL]
+8g
+8b-
+8ddJ
+=18
+4gg
+4ff
+=19
+4ee
+4dd
+=20
+4ee
+4dd
+=21
+4.cc#X
+8b-
+=22
+8ddL
+8dd
+8dd
+8ddJ
+=23
+4cc#X
+16b-LL
+16aJ
+8gJ
+=24
+4.g
+8r
+=25||
+8r
+8dL
+8e
+8f#XJ
+=26
+4g
+24aLL
+24b-
+24aJ
+8gJ
+=27
+8aL
+8b-
+8cc#X
+8ddJ
+=28
+4cc#X
+16b-LL
+16aJ
+8gJ
+=29
+8cc#X
+(>8qee/
+4.dd)
+=30
+4g
+24aLL
+24b-
+24aJ
+8gJ
+=31
+8aL
+8b-
+8cc#X
+8ddJ
+=32
+4cc#X
+16b-LL
+16aJ
+8gJ
+=33
+4g
+4r
+==
+*-
+!!!OTL: 109. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Altered Dorian
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**kern
+*part1
+*staff1
+*clefG2
+*k[b-]
+*g:dor
+*M2/4
+*>[intro,A,A1,A,A2,B,B1,B,B2,C]
+*>intro
+16dLL
+16g
+16b-JJ
+*>A
+=1!|:
+(<16ddLL
+16b-
+16a
+16gJJ)
+(<16ddLL
+16b-
+16a
+16gJJ)
+=2
+(<16ddLL
+16b-
+16a
+16gJJ)
+(<16ddLL
+16b-
+16a
+16gJJ)
+=3
+(>16aLL
+16b-
+16cc#X
+16ddJJ
+16cc#LL
+16b-
+16a
+16gJJ)
+=4
+(>8cc#XL
+(>8qee/
+8ddJ))
+8r
+8dd
+=5
+(<16ddLL
+16b-
+16a
+16gJJ)
+(<16ddLL
+16b-
+16a
+16gJJ)
+=6
+(<16ddLL
+16b-
+16a
+16gJJ)
+(<16ddLL
+16b-
+16a
+16gJJ)
+=7
+(<16f#XLL
+16g
+16a
+16b-JJ
+16aLL
+16g
+16f#
+16aJJ)
+*>A1
+=8
+4.g
+8gg
+*>A2
+=9:|!
+4g
+8r
+*>B
+=!|:
+8g
+=10
+8ffL
+[8ff^J
+16ffLL]
+16ee
+16gg
+16ffJJ
+=11
+8eeL
+[8eeJ
+16eeLL]
+16dd
+16ff
+16eeJJ
+=12
+8ddL
+[8ddJ
+16ddLL]
+16cc#X
+16ee
+16ddJJ
+=13
+(>16cc#XLL
+16dd
+16cc#
+16b-JJ)
+(<16cc#LL
+16b-
+16a
+16gJJ)
+=14
+16aLL
+16b-
+16cc#X
+16ddJJ
+16cc#LL
+16b-
+(<8qb-/
+16a)
+16gJJ
+=15
+8cc#XL
+(>8qee/
+8ddJ)
+8r
+8ff
+=16
+16ffLL
+(>16ee
+16gg)
+(>16ffJJ
+16eeLL)
+(>16dd
+16ff)
+(>16eeJJ
+=17
+16ddLL)
+(>16cc#X
+16ee)
+(>16ddJJ
+16cc#LL)
+16b-
+16a
+16gJJ
+=18
+16aLL
+16b-
+16cc#X
+16ddJJ
+16cc#LL
+16b-
+16a
+16b-JJ
+*>B1
+=19
+4g
+8r
+*>B2
+=20:|!
+4g
+8r
+*>C
+8d
+=21
+(<16dLL
+16g
+16b-
+16ddJJ)
+(<16dLL
+16g
+16b-
+16ddJJ)
+=22
+(<16dLL
+16g
+16b-
+16ddJJ
+16cc#XLL
+16b-
+16a
+16gJJ)
+=23
+(<16dLL
+16g
+16b-
+16ddJJ
+16cc#XLL
+16b-
+16a
+16gJJ)
+=24
+8cc#XL
+(>8qee/
+[8ddJ)
+16dd]
+16r
+8ff
+=25
+16ffLL
+(>16ee
+16gg)
+(>16ffJJ
+16eeLL)
+(>16dd
+16ff)
+(>16eeJJ
+=26
+16ddLL)
+(>16cc#X
+16ee)
+(>16ddJJ
+16cc#LL
+16b-
+16a
+16gJJ)
+=27
+(>8qdd/
+4gg)
+4dd
+=28
+4.g
+16r
+==
+*-
+!!!OTL: 110. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Altered Dorian
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**kern
+*part1
+*staff1
+*clefG2
+*k[b-]
+*g:dor
+*M2/4
+*>[A,A1,A,A2,B]
+=1-
+*>A
+8dL
+16gL
+16aJJ
+16b-LL
+16aJJ
+24b-LL
+24a
+24gJJ
+=2
+8dL
+16gL
+16aJJ
+16b-LL
+16aJJ
+24b-LL
+24a
+24gJJ
+=3
+8dL
+16gL
+16aJJ
+8b-L
+8ddJ
+=4
+16cc#XLL
+16dd
+16ee
+16ddJJ
+16cc#LL
+16b-
+16a
+16gJJ
+=5
+8dL
+16gL
+16aJJ
+16b-LL
+16aJJ
+(<24b-LL
+24a
+24gJJ)
+=6
+8dL
+16gL
+16aJJ
+16b-LL
+16aJJ
+24b-LL
+24a
+24gJJ
+=7
+16eeLL
+16dd
+16cc#X
+16b-JJ
+16aLL
+16g
+16a
+16b-JJ
+*>A1
+=8
+4g
+4gg
+*>A2
+=9:|!
+2g
+=10
+*>B
+(>8qcc#X/
+2dd)
+=11
+(>8qcc#X/
+2dd)
+=12
+(>8qcc#X/
+4dd)
+4dd
+=13
+(>8qcc#X/
+4dd)
+4dd
+=14
+8cc#XL
+(>8qee/
+8ddJ)
+8ddL
+8ddJ
+=15
+8cc#XL
+8ddJ
+16cc#LL
+16b-
+16a
+16b-JJ
+=16
+8cc#XL
+(>8qee/
+8ddJ)
+8ddL
+8ddJ
+=17
+8cc#XL
+8ddJ
+16cc#LL
+16b-
+16a
+16b-JJ
+=18
+(>8qa/
+8cc#XL)
+8cc#J
+8cc#L
+8cc#J
+=19
+8cc#XL
+16eeL
+16ddJJ
+16cc#LL
+16b-
+16a
+16gJJ
+=20
+16eeLL
+16dd
+16cc#X
+16b-JJ
+16aLL
+16g
+16a
+16b-JJ
+=21
+2g
+==
+*-
+!!!OTL: 111. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Altered Dorian
+!!!Listening/dance:	dance
+!!!:	*B-:
+!!!One_Mode:	no
+**kern
+*part1
+*staff1
+*clefG2
+*k[b-]
+*g:dor
+*M2/4
+*>[A,A1,A,A2,B,B1,B,B2,C,C1,C,C2]
+=1-
+*>A
+!LO:TX:a:i:t=G-raised-fourth
+(>8qff#X/
+8gg)
+4gg
+8gg
+=2
+4g
+4ff
+=3
+(16ffLL
+16eeJ
+8ddJ)
+(16ddLL
+16cc#XJ
+8b-J)
+=4
+(16b-LL
+16aJ
+8gJ)
+4dd
+=5
+8gg
+4gg
+8gg
+=6
+4g
+4ff
+=7
+(16ffLL
+16eeJ
+8ddJ)
+(16ddLL
+16cc#XJ
+8b-J)
+*>A1
+=8
+16b-LL
+16aJ
+8gJ
+8g
+16r
+16dd
+*>A2
+=9:|!
+16b-LL
+16aJ
+!LO:TX:b:Bi:t=Fine
+8gJ
+8gL
+8b-J
+=10!|:
+*>B
+(>16qb-/LL
+16qcc#X/JJ
+8aL)
+8b-
+8cc#
+8ddJ
+=11
+4.a
+8ff
+=12
+(>16ffLL
+16eeJ
+8ddJ)
+(>16ddLL
+16cc#XJ
+8b-J)
+=13
+16b-LL
+16aJ
+8gJ
+4dd
+=14
+8aL
+8b-
+8cc#X
+8ddJ
+=15
+4.a
+8ff
+=16
+(>16ffLL
+16eeJ
+8ddJ)
+(>16ddLL
+16cc#XJ
+8b-J)
+*>B1
+=17
+16b-LL
+16aJ
+8gJ
+8g
+24b-LL
+24ccn
+24b-JJ
+*>B2
+=18:|!
+16b-LL
+16aJ
+8gJ
+8g
+8r
+!!!Begin-Modulation
+*-
+!!!OTL: 112. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Altered Dorian
+!!!Listening/dance:	dance
+!!!:	*G:
+!!!One_Mode:	no
+**kern
+*part1
+*staff1
+*clefG2
+*k[b-]
+*g:dor
+*M2/4
+*>[A,A1,A,A2,B,B,C,C,D,D]
+*>A
+=1-
+!LO:TX:a:i:t=G-raised-fourth
+(>8.ggL
+16ddJk)
+16ggLL
+16ff
+16ee
+16ddJJ
+=2
+16ggLL
+16dd
+16gg
+16ddJJ
+16ggLL
+16ff
+16ee
+16ddJJ
+=3
+16eeLL
+16ff
+16ee
+16ddJJ
+16cc#XLL
+16a
+16cc#
+16eeJJ
+*>A1
+=4
+16ddLL
+16cc#X
+16b-
+16aJJ
+8gL
+8ddJ
+*>A2
+=5:|!
+16ddLL
+16cc#X
+16b-
+16aJJ
+4g
+=6!|:
+*>B
+8gL
+16ggL
+16ffJJ
+16eeLL
+16dd
+16cc#X
+16b-JJ
+=7
+8cc#XL
+16b-L
+16aJJ
+8gL
+8ggJ
+=8
+8gL
+16ggL
+16ffJJ
+16eeLL
+16dd
+16cc#X
+16b-JJ
+=9
+8cc#XL
+16b-L
+16aJJ
+4g
+!!!Begin-Modulation
+*-
+!!!OTL: 113. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Altered Dorian
+!!!Listening/dance:	dance
+!!!:	*G:
+!!!One_Mode:	no
+**kern
+*part1
+*staff1
+*clefG2
+*k[b-]
+*g:dor
+*M2/4
+!LO:TX:a:i:t=G-raised-fourth
+(>16.cc#XLL
+32eeJJk
+=1
+4.dd)
+(>16.cc#XLL
+32eeJJk
+=2
+4.dd)
+(>16.cc#XLL
+32eeJJk
+=3
+8dd)
+8r
+8dd
+8r
+=4
+4dd
+8r
+16eeLL
+16ddJJ
+=5
+16cc#XLL
+16dd
+16b-
+16ddJJ
+16cc#LL
+16dd
+16ee
+16ddJJ
+=6
+16cc#XLL
+16dd
+16b-
+16ddJJ
+16cc#LL
+16dd
+16ee
+16ddJJ
+=7
+16cc#XLL
+16dd
+16b-
+16ddJJ
+16cc#LL
+16dd
+16ee
+16ddJJ
+=8
+(>16ddLL
+16cc#X)
+(>16cc#
+16b-JJ)
+(<16b-LL
+16a)
+(<16a
+16gJJ)
+=9
+(>8qee/
+2dd)
+=10
+2gg
+=11
+4bb-
+4gg
+=12
+(>8qcc#X/
+4dd)
+8r
+16eeLL
+16ddJJ
+=13
+16cc#XLL
+16dd
+16b-
+16ddJJ
+16cc#LL
+16dd
+16ee
+16ddJJ
+=14
+16cc#XLL
+16dd
+16b-
+16ddJJ
+16cc#LL
+16dd
+16ee
+16ddJJ
+=15
+16cc#XLL
+16dd
+16b-
+16ddJJ
+16cc#LL
+16dd
+16ee
+16ddJJ
+=16
+(>16ddLL
+16cc#X)
+(>16cc#
+16b-JJ)
+(<16b-LL
+16aJ
+8gJ)
+=17
+8r
+8b-
+(>8qdd/
+8cc#XL)
+8b-J
+=18
+(>8qdd/
+8cc#XL)
+8b-J
+16b-LL
+16aJ
+8gJ
+=19
+(>8qee/
+8ddL)
+16gL
+16aJJ
+16b-LL
+16aJ
+8gJ
+=20
+8ddL
+(>16cc#XL
+16eeJJ
+4dd)
+=21
+8r
+8b-
+8cc#XL
+8b-J
+=22
+8cc#XL
+8b-J
+16b-LL
+16aJ
+8gJ
+=23
+8.b-L
+16aJk
+16b-LL
+16a
+16g
+16f#XJJ
+=24
+4g
+4dd
+!!!Begin-Modulation
+*g:dor
+=49||
+*k[b-]
+!LO:TX:a:i:t=G-raised-fourth
+16cc#XLL
+16dd
+16b-
+16ddJJ
+16cc#LL
+16dd
+16ee
+16ddJJ
+=50
+16cc#XLL
+16dd
+16b-
+16ddJJ
+16cc#LL
+16dd
+16ee
+16ddJJ
+=51
+16cc#XLL
+16dd
+16b-
+16ddJJ
+16cc#LL
+16dd
+16ee
+16ddJJ
+=52
+(>16ddLL
+16cc#X)
+(>16cc#
+16b-JJ)
+(<16b-LL
+16a)
+(<16a
+16gJJ)
+=53
+2dd
+=54
+[2gg
+=55
+4gg]
+4dd
+=56
+8b-L
+(>8qee/
+8ddJ)
+16cc#XLL
+16dd
+16ee
+16ddJJ
+=57
+16cc#XLL
+16dd
+16b-
+16ddJJ
+16cc#LL
+16dd
+16ee
+16ddJJ
+=58
+16cc#XLL
+16dd
+16b-
+16ddJJ
+16cc#LL
+16dd
+16ee
+16ddJJ
+=59
+16cc#XLL
+16dd
+16b-
+16ddJJ
+16cc#LL
+16dd
+16ee
+16ddJJ
+=60
+(>16ddLL
+16cc#X)
+(>16cc#
+16b-JJ)
+(<16b-LL
+16a)
+(<16a
+16gJJ)
+=61
+4gg
+4dd
+=62
+2g
+==
+*-
+!!!OTL: 114. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Altered Dorian
+!!!Listening/dance:	dance
+!!!:	*g:; *G:; *g:
+!!!One_Mode:	no
+**kern
+*part1
+*staff1
+*clefG2
+*k[b-e-]
+!!!Begin-Modulation
+*g:dor
+=7:|!|:
+*>B
+*k[b-]
+!LO:TX:a:i:t=G-raised-fourth
+(>16aLL
+16b-
+16cc#X
+16ddJJ)
+(>8.cc#L
+16b-Jk)
+=8
+(>16b-LL
+16a)
+(>16ccn
+16b-JJ)
+(<16b-LL
+16a)
+(<16a
+16gJJ)
+=9
+16aLL
+16b-
+16cc#X
+16ddJJ
+8cc#L
+16b-L
+16aJJ
+=10
+4g
+4gg
+=11
+16aLL
+16b-
+16cc#X
+16ddJJ
+8.cc#L
+16b-Jk
+=12
+(>16b-LL
+16a)
+(>16ccn
+16b-JJ)
+(<16b-LL
+16a)
+(<16a
+16gJJ)
+=13
+16aLL
+16b-
+16cc#X
+16ddJJ
+8cc#L
+16b-L
+16aJJ
+*>B1
+=14
+2g
+*>B2
+=15:|!
+4.g
+8cc#X
+=16!|:
+*>C
+(>4.dd
+8cc#X)
+=17
+(>4.dd
+8cc#X)
+=18
+(>8.ddmL
+16cc#XJk)
+(>8.ddmL
+16cc#XJk)
+=19
+4.dd
+8dd
+=20
+16cc#XLL
+16dd
+16ee
+16ffJJ
+16eeLL
+16dd
+16cc#
+16eeJJ
+=21
+8ddL
+16ddL
+16ddJJ
+16ddLL
+16dd
+16dd
+16ddJJ
+=22
+16cc#XLL
+16dd
+16ee
+16ffJJ
+16eeLL
+16dd
+16cc#
+16eeJJ
+=23
+4.dd
+8dd
+=24
+(>8.ggL
+16ffJk)
+(>16ffLL
+16ee)
+(>16ee
+16ddJJ)
+=25
+(>8.ggL
+16ffJk)
+(>16ffLL
+16ee)
+(>16ee
+16ddJJ)
+=26
+16cc#XLL
+16dd
+16ee
+16ffJJ
+16eeLL
+16dd
+16cc#
+16eeJJ
+=27
+4.dd
+8b-
+=28
+4dd
+(>8qcc#X/
+8ddL)
+(>8qcc#/
+8ddJ)
+=29
+4.cc#X
+24b-LL
+24a
+24b-JJ
+=30
+4dd
+(>8qcc#X/
+8ddL)
+(>8qcc#/
+8ddJ)
+=31
+8cc#XL
+8b-J
+8aL
+8gJ
+=32
+4dd
+(>8qcc#X/
+8ddL)
+(>8qcc#/
+8ddJ)
+=33
+4.cc#X
+24b-LL
+24a
+24b-JJ
+=34
+4dd
+(>8qcc#X/
+8ddL)
+(>8qee/
+8ddJ)
+=35
+(>8cc#XL
+8b-J)
+8aL
+8gJ
+=36
+4.g
+(<16aLL
+16b-JJ)
+=37
+4.g
+(<16aLL
+16b-JJ)
+=38
+8gL
+(<16aL
+16b-JJ)
+(8gL
+<16aL
+16b-JJ)
+=39
+4.g
+8d
+!!!Begin-Modulation
+*-
+!!!OTL: 115. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Altered Dorian
+!!!Listening/dance:	dance
+!!!:	*G:
+!!!One_Mode:	no
+**kern
+*part1
+*staff1
+*clefG2
+*k[b-]
+*g:dor
+*M2/4
+*>[A,A1,A,A2,B,C]
+*>A
+!LO:TX:a:i:t=G-raised-fourth
+8d
+=1
+4g
+8b-L
+8ddJ
+=2
+(>16ddLL
+16cc#X)
+(>16cc#
+16b-JJ)
+4dd
+=3
+16cc#XLL
+16dd
+16ee
+16ddJJ
+16cc#LL
+16b-
+16a
+16gJJ
+=4
+8cc#XL
+(>8qee/
+8ddJ)
+16cc#LL
+16b-
+16a
+16gJJ
+=5
+4g
+8b-L
+8ddJ
+=6
+(>16ddLL
+16cc#X)
+(>16cc#
+16b-JJ)
+4dd
+=7
+(>16cc#XLL
+16dd
+16ee
+16ddJJ
+16cc#LL
+16b-
+16a
+16gJJ)
+*>A1
+=8
+(<16aLL
+16b-J
+8gJ)
+8r
+*>A2
+=9:|!
+!LO:TX:b:Bi:t=Fine
+(<16aLL
+16b-J
+8gJ)
+4r
+=10||
+*>B
+4.gg
+8dd
+=11
+4.gg
+8dd
+=12
+8ggL
+8ddJ
+8ggL
+8ddJ
+=13
+4.gg
+8gg
+=14
+16ggLL
+16ff
+16ee
+16ddJJ
+16ffLL
+16ee
+16dd
+16cc#XJJ
+=15
+16eeLL
+16dd
+16cc#X
+16b-JJ
+16cc#LL
+16b-
+16a
+16gJJ
+=16
+8b-L
+8ddJ
+8cc#XL
+8eeJ
+=17
+4dd
+4gg
+=18
+16ggLL
+16ff
+16ee
+16ddJJ
+16ffLL
+16ee
+16dd
+16cc#XJJ
+=19
+16eeLL
+16dd
+16cc#X
+16b-JJ
+16cc#LL
+16b-
+16a
+16gJJ
+=20
+8b-L
+8ddJ
+8cc#XL
+(>8qee/
+8ddJ)
+=21
+4g
+4r
+!!!Begin-Modulation
+*g:dor
+!LO:TX:a:i:t=G-raised-fourth
+=28
+16cc#XLL
+16dd
+16ee
+16ddJJ
+16cc#LL
+16b-X
+16a
+16gJJ
+=29
+!LO:TX:b:Bi:t=Da Capo al Fine
+(<16aLL
+16b-XJ)
+8gJ
+8r
+==
+*-
+!!!OTL: 116. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Altered Dorian
+!!!Listening/dance:	dance
+!!!:	*G:
+!!!One_Mode:	no
+**kern
+*part1
+*staff1
+*clefG2
+*k[b-]
+*g:dor
+*M2/4
+*>[A,A,B,B1,B,B2,C,C,D,D]
+=1-
+*>A
+!LO:TX:a:i:t=G-raised-fourth
+8dL
+8g
+8b-
+8ddJ
+=2
+8cc#XL
+8b-J
+4dd
+=3
+16cc#XLL
+16dd
+16ee
+16ffJJ
+16ggLL
+16ff
+16ee
+16ddJJ
+=4
+16cc#XLL
+16dd
+16ee
+16ddJJ
+16cc#LL
+16b-
+16a
+16gJJ
+=5
+8dL
+8g
+8b-
+8ddJ
+=6
+8cc#XL
+8b-J
+4dd
+=7
+16cc#XLL
+16dd
+16ee
+16ddJJ
+16cc#LL
+16b-
+16a
+16b-JJ
+=8
+4g
+4g
+=9:|!|:
+*>B
+*>B
+[4gg
+16ggLL]
+16ff
+16aa
+16ggJJ
+=10
+[4ff
+16ffLL]
+16ee
+16gg
+16ffJJ
+=11
+[4ee
+16eeLL]
+16dd
+16ff
+16eeJJ
+=12
+2dd
+=13
+8cc#XL
+(>8qee/
+8ddJ)
+8cc#L
+(>8qee/
+8ddJ)
+=14
+8cc#XL
+(>8qee/
+8ddJ)
+16cc#XLL
+16b-
+16a
+16b-JJ
+=15
+(>16cc#XLL
+16eeJJ)
+4dd
+8dd
+*>B1
+=16
+2gg
+*>B2
+=17:|!
+2g
+!!!Begin-Modulation
+*g:dor
+!LO:TX:a:i:t=G-raised-fourth
+=24
+16cc#XLL
+16dd
+16ee
+16ddJJ
+16cc#LL
+16b-X
+16a
+16b-JJ
+=25
+4g
+!LO:TX:b:Bi:t=Fine
+4g
+=26:|!|:
+*>D
+*k[b-]
+2gg
+=27
+(>8qff#X/
+2gg)
+=28
+(>8qff#X/
+4gg)
+(>8qff#/
+4gg)
+=29
+(>8qff#X/
+4gg)
+(>8qff#/
+4gg)
+=30
+16ggLL
+16aa
+16bb-
+16aaJJ
+16ggLL
+16ffn
+16ee
+16ddJJ
+=31
+16eeLL
+16ff
+16gg
+16ffJJ
+16eeLL
+16dd
+16cc#X
+16b-JJ
+=32
+16cc#XLL
+16dd
+16ee
+16ddJJ
+16cc#LL
+16b-
+16a
+16gJJ
+=33
+(>16cc#XLL
+16eeJJ)
+4dd
+8dd
+=34
+16ggLL
+16aa
+16bb-
+16aaJJ
+16ggLL
+16ff
+16ee
+16ddJJ
+=35
+16eeLL
+16ff
+16gg
+16ffJJ
+16eeLL
+16dd
+16cc#X
+16b-JJ
+=36
+16cc#XLL
+16dd
+16ee
+16ddJJ
+16cc#LL
+16b-
+!LO:TX:b:Bi:t=D.S. al Fine
+16a
+16b-JJ
+=37
+2g
+=:|!
+*-
+!!!OTL: 117. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Altered Dorian
+!!!Listening/dance:	dance
+!!!:	*G:
+!!!One_Mode:	no
+**kern
+*part1
+*staff1
+*clefG2
+*k[b-]
+*g:dor
+*M2/4
+*>[A,A1,A,A2,B,B1,B,B2,C,C]
+*>A
+=1-
+!LO:TX:a:i:t=G-raised-fourth
+16dLL
+16g
+16b-
+16ddJJ
+16cc#XLL
+16dd
+16b-
+16ddJJ
+=2
+16cc#XLL
+16dd
+16b-
+16ddJJ
+16cc#LL
+16b-
+16a
+16gJJ
+=3
+16dLL
+16g
+16b-
+16ddJJ
+16cc#XLL
+16dd
+16b-
+16cc#JJ
+=4
+4dd
+4gg
+=5
+16dLL
+16g
+16b-
+16ddJJ
+16cc#XLL
+16dd
+16b-
+16ddJJ
+=6
+16cc#XLL
+16dd
+16b-
+16ddJJ
+16cc#LL
+16b-
+16a
+16gJJ
+=7
+16b-LL
+16a
+16ccn
+16b-JJ
+16aLL
+16g
+16a
+16b-JJ
+*>A1
+=8
+4g
+4gg
+*>A2
+=9:|!
+2g
+!!!Begin-Modulation
+*g:dor
+=15!|:
+*k[b-]
+*>C
+!LO:TX:a:i:t=G-raised-fourth
+(>8qccc#X/
+2ddd)
+=16
+(>8qccc#X/
+2ddd)
+=17
+(>16dddLL
+16eee)
+16fff
+16eeeJJ
+(>16fffLL
+16eee)
+16ddd
+16ccc#XJJ
+=18
+8dddL
+16dddL
+16dddJJ
+16dddLL
+16ddd
+16ddd
+16dddJJ
+=19
+(>16dddLL
+16eee)
+16fff
+16eeeJJ
+(>16fffLL
+16eee)
+16ddd
+16ccc#XJJ
+=20
+2ddd
+=21
+(>16bb-LL
+16ccc#X)
+16ddd
+16ccc#JJ
+(>16dddLL
+16ccc#)
+16bb-
+16aaJJ
+=22
+2bb-
+=23
+(>16ggLL
+16aa)
+16bb-
+16aaJJ
+16bb-LL
+16aa
+!LO:TX:b:Bi:t=D.S. al Fine
+16gg
+16ff#XJJ
+=24
+2gg
+=:|!
+*-
+!!!OTL: 118. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Altered Dorian
+!!!Listening/dance:	dance
+!!!One_Mode:	no
+**kern
+*part1
+*staff1
+*clefG2
+*k[b-]
+*g:dor
+*M2/4
+*>A
+=1-
+!LO:TX:a:i:t=G-raised-fourth
+8gL
+16gL
+16dJJ
+16gLL
+16a
+16b-
+16aJJ
+=2
+8gL
+16gL
+16dJJ
+16gLL
+16a
+16b-
+16aJJ
+=3
+16gLL
+16a
+16b-
+16cc#XJJ
+16ddLL
+16cc#
+16b-
+16cc#JJ
+=4
+16ddLL
+16cc#X
+16dd
+16eeJJ
+16ddLL
+16cc#
+16b-
+16aJJ
+=5
+8gL
+16gL
+16dJJ
+16gLL
+16a
+16b-
+16aJJ
+=6
+16gLL
+16a
+16b-
+16cc#XJJ
+4dd
+=7
+16cc#XLL
+16dd
+16cc#
+16b-JJ
+16aLL
+16g
+(<16dd
+16f#XJJ)
+=8
+4g
+4r
+=9||
+!!!Begin-Modulation
+*g:dor
+!LO:TX:a:i:t=G-raised-fourth
+=17
+16ggLL
+16ff
+16ee
+16ggJJ
+16ffLL
+16ee
+16dd
+16ffJJ
+=18
+16eeLL
+16dd
+16cc#X
+16eeJJ
+16ddLL
+16cc#
+16b-X
+16ddJJ
+=19
+16cc#XLL
+16dd
+16cc#
+16b-JJ
+16aLL
+16g
+16a
+16b-JJ
+=20
+4cc#X
+4dd
+=21
+16ggLL
+16aa
+16bb-
+16aaJJ
+16ggLL
+16ff
+16ee
+16ddJJ
+=22
+16eeLL
+16ff
+16gg
+16ffJJ
+16eeLL
+16dd
+16cc#X
+16b-JJ
+=23
+16cc#XLL
+16dd
+16ee
+16ddJJ
+16cc#LL
+16b-
+16a
+16gJJ
+=24
+16aLL
+16b-J
+8gJ
+16r
+==
+16gLL
+16b-
+16ddJJ
+=25
+*>C
+2gg
+=26
+2gg
+=27
+4gg
+4gg
+=28
+4gg
+4gg
+=29
+4gg
+4ff
+=30
+4ee
+4dd
+=31
+16cc#XLL
+16dd
+16ee
+16ffJJ
+16eeLL
+16dd
+16cc#
+16eeJJ
+=32
+2dd
+=33
+4gg
+4ff
+=34
+4ee
+4dd
+=35
+16cc#XLL
+16dd
+16ee
+16ffJJ
+16eeLL
+16dd
+16cc#
+16eeJJ
+=36
+2dd
+=37
+16cc#XLL
+16dd
+16ee
+16ffJJ
+16eeLL
+16dd
+16cc#
+16eeJJ
+=38
+16ddLL
+16cc#X
+16b-
+16ddJJ
+16cc#LL
+16b-
+16a
+16gJJ
+=39
+16cc#XLL
+16dd
+16cc#
+16b-JJ
+16aLL
+16g
+16a
+16b-JJ
+=40
+4cc#X
+4dd
+=41
+16ggLL
+16aa
+16bb-
+16aaJJ
+16ggLL
+16ff
+16ee
+16ddJJ
+=42
+16eeLL
+16ff
+16gg
+16ffJJ
+16eeLL
+16dd
+16cc#X
+16b-JJ
+=43
+16cc#XLL
+16dd
+16ee
+16ddJJ
+16cc#LL
+16b-
+16a
+16gJJ
+=44
+(<16aLL
+16b-JJ)
+4.g
+==
+*-
+!!!OTL: 119. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Altered Dorian
+!!!Listening/dance:	dance
+!!!:	*G:
+!!!One_Mode:	no
+**kern
+*part1
+*staff1
+*clefG2
+*k[b-]
+*g:dor
+*M2/4
+*>[A,B,B1,B,B2,C,C1,C,C2]
+*>A
+=1-
+!LO:TX:a:i:t=G-raised-fourth
+(>8gL
+(>8qcc#X/
+8ddJ)
+(>8gL
+(>8qcc#/
+8ddJ)
+=2
+(>8gL
+(>8qcc#X/
+8ddJ)
+4dd
+=3
+16cc#XLL
+16dd
+16ee
+16ddJJ
+16cc#LL
+16b-
+16a
+16gJJ
+=4
+4dd
+(>8qff#X/
+4gg)
+=5
+8gL
+(>8qcc#X/
+8ddJ)
+8gL
+(>8qcc#/
+8ddJ)
+=6
+8gL
+(>8qcc#X/
+8ddJ)
+4dd
+=7
+16cc#XLL
+16dd
+16ee
+16ddJJ
+16cc#LL
+16b-
+16a
+16gJJ
+=8
+(<16aLL
+(<8qcc#X/
+16b-JJ)
+4g)
+8gg
+=9!|:
+*>B
+(>16ggLL
+16ff
+16ee
+16ffJJ)
+(>8.eeL
+16ddJk)
+=10
+16eeLL
+16dd
+16cc#X
+16ddJJ
+8.cc#L
+16b-Jk
+=11
+16cc#XLL
+16dd
+16ee
+16ddJJ
+16cc#LL
+16b-
+16a
+16gJJ
+*>B1
+=12
+4dd
+4gg
+*>B2
+=13:|!
+(<16aLL
+16b-JJ)
+!LO:TX:b:Bi:t=Fine
+4g
+8d
+!!!Begin-Modulation
+*-
+!!!OTL: 120. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Altered Dorian
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**kern
+*part1
+*staff1
+*clefG2
+*k[b-]
+*g:dor
+*M2/4
+*>[pickup,A,A1,A,A2,B,B1,B,B2]
+*>pickup
+8d
+*>A
+=1!|:
+8gL
+(>8qcc#X/
+8ddJ)
+8gL
+16aL
+16b-JJ
+=2
+8gL
+(>8qcc#X/
+8ddJ)
+8gL
+16aL
+16b-JJ
+=3
+8gL
+(>8qcc#X/
+8ddJ)
+(>8qcc#/
+8ddL)
+8ddJ
+=4
+(>8.cc#XL
+16b-Jk)
+16cc#LL
+16b-
+16a
+16gJJ
+=5
+8gL
+(>8qcc#X/
+8ddJ)
+8gL
+16aL
+16b-JJ
+=6
+8gL
+(>8qcc#X/
+8ddJ)
+8gL
+16aL
+16b-JJ
+=7
+8ddL
+16cc#XL
+16b-JJ
+16aLL
+16g
+16a
+16b-JJ
+*>A1
+=8
+4g
+4gg
+*>A2
+=9:|!
+!LO:TX:b:Bi:t=Fine
+4.g
+8dd
+=10!|:
+*>B
+16cc#XLL
+16dd
+16ee
+16ffJJ
+4dd
+=11
+16ffLL
+16ee
+16dd
+16cc#XJJ
+4dd
+=12
+16cc#XLL
+16dd
+16ee
+16ffJJ
+8.ddL
+16cc#Jk
+=13
+16ddLL
+16cc#X
+16b-
+16aJJ
+8.gL
+16ddJk
+=14
+16cc#XLL
+16dd
+16ee
+16ffJJ
+8.ddL
+16ffJk
+=15
+16ffLL
+16ee
+16dd
+16cc#XJJ
+8.ddL
+16ggJk
+=16
+16ggLL
+16ff
+16ee
+16ddJJ
+16cc#XLL
+16b-
+16a
+16gJJ
+*>B1
+=17
+16aLL
+16b-JJ
+4g
+8dd
+*>B2
+=18:|!
+!LO:TX:b:Bi:t=Da Capo al Fine
+16aLL
+16b-JJ
+4g
+==
+*-
+!!!OTL: 121. Freylekhs (Karahod)
+!!!Genre:	Freylekhs (Karahod)
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	no
+**kern
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 122. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**kern
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 123. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	no
+**kern
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 124. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	no
+**kern
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 125. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**kern
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 126. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Freygish
+!!!Listening/dance:	dance
+!!!:	*G:frey
+!!!One_Mode:	no
+**kern
+*I"P1
+*clefG2
+*k[b-e-]
+!!!Begin-Modulation
+*-
+!!!OTL: 127. Freylekhs
+!!!Genre:	Freylekh
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!:	*B-:
+!!!One_Mode:	no
+**kern
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 128. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**kern
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 129. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!:	*g:dor; *B-:
+!!!One_Mode:	no
+**kern
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 130. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**kern
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 131. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!:	*g:dor
+!!!One_Mode:	no
+**kern
+*I"P1
+*clefG2
+*k[b-e-]
+*g:dor
+=14||
+*>B
+*k[b-]
+!LO:TX:a:i:t=G-raised-fourth
+8gL
+16ffL
+16eeJJ
+16ffLL
+16ee
+16dd
+16cc#XJJ
+=15
+4dd
+16cc#XLL
+16b-
+16a
+16gJJ
+=16
+8gL
+16ffL
+16eeJJ
+16ffLL
+16ee
+16dd
+16cc#XJJ
+=17
+4dd
+16r
+16dLL
+16g
+16b-JJ
+=18
+16ddLL
+16cc#X
+16b-
+16aJJ
+16gLL
+16d
+16g
+16b-JJ
+=19
+16ddLL
+16cc#X
+16b-
+16aJJ
+16gLL
+16d
+16g
+16b-JJ
+=20
+16ddLL
+16cc#X
+16b-
+16aJJ
+16gLL
+16a
+16b-
+16gJJ
+=21
+4.a
+8r
+!!!End-Modulation
+*-
+!!!OTL: 132. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	no
+**kern
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 133. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!:	*B-:
+!!!One_Mode:	no
+**kern
+*I"P1
+*clefG2
+*k[b-e-]
+!!!Begin-Modulation
+*-
+!!!OTL: 134. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**kern
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 135. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!:	*G:frey
+!!!One_Mode:	no
+**kern
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 136. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	no
+**kern
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 137. Vol'ner (Freylekhs)
+!!!Genre:	Vol'ner (Freylekhs)
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**kern
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 138. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	no
+**kern
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 139. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**kern
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 140. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**kern
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 141. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**kern
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 142. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	no
+**kern
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 143. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**kern
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 144. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!:	*B-:
+!!!One_Mode:	no
+**kern
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 145. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**kern
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 146. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	no
+**kern
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 147. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**kern
+*I"P1
+*clefG2
+*k[b-e-]
+*g
+*M2/4
+*>[A,A,B,C]
+*>A
+=1
+(16aLL
+(8qcc/
+16b-J))
+8gJ
+8dL
+8gJ
+=2
+(16aLL
+(8qcc/
+16b-J))
+8gJ
+8dL
+8gJ
+=3
+16aLL
+16b-JJ
+4cc
+24b-LL
+24dd
+24ccJJ
+=4
+8b-TL
+8gJ
+8ggL
+8gJ
+=5
+(16aLL
+(8qcc/
+16b-J))
+8gJ
+8dL
+8gJ
+=6
+(16aLL
+(8qcc/
+16b-J))
+8gJ
+8dL
+8gJ
+=7
+16aLL
+16b-JJ
+4cc
+24b-LL
+24a
+24b-JJ
+=8
+4g
+!LO:TX:b:Bi:t=Fine
+4g
+=9:|!
+*>B
+16ddLL
+16dd
+16dd
+16ddJJ
+8ggL
+8ddJ
+=10
+8ddL
+16ccL
+16ddJJ
+8ccTL
+8b-J
+=11
+16ddLL
+16dd
+16dd
+16ddJJ
+8ggL
+8ddJ
+=12
+8ddL
+16ccL
+16ddJJ
+8ccTL
+8b-J
+=13
+16b-LL
+16cc
+16dd
+16ccJJ
+8b-L
+8b-J
+=14
+8ee-L
+16ddL
+16ccJJ
+8.ddL
+16ccJk
+=15
+16b-LL
+16cc
+16dd
+16ccJJ
+8b-L
+8b-J
+=16
+8ccTL
+16b-L
+16aJJ
+4g
+=17||
+*>C
+4.dd
+8ee-
+=18
+8ddL
+8dJ
+8gL
+8b-J
+=19
+16ddLL
+16dd
+16dd
+16ddJJ
+8ee-L
+16ddL
+16ccJJ
+=20
+8ddL
+8dJ
+8gL
+8b-J
+=21
+16ddLL
+16dd
+16dd
+16ddJJ
+8ee-L
+16ddL
+16ccJJ
+=22
+16ddLL
+16dd
+16dd
+16ddJJ
+8ee-L
+16ddL
+16ccJJ
+=23
+8ddL
+8ddJ
+16ccLL
+16b-J
+8ccJ
+=24
+!LO:TX:b:Bi:t=Da Capo al Fine
+4b-
+(8qcc#X/
+4dd)
+==
+*-
+!!!OTL: 148. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	no
+**kern
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 149. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	no
+**kern
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 150. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Major
+!!!Listening/dance:	dance
+!!!:	*g:dor
+!!!One_Mode:	no
+**kern
+*I"P1
+*clefG2
+*k[f#]
+*g:dor
+*>fanfare
+!LO:TX:a:i:t=G-raised-fourth
+(16cc#XLL
+16eeJJ
+=9
+4.dd)
+(16cc#XLL
+16eeJJ
+=10
+4.dd)
+(16cc#XLL
+16eeJJ
+=11
+8ddL)
+(16cc#XL
+16eeJJ
+8ddL)
+(16cc#L
+16eeJJ
+=12
+8ddL)
+(16cc#XL
+16eeJJ
+4dd)
+*>B
+=13!|:
+8cc#XL
+8dd
+8ee
+(8qgg/
+8ffJ)
+=14
+4.dd
+8dd
+=15
+8cc#XL
+8dd
+8ee
+(8qgg/
+8ffJ)
+=16
+4dd
+8r
+24ddLL
+24ee
+24ddJJ
+=17
+8cc#XL
+8dd
+8ee
+8ffJ
+=18
+24ggLL
+24aa
+24ggJ
+8ffJ
+24eeLL
+24ff
+24eeJ
+8ddJ
+=19
+24eeLL
+24ff
+24eeJ
+8ddJ
+24cc#XLL
+24dd
+24cc#J
+8b-J
+=20
+24cc#XLL
+24dd
+24cc#J
+8b-J
+24aLL
+24b-
+24aJ
+8gJ
+=21
+(16b-LL
+16a
+16ccn
+(16b-JJ)
+16aLL)
+16g
+16a
+16b-JJ
+*>B1
+=22
+4g
+8r
+8d
+=23
+(8qcc#/
+2dd)
+=24
+(8qff#X/
+2gg)
+=25
+8ddL
+8gg
+8dd
+8ggJ
+=26
+4dd
+8r
+24ddLL
+24ee
+24ddJJ
+*>B2
+=27:|!
+!LO:TX:b:Bi:t=Da Capo al Fine
+4.g
+!!!End-Modulation
+==
+*-
+!!!OTL: 151. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Major
+!!!Listening/dance:	dance
+!!!:	*g:dor
+!!!One_Mode:	no
+**kern
+*I"P1
+*clefG2
+*k[f#]
+*g:dor
+!LO:TX:a:i:t=G-raised-fourth
+=9
+(8qff#X/
+2gg)
+=10
+8qff#X/
+2gg
+=11
+8qff#X/
+4gg
+8qff#/
+4gg
+=12
+8qff#X/
+4gg
+8qff#/
+4gg
+*>B
+=13!|:
+8gg
+(8qaa/
+8ffnJ)
+24eeLL
+24ff
+24eeJ
+8ddJ
+=14
+8ee
+8qgg/
+4ff
+8ff
+=15
+24eeLL
+24ff
+24eeJ
+8ddJ
+8cc#XL
+8b-J
+=16
+8cc#X
+(8qee/
+4dd)
+8dd
+=17
+16cc#XLL
+16dd
+16ee
+16ddJJ
+16cc#LL
+16b-
+16a
+16gJJ
+=18
+(16.aLL
+32ccnJJk)
+4b-
+8dd
+=19
+16cc#XLL
+16dd
+16ee
+16ddJJ
+16cc#LL
+16b-
+16a
+16gJJ
+*>B1
+=20
+16aLL
+16b-JJ
+8g
+8r
+8dd
+=21
+4.ggT
+8dd
+=22
+4.gg
+8dd
+=23
+8ggL
+8dd
+8gg
+8ddJ
+=24
+8ggL
+8ddJ
+4gg
+*>B2
+=25:|!
+!LO:TX:b:Bi:t=Da Capo al Fine
+(16aLL
+16b-JJ)
+4g
+!!!End-Modulation
+==
+*-
+!!!OTL: 152. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Major
+!!!Listening/dance:	dance
+!!!:	*g:dor
+!!!One_Mode:	no
+**kern
+*I"P1
+*clefG2
+*k[f#]
+*g:dor
+=10||
+*>B
+*k[b-]
+!LO:TX:a:i:t=G-raised-fourth
+16b-LL
+16a
+16b-
+16aJJ
+16b-LL
+16dd
+16cc#X
+16b-JJ
+=11
+16b-LL
+16aJJ
+4a
+8a
+=12
+16cc#XLL
+16dd
+16ee
+16ffJJ
+16eeLL
+16dd
+16cc#
+16ddJJ
+=13
+2ee
+=14
+16eeLL
+16ff
+16gg#X
+16aaJJ
+16gg#LL
+16ff
+16ee
+16ddJJ
+=15
+4cc#X
+16cc#LL
+16a
+16cc#
+16eeJJ
+=16
+8ddL
+16cc#XL
+16b-JJ
+16aLL
+16g
+16b-
+16aJJ
+=17
+2g
+!!!End-Modulation
+*-
+!!!OTL: 153. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Major
+!!!Listening/dance:	dance
+!!!:	*g:dor
+!!!One_Mode:	no
+**kern
+*I"P1
+*clefG2
+*k[f#]
+*g:dor
+=5:|!|:
+*>B
+!LO:TX:a:i:t=G-raised-fourth
+(8qa/
+4g)
+(16qqf#X/LL
+16qqa/JJ
+16gLL)
+16fn
+16e
+16dJJ
+=6
+(16c#XLL
+16d
+16e
+16dJJ
+16c#LL)
+(16d
+16e
+16f#XJJ
+=7
+8qa/
+4g)
+(16qqf#X/LL
+16qqa/JJ
+(16gLL)
+16fn
+16e
+16dJJ)
+=8
+(16c#XLL
+16d)
+(16A
+16B-XJJ)
+4G
+!!!End-Modulation
+*-
+!!!OTL: 154. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Major
+!!!Listening/dance:	dance
+!!!:	*g:dor; *G:frey
+!!!One_Mode:	no
+**kern
+*I"P1
+*clefG2
+*k[f#]
+*g:dor
+=10!|:
+*>B
+*k[b-]
+!LO:TX:a:i:t=G-raised-fourth
+(8qff#X/
+2gg)
+=11
+(8qff#Xt/
+2gg)
+=12
+(8qff#X/
+4gg)
+(8qff#/
+4gg)
+=13
+(8qff#Xt/
+4gg)
+(8qff#/
+4gg)
+=14
+(16bb-LL
+16aaJ
+8ggJ)
+8r
+[8gg
+=15
+(16ggLL]
+16ff)
+(16ff
+16eeJJ)
+16ffLL
+16eeJ
+8ddJ
+=16
+16bb-LL
+16aaJ
+8ggJ
+8r
+[8gg
+=17
+(16ggLL]
+16ff)
+(16ff
+16eeJJ)
+(16ffLL
+16eeJ
+8ddJ)
+=18
+(16bb-LL
+16aaJ
+8ggJ
+(16ggLL
+16ffJ
+8eeJ)
+=19
+(16ffLL
+16eeJ
+8ddJ)
+8dd
+8r
+=20
+(16qqdd/LL
+16qqee/
+16qqdd/JJ
+16cc#XLL)
+16dd
+16ee
+16ffJJ
+(16qqee/LL
+16qqff/JJ
+*^
+16eeLL)	4ryy
+16dd	.
+16cc#	.
+16b-JJ	.
+*v	*v
+=21
+16aLL
+16b-JJ
+4cc#X
+16cc#LL
+16eeJJ
+=22
+(16qqee/LL
+16qqff/JJ
+(16eeLL)
+16dd)
+(16qqdd/LL
+16qqee/JJ
+(16dd)
+16cc#XJJ)
+(16qqcc#/LL
+16qqdd/JJ
+(16cc#LL)
+16b-)
+(16qqb-/LL
+16qqcc#/JJ
+(16b-)
+16aJJ)
+=23
+(16aLL
+16b-JJ
+4cc#X)
+(16cc#LL
+16eeJJ)
+=24
+(16qqee/LL
+16qqff/JJ
+(16eeLL)
+16dd)
+(16qqdd/LL
+16qqee/JJ
+(16dd)
+16cc#XJJ)
+(16qqcc#/LL
+16qqdd/JJ
+(16cc#LL)
+16b-)
+(16qqb-/LL
+16qqcc#/JJ
+(16b-)
+16aJJ)
+=25
+16aLL
+(8qcc#X/
+16b-JJ)
+4.g
+!!!End-Modulation
+!!!Begin-Modulation
+*-
+!!!OTL: 155. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Major (Mixolydian)
+!!!Listening/dance:	dance
+!!!:	*g:dor
+!!!One_Mode:	no
+**kern
+*I"P1
+*clefG2
+*k[]
+*g:dor
+=11||
+*>C
+*k[b-]
+!LO:TX:a:i:t=G-raised-fourth
+8qcc#X/
+2dd
+=12
+8qcc#X/
+2dd
+=13
+16cc#XLL
+16dd
+16ee
+16ddJJ
+(8.cc#tL
+16b-Jk)
+=14
+16cc#XLL
+16dd
+16ee
+16ddJJ
+(8.cc#tL
+16b-Jk)
+=15
+16cc#XLL
+16dd
+16ee
+16ddJJ
+(8.cc#tL
+16b-Jk)
+=16
+16ddLL
+16cc#X
+16b-
+16aJJ
+4g
+=17
+2dd
+=18
+2gg
+=19
+4gg
+4gg
+=20
+4gg
+4gg
+=21
+16cc#XLL
+16dd
+16ee
+16ddJJ
+(8.cc#tL
+16b-Jk)
+=22
+16cc#XLL
+16dd
+16ee
+16ddJJ
+(8.cc#tL
+16b-Jk)
+=23
+16cc#XLL
+16dd
+16ee
+16ddJJ
+(8.cc#tL
+16b-Jk)
+=24
+16ddLL
+16cc#X
+16b-
+16aJJ
+4g
+!!!End-Modulation
+*-
+!!!OTL: 156. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Major
+!!!Listening/dance:	dance
+!!!:	*g:dor
+!!!One_Mode:	no
+**kern
+*I"P1
+*clefG2
+*k[f#]
+*g:dor
+=19||
+*k[b-]
+8gL)
+!LO:TX:a:i:t=G-raised-fourth
+8g
+8b-
+8ddJ
+*>B
+=20!|:
+4.gg
+8ff#X
+=21
+8.ggL
+16ff#XJk
+8.ggL
+16ff#Jk
+=22
+8ggL
+24ffnL
+24gg
+24ffJJ
+8eeL
+8ddJ
+=23
+8cc#XL
+8ddJ
+16b-LL
+16aJ
+8gJ
+=24
+8r
+24ffLL
+24gg
+24ffJJ
+8eeL
+8ddJ
+*>B1
+=25
+8cc#XL
+8b-J
+16b-LL
+16aJ
+8gJ
+=26
+[2dd
+=27
+8ddL]
+8g
+8b-
+8ddJ
+*>B2
+=28:|!
+8cc#XL
+8dd
+8ee
+8cc#J
+=29
+2dd
+!!!End-Modulation
+*-
+!!!OTL: 157. Hopke
+!!!Genre:	Hopke
+!!!Mode:	Major
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**kern
+*I"P1
+*clefG2
+*k[f#]
+*-
+!!!OTL: 158. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Major
+!!!Listening/dance:	dance
+!!!One_Mode:	no
+**kern
+*I"P1
+*clefG2
+*k[f#]
+*-
+!!!OTL: 159. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Major
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**kern
+*I"P1
+*clefG2
+*k[f#]
+*-
+!!!OTL: 160. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Major
+!!!Listening/dance:	dance
+!!!One_Mode:	no
+**kern
+*I"P1
+*clefG2
+*k[f#]
+*-
+!!!OTL: 161. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Major
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**kern
+*I"P1
+*clefG2
+*k[f#]
+*-
+!!!OTL: 162. Hopke
+!!!Genre:	Hopke
+!!!Mode:	Major
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**kern
+*I"P1
+*clefG2
+*k[f#]
+*-
+!!!OTL: 163. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Major
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**kern
+*I"P1
+*clefG2
+*k[f#]
+*-
+!!!OTL: 164. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Major
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**kern
+*I"P1
+*clefG2
+*k[f#]
+*-
+!!!OTL: 165. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Major
+!!!Listening/dance:	dance
+!!!:	*D:
+!!!One_Mode:	no
+**kern
+*I"P1
+*clefG2
+*k[f#]
+*-
+!!!OTL: 166. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Major
+!!!Listening/dance:	dance
+!!!:	*g:
+!!!One_Mode:	no
+**kern
+*I"P1
+*clefG2
+*k[f#]
+*g:dor
+!LO:TX:a:i:t=G-raised-fourth
+=18
+8ffL
+8een
+8dd
+8ffJ
+=19
+8eenL
+8dd
+8cc#X
+(8qff/
+8eeJ)
+=20
+[2dd
+=21
+!LO:TX:b:Bi:t=Da Capo al Fine
+8dd]
+8r
+8r
+!!!End-Modulation
+==
+*-
+!!!OTL: 167. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Major
+!!!Listening/dance:	dance
+!!!:	*g:
+!!!One_Mode:	no
+**kern
+*I"P1
+*clefG2
+*k[f#]
+*-
+!!!OTL: 168. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Major (Mixolydian)
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**kern
+*I"P1
+*clefG2
+*k[f#]
+*-
+!!!OTL: 169. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Major (Mixolydian)
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**kern
+*I"P1
+*clefG2
+*k[f#]
+*-
+!!!OTL: 170. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Major (Mixolydian)
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**kern
+*I"P1
+*clefG2
+*k[f#]
+*-
+!!!OTL: 171. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Major (Mixolydian)
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**kern
+*I"P1
+*clefG2
+*k[f#]
+*-
+!!!OTL: 172. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Major (Mixolydian)
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**kern
+*I"P1
+*clefG2
+*k[f#]
+*-
+!!!OTL: 173. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Major (Mixolydian)
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**kern
+*I"P1
+*clefG2
+*k[f#]
+*-
+!!!OTL: 174. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Major (Mixolydian)
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**kern
+*I"P1
+*clefG2
+*k[]
+*-
+!!!OTL: 175. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Major
+!!!Listening/dance:	dance
+!!!:	*g:dor
+!!!One_Mode:	no
+**kern
+*I"P1
+*clefG2
+*k[f#]
+*g:dor
+*>fanfare
+!LO:TX:a:i:t=G-raised-fourth
+2gg
+=10
+(8qff#X/
+2gg)
+=11
+(8qff#X/
+4gg)
+(8qff#/
+4gg)
+=12
+(8qff#X/
+4gg)
+(8qff#/
+4gg)
+*>B
+=13!|:
+8dd
+4gg
+8ffn
+=14
+8ee
+(8qgg/
+8ff)
+8ee
+8ddJ
+=15
+8dd
+4gg
+8ff
+=16
+8eeL
+(8qgg/
+8ff)
+8ee
+8ddJ
+=17
+8dd
+(8qff/
+4ee)
+8dd
+=18
+8cc#XL
+(8qee/
+8dd)
+8cc#
+8b-J
+=19
+8aL
+8g
+8a
+8b-J
+*>B1
+=20
+8cc#X
+4dd
+8r
+*>B2
+=21:|!
+2g
+!!!End-Modulation
+==
+*-
+!!!OTL: 176. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Major
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**kern
+*I"P1
+*clefG2
+*k[f#]
+*-
+!!!OTL: 177. Sher
+!!!Genre:	Sher
+!!!Mode:	Freygish
+!!!Listening/dance:	dance
+!!!One_Mode:	no
+**kern
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 178. Sher
+!!!Genre:	Sher
+!!!Mode:	Freygish
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**kern
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 179. Sher
+!!!Genre:	Sher
+!!!Mode:	Freygish
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**kern
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 180. Sher
+!!!Genre:	Sher
+!!!Mode:	Freygish
+!!!Listening/dance:	dance
+!!!:	*C:
+!!!One_Mode:	no
+**kern
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 181. Sher
+!!!Genre:	Sher
+!!!Mode:	Freygish
+!!!Listening/dance:	dance
+!!!One_Mode:	no
+**kern
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 182. Sher
+!!!Genre:	Sher
+!!!Mode:	Freygish
+!!!Listening/dance:	dance
+!!!:	*c:
+!!!One_Mode:	no
+**kern
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 183. Sher
+!!!Genre:	Sher
+!!!Mode:	Freygish
+!!!Listening/dance:	dance
+!!!:	*c:
+!!!One_Mode:	no
+**kern
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 184. Sher
+!!!Genre:	Sher
+!!!Mode:	Altered Dorian
+!!!Listening/dance:	dance
+!!!One_Mode:	no
+**kern
+*I"P1
+*clefG2
+*k[b-]
+*g:dor
+*M2/4
+*>[A,A1,A,A2,B,B1,B,B2]
+*>A
+=1
+8d
+4g
+8a
+=2
+4b-
+4dd
+=3
+(8qdd/
+8cc#XL)
+8b-J
+8aL
+8gJ
+=4
+(8ddL
+16cc#XL
+16eeJJ
+4dd)
+=5
+8d
+4g
+8a
+=6
+4b-
+4dd
+*>A1
+=7
+(8qdd/
+8cc#XL)
+8b-
+8a
+8b-J
+=8
+4.g
+16dLL
+16dJJ
+*>A2
+=9:|!
+(8qdd/
+8cc#L)
+8b-
+8a
+8ddJ
+=
+4.g
+!!!Begin-Modulation
+*-
+!!!OTL: 185. Sher
+!!!Genre:	Sher
+!!!Mode:	Altered Dorian
+!!!Listening/dance:	dance
+!!!:	*G:
+!!!One_Mode:	no
+**kern
+*I"P1
+*clefG2
+*k[b-]
+*g:dor
+*M2/4
+*>[A,B,C,C1,C,C2]
+*>A
+!LO:TX:a:i:t=G-raised-fourth
+8ddL
+8ee
+8ffJ
+=1
+4gg
+4ff
+=2
+4ee
+4dd
+=3
+(16cc#XLL
+16ddJJ
+4.b-)
+=4
+8r
+8gL
+8b-
+8ddJ
+=5
+4gg
+4ff
+=6
+4ee
+4dd
+=7
+(16cc#XLL
+16ddJJ
+4.b-)
+=8
+8r
+8gL
+8a
+8b-J
+=9
+4cc#X
+16ddLL
+16cc#J
+[8b-J
+=10
+8b-L]
+8aJ
+16b-LL
+16aJ
+8gJ
+=11
+2aX
+=12
+8r
+8dL
+8f#X
+8aJ
+=13
+8ddL
+8ccnJ
+16ccLL
+16b-J
+8aJ
+=14
+8b-L
+8aJ
+16b-LL
+16aJ
+8gJ
+=15
+2g
+=16
+!LO:TX:b:Bi:t=Fine
+2g
+=17||
+*>B
+*k[f#]
+!!!Begin-Modulation
+*g:dor
+!LO:TX:a:i:t=G-raised-fourth
+=30
+4a
+4b-X
+=31
+8a
+[4.g
+=32
+4g]
+4r
+=33!|:
+*>C
+*k[b-]
+8d
+4.g
+=34
+(16aLL
+16b-JJ)
+4g
+8g
+=35
+8f#XL
+8g
+8a
+8b-J
+=36
+8a
+4g
+8g
+=37
+8f#XL
+8gJ
+8aL
+8b-J
+*>C1
+=38
+8dd
+4dd
+8dd
+=39
+8cc#XL
+8b-
+8a
+8gJ
+=40
+((8ddL
+8cc#XJ)
+8dd)
+8r
+*>C2
+=41:|!
+8cc#XL
+8ddJ
+8aL
+8b-J
+=42
+!LO:TX:b:Bi:t=D.C. al Fine
+[2g
+=43
+8g]
+==
+*-
+!!!OTL: 186. Sher
+!!!Genre:	Sher
+!!!Mode:	Altered Dorian
+!!!Listening/dance:	dance
+!!!One_Mode:	no
+**kern
+*I"P1
+*clefG2
+*k[b-]
+*g:dor
+*M2/4
+*>[A,A1,A,A2,B,B1,B,B2]
+*>A
+=1
+!LO:TX:a:i:t=G-raised-fourth
+4dd
+16ffLL
+16eeJ
+8ddJ
+=2
+8cc#X
+(8qee/
+4dd)
+8dd
+=3
+4b-
+16ddLL
+16cc#XJ
+8b-J
+=4
+8a
+4g
+24b-LL
+24ccn
+24b-JJ
+=5
+8aL
+8b-
+8ccn
+8b-J
+=6
+8ccnL
+8b-
+8a
+8gJ
+=7
+2dd
+=8
+2gg
+=9
+4dd
+16ffLL
+16eeJ
+8ddJ
+=10
+8cc#X
+(8qee/
+4dd)
+8dd
+=11
+4b-
+16ddLL
+16cc#XJ
+8b-J
+=12
+24aLL
+24b-
+24aJJ
+4g
+24b-LL
+24ccn
+24b-JJ
+=13
+8aL
+8b-
+8ccn
+8b-J
+=14
+8ccnL
+8b-
+8aJ
+8qcc/
+8b-J
+*>A1
+=15
+[2g
+=16
+4g]
+4r
+*>A2
+=17:|!
+2g
+=18!|:
+!!!Begin-Modulation
+*g:dor
+!LO:TX:a:i:t=G-raised-fourth
+=27
+4dd
+16ffLL
+16eeJ
+8ddJ
+=28
+8cc#X
+(8qee/
+4dd)
+8dd
+=29
+4b-
+16ddLL
+16cc#XJ
+8b-J
+=30
+24aLL
+24b-
+24aJJ
+4g
+24ddLL
+24ee
+24ff#XJJ
+=31
+8ggL
+8dd
+8gg
+8ddJ
+=32
+16ddLL
+16cc#XJ
+8b-J
+8aL
+(8qcc#/
+8b-J)
+!!!End-Modulation1
+*>B1
+=33
+2g
+*>B2
+!!!End-Modulation2
+=34:|!
+4g
+4d
+=35
+4g
+4r
+==
+*-
+!!!OTL: 187. Sher
+!!!Genre:	Sher
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	no
+**kern
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 188. Sher
+!!!Genre:	Sher
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!:	*g:dor
+!!!One_Mode:	no
+**kern
+*I"P1
+*clefG2
+*k[b-e-]
+*g:dor
+*>B
+=9!|:
+!LO:TX:a:i:t=G-raised-fourth
+8aL
+8b-J
+8cc#X
+(8qeen/
+8ddJ)
+=10
+12ddL
+12cc#X
+12b-J
+4dd
+=11
+12ddL
+12cc#X
+12b-J
+12b-L
+12a
+12gJ
+*>B1
+=12
+12aL
+12b-
+12cc#XJ
+12b-L
+12a
+12gJ
+*>B2
+=13:|!
+2g
+=14||
+*>C
+*k[b-]
+8een
+4ff
+8ee
+=15
+12ffL
+12ee
+12ddJ
+4dd
+=16
+8cc#X
+(8qee/
+4dd)
+8cc#
+=17
+12ddL
+12cc#X
+12b-J
+4b-
+=18
+8ee
+4ff
+8ee
+=19
+12ffL
+12ee
+12ddJ
+4dd
+=20
+8ddL
+8dd
+8ee
+8ff#XJ
+=21
+2gg
+=22
+8ee
+4ffn
+8ee
+=23
+12ffL
+12ee
+12ddJ
+4dd
+=24
+8cc#X
+4dd
+8cc#
+=25
+12ddL
+12cc#X
+12b-J
+4b-
+=26
+8aL
+8b-
+8cc#X
+8ddJ
+=27
+12ddL
+12cc#X
+12b-J
+4dd
+=28
+12ddL
+12cc#X
+12b-J
+12b-L
+12a
+12gJ
+=29
+2g
+!!!End-Modulation
+==
+*-
+!!!OTL: 189. Sher
+!!!Genre:	Sher
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!:	*g:
+!!!One_Mode:	no
+**kern
+*I"P1
+!!pagebreak:original
+*clefG2
+*k[b-e-]
+!!!Begin-Modulation
+*-
+!!!OTL: 190. Sher
+!!!Genre:	Sher
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!:	*g:dor
+!!!One_Mode:	no
+**kern
+*I"P1
+*clefG2
+*k[b-e-]
+*g:dor
+!LO:TX:a:i:t=G-raised-fourth
+2dd
+=16
+8cc#XL
+8dd
+8ee
+8ffJ
+=17
+8eeL
+8dd
+8cc#X
+8b-J
+=18
+4dd
+(8qcc#X/
+4dd)
+=19
+(8qcc#X/
+4dd)
+(8qcc#X/
+4dd)
+=20
+8cc#XL
+8dd
+8ee
+8ffJ
+=21
+8eeL
+8dd
+8cc#X
+8b-J
+=22
+4dd
+(8qcc#X/
+4dd)
+=23
+(8qcc#X/
+4dd)
+(8qcc#X/
+4dd)
+=24
+8cc#XL
+8dd
+8ee
+8ffJ
+=25
+8eeL
+8dd
+8cc#X
+8b-J
+=26
+8aL
+8b-
+8cc#X
+8ddJ
+=27
+8cc#XL
+8b-
+8a
+8gJ
+=28
+4b-
+8aL
+8gJ
+=29
+4a
+8gL
+8f#XJ
+=30
+[2g
+!LO:TX:b:Bi:t=Da Capo al Fine
+=31
+4g]
+8r
+!!!End-Modulation
+==
+*-
+!!!OTL: 191. Sher
+!!!Genre:	Sher
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!:	*B-:
+!!!One_Mode:	no
+**kern
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 192. Sher
+!!!Genre:	Sher
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	no
+**kern
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 193. Sher
+!!!Genre:	Sher
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	no
+**kern
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 194. Sher
+!!!Genre:	Sher
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	no
+**kern
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 195. Sher
+!!!Genre:	Sher
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	no
+**kern
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 196. Sher
+!!!Genre:	Sher
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**kern
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 197. Sher
+!!!Genre:	Sher
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**kern
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 198. Sher
+!!!Genre:	Sher
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**kern
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 199. Sher
+!!!Genre:	Sher
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!:	*B-:
+!!!One_Mode:	no
+**kern
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 200. Sher
+!!!Genre:	Sher
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**kern
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 201. Sher
+!!!Genre:	Sher
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	no
+**kern
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 202. Sher
+!!!Genre:	Sher
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**kern
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 203. Sher
+!!!Genre:	Sher
+!!!Mode:	Major (Mixolydian)
+!!!Listening/dance:	dance
+!!!:	*g:dor
+!!!One_Mode:	no
+**kern
+*I"P1
+*clefG2
+*k[f#]
+*g:dor
+!LO:TX:a:i:t=G-raised-fourth
+2dd
+=42
+2dd
+=43
+(8qff/
+4dd)
+4dd
+=44
+4dd
+4dd
+=45!|:
+4cc#
+4dd
+=46
+4a
+4b-
+=47
+4cc#X
+4dd
+=48
+4.g
+24b-LL
+24ccn
+24b-JJ
+=49
+8aL
+8b-
+8cc#X
+8b-J
+*>E1
+=50
+16cc#XLL
+16cc#J
+8b-J
+8aL
+8gJ
+=51
+*^
+4g	(16gLL
+.	16f#XJ
+.	8gJ)
+4b-	(16b-LL
+.	16aJ
+.	8b-J)
+=52	=52
+4dd	(16ddLL
+.	16cc#XJ
+.	8ddJ)
+4gg	4gg
+*v	*v
+*>E2
+=53:|!
+8cc#XL
+8b-
+8a
+8b-J
+=54
+[2g
+!LO:TX:b:Bi:t=Dal Segno al Fine
+=55
+4g]
+4r
+!!!End-Modulation
+==
+*-
+!!!OTL: 204. Sher
+!!!Genre:	Sher
+!!!Mode:	Major
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**kern
+*I"P1
+*clefG2
+*k[f#]
+*-
+!!!OTL: 205. Sher
+!!!Genre:	Sher
+!!!Mode:	Major
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**kern
+*I"P1
+*clefG2
+*k[f#]
+*-
+!!!OTL: 206. Plyeskun
+!!!Genre:	Plyeskun
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**kern
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 207. Plyeskun
+!!!Genre:	Plyeskun
+!!!Mode:	Altered Dorian
+!!!Listening/dance:	dance
+!!!:	*g:
+!!!One_Mode:	no
+**kern
+*staff1
+*I"P1
+=1-
+*clefG2
+*k[b-]
+*g:dor
+*M2/4
+*>[A,A1,A,A2,B,B,C,C1,C,C2]
+*>A
+!LO:TX:a:i:t=G-raised-fourth
+8.b-\L
+16dd\Jk
+(16dd\LL
+16cc#\)
+(16cc#\
+16b-\JJ)
+=2
+(16dd\LL
+16cc#\)
+(16cc#\
+16b-\JJ)
+(16b-/LL
+16a/)
+(16a/
+16g/JJ)
+=3
+(8.b-\L
+16dd\Jk)
+(16dd\LL
+16cc#\)
+(16cc#\
+16b-\JJ)
+*>A1
+=4
+(16b-/LL
+16a/)
+(16a/
+16g/JJ)
+8.b-/L
+16g/Jk
+*>A2
+=5:|!
+(16b-/LL
+16a/)
+(16a/
+16g/JJ)
+4g/
+=6|=|!|:
+*>B
+*k[b-e-]
+!!!Begin-Modulation
+*g:dor
+*k[b-e]
+=12:|!|:
+*>C
+!LO:TX:a:i:t=G-raised-fourth
+4b-\
+16cc#\LL
+16dd\
+16cc#\
+16b-\JJ
+=13
+16cc#\LL
+16dd\
+16cc#\
+16b-\JJ
+(16b-/LL
+16a/)
+(16a/
+16g/JJ)
+=14
+4b-\
+16cc#\LL
+16dd\
+16cc#\
+16b-\JJ
+*>C1
+=15
+(16b-/LL
+16a/)
+(16a/
+16g/JJ)
+(8b-/L
+8g/J)
+*>C2
+=16:|!
+!LO:TX:b:Bi:t=Dal Segno al Fine
+(16b-/LL
+16a/)
+(16a/
+16g/JJ)
+4g/
+=17||
+*-
+!!!OTL: 208. Plyeskun
+!!!Genre:	Plyeskun
+!!!Mode:	Freygish
+!!!Listening/dance:	dance
+!!!:	*B-:
+!!!One_Mode:	no
+**kern
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 209. Plyeskun
+!!!Genre:	Plyeskun
+!!!Mode:	Major
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**kern
+*I"P1
+*clefG2
+*k[f#]
+*-
+!!!OTL: 210. Plyeskun
+!!!Genre:	Plyeskun
+!!!Mode:	Major (Mixolydian)
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**kern
+*I"P1
+*clefG2
+*k[f#]
+*-
+!!!OTL: 211. Beygele
+!!!Genre:	Beygele
+!!!Mode:	Freygish
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**kern
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 212. Beygele
+!!!Genre:	Beygele
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**kern
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 213. Bolgarish
+!!!Genre:	Bolgarish
+!!!Mode:	Freygish
+!!!Listening/dance:	dance
+!!!:	*C:
+!!!One_Mode:	no
+**kern
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 214. Bolgarish
+!!!Genre:	Bolgarish
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**kern
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 215. Bolgarish
+!!!Genre:	Bolgarish
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!:	*B-:
+!!!One_Mode:	no
+**kern
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 216. Bulgar
+!!!Genre:	Bulgar
+!!!Mode:	Major
+!!!Listening/dance:	dance
+!!!:	*g:dor
+!!!One_Mode:	no
+**kern
+*I"P1
+*clefG2
+*k[f#]
+*g:dor
+!LO:TX:a:i:t=G-raised-fourth
+8ddL
+8eeJ
+4ff
+=10
+4ee
+4dd
+=11
+8cc#XL
+8ddJ
+4ee
+=12
+4dd
+4cc#X
+=13
+8cc#XL
+8b-
+8a
+8gJ
+!!!Begin-Modulation1
+*>B1
+=14
+8cc#XL
+8b-
+8a
+8gJ
+=15
+2dd
+=16
+2gg
+*>B2
+!!!Begin-Modulation2
+=17:|!
+8cc#L
+8b-
+8a
+8b-J
+=18
+2g
+=19
+2gg
+!!!End-Modulation
+==
+*-
+!!!OTL: 217. Bulgar
+!!!Genre:	Bulgar
+!!!Mode:	Major
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**kern
+*I"P1
+*clefG2
+*k[f#]
+*-
 !!!OTL: 218. Khosid
 !!!Genre:	Khosid
 !!!Mode:	Minor
 !!!Listening/dance:	dance
 !!!One_Mode:	yes
 **kern
-*thru
 *I"P1
 *clefG2
 *k[b-e-]
+*-
+!!!OTL: 219. Khosid
+!!!Genre:	Khosid
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**kern
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 220. Khosidl
+!!!Genre:	Khosidl
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!:	*B-:
+!!!One_Mode:	no
+**kern
+*I"P1
+*clefG2
+*k[b-e-]
+!!!Begin-Modulation
+*-
+!!!OTL: 221. Khosid
+!!!Genre:	Khosid
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	no
+**kern
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 222. Khosid
+!!!Genre:	Khosid
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**kern
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 223. Khosid
+!!!Genre:	Khosid
+!!!Mode:	Major
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**kern
+*I"P1
+*clefG2
+*k[f#]
+*-
+!!!OTL: 224. Khosid
+!!!Genre:	Khosid
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	no
+**kern
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 225. Shtok
+!!!Genre:	Shtok
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	no
+**kern
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 226. Shtok
+!!!Genre:	Shtok
+!!!Mode:	Major
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**kern
+*I"P1
+*clefG2
+*k[f#]
+*-
+!!!OTL: 227. Ange
+!!!Genre:	Ange
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!:	*G:frey
+!!!One_Mode:	no
+**kern
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 228. Ange
+!!!Genre:	Ange
+!!!Mode:	Major
+!!!Listening/dance:	dance
+!!!One_Mode:	no
+**kern
+*I"P1
+*clefG2
+*k[f#]
+*-
+!!!OTL: 229. Ot azoy
+!!!Genre:	Ot azoy
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!:	*G:frey
+!!!One_Mode:	no
+**kern
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 230. Lomir zikh iberbetn
+!!!Genre:	Lomir zikh iberbetn
+!!!Mode:	Freygish
+!!!Listening/dance:	dance
+!!!One_Mode:	no
+**kern
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 231. Broyges-tants
+!!!Genre:	Broyges-tants
+!!!Mode:	Freygish
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**kern
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 232. Alter yidisher tants
+!!!Genre:	Alter yidisher tants
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**kern
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 233. Shuster
+!!!Genre:	Shuster
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**kern
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 234. Shuster
+!!!Genre:	Shuster
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**kern
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 235. Kozatshke
+!!!Genre:	Kozatshke
+!!!Mode:	Major
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**kern
+*I"P1
+*clefG2
+*k[f#]
+*-
+!!!OTL: 236. Kozatshke
+!!!Genre:	Kozatshke
+!!!Mode:	Major
+!!!Listening/dance:	dance
+!!!:	*e:
+!!!One_Mode:	no
+**kern
+*I"P1
+*clefG2
+*k[f#]
+*-
+!!!OTL: 237. Kozatshke
+!!!Genre:	Kozatshke
+!!!Mode:	Major
+!!!Listening/dance:	dance
+!!!:	*e:
+!!!One_Mode:	no
+**kern
+*I"P1
+*clefG2
+*k[f#]
+*-
+!!!OTL: 238. Kozatshke
+!!!Genre:	Kozatshke
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!:	*B-:
+!!!One_Mode:	no
+**kern
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 239. Kozatshke (yidishe)
+!!!Genre:	Kozatshke (yidishe)
+!!!Mode:	Major
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**kern
+*I"P1
+*clefG2
+*k[f#]
+*-
+!!!OTL: 240. Bitshok
+!!!Genre:	Bitshok
+!!!Mode:	Major
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**kern
+*I"P1
+*clefG2
+*k[f#]
+*-
+!!!OTL: 241. Zhok
+!!!Genre:	Zhok
+!!!Mode:	Freygish
+!!!Listening/dance:	dance
+!!!:	*F:
+!!!One_Mode:	no
+**kern
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 242. Zhok
+!!!Genre:	Zhok
+!!!Mode:	Freygish
+!!!Listening/dance:	dance
+!!!One_Mode:	no
+**kern
+*I"P1
+*clefG2
+*k[b-e-a-]
+*-
+!!!OTL: 243. Zhok
+!!!Genre:	Zhok
+!!!Mode:	Altered Dorian
+!!!Listening/dance:	dance
+!!!:	*B-:; *G:frey
+!!!One_Mode:	no
+**kern
+*I"P1
+*clefG2
+*k[b-]
+*g:dor
+*M3/4
+*>[A,B,C,C1,C,C2]
+*>A
+=1
+!LO:TX:a:i:t=G-raised-fourth
+4d
+4g
+8b-L
+8ddJ
+=2
+4cc#X
+4dd
+8b-L
+8ddJ
+=3
+4cc#X
+4dd
+8b-L
+8ddJ
+=4
+4cc#X
+4dd
+12b-L
+12a
+12gJ
+=5
+4ff
+4ee
+4dd
+=6
+4cc#X
+4b-
+4cc#
+=7
+2dd
+4gg
+=8
+2.gg
+=9||
+4d
+4g
+8b-L
+8ddJ
+=10
+4cc#X
+4dd
+8b-L
+8ddJ
+=11
+4cc#X
+4dd
+8b-L
+8ddJ
+=12
+4cc#X
+4dd
+12b-L
+12a
+12gJ
+=13
+4a
+4b-
+4a
+=14
+4a
+4g
+4f#X
+=15
+2.g
+=16
+4g
+4r
+4r
+=17||
+*>B
+*k[b-e-]
+!!!Begin-Modulation
+*-
+!!!OTL: 244. Zhok
+!!!Genre:	Zhok
+!!!Mode:	Altered Dorian
+!!!Listening/dance:	dance
+!!!One_Mode:	no
+**kern
+*I"P1
+*clefG2
+*k[b-]
+*g:dor
+*M3/8
+*>[A,A1,A,A2,B,C]
+*>A
+=1
+!LO:TX:a:i:t=G-raised-fourth
+4g
+16dLL
+16gJJ
+=2
+4b-
+16gLL
+16b-JJ
+=3
+4dd
+8dd
+=4
+8cc#XL
+8b-J
+(16aLL
+16gJJ)
+=5
+4dd
+8dd
+*>A1
+=6
+8cc#XL
+8b-J
+16aLL
+16gJJ
+=7
+(16.cc#XLL
+32eeJJk)
+4dd
+=8
+4.gg
+*>A2
+=9:|!
+8cc#XL
+8b-J
+16aLL
+(8qcc#/
+16b-JJ)
+=10
+8gL
+8g
+8gJ
+=11
+!LO:TX:b:Bi:t=Fine
+4g
+8r
+==12
+*>B
+8ffL
+8ff
+8ffJ
+=13
+4ee
+8dd
+=14
+8cc#XL
+8ddJ
+24ffLL
+24ee
+24ddJJ
+=15
+8cc#XL
+8b-J
+16aLL
+16gJJ
+=16
+8ffL
+8ff
+8ffJ
+=17
+4ee
+8dd
+=18
+[4.gg
+=19
+8gg]
+8r
+8r
+=20
+8.ggL
+16aaJk
+16ffLL
+16ggJJ
+=21
+8.eeL
+16ffJk
+16ddLL
+16eeJJ
+=22
+8cc#XL
+8ddJ
+24ffLL
+24ee
+24ddJJ
+=23
+8cc#XL
+8b-J
+16aLL
+16gJJ
+=24
+4dd
+8dd
+=25
+8cc#XL
+8b-J
+16aLL
+(8qcc#/
+16b-JJ)
+=26
+4.g
+=27
+8g
+8r
+8r
+=28
+*>C
+8.ggL
+16ddJk
+16ggLL
+16ddJJ
+=29
+8.ggL
+16ddJk
+16ggLL
+16ddJJ
+=30
+8ggL
+8ffJ
+16ee
+(8qgg/
+16ffJJ)
+=31
+4dd
+8r
+!!!Begin-Modulation
+*g:dor
+!LO:TX:a:i:t=G-raised-fourth
+=36
+8.ggL
+16ddJk
+24bb-LL
+24aa
+24ggJJ
+=37
+8ggL
+8ffJ
+16ee
+(8qgg/
+16ffJJ)
+=38
+4dd
+8r
+=39
+8cc#XL
+8ddJ
+24ffLL
+24ee
+24ddJJ
+=40
+8cc#XL
+8b-J
+16aLL
+!LO:TX:b:Bi:t=Da Capo al Fine
+(8qcc#/
+16b-JJ)
+=41
+4g
+8r
+==
+*-
+!!!OTL: 245. Zhok
+!!!Genre:	Zhok
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	no
+**kern
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 246. Zhok
+!!!Genre:	Zhok
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!:	*B-:
+!!!One_Mode:	no
+**kern
+*I"P1
+*clefG2
+*k[b-e-]
+!!!Begin-Modulation
+*-
+!!!OTL: 247. Olandre (lyondre)
+!!!Genre:	Olandre (lyondre)
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!:	*g:dor
+!!!One_Mode:	no
+**kern
+*I"P1
+*clefG2
+*k[b-e-]
+*g:dor
+=9:|!
+*>C
+!LO:TX:a:i:t=G-raised-fourth
+2.dd
+=10
+2.dd
+=11
+8ffL
+8een
+8dd
+8cc#X
+8b-
+8aJ
+=12
+8ffL
+8een
+8dd
+8cc#X
+8b-
+8aJ
+=13
+8ffL
+8een
+8ff
+8ee
+8ff
+8eeJ
+=14
+!LO:TX:b:Bi:t=Dal Segno al Fine
+8ffL
+8een
+8dd
+8cc#X
+8b-
+8aJ
+!!!End-Modulation
+==
+*-
+!!!OTL: 248. Olandre (lyondre)
+!!!Genre:	Olandre (lyondre)
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!:	*B-:
+!!!One_Mode:	no
+**kern
+*I"P1
+*clefG2
+*k[b-e-]
+!!!Begin-Modulation
+*-
+!!!OTL: 249. Olandre (lyondre)
+!!!Genre:	Olandre (lyondre)
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!:	*B-:
+!!!One_Mode:	no
+**kern
+*I"P1
+*clefG2
+*k[b-e-]
+!!!Begin-Modulation
+*-
+!!!OTL: 250. Olandre (lyondre)
+!!!Genre:	Olandre (lyondre)
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	no
+**kern
+*I"P1
+*clefG2
+*k[b-e-]
+*-
+!!!OTL: 251. Volekh
+!!!Genre:	Volekh
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!:	*g:dor
+!!!One_Mode:	no
+**kern
+*I"P1
+*clefG2
+*k[b-e-]
+*g:dor
+=5:|!|:
+*>B
+!LO:TX:a:i:t=G-raised-fourth
+4.dd
+8cc#X
+12ddL
+12cc#
+12b-J
+=6
+8ddL
+8cc#X
+8b-
+8aJ
+4b-
+=7
+8cc#XL
+8dd
+8een
+8ffJ
+12ddL
+12cc#
+12b-J
+=8
+8ddL
+8cc#X
+8b-
+8aJ
+4g
+=:|!
+!!!End-Modulation
+*-
+!!!OTL: 252. Volekh
+!!!Genre:	Volekh
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!:	*g:dor; *G:
+!!!One_Mode:	no
+**kern
+*I"P1
+*clefG2
+*k[b-e-]
+*g:dor
+!LO:TX:a:i:t=G-raised-fourth
+=21
+4ff
+4een
+4dd
+=22
+4cc#X
+4a
+8cc#L
+8eenJ
+=23
+2.dd
+=24
+2.dd
+=25
+4dd
+4cc#X
+4b-
+=26
+4a
+4g
+8b-L
+8aJ
+=27
+4.g
+8dL
+8b-
+8aJ
+*>B1
+!!!Begin-Modulation1
+=28
+2g
+4d
+*>B2
+!!!Begin-Modulation2
+=29:|!
+2.g
+=30!|:
+*>C
+(8aL
+8b-)
+(8cc#X
+8dd)
+(8cc#
+8ddJ)
+=31
+2cc#X
+8b-L
+8aJ
+=32
+4.g
+8dL
+8b-
+8aJ
+=33
+2.g
+=34
+(8aL
+8b-)
+(8cc#X
+8dd)
+(8cc#
+8ddJ)
+=35
+2cc#X
+8b-L
+8aJ
+=36
+4.g
+8dL
+8b-
+8aJ
+=37
+2.g
+=38
+4b-
+4a
+4g
+=39
+4a
+4b-
+4cc#X
+=40
+2.dd
+=41
+2.g
+=42
+4b-
+4a
+4g
+=43
+4.f#X
+8dL
+8dd
+8f#J
+=44
+4.g
+8dL
+8b-
+8aJ
+=45
+2.g
+!!!End-Modulation
+!!!Begin-Modulation
+*-
+!!!OTL: 253. Volekh
+!!!Genre:	Volekh
+!!!Mode:	Major
+!!!Listening/dance:	dance
+!!!:	*g:dor
+!!!One_Mode:	no
+**kern
+*I"P1
+*clefG2
+*k[f#]
+*g:dor
+=18:|!|:
+*>C
+!LO:TX:a:i:t=G-raised-fourth
+8ddL
+8cc#X
+(8qee/
+8dd)
+8cc#J
+12ddL
+12cc#
+12b-XJ
+=19
+8cc#XL
+8dd
+8ee
+(8qgg/
+8ffnJ)
+4dd
+=20
+8ddL
+8cc#X
+8dd
+8cc#J
+12ddL
+12cc#
+12b-XJ
+=21
+8ddL
+8cc#X
+8b-X
+8aJ
+4g
+=22
+8ddL
+8cc#X
+8dd
+8cc#J
+(8qee/
+12ddL)
+12cc#
+12b-XJ
+=23
+8cc#XL
+8dd
+8eeJ
+(8qgg/
+8ffnJ)
+4dd
+=24
+(8qcc#X/
+2.dd)
+=25
+!LO:TX:b:Bi:t=Da Capo al Fine
+(8qff#/
+2.gg)
+!!!End-Modulation
+=:|!
+*-
+!!!OTL: 254. Volekh
+!!!Genre:	Volekh
+!!!Mode:	Altered Dorian
+!!!Listening/dance:	dance
+!!!One_Mode:	yes
+**kern
+*I"P1
+*clefG2
+*k[b-]
+*g:dor
+*M3/8
+*>[A,A,B,B,C,C]
+*>A
+=1
+(16cc#LL
+16dd)
+16dd'
+16dd'
+16dd'
+16dd'JJ
+=2
+(16cc#LL
+16ddJ
+8cc#J)
+24b-LL
+24a
+24b-JJ
+=3
+16cc#LL
+(16ee
+16dd)
+(16cc#
+16b-)
+(16aJJ
+=4
+16gLL)
+(16a
+16b-)
+16cc#J
+8ddJ
+=5
+(16cc#XLL
+16dd)
+16dd'
+16dd'
+16dd'
+16dd'JJ
+=6
+(16cc#XLL
+16ddJ
+8cc#J)
+24b-LL
+24a
+24b-JJ
+=7
+16cc#XLL
+(16ee
+16dd)
+(16cc#
+16b-)
+(16aJJ
+=8
+4g)
+8r
+=9:|!|:
+*>B
+16dLL
+16g
+16d
+16gJJ
+24b-LL
+24a
+24gJJ
+=10
+16gLL
+16b-
+16a
+16b-JJ
+24ddLL
+24cc#X
+24b-JJ
+=11
+16cc#LL
+(16ee
+16dd)
+(16cc#X
+16b-)
+(16aJJ
+=12
+16gLL)
+(16a
+16b-)
+(16cc#XJ
+8ddJ)
+=13
+16dLL
+16g
+16d
+16gJJ
+24b-LL
+24a
+24gJJ
+=14
+16gLL
+16b-
+16a
+16b-JJ
+24ddLL
+24cc#X
+24b-JJ
+=15
+16cc#XLL
+(16ee
+16dd)
+(16cc#
+16b-)
+(16aJJ
+=16
+4g)
+8r
+=17:|!|:
+*>C
+8ddL
+16eeL
+16ff
+16gg
+16ddJJ
+=18
+8ggL
+16ffL
+16eeJ
+8ddJ
+=19
+16cc#LL
+(16ee
+16dd)
+(16cc#X
+16b-)
+(16aJJ
+=20
+16gLL)
+(16a
+16b-)
+(16cc#XJ
+8ddJ)
+=21
+8ddL
+16eeL
+16ff
+16gg
+16ddJJ
+=22
+8ggL
+16ffL
+16eeJ
+8ddJ
+=23
+16cc#LL
+(16ee
+16dd)
+(16cc#X
+16b-)
+(16aJJ
+=24
+4g)
+8r
+=:|!
 *-

@@ -75,6 +75,62 @@
 4r
 =9||
 !!!Begin-Modulation
+!! *G:
+!! *>B
+!! !LO:TX:a:i:t=G-major
+!! 8bnL
+!! 16bL
+!! 16gJJ
+!! 16bLL
+!! 16ccn
+!! 16dd
+!! 16ccJJ
+!! =10
+!! 8bnL
+!! 16bL
+!! 16gJJ
+!! 16bLL
+!! 16ccn
+!! 16dd
+!! 16ccJJ
+!! =11
+!! 16bnLL
+!! 16ccn
+!! 16dd
+!! 16eeJJ
+!! 16ffLL
+!! 16ee
+!! 16dd
+!! 16cc#XJJ
+!! =12
+!! 2dd
+!! =13
+!! 16bnLL
+!! 16g
+!! 16b
+!! 16gJJ
+!! 16bLL
+!! 16g
+!! 16b
+!! 16gJJ
+!! =14
+!! 16ffLL
+!! 16ee
+!! 16dd
+!! 16cc#XJJ
+!! 4dd
+!! =15
+!! 16bnLL
+!! 16ccn
+!! 16dd
+!! 16eeJJ
+!! 16ffLL
+!! 16ee
+!! 16dd
+!! 16cc#XJJ
+!! =16
+!! 2dd
+!! !!!End-Modulation
 *g:dor
 !LO:TX:a:i:t=G-raised-fourth
 =17

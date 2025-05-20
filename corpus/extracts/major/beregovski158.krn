@@ -100,4 +100,55 @@
 !LO:TX:b:Bi:t=Fine
 4g
 !!!Begin-Modulation
+!! *C:
+!! =17||
+!! *>C
+!! !LO:TX:a:i:t=C-major
+!! 2gg
+!! =18
+!! 8qff#/
+!! 2gg
+!! =19
+!! (8qff#/
+!! 4gg)
+!! ((8qff#/
+!! 4gg))
+!! =20
+!! (8qff#/
+!! 4gg)
+!! (8qff#/
+!! 4gg)
+!! =21
+!! 16ggLL
+!! 16ffn
+!! 16ee
+!! 16ddJJ
+!! 8eeL
+!! 8ccJ
+!! =22
+!! 16ggLL
+!! 16ffn
+!! 16ee
+!! 16ddJJ
+!! 8eeL
+!! 8ccJ
+!! =23
+!! 16ggLL
+!! 16ffn
+!! 16ee
+!! 16ddJJ
+!! 16eeLL
+!! 16ff
+!! 16gg
+!! 16aaJJ
+!! =24
+!! 16ggLL
+!! 16ffn
+!! !LO:TX:b:Bi:t=Dal Segno al Fine
+!! 16ee
+!! 16ddJJ
+!! 8eeL
+!! 8ccJ
+!! !!!End-Modulation
+!! ==
 *-

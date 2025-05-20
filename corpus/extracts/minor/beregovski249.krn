@@ -10,6 +10,59 @@
 *clefG2
 *k[b-e-]
 !!!Begin-Modulation
+!! *B-:
+!! *M3/4
+!! *>A
+!! !LO:TX:a:i:t=Bb-major
+!! 4f
+!! =1
+!! 4b-
+!! 4dd
+!! 12ee-L
+!! 12dd
+!! 12ccJ
+!! =2
+!! 4b-
+!! 4dd
+!! 12fL
+!! 12g
+!! 12aJ
+!! =3
+!! 4b-
+!! 4dd
+!! 12ddL
+!! 12ee-
+!! 12ccJ
+!! =4
+!! 4b-
+!! 4bb-
+!! 12fL
+!! 12g
+!! 12aJ
+!! =5
+!! 4b-
+!! 4dd
+!! 12ee-L
+!! 12dd
+!! 12ccJ
+!! =6
+!! 4b-
+!! 4ff
+!! 12fL
+!! 12g
+!! 12aJ
+!! =7
+!! 4b-
+!! 4dd
+!! 12ee-L
+!! 12dd
+!! 12ccJ
+!! =
+!! 4b-
+!! 4r
+!! =8||
+!! *>B
+!! !!!End-Modulation
 *g:
 !LO:TX:a:i:t=G-minor
 4dd

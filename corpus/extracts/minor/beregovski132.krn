@@ -12,6 +12,63 @@
 *M2/4
 *>A
 !!!Begin-Modulation
+!! *B-:
+!! =1
+!! !LO:TX:a:i:t=Bb-major
+!! 8ddL
+!! 8ff
+!! 8ee-T
+!! 8ddJ
+!! =2
+!! 8ddL
+!! 8ff
+!! 8ee-T
+!! 8ddJ
+!! =3
+!! 8ddL
+!! 8ff
+!! 8ee-T
+!! 8ddJ
+!! =4
+!! 8ddL
+!! 16ee-L
+!! 16ddJJ
+!! 8ccL
+!! 8b-J
+!! =5
+!! 4dd
+!! 4ee-
+!! =6
+!! 4ff
+!! 16gg-XLL
+!! 16ffJ
+!! 8eenJ
+!! =7
+!! 2ff
+!! =8
+!! 2bb-
+!! =9
+!! 8ddL
+!! 8ff
+!! 8ee-T
+!! 8ddJ
+!! =10
+!! 8ddL
+!! 8ff
+!! 8ee-T
+!! 8ddJ
+!! =11
+!! 8ddL
+!! 8ff
+!! 8ee-
+!! 8ddJ
+!! =12
+!! 8ddL
+!! 16ee-L
+!! 16ddJJ
+!! 8ccL
+!! 8b-J
+!! !!!End-Modulation
 *g:
 !LO:TX:a:i:t=G-minor
 =13
@@ -34,6 +91,63 @@
 =17:|!|:
 *>A
 !!!Begin-Modulation
+!! *B-:
+!! =1
+!! !LO:TX:a:i:t=Bb-major
+!! 8ddL
+!! 8ff
+!! 8ee-T
+!! 8ddJ
+!! =2
+!! 8ddL
+!! 8ff
+!! 8ee-T
+!! 8ddJ
+!! =3
+!! 8ddL
+!! 8ff
+!! 8ee-T
+!! 8ddJ
+!! =4
+!! 8ddL
+!! 16ee-L
+!! 16ddJJ
+!! 8ccL
+!! 8b-J
+!! =5
+!! 4dd
+!! 4ee-
+!! =6
+!! 4ff
+!! 16gg-XLL
+!! 16ffJ
+!! 8eenJ
+!! =7
+!! 2ff
+!! =8
+!! 2bb-
+!! =9
+!! 8ddL
+!! 8ff
+!! 8ee-T
+!! 8ddJ
+!! =10
+!! 8ddL
+!! 8ff
+!! 8ee-T
+!! 8ddJ
+!! =11
+!! 8ddL
+!! 8ff
+!! 8ee-
+!! 8ddJ
+!! =12
+!! 8ddL
+!! 16ee-L
+!! 16ddJJ
+!! 8ccL
+!! 8b-J
+!! !!!End-Modulation
 *g:
 !LO:TX:a:i:t=G-minor
 =13

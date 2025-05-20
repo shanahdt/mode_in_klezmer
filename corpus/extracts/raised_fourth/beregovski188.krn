@@ -9,6 +9,59 @@
 *I"P1
 *clefG2
 *k[b-e-]
+!! *g:
+!! *M2/4
+!! *>A
+!! =1
+!! !LO:TX:a:i:t=G-minor
+!! 8f#XL
+!! (8qa/
+!! 8gJ)
+!! 8dL
+!! 8gJ
+!! =2
+!! 8dL
+!! 8gJ
+!! 12b-L
+!! 12a
+!! 12gJ
+!! =3
+!! 16f#XLL
+!! 16aJ
+!! 8gJ
+!! 8dL
+!! 8gJ
+!! =4
+!! 8dL
+!! 8gJ
+!! 12b-L
+!! 12a
+!! 12gJ
+!! =5
+!! 8a
+!! (8qcc/
+!! 8b-J)
+!! 8fL
+!! 8b-J
+!! =6
+!! 8fL
+!! 8b-J
+!! 12ddL
+!! 12cc
+!! 12b-J
+!! =7
+!! 8aL
+!! (8qcc/
+!! 8b-J)
+!! 8fL
+!! 8b-J
+!! =8
+!! 8fL
+!! 8b-J
+!! 12ddL
+!! 12cc
+!! 12b-J
+!! !!!Begin-Modulation
 *g:dor
 *>B
 =9!|:
@@ -35,6 +88,26 @@
 12aL
 12b-
 12cc#XJ
+12b-L
+12a
+12gJ
+*>B
+=9!|:
+!LO:TX:a:i:t=G-raised-fourth
+8aL
+8b-J
+8cc#X
+(8qeen/
+8ddJ)
+=10
+12ddL
+12cc#X
+12b-J
+4dd
+=11
+12ddL
+12cc#X
+12b-J
 12b-L
 12a
 12gJ

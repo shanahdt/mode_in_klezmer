@@ -207,6 +207,39 @@
 4.gg
 8gg
 !!!Begin-Modulation
+!! *B-:
+!! !LO:TX:a:i:t=Bb-major
+!! =17
+!! 16ffnLL
+!! 16ggJ
+!! 8aa-XJ
+!! (8qaa-/
+!! 16ggLL)
+!! 16ffJ
+!! 8ee-J
+!! =18
+!! (8qee-/
+!! 8ddL)
+!! (8qcc#X/
+!! 8ddJ)
+!! 8fL
+!! 8b-J
+!! =19
+!! 16ffLL
+!! 16ggJ
+!! 8aa-XJ
+!! (8qaa-/
+!! 16ggLL)
+!! 16ffJ
+!! 8ee-J
+!! =20
+!! (8qee-/
+!! 8ddL)
+!! (8qcc#X/
+!! 8ddJ)
+!! 8fL
+!! 8b-J
+!! !!!End-Modulation
 *g:
 !LO:TX:a:i:t=G-minor
 =21
@@ -264,6 +297,39 @@
 4.gg
 8gg
 !!!Begin-Modulation
+!! *B-:
+!! !LO:TX:a:i:t=Bb-major
+!! =17
+!! 16ffnLL
+!! 16ggJ
+!! 8aa-XJ
+!! (8qaa-/
+!! 16ggLL)
+!! 16ffJ
+!! 8ee-J
+!! =18
+!! (8qee-/
+!! 8ddL)
+!! (8qcc#X/
+!! 8ddJ)
+!! 8fL
+!! 8b-J
+!! =19
+!! 16ffLL
+!! 16ggJ
+!! 8aa-XJ
+!! (8qaa-/
+!! 16ggLL)
+!! 16ffJ
+!! 8ee-J
+!! =20
+!! (8qee-/
+!! 8ddL)
+!! (8qcc#X/
+!! 8ddJ)
+!! 8fL
+!! 8b-J
+!! !!!End-Modulation
 *g:
 !LO:TX:a:i:t=G-minor
 =21

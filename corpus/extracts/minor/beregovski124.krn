@@ -117,6 +117,120 @@
 =20
 2g
 !!!Begin-Modulation
+!! *c:
+!! =21||
+!! *>B
+!! !LO:TX:a:i:t=C-minor
+!! 4gg
+!! 4dd
+!! =22
+!! 8ee-
+!! 4dd
+!! 8dd
+!! =23
+!! 8ggL
+!! 8gg
+!! 8dd
+!! 8ddJ
+!! =24
+!! 8ee-
+!! 4dd
+!! 8dd
+!! =25
+!! 16ggLL
+!! 16gg
+!! 16gg
+!! 16ggJJ
+!! 16ffLL
+!! 16ff
+!! 16ff
+!! 16ffJJ
+!! =26
+!! 16ee-LL
+!! 16ee-
+!! 16ee-
+!! 16ee-JJ
+!! 16ddLL
+!! 16dd
+!! 16dd
+!! 16ddJJ
+!! =27
+!! 8ccL
+!! 8ccJ
+!! 16ee-LL
+!! 16ff
+!! 16ee-
+!! 16ddJJ
+!! =28
+!! 2cc
+!! !!!End-Modulation
+!! !!!Begin-Modulation
+!! *B-:
+!! !LO:TX:a:i:t=Bb-major
+!! =29
+!! 4ff
+!! 4cc
+!! =30
+!! 8dd
+!! 4cc
+!! 8cc
+!! =31
+!! 8ffL
+!! 8ff
+!! 8cc
+!! 8ccJ
+!! =32
+!! 8dd
+!! 4cc
+!! 8cc
+!! =33
+!! 16ffLL
+!! 16ff
+!! 16ff
+!! 16ffJJ
+!! 16ee-LL
+!! 16ee-
+!! 16ee-
+!! 16ee-JJ
+!! =34
+!! 16ddLL
+!! 16dd
+!! 16dd
+!! 16ddJJ
+!! 16ccLL
+!! 16cc
+!! 16cc
+!! 16ccJJ
+!! =35
+!! 8b-L
+!! 8b-J
+!! 16ccLL
+!! 16b-
+!! 16cc
+!! 16ddJJ
+!! =36
+!! 2b-
+!! =37!|:
+!! *>C
+!! 8.aL
+!! 16b-Jk
+!! 8ccL
+!! 8ccJ
+!! =38
+!! 8ccL
+!! 8cc
+!! 8cc
+!! 8ccJ
+!! =39
+!! 8b-L
+!! 8dd
+!! 8b-
+!! 8ddJ
+!! =40
+!! 8ccL
+!! 8ccJ
+!! 4cc
+!! !!!End-Modulation
 *g:
 !LO:TX:a:i:t=G-minor
 =41
@@ -140,25 +254,28 @@
 4f
 !!!End-Modulation2
 *>C
-8.aL
-16b-Jk
-8ccL
-8ccJ
-=38
-8ccL
-8cc
-8cc
-8ccJ
-=39
-8b-L
-8dd
-8b-
-8ddJ
-=40
-8ccL
-8ccJ
-4cc
-!!!End-Modulation
+!!!Begin-Modulation
+!! *B-:
+!! !LO:TX:a:i:t=Bb-major
+!! 8.aL
+!! 16b-Jk
+!! 8ccL
+!! 8ccJ
+!! =38
+!! 8ccL
+!! 8cc
+!! 8cc
+!! 8ccJ
+!! =39
+!! 8b-L
+!! 8dd
+!! 8b-
+!! 8ddJ
+!! =40
+!! 8ccL
+!! 8ccJ
+!! 4cc
+!! !!!End-Modulation
 *g:
 !LO:TX:a:i:t=G-minor
 =41

@@ -40,6 +40,25 @@
 4g
 8g
 !!!Begin-Modulation
+!! *B-:
+!! !LO:TX:a:i:t=Bb-major
+!! =5
+!! (8gL
+!! 8cc)
+!! 8cc'
+!! 8cc'J
+!! =6
+!! 8ccL
+!! 8b-
+!! 8dd
+!! 8ccJ
+!! =7
+!! 4b-
+!! 4f
+!! =8
+!! 4.b-
+!! 8f
+!! !!!End-Modulation
 *g:
 =9!|:
 *>B

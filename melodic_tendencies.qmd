@@ -36,11 +36,8 @@ bigram_table <- function(mode){
   data <- y |> dplyr::count(bigram) |>
     arrange(desc(n)) |> 
     mutate(percentage = signif(n / sum(n) * 100, digits=3)) 
-    write.csv(data, "data.csv")
 }
 ```
-
-
 
 
 
@@ -70,6 +67,7 @@ bigram_bar <- function(mode){
 }
 
 ```
+
 
 <!-- ```{r, echo=F, warnings=FALSE, message=FALSE} -->
 
@@ -162,3 +160,12 @@ bigram_table(minor)
 bigram_bar(minor)
 ```
 
+
+
+Freygish data can be found [here](freygish_transitions.csv).
+
+Minor data can be found [here](minor_transitions.csv).
+
+Major data can be found [here](major_transitions.csv).
+
+Raised Fourth data can be found [here](raised_fourth_transitions.csv).

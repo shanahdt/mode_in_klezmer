@@ -97,6 +97,60 @@
 4g
 4r
 !!!Begin-Modulation
+!! *g:
+!! !LO:TX:a:i:t=G-minor
+!! =17||
+!! *>B
+!! *k[b-e-]
+!! 16ff#XLL
+!! 16aaJ
+!! 8ggJ
+!! 8ggL
+!! 8ggJ
+!! =18
+!! 4gg
+!! 8r
+!! 8dd
+!! =19
+!! 16ddLL
+!! 16ggJ
+!! 8ggJ
+!! 8ggL
+!! 8ggJ
+!! =20
+!! 4.gg
+!! 8dd
+!! =21
+!! 4.bb-
+!! 16aaLL
+!! 16ggJJ
+!! =22
+!! 4bb-
+!! 8aaL
+!! 8ggJ
+!! =23
+!! 8.ff#XL
+!! 16ggJk
+!! 8aaL
+!! 8ggJ
+!! =24
+!! 8.ff#XtL
+!! 16ee-Jk
+!! [4dd
+!! =25
+!! 8ddL]
+!! 8ff#XJ
+!! 8aaL
+!! 8ff#J
+!! =26
+!! 8aaL
+!! 8bb-J
+!! 8ff#XL
+!! 8aaJ
+!! =27
+!! 4.gg
+!! 8dd
+!! !!!End-Modulation
 *g:dor
 !LO:TX:a:i:t=G-raised-fourth
 =28

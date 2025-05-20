@@ -1,15 +1,15 @@
-!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
-!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
-!! NLB identifier: NLB138114_01
-!! NLB record number: 138114
-!! NLB strophe/voice number: 1
+Published by the Meertens Institute (http://www.meertens.knaw.nl)
+Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+NLB identifier: NLB138114_01
+NLB record number: 138114
+NLB strophe/voice number: 1
 **kern
 *staff1
 *M3/4
 *MM120
 *k[]
 *C:
-!! verse 0
+verse 0
 =1
 {4cc
 4cc
@@ -36,7 +36,7 @@
 4cc
 =8
 2.cc;}
-!! verse 1
+verse 1
 =9
 {8cc
 8b
@@ -79,7 +79,7 @@
 =16
 2ee
 4g;}
-!! verse 2
+verse 2
 =17
 {4cc
 8cc
@@ -118,7 +118,7 @@
 8cc
 =23
 2.cc;}
-!! verse 3
+verse 3
 =24
 {8cc
 16cc
@@ -152,7 +152,7 @@
 8ee
 =28
 2.cc;}
-!! verse 4
+verse 4
 =29
 {4cc
 4cc
@@ -190,7 +190,7 @@
 4dd
 8ee
 8cc;}
-!! verse 5
+verse 5
 =37
 {4ee
 4dd
@@ -230,7 +230,7 @@
 4gg
 4ee
 4cc;}
-!! verse 6
+verse 6
 =45
 {4ee
 4gg
@@ -260,7 +260,7 @@
 4g
 4e
 4g;}
-!! verse 7
+verse 7
 =53
 {4e
 4c
@@ -281,7 +281,7 @@
 4ee
 =58
 2.cc;}
-!! verse 8
+verse 8
 =59
 {8.cc
 16dd
@@ -312,7 +312,7 @@
 8dd
 =63
 2.cc;}
-!! verse 9
+verse 9
 =64
 {8cc
 8cc
@@ -359,7 +359,7 @@
 8gg
 =72
 2.cc;}
-!! verse 10
+verse 10
 =73
 {4r
 4r
@@ -386,7 +386,7 @@
 8ee
 =79
 2cc;}
-!! verse 11
+verse 11
 {8ee
 8ff
 =80
@@ -421,7 +421,7 @@
 8ff
 =88
 2ee;}
-!! verse 12
+verse 12
 {8dd
 8ee
 =89
@@ -435,7 +435,7 @@
 8ee
 =91
 2cc;}
-!! verse 13
+verse 13
 {8dd
 8ee
 =92
@@ -475,7 +475,7 @@
 8dd
 =99
 2cc;}
-!! verse 14
+verse 14
 {8cc
 8dd
 =100
@@ -518,7 +518,7 @@
 8ff
 =109
 2.gg;}
-!! verse 15
+verse 15
 =110
 {4r
 4r
@@ -548,7 +548,7 @@
 4.ee
 8dd
 4cc;}
-!! verse 16
+verse 16
 =115
 {4gg
 16cc
@@ -582,7 +582,7 @@
 8cc
 =120
 2.cc;}
-!! verse 17
+verse 17
 =121
 {4.gg
 8ff
@@ -623,7 +623,7 @@
 =129
 *M2/2
 2.cc;}
-!! verse 18
+verse 18
 {4cc
 =130
 4ee
@@ -648,7 +648,7 @@
 8ff
 =133
 2.ee;}
-!! verse 19
+verse 19
 {8cc
 8dd
 =134
@@ -672,7 +672,7 @@
 8cc
 =137
 2.cc;}
-!! verse 20
+verse 20
 {4cc
 =138
 *M3/4
@@ -704,7 +704,7 @@
 4gg
 =144
 2.gg;}
-!! verse 21
+verse 21
 =145
 {8ee
 8dd
@@ -745,4 +745,4 @@
 2cc;}
 ==|!
 *-
-!! produced by wce2krn 1.64 (released on 7 June 2014)
+produced by wce2krn 1.64 (released on 7 June 2014)

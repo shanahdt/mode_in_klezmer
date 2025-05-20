@@ -60,7 +60,7 @@
 
 !!!End-Modulation
 *g:
-!! THRU ERROR: label A1 does not exist, skipping.
+THRU ERROR: label A1 does not exist, skipping.
 !!!OTL: 136. Freylekhs
 *>A
 =1
@@ -111,7 +111,7 @@
 =11!|:
 !!!End-Modulation
 *g:
-!! THRU ERROR: label A2 does not exist, skipping.
+THRU ERROR: label A2 does not exist, skipping.
 !!!OTL: 136. Freylekhs
 *>B
 (16ddLL

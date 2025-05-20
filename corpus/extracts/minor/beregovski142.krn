@@ -170,6 +170,33 @@
 *>C
 8g
 !!!Begin-Modulation
+!! *B-:
+!! !LO:TX:a:i:t=Bb-major
+!! =15
+!! 8fL
+!! 8ffJ
+!! 16eenLL
+!! 16ff
+!! 16gg
+!! 16eeJJ
+!! =16
+!! 8ffL
+!! 8ddJ
+!! 16ee-XLL
+!! 16dd
+!! 16cc
+!! 16b-JJ
+!! =17
+!! 8fL
+!! 8ffJ
+!! 16eenLL
+!! 16ff
+!! 16gg
+!! 16eeJJ
+!! =18
+!! 4ff
+!! 4bb-
+!! !!!End-Modulation
 *g:
 !LO:TX:a:i:t=G-minor
 =19

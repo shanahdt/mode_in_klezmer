@@ -9,62 +9,351 @@
 *I"P1
 *clefG2
 *k[b-e-a-]
-*G:frey
-*M2/4
-*>A
-=1
-!LO:TX:a:i:t=G-freygish
-16gLL
-16f
-16en
-16fJJ
-4g
-=2
-16gLL
-16f
-16en
-16fJJ
-4g
-=3
-8a-L
-16gL
-16a-JJ
-8bnL
-16a-L
-16bJJ
-=4
-8ccL
-16bnL
-16ccJJ
-16ddLL
-16cc
-16b
-16a-JJ
-=5
-16gLL
-16f
-16en
-16fJJ
-4g
-=6
-16gLL
-16f
-16a-
-16gJJ
-4f
-=7
-16ddLL
-16cc
-16bn
-16a-JJ
-16bLL
-16a-
-16g
-16fJJ
-=
-8a-
-4g
-=8||
-8g
-*>B
+!! *G:frey
+!! *M2/4
+!! *>A
+!! =1
+!! !LO:TX:a:i:t=G-freygish
+!! 16gLL
+!! 16f
+!! 16en
+!! 16fJJ
+!! 4g
+!! =2
+!! 16gLL
+!! 16f
+!! 16en
+!! 16fJJ
+!! 4g
+!! =3
+!! 8a-L
+!! 16gL
+!! 16a-JJ
+!! 8bnL
+!! 16a-L
+!! 16bJJ
+!! =4
+!! 8ccL
+!! 16bnL
+!! 16ccJJ
+!! 16ddLL
+!! 16cc
+!! 16b
+!! 16a-JJ
+!! =5
+!! 16gLL
+!! 16f
+!! 16en
+!! 16fJJ
+!! 4g
+!! =6
+!! 16gLL
+!! 16f
+!! 16a-
+!! 16gJJ
+!! 4f
+!! =7
+!! 16ddLL
+!! 16cc
+!! 16bn
+!! 16a-JJ
+!! 16bLL
+!! 16a-
+!! 16g
+!! 16fJJ
+!! =
+!! 8a-
+!! 4g
+!! =8||
+!! 8g
+!! *>B
+!! *c:
+!! !LO:TX:a:i:t=C-minor
+!! =9!|:
+!! 8gL
+!! 8cc
+!! 8cc
+!! 8ccJ
+!! =10
+!! 16bnLL
+!! 16cc
+!! 16dd
+!! 16ee-JJ
+!! (8.ddtL
+!! 16ccJk)
+!! =11
+!! 8ggL
+!! 8cc
+!! 8cc
+!! 8ccJ
+!! =12
+!! 16bnLL
+!! 16cc
+!! 16dd
+!! 16bJJ
+!! 4cc
+!! *E-:
+!! !LO:TX:a:i:t=Eb-major
+!! =13
+!! 8b-L
+!! 8ee-
+!! 8ee-
+!! 8ee-J
+!! =14
+!! 16ddLL
+!! 16ee-
+!! 16ff
+!! 16ggJJ
+!! 8.ffL
+!! 16ee-Jk
+!! =15
+!! 8.ggtL
+!! 16ee-Jk
+!! 8.ggtL
+!! 16ee-Jk
+!! =16
+!! 16ff#XLL
+!! 16gg
+!! 16aan
+!! 16ggJJ
+!! 16ff#LL
+!! 16ee-
+!! 16dd
+!! 16ccJJ
+!! =17:|!|:
+!! *>B
+!! *c:
+!! !LO:TX:a:i:t=C-minor
+!! =9!|:
+!! 8gL
+!! 8cc
+!! 8cc
+!! 8ccJ
+!! =10
+!! 16bnLL
+!! 16cc
+!! 16dd
+!! 16ee-JJ
+!! (8.ddtL
+!! 16ccJk)
+!! =11
+!! 8ggL
+!! 8cc
+!! 8cc
+!! 8ccJ
+!! =12
+!! 16bnLL
+!! 16cc
+!! 16dd
+!! 16bJJ
+!! 4cc
+!! *E-:
+!! !LO:TX:a:i:t=Eb-major
+!! =13
+!! 8b-L
+!! 8ee-
+!! 8ee-
+!! 8ee-J
+!! =14
+!! 16ddLL
+!! 16ee-
+!! 16ff
+!! 16ggJJ
+!! 8.ffL
+!! 16ee-Jk
+!! =15
+!! 8.ggtL
+!! 16ee-Jk
+!! 8.ggtL
+!! 16ee-Jk
+!! =16
+!! 16ff#XLL
+!! 16gg
+!! 16aan
+!! 16ggJJ
+!! 16ff#LL
+!! 16ee-
+!! 16dd
+!! 16ccJJ
+!! =17:|!|:
+!! *>C
+!! 4.ee-
+!! 16ffLL
+!! 16ggJJ
+!! =18
+!! 4.ee-
+!! 16ffLL
+!! 16ggJJ
+!! =19
+!! 8ee-L
+!! 16ffL
+!! 16ggJJ
+!! 8ee-L
+!! 16ffL
+!! 16ggJJ
+!! =20
+!! 16aa-XLL
+!! 16gg
+!! 16ffn
+!! 16ee-JJ
+!! 8ggL
+!! 8ee-J
+!! =21
+!! 4.gg
+!! 16aa-LL
+!! 16bb-JJ
+!! =22
+!! 4.gg
+!! 16aa-LL
+!! 16bb-JJ
+!! =23
+!! 8ggL
+!! 16aa-L
+!! 16bb-JJ
+!! 8ggL
+!! 16aa-L
+!! 16bb-JJ
+!! =24
+!! 16cccLL
+!! 16bb-
+!! 16aa-
+!! 16ggJJ
+!! 8bb-L
+!! 8ggJ
+!! *c:
+!! !LO:TX:a:i:t=C-minor
+!! =25||
+!! 8ggL
+!! 8ggJ
+!! 16ffLL
+!! 16ee-
+!! 16dd
+!! 16ccJJ
+!! =26
+!! 4.ee-
+!! 8cc
+!! =27
+!! 8ggL
+!! 8ggJ
+!! 16ffLL
+!! 16ee-
+!! 16dd
+!! 16ee-JJ
+!! =28
+!! 4.cc
+!! 8ee-
+!! =29
+!! 8ggL
+!! 8ggJ
+!! 16ffLL
+!! 16ee-
+!! 16dd
+!! 16ccJJ
+!! !!!Begin-Modulation1
+!! *>C1
+!! =30
+!! 4.ee-
+!! 8cc
+!! =31
+!! 8ggL
+!! 8ggJ
+!! 16ffLL
+!! 16ee-
+!! 16dd
+!! 16ee-JJ
+!! =32
+!! 8ccL
+!! 8bn
+!! 8cc
+!! 8ddJ
+!! *>C
+!! 4.ee-
+!! 16ffLL
+!! 16ggJJ
+!! =18
+!! 4.ee-
+!! 16ffLL
+!! 16ggJJ
+!! =19
+!! 8ee-L
+!! 16ffL
+!! 16ggJJ
+!! 8ee-L
+!! 16ffL
+!! 16ggJJ
+!! =20
+!! 16aa-XLL
+!! 16gg
+!! 16ffn
+!! 16ee-JJ
+!! 8ggL
+!! 8ee-J
+!! =21
+!! 4.gg
+!! 16aa-LL
+!! 16bb-JJ
+!! =22
+!! 4.gg
+!! 16aa-LL
+!! 16bb-JJ
+!! =23
+!! 8ggL
+!! 16aa-L
+!! 16bb-JJ
+!! 8ggL
+!! 16aa-L
+!! 16bb-JJ
+!! =24
+!! 16cccLL
+!! 16bb-
+!! 16aa-
+!! 16ggJJ
+!! 8bb-L
+!! 8ggJ
+!! *c:
+!! !LO:TX:a:i:t=C-minor
+!! =25||
+!! 8ggL
+!! 8ggJ
+!! 16ffLL
+!! 16ee-
+!! 16dd
+!! 16ccJJ
+!! =26
+!! 4.ee-
+!! 8cc
+!! =27
+!! 8ggL
+!! 8ggJ
+!! 16ffLL
+!! 16ee-
+!! 16dd
+!! 16ee-JJ
+!! =28
+!! 4.cc
+!! 8ee-
+!! =29
+!! 8ggL
+!! 8ggJ
+!! 16ffLL
+!! 16ee-
+!! 16dd
+!! 16ccJJ
+!! !!!Begin-Modulation1
+!! *>C2
+!! =33:|!
+!! 4.ee-
+!! (24ggLL
+!! 24aan
+!! 24bbnJJ
+!! =34
+!! 8ccc)
+!! 8r
+!! 8gg
+!! 8r
+!! =35
+!! 8cc
+!! 8r
+!! 4r
+!! ==
 *-

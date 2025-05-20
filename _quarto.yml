@@ -42,8 +42,8 @@ website:
           
 
   page-footer:
-    right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
-    left: "&copy; Copyright 2024, Yonatan Malin and Daniel Shanahan"
+    right: "This page is built with [Quarto](https://quarto.org/)."
+    left: "&copy; Copyright 2025, Yonatan Malin and Daniel Shanahan<br>Last modified: May 20, 2025"
     background: "#D9E3E4"
 
 
@@ -57,3 +57,4 @@ format:
     code-copy: true
     code-overflow: wrap
     toc: false
+    last-modified: true

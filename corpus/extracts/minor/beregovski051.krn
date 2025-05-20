@@ -228,6 +228,64 @@
 4.g
 8r
 !!!Begin-Modulation
+!! *B-:
+!! !LO:TX:a:i:t=Bb-major
+!! =22!|:
+!! *>C
+!! 16B-LL
+!! (16b-
+!! 16a)
+!! 16b-JJ
+!! 16dd'LL
+!! (16b-
+!! 16a)
+!! 16b-'JJ
+!! =23
+!! 16ff'LL
+!! (16b-
+!! 16a)
+!! 16b-'JJ
+!! 16dd'LL
+!! (16b-
+!! 16a)
+!! 16b-'JJ
+!! =24
+!! 16b-'LL
+!! 16ff'
+!! 16een'
+!! 16ff'JJ
+!! 16ee-X'LL
+!! 16ff'
+!! 16dd'
+!! 16ff'JJ
+!! =25
+!! 16dd-X'LL
+!! 16ff'
+!! 16cc'
+!! 16ff'JJ
+!! 16bn'LL
+!! 16ff'
+!! 16b-X'
+!! 16ff'JJ
+!! =26
+!! 16aLL
+!! (16f
+!! 16g)
+!! (16aJJ
+!! 16b-LL)
+!! (16cc
+!! 16ddn)
+!! (16ee-JJ
+!! =27
+!! 16ffLL)
+!! (16gg
+!! 16aa-X)
+!! (16ggJJ
+!! 16ffLL)
+!! (16ee-
+!! 16dd)
+!! (16ccJJ
+!! *>C1
 *g:
 =28
 !LO:TX:a:i:t=G-minor
@@ -243,76 +301,78 @@
 4.g
 8r
 *>C
-16B-LL
-(16b-
-16a)
-16b-JJ
-16dd'LL
-(16b-
-16a)
-16b-'JJ
-=23
-16ff'LL
-(16b-
-16a)
-16b-'JJ
-16dd'LL
-(16b-
-16a)
-16b-'JJ
-=24
-16b-'LL
-16ff'
-16een'
-16ff'JJ
-16ee-X'LL
-16ff'
-16dd'
-16ff'JJ
-=25
-16dd-X'LL
-16ff'
-16cc'
-16ff'JJ
-16bn'LL
-16ff'
-16b-X'
-16ff'JJ
-=26
-16aLL
-(16f
-16g)
-(16aJJ
-16b-LL)
-(16cc
-16ddn)
-(16ee-JJ
-=27
-16ffLL)
-(16gg
-16aa-X)
-(16ggJJ
-16ffLL)
-(16ee-
-16dd)
-(16ccJJ
-*>C2
-=30:|!
-!LO:TX:a:i:t=[Bb-major continued]
-16aLL
-(16aa
-16gg)
-(16ffJJ
-16ee-LL)
-(16cc
-16a)
-16ccJJ
-=31
-(16ccLL
-16b-JJ)
-4b-
-8r
-!!!End-Modulation
+!!!Begin-Modulation
+!! *B-:
+!! !LO:TX:a:i:t=Bb-major
+!! 16B-LL
+!! (16b-
+!! 16a)
+!! 16b-JJ
+!! 16dd'LL
+!! (16b-
+!! 16a)
+!! 16b-'JJ
+!! =23
+!! 16ff'LL
+!! (16b-
+!! 16a)
+!! 16b-'JJ
+!! 16dd'LL
+!! (16b-
+!! 16a)
+!! 16b-'JJ
+!! =24
+!! 16b-'LL
+!! 16ff'
+!! 16een'
+!! 16ff'JJ
+!! 16ee-X'LL
+!! 16ff'
+!! 16dd'
+!! 16ff'JJ
+!! =25
+!! 16dd-X'LL
+!! 16ff'
+!! 16cc'
+!! 16ff'JJ
+!! 16bn'LL
+!! 16ff'
+!! 16b-X'
+!! 16ff'JJ
+!! =26
+!! 16aLL
+!! (16f
+!! 16g)
+!! (16aJJ
+!! 16b-LL)
+!! (16cc
+!! 16ddn)
+!! (16ee-JJ
+!! =27
+!! 16ffLL)
+!! (16gg
+!! 16aa-X)
+!! (16ggJJ
+!! 16ffLL)
+!! (16ee-
+!! 16dd)
+!! (16ccJJ
+!! *>C2
+!! =30:|!
+!! 16aLL
+!! (16aa
+!! 16gg)
+!! (16ffJJ
+!! 16ee-LL)
+!! (16cc
+!! 16a)
+!! 16ccJJ
+!! =31
+!! (16ccLL
+!! 16b-JJ)
+!! 4b-
+!! 8r
+!! !!!End-Modulation
 *g:
 !LO:TX:a:i:t=G-minor
 =32!|:

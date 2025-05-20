@@ -35,6 +35,30 @@
 8aJ
 4g
 !!!Begin-Modulation
+!! *B-:
+!! !LO:TX:a:i:t=Bb-major
+!! =5
+!! (16gLL
+!! 16ccJJ)
+!! 4cc
+!! 8cc
+!! =6
+!! 8ccL
+!! 16ddL
+!! 16ccJJ
+!! 8b-L
+!! 8aJ
+!! !!!Begin-Modulation1
+!! =7
+!! 4b-
+!! 4dd
+!! =8
+!! 4ff
+!! 4bb-
+!! !!!Begin-Modulation2
+!! =9:|!
+!! 
+!! !!!End-Modulation
 *g:
 !! THRU ERROR: label A1 does not exist, skipping.
 !!!OTL: 136. Freylekhs
@@ -63,6 +87,29 @@
 8aJ
 4g
 !!!Begin-Modulation
+!! *B-:
+!! !LO:TX:a:i:t=Bb-major
+!! =5
+!! (16gLL
+!! 16ccJJ)
+!! 4cc
+!! 8cc
+!! =6
+!! 8ccL
+!! 16ddL
+!! 16ccJJ
+!! 8b-L
+!! 8aJ
+!! !!!Begin-Modulation1
+!! =7
+!! !!!Begin-Modulation2
+!! =9:|!
+!! !LO:TX:a:i:t=G-minor
+!! 2g
+!! =10
+!! 2g
+!! =11!|:
+!! !!!End-Modulation
 *g:
 !! THRU ERROR: label A2 does not exist, skipping.
 !!!OTL: 136. Freylekhs

@@ -65,8 +65,6 @@
 16b-JJ
 *>A
 !LO:TX:a:i:t=G-raised-fourth
-(16.cc#XLL
-32eeJJk
 =1!|:
 [4dd)
 8ddL_
@@ -113,6 +111,109 @@
 4.g
 =9||
 *k[f#]
+!! *G:
+!! *>B
+!! !!!Begin-Modulation
+!! *G:
+!! !LO:TX:a:i:t=G-major
+!! 8g
+!! =10
+!! 4.b
+!! (16aLL
+!! 16gJJ)
+!! =11
+!! (16ddLL
+!! 16cc)
+!! (16cc
+!! 16bJJ)
+!! 8bL
+!! (16aL
+!! 16gJJ)
+!! =12
+!! 8bL
+!! 16aL
+!! 16gJJ
+!! 24ddLL
+!! 24ee
+!! 24ddJ
+!! 8ccJ
+!! =13
+!! 8bL
+!! 8gg
+!! 8dd
+!! 8ggJ
+!! =14
+!! 4.b
+!! (16bLL
+!! 16ddJJ)
+!! =15
+!! (16ddLL
+!! 16cc)
+!! (16cc
+!! 16bJJ)
+!! 8bL
+!! 16aL
+!! 16gJJ
+!! =16
+!! (16bLL
+!! 16a)
+!! (16a
+!! 16gJJ)
+!! 24bLL
+!! 24cc
+!! 24bJ
+!! 8aJ
+!! =17
+!! 4g
+!! 8r
+!! (16dLL
+!! 16gJJ
+!! =18
+!! 4.b)
+!! 8dd
+!! =19
+!! (16ddLL
+!! 16cc)
+!! (16cc
+!! 16bJJ)
+!! 4dd
+!! =20
+!! (16bLL
+!! 16ccJJ)
+!! 4b
+!! (16gLL
+!! 16ddJJ)
+!! =21
+!! (16ddLL
+!! 16cc)
+!! (16cc
+!! 16bJJ)
+!! 8bL
+!! 16aL
+!! 16gJJ
+!! =22
+!! 4.b
+!! (16bLL
+!! 16ddJJ)
+!! =23
+!! (16ddLL
+!! 16cc)
+!! (16cc
+!! 16bJJ)
+!! 4b
+!! =24
+!! 24aLL
+!! 24b
+!! 24aJ
+!! 8gJ
+!! (8bL
+!! 8aJ
+!! =
+!! 4g)
+!! 8r
+!! =25||
+!! *k[b-]
+!! !!!End-Modulation
 *g:dor
 *>C
 !LO:TX:a:i:t=G-raised-fourth
@@ -184,6 +285,96 @@
 =37||
 *k[f#]
 !!!Begin-Modulation
+!! *G:
+!! *>D
+!! !LO:TX:a:i:t=G-major
+!! 16dLL
+!! 16gJJ
+!! =38
+!! 4.b
+!! (16aLL
+!! 16gJJ)
+!! =39
+!! (16ddLL
+!! 16cc)
+!! 16cc
+!! 16bJJ
+!! 4b
+!! =40
+!! 24aLL
+!! 24b
+!! 24aJ
+!! 8gJ
+!! 8bL
+!! 8aJ
+!! =41
+!! 8gL
+!! 8ddJ
+!! 24ccLL
+!! 24dd
+!! 24ccJ
+!! 8bJ
+!! =42
+!! 4.b
+!! 16aLL
+!! 16gJJ
+!! =43
+!! 8ddL
+!! 8ccJ
+!! (16bLL
+!! 16ccJ)
+!! 8bJ
+!! =44
+!! 8aL
+!! 8gJ
+!! 8bL
+!! 8aJ
+!! =45
+!! 4.g
+!! (16dLL
+!! 16gJJ
+!! =46
+!! 4.b)
+!! 8dd
+!! =47
+!! 8ddL
+!! 8ccJ
+!! 4b
+!! =48
+!! 24aLL
+!! 24b
+!! 24aJ
+!! 8gJ
+!! 16bLL
+!! 16cc
+!! 16b
+!! 16aJJ
+!! =49
+!! 8gL
+!! 8ddJ
+!! (16.cc#XLL
+!! 32eeJk
+!! 8ddJ)
+!! =50
+!! 4.b
+!! (16bLL
+!! 16ddJJ
+!! =51
+!! 8ddL)
+!! 8ccJ
+!! 4b
+!! =52
+!! (24aLL
+!! 24b
+!! 24aJ
+!! 8gJ)
+!! 8bL
+!! 8aJ
+!! =
+!! 4.g
+!! =53||
+!! *k[b-]
+!! !!!End-Modulation
 *g:dor
 *>E
 !LO:TX:a:i:t=G-raised-fourth
@@ -311,6 +502,90 @@
 4.g
 =73||
 *k[f#]
+!! *G:
+!! *>F
+!! !!!Begin-Modulation
+!! *G:
+!! !LO:TX:a:i:t=G-major
+!! 8d
+!! =74
+!! 4g
+!! 8bL
+!! 8ddJ
+!! =75
+!! 4.cc
+!! 8b
+!! =76
+!! (16bLL
+!! 16a)
+!! (16a
+!! 16gJJ)
+!! 8ddL
+!! 8ccJ
+!! =77
+!! (16bLL
+!! 16ccJJ
+!! 4b)
+!! (16aLL
+!! 16gJJ)
+!! =78
+!! 4b
+!! 8ddL
+!! 8ccJ
+!! =79
+!! 4b
+!! (16qqa/LL
+!! 16qqb/JJ
+!! 8.aL)
+!! 16gJk
+!! =80
+!! 4a
+!! 8bL
+!! 8aJ
+!! =81
+!! 4g
+!! 8r
+!! 16dLL
+!! 16gJJ
+!! =82
+!! 4b
+!! (16bLL
+!! 16ddJ)
+!! 8ccJ
+!! =83
+!! (16qqcc/LL
+!! 16qqdd/JJ
+!! 4.b)
+!! 8a
+!! =84
+!! 8aL
+!! 8g
+!! 8dd
+!! 8ccJ
+!! =85
+!! (16bLL
+!! 16ddJJ)
+!! 4dd
+!! 8cc
+!! =86
+!! 4b
+!! 8ddL
+!! 8ccJ
+!! =87
+!! 4.b
+!! 8a
+!! =88
+!! 4g
+!! 24bLL
+!! 24cc
+!! 24bJ
+!! 8aJ
+!! =
+!! 4g
+!! 8r
+!! =89||
+!! *k[b-]
+!! !!!End-Modulation
 *g:dor
 *>G
 !LO:TX:a:i:t=G-raised-fourth
