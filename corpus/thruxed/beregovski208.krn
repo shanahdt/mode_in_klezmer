@@ -82,9 +82,9 @@
 4g
 =9||
 *k[b-e-]
+*>C
 !!!Begin-Modulation
 *c:
-*>C
 !LO:TX:a:i:t=C-minor
 8gg
 =10
@@ -149,9 +149,9 @@
 8b-J
 =20||!|:
 *k[b-e-a-]
+*>D
 !!!End-Modulation
 *G:frey
-*>D
 !LO:TX:a:i:t=G-freygish
 8ffL
 8ee-J
@@ -167,8 +167,8 @@
 16a-Jk
 8.bL
 16a-Jk
-!!!End-Modulation1
 *>D1
+!!!End-Modulation1
 =23
 8gL
 8ggJ
@@ -190,8 +190,8 @@
 16a-Jk
 8.bL
 16a-Jk
-!!!End-Modulation1
 *>D2
+!!!End-Modulation1
 !!!End-Modulation2
 =24:|!
 (8a-

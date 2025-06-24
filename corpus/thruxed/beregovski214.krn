@@ -69,10 +69,10 @@
 =8
 4.dd
 8r
+*>A
 =9:|!|:
 !!!End-Modulation
 *g:
-*>A
 =1
 !LO:TX:a:i:t=G-minor
 16ffLL
@@ -131,10 +131,10 @@
 =8
 4.dd
 8r
+*>B
 =9:|!|:
 !!!End-Modulation
 *g:
-*>B
 !LO:TX:a:i:t=G-minor
 16aLL
 16b-
@@ -185,8 +185,8 @@
 =16
 4.g
 8r
-=:|!
 *>B
+=:|!
 !LO:TX:a:i:t=G-minor
 16aLL
 16b-

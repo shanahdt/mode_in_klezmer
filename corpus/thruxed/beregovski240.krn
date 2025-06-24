@@ -12,12 +12,6 @@
 *g:
 *M2/4
 *>A
-!!LO:TX:a:i:t=G-ma!!!OTL: 56. Skotshne
-!!!Genre:
-!!!Mode:
-!!!Listening/dance:
-!!!:
-!!!One_Mode:
 *thru
 *I"P1
 *clefG2
@@ -101,8 +95,8 @@
 16b-	.
 16aJJ	.
 4g)	.
-=5:|!|:	=5:|!|:
 *>B	*>B
+=5:|!|:	=5:|!|:
 (8ddL	4G
 8gJ)	.
 (8b-TL	4G
@@ -128,10 +122,10 @@
 16b-	.
 16aJJ	.
 4g	4G
-=9:|!	=9:|!
+*>B	*>B
 !!!End-Modulation
 *g:dor	*g:dor
-*>B	*>B
+=9:|!	=9:|!
 (8ddL	4G
 8gJ)	.
 (8b-TL	4G
@@ -160,10 +154,10 @@
 16aJJ	.
 4g	4G
 *v	*v
-=9:|!
-!!!End-Modulation
-*g:dor
 *>C
+!!!End-Modulation
+=9:|!
+*g:dor
 *k[b-]
 !!!End-Modulation
 *g:dor
@@ -253,8 +247,8 @@
 16bb-
 16aaJJ
 4gg
-=25!|:
 *>D
+=25!|:
 (8qff#X/
 2gg)
 =26
@@ -341,8 +335,8 @@
 8G 8d 8b- 8gg
 8r
 4r
-==
 *>D
+==
 (8qff#X/
 2gg)
 =26

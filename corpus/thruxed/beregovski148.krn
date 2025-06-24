@@ -70,10 +70,10 @@
 8g)
 8r
 4gg
+*>A
 =9:|!|:
 !!!Begin-Modulation
 *B-:
-*>A
 =1
 !LO:TX:a:i:t=G-minor
 16gLL
@@ -133,10 +133,10 @@
 8g)
 8r
 4gg
+*>B
 =9:|!|:
 !!!Begin-Modulation
 *B-:
-*>B
 !LO:TX:a:i:t=Bb-major
 16ddLL
 16ee-JJ
@@ -190,8 +190,8 @@
 8r
 8gg
 8r
-=:|!
 *>B
+=:|!
 !LO:TX:a:i:t=Bb-major
 16ddLL
 16ee-JJ

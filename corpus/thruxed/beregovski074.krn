@@ -7,10 +7,10 @@
 *thru
 *I"P1
 *clefG2
+*>A
 *k[b-e-]
 *g:
 *M3/4
-*>A
 =1
 !LO:TX:a:i:t=G-minor
 (8qg/
@@ -101,10 +101,10 @@
 =16
 2g
 4r
+*>A
 =17:|!|:
 !!!Begin-Modulation
 *B-:
-*>A
 =1
 !LO:TX:a:i:t=G-minor
 (8qg/
@@ -195,10 +195,10 @@
 =16
 2g
 4r
-=17:|!|:
-!!!Begin-Modulation
-*B-:
 *>B
+=17:|!|:
+!!!Begin-Modulation
+*B-:
 !LO:TX:a:i:t=Bb-major
 2f
 8b-L

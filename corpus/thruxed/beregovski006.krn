@@ -144,6 +144,7 @@
 *>A2
 =17:|!
 2g
+*>B
 !!!Begin-Modulation
 *B-:
 !LO:TX:a:i:t=Bb-major
@@ -151,7 +152,6 @@
 12en
 12fJ
 =18!|:
-*>B
 4b-
 4b-
 8b-L
@@ -216,12 +216,12 @@
 *>B2
 =26:|!
 2B-
+*>C
 !!!End-Modulation
 *g:
 !LO:TX:a:i:t=G-minor
 4cc#X
 =27!|:
-*>C
 4.dd
 8cc#X
 8qeen/
@@ -287,8 +287,8 @@
 8ff#XJ
 =42
 2.gg
-=:|!
 *>C
+=:|!
 4.dd
 8cc#X
 8qeen/

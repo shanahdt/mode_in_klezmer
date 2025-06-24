@@ -119,8 +119,8 @@
 8gJ
 8r
 8g
-=9:|!|:
 *>B
+=9:|!|:
 !LO:TX:a:t="Segno"
 16ccLL
 16bn
@@ -298,11 +298,13 @@
 16g
 16cc
 16ddJJ
+!!!End-Modulation1
 !!!Begin-Modulation2
 *>C
 16gLL
 16cc
 16ddJJ
+!!!End-Modulation2
 !!!Begin-Modulation
 *C:
 !LO:TX:a:i:t=C-major

@@ -35,8 +35,8 @@
 8b-L
 8aJ
 4g
-=5:|!|:
 *>A
+=5:|!|:
 =1
 !LO:TX:a:i:t=G-minor
 4g
@@ -60,8 +60,8 @@
 8b-L
 8aJ
 4g
+*>B
 =5:|!|:
-*>B
 !LO:TX:a:t="Segno"
 4.g
 8a
@@ -83,10 +83,10 @@
 8aJ
 !LO:TX:b:Bi:t=Fine
 4g
+*>B
 !!!Begin-Modulation
 *g:dor
 =9:|!
-*>B
 !LO:TX:a:t="Segno"
 4.g
 8a
@@ -108,10 +108,10 @@
 8aJ
 !LO:TX:b:Bi:t=Fine
 4g
-!!!Begin-Modulation
-*g:dor
-=9:|!
 *>C
+!!!Begin-Modulation
+*g:dor
+=9:|!
 !LO:TX:a:i:t=G-raised-fourth
 2.dd
 =10

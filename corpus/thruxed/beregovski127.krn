@@ -96,10 +96,10 @@
 *>A2
 =9:|!
 2g
+*>B
 !!!Begin-Modulation
 *B-:
 =10!|:
-*>B
 !LO:TX:a:i:t=Bb-major
 8f
 4b-
@@ -171,10 +171,10 @@
 *>B2
 =18:|!
 2b-
+*>C
 !!!End-Modulation
 *g-dor:
 =19!|:
-*>C
 !LO:TX:a:i:t=G-raised-fourth
 2dd
 =20

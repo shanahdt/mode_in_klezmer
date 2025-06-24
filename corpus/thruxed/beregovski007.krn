@@ -89,9 +89,9 @@
 2g
 8r
 =16||
+*>B
 !!!Begin-Modulation
 *B-:
-*>B
 !LO:TX:a:i:t=Bb-major
 24fLL
 24g
@@ -175,11 +175,11 @@
 =32
 2b-
 4r
+*>C
 !!!End-Modulation
 *g:
 !LO:TX:a:i:t=G-minor
 =33||
-*>C
 (8qb-/
 4bb-)
 4aa

@@ -139,9 +139,9 @@
 2g
 !!!Begin-Modulation
 *G:
+*>B
 =10!|:
 *k[f#]
-*>B
 !LO:TX:a:i:t=G-major
 !LO:TX:a:t="Segno"
 16ff#XLL
@@ -203,11 +203,11 @@
 =14:|!
 !LO:TX:b:Bi:t=Fine
 2g
+*>C
 !!!End-Modulation
 *g:dor
 =15!|:
 *k[b-]
-*>C
 !LO:TX:a:i:t=G-raised-fourth
 (>8qccc#X/
 2ddd)
@@ -265,8 +265,8 @@
 16ff#XJJ
 =24
 2gg
-=:|!
 *>C
+=:|!
 !LO:TX:a:i:t=G-raised-fourth
 (>8qccc#X/
 2ddd)

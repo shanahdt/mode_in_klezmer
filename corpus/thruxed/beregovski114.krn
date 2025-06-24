@@ -13,8 +13,8 @@
 !!!Begin-Modulation
 *g:
 *M2/4
+*>A
 =1-
-*>A
 !LO:TX:a:i:t=G-minor
 (>8qd/
 *^
@@ -54,10 +54,10 @@
 =6	=6
 2g	2G
 *v	*v
+*>A
 !!!End-Modulation
 *g:dor
 =7:|!|:
-*>A
 !LO:TX:a:i:t=G-minor
 (>8qd/
 *^
@@ -97,10 +97,10 @@
 =6	=6
 2g	2G
 *v	*v
-!!!End-Modulation
-*g:dor
-=7:|!|:
 *>B
+!!!End-Modulation
+*g:dor
+=7:|!|:
 *k[b-]
 !LO:TX:a:i:t=G-raised-fourth
 (>16aLL
@@ -213,8 +213,8 @@
 =15:|!
 4.g
 8cc#X
+*>C
 =16!|:
-*>C
 (>4.dd
 8cc#X)
 =17
@@ -345,10 +345,10 @@
 =39
 4.g
 8d
+*>C
 !!!Begin-Modulation
 *G:
 =40:|!|:
-*>C
 (>4.dd
 8cc#X)
 =17
@@ -479,10 +479,10 @@
 =39
 4.g
 8d
-!!!Begin-Modulation
-*G:
-=40:|!|:
 *>D
+!!!Begin-Modulation
+*G:
+=40:|!|:
 *k[f#]
 !LO:TX:a:i:t=G-major
 4.bn
@@ -608,10 +608,10 @@
 16cc
 16aJJ
 4g
+*>E
 !!!End-Modulation
 !!!Begin-Modulation
 *g:
-*>E
 =49!|:
 16ffnLL
 16ee
@@ -636,10 +636,10 @@
 16cc
 16aJJ
 4g
+*>F
 !!!End-Modulation
 !!!Begin-Modulation
 *g:
-*>F
 =53:|!
 *k[b-e-]
 !LO:TX:a:i:t=G-minor

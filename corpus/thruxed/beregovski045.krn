@@ -156,11 +156,11 @@
 !LO:TX:b:Bi:t=Fine
 4.g
 8r
+*>B
 !!!Begin-Modulation
 *G:frey
 !LO:TX:a:i:t=G-freygish
 =10||
-*>B
 (8qa-X/
 [4gt)
 (16gLL]
@@ -248,8 +248,8 @@
 4.g)
 =21
 8r
-=22!|:
 *>C
+=22!|:
 !LO:TX:a:i:t=Bb-major
 16b-LL
 16ccJJ

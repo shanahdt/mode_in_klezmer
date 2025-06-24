@@ -50,10 +50,10 @@
 8a-J
 =8
 2g
+*>A
 !!!Begin-Modulation
 *c:
 =9:|!
-*>A
 =1
 !LO:TX:a:i:t=G-freygish
 8gL
@@ -92,10 +92,10 @@
 8a-J
 =8
 2g
+*>B
 !!!Begin-Modulation
 *c:
 =9:|!
-*>B
 !LO:TX:a:i:t=C-minor
 4cc
 4ee-
@@ -127,11 +127,11 @@
 16ddLL
 16ee-JJ
 4.cc
+*>C
 !!!End-Modulation
 *G:frey
 !LO:TX:a:i:t=G-freygish
 =17!|:
-*>C
 16ffLL
 16ee-
 16dd
@@ -187,8 +187,8 @@
 =21:|!
 8a-
 4.g
-=22||
 *>D
+=22||
 4cc
 8.bnL
 16ddJk

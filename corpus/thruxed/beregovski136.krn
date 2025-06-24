@@ -48,6 +48,7 @@
 16ccJJ
 8b-L
 8aJ
+*>A1
 !!!Begin-Modulation1
 =7
 4b-
@@ -55,13 +56,6 @@
 =8
 4ff
 4bb-
-!!!Begin-Modulation2
-=9:|!
-
-!!!End-Modulation
-*g:
-THRU ERROR: label A1 does not exist, skipping.
-!!!OTL: 136. Freylekhs
 *>A
 =1
 !LO:TX:a:i:t=G-minor
@@ -100,20 +94,17 @@ THRU ERROR: label A1 does not exist, skipping.
 16ccJJ
 8b-L
 8aJ
-!!!Begin-Modulation1
-=7
+*>A2
 !!!Begin-Modulation2
-=9:|!
 !LO:TX:a:i:t=G-minor
+=9:|!
 2g
 =10
 2g
-=11!|:
-!!!End-Modulation
-*g:
-THRU ERROR: label A2 does not exist, skipping.
-!!!OTL: 136. Freylekhs
 *>B
+!!!End-Modulation
+=11!|:
+*g:
 (16ddLL
 16ee-J
 8ddJ)

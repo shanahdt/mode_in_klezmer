@@ -8,10 +8,10 @@
 *thru
 *I"P1
 *clefG2
+*>A
 *k[b-e-a-]
 *G:frey
 *M2/4
-*>A
 =1
 !LO:TX:a:i:t=G-freygish
 4g
@@ -96,11 +96,11 @@
 2g
 =19
 2gg
+*>A
 !!!Begin-Modulation
 *G:frey
 !LO:TX:a:i:t=G-freygish
 =28||
-*>C
 *k[b-e-a-]
 8fL
 8bnJ
@@ -173,11 +173,11 @@
 =27
 4f]
 4f
+*>C
 !!!End-Modulation
 *G:frey
 !LO:TX:a:i:t=G-freygish
 =28||
-*>C
 *k[b-e-a-]
 8fL
 8bnJ

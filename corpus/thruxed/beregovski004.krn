@@ -79,11 +79,11 @@
 4g)
 =16
 2.g
+*>B
 !!!Begin-Modulation
 *C:
 !LO:TX:a:i:t=C-major
 =17!|:
-*>B
 *k[]
 4.cc
 8g
@@ -117,8 +117,8 @@
 2.dd
 =24
 2.gg
+*>B
 =25:|!
-*>B
 *k[]
 4.cc
 8g
@@ -152,11 +152,11 @@
 2.dd
 =24
 2.gg
+*>C
 !!!End-Modulation
 *G:frey
 !LO:TX:a:i:t=G-freygish
 =25:|!
-*>C
 *k[b-e-a-]
 4.ff
 8een

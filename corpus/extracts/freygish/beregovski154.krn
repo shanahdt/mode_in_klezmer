@@ -10,8 +10,8 @@
 *clefG2
 *k[f#]
 *G:frey
-=26:|!|:
 *>B
+=26:|!|:
 *k[b-]
 !LO:TX:a:i:t=G-raised-fourth
 (8qff#X/
@@ -140,8 +140,8 @@
 !!!End-Modulation
 !!!Begin-Modulation
 *G:frey
-=26:|!|:
 *>C
+=26:|!|:
 *k[b-e-a-]
 !LO:TX:a:i:t=G-freygish
 [2dd
@@ -230,9 +230,9 @@
 =41
 !LO:TX:b:Bi:t=Da Capo al Fine
 2gg
-=:|!
-!!!End-Modulation
 *>C
+!!!End-Modulation
+=:|!
 *k[b-e-a-]
 !LO:TX:a:i:t=G-freygish
 [2dd

@@ -249,8 +249,8 @@
 16f
 16g
 16aJJ
-!!!Begin-Modulation1
 *>B1
+!!!Begin-Modulation1
 =25
 (16ccLL
 16b-XJJ)
@@ -376,9 +376,9 @@
 16b-JJ)
 4b-
 8dd
+*>C
 !!!End-Modulation
 *g:
-*>C
 !LO:TX:a:i:t=G-minor
 =27||
 (8qdd/

@@ -278,11 +278,11 @@
 16a
 16b-JJ
 8.gL
+*>C
 !!!Begin-Modulation
 *B-:
 !LO:TX:a:i:t=Bb-major
 16fJk
-*>C
 =18!|:
 4.ff
 16eenLL
@@ -419,11 +419,11 @@
 *>C2
 =28:|!
 4.B-
+*>D
 !!!End-Modulation
 *g:
 !LO:TX:a:i:t=G-minor
 8g
-*>D
 =29!|:
 (16gLL
 16b-)

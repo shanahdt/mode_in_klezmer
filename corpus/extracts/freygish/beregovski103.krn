@@ -9,10 +9,10 @@
 *part1
 *staff1
 *clefG2
+*>A
 *k[b-e-a-]
 *G:frey
 *M2/4
-*>A
 =1-
 !LO:TX:a:i:t=G-freygish
 16gLL
@@ -41,6 +41,7 @@
 16f
 16a-JJ
 4g
+*>A
 !!!Begin-Modulation
 *G:frey
 !LO:TX:a:i:t=G-freygish

@@ -8,10 +8,10 @@
 *part1
 *staff1
 *clefG2
+*>A
 *k[b-e-a-]
 *G:frey
 *M2/4
-*>A
 !LO:TX:a:i:t=G-freygish
 8d
 =1
@@ -123,13 +123,13 @@
 !LO:TX:b:Bi:t=Fine
 4g
 8r
+*>B
 !!!Begin-Modulation
 *G:frey
 !LO:TX:a:i:t=G-freygish
 16gLL
 16gJJ
 =18!|:
-*>C
 8ccL
 8bnJ
 (>16bLL

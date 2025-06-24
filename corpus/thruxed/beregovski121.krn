@@ -10,9 +10,9 @@
 *k[b-e-]
 *g:
 *M2/4
+*>A
 !!!Begin-Modulation
 *B-:
-*>A
 !LO:TX:a:i:t=Bb-major
 8dd
 =1
@@ -142,10 +142,10 @@
 =
 !LO:TX:b:Bi:t=Fine
 4.g
+*>C
 !!!Begin-Modulation
 *B-:
 ==12
-*>C
 !LO:TX:a:i:t=Bb-major
 8fn
 =13

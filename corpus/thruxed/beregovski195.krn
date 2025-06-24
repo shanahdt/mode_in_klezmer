@@ -60,10 +60,10 @@
 16b-JJ
 =8
 2g
-=9:|!|:
-!!!Begin-Modulation
-*B-:
 *>A
+!!!Begin-Modulation
+=9:|!|:
+*B-:
 =1
 !LO:TX:a:i:t=G-minor
 (8qd/
@@ -113,10 +113,10 @@
 16b-JJ
 =8
 2g
-=9:|!|:
-!!!Begin-Modulation
-*B-:
 *>B
+!!!Begin-Modulation
+=9:|!|:
+*B-:
 !LO:TX:a:i:t=Bb-major
 8ddL
 16ee-L
@@ -207,8 +207,8 @@
 =24
 4g
 4g
-=:|!
 *>B
+=:|!
 !LO:TX:a:i:t=Bb-major
 8ddL
 16ee-L

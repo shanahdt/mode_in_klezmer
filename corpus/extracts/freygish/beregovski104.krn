@@ -9,10 +9,10 @@
 *part1
 *staff1
 *clefG2
+*>A
 *k[b-e-a-]
 *G:frey
 *M2/4
-*>A
 =1-
 !LO:TX:a:i:t=G-freygish
 8gL
@@ -93,6 +93,7 @@
 =10
 4g
 4r
+*>B
 !!!Begin-Modulation
 *G:frey
 !LO:TX:a:i:t=G-freygish
@@ -114,14 +115,14 @@
 12a-XL
 12g
 12fJ
-!!!End-Modulation1
 *>B1
+!!!End-Modulation1
 =21
 2g
 =22
 2gg
-!!!End-Modulation2
 *>B
+!!!End-Modulation2
 *k[b-e-]
 !LO:TX:a:i:t=Bb-major
 2cc
@@ -166,8 +167,8 @@
 12a-XL
 12g
 12fJ
-!!!End-Modulation1
 *>B2
+!!!End-Modulation1
 =23:|!
 2g
 =24

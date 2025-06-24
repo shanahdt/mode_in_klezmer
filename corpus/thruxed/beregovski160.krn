@@ -89,10 +89,10 @@
 =9:|!
 4.g
 8r
-=10!|:
-!!!Begin-Modulation
-*D:
 *>B
+!!!Begin-Modulation
+=10!|:
+*D:
 !LO:TX:a:i:t=D-major
 !LO:TX:a:t="Segno"
 8a
@@ -197,10 +197,10 @@
 !LO:TX:b:Bi:t=Fine
 4.d
 8r
+*>C
 !!!End-Modulation
 *G:
 =19!|:
-*>C
 !LO:TX:a:i:t=G-major
 2dd
 =20

@@ -114,10 +114,10 @@
 16b-JJ
 4g)
 8f
-=10!|:
-!!!Begin-Modulation
-*B-:
 *>B
+!!!Begin-Modulation
+=10!|:
+*B-:
 !LO:TX:a:i:t=Bb-major
 8fL
 16b-L
@@ -172,8 +172,8 @@
 16gJJ)
 =17
 2g
-=:|!
 *>B
+=:|!
 !LO:TX:a:i:t=Bb-major
 8fL
 16b-L

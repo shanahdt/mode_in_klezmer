@@ -238,12 +238,12 @@
 *>B2
 =19:|!
 4.g
+*>C
 !!!Begin-Modulation
 *B-:
 !LO:TX:a:i:t=Bb-major
 8f
 =20!|:
-*>C
 [4dd
 16ddLL]
 16a
@@ -340,12 +340,12 @@
 16ccLL
 16b-JJ
 4b-
+*>D
 !!!End-Modulation
 *g:
 !LO:TX:a:i:t=G-minor
 8g
 =28!|:
-*>D
 4.cc
 8dd
 =29

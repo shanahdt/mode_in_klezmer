@@ -110,11 +110,11 @@
 =
 4b-
 =10||
+*>B
 !!!End-Modulation
 *g:
 !LO:TX:a:i:t=G-minor
 8b-
-*>B
 =11!|:
 *^
 8b-	16b-LL
@@ -160,10 +160,9 @@
 4.g
 =18
 4.gg
+*>B
 !!!End-Modulation2
 =19:|!
-
-*>B
 =11!|:
 *^
 8b-	16b-LL

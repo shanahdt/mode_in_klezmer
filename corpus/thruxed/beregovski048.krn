@@ -196,11 +196,11 @@
 =17:|!
 4g
 4r
+*>C
 !!!Begin-Modulation
 *B-:
 !LO:TX:a:i:t=Bb-major
 =18!|:
-*>C
 4.dd
 8cc
 =19
@@ -277,11 +277,11 @@
 =25
 4b-
 4r
+*>D
 !!!End-Modulation
 *g:
 !LO:TX:a:i:t=G-minor
 =26:|!|:
-*>D
 4cc
 (8ccL
 16b-L

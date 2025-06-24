@@ -57,8 +57,8 @@
 12a-J
 =8
 2.g
-=9:|!|:
 *>A
+=9:|!|:
 =1!|:
 4bn
 (8qdd/
@@ -101,6 +101,7 @@
 12a-J
 =8
 2.g
+*>B
 !!!Begin-Modulation
 *G:frey
 !LO:TX:a:i:t=G-freygish
@@ -145,8 +146,8 @@
 4gg
 =20
 2.gg
-=:|!
 *>B
+=:|!
 !!!Begin-Modulation
 *G:frey
 !LO:TX:a:i:t=G-freygish

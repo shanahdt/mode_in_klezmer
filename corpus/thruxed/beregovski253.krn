@@ -110,8 +110,8 @@
 !LO:TX:b:Bi:t=Fine
 2g
 4r
+*>B
 =10!|:
-*>B
 8ggL
 8ff#J
 8ggL
@@ -198,10 +198,10 @@
 8aJ
 =17
 2.g
-!!!Begin-Modulation
-*g:dor
-=18:|!|:
 *>C
+!!!Begin-Modulation
+*g:dor
+=18:|!|:
 !LO:TX:a:i:t=G-raised-fourth
 8ddL
 8cc#X
@@ -255,9 +255,9 @@
 !LO:TX:b:Bi:t=Da Capo al Fine
 (8qff#/
 2.gg)
+*>C
 !!!End-Modulation
 =:|!
-*>C
 !LO:TX:a:i:t=G-raised-fourth
 8ddL
 8cc#X

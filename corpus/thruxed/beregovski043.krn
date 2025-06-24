@@ -128,11 +128,11 @@
 =12
 4g
 4G
+*>C
 !!!Begin-Modulation
 *B-:
 !LO:TX:a:i:t=Bb-major
 =13!|:
-*>C
 [4b-
 16b-LL]
 16f

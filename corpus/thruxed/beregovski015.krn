@@ -408,9 +408,9 @@
 [2g
 =36
 8gL]
+*>C
 !!!Begin-Modulation
 *C:
-*>C
 !LO:TX:a:i:t=C-major
 8gJ
 8ccL
@@ -588,11 +588,11 @@
 24ddJJ
 8ccL
 8ddJ
+*>D
 !!!End-Modulation
 *G:frey
 !LO:TX:a:i:t=G-freygish
 =55!|:
-*>D
 *k[b-e-a-]
 4dd
 4gg

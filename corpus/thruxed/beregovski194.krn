@@ -81,10 +81,10 @@
 =10
 4g
 4r
-=11!|:
-!!!Begin-Modulation
-*B-:
 *>B
+!!!Begin-Modulation
+=11!|:
+*B-:
 !LO:TX:a:i:t=Bb-major
 16ddLL
 16ee-
@@ -196,8 +196,8 @@
 8aJ
 =34
 2g
-=:|!
 *>B
+=:|!
 !LO:TX:a:i:t=Bb-major
 16ddLL
 16ee-

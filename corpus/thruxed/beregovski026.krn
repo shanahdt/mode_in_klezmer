@@ -9,9 +9,9 @@
 *I"P1
 *clefG2
 *k[b-e-a-]
+*>A
 *G:frey
 *M2/4
-*>A
 =1
 !LO:TX:a:i:t=G-freygish
 (8qg/
@@ -408,11 +408,11 @@
 !LO:TX:b:Bi:t=Fine
 [4g
 8g]
+*>C
 !!!Begin-Modulation
 *c:
 !LO:TX:a:i:t=C-minor
 =28:|!|:
-*>C
 (4.ccT
 8g)
 =29

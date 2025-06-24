@@ -9,10 +9,10 @@
 *part1
 *staff1
 *clefG2
+*>A
 *k[b-e-a-]
 *G:frey
 *M2/4
-*>A
 !LO:TX:a:i:t=G-freygish
 8g
 =1
@@ -84,10 +84,10 @@
 8r
 =16:|!
 8r
+*>A
 !!!Begin-Modulation
 *G:frey
 =25:|!|:
-*>B
 !LO:TX:a:i:t=C-major
 8ccL
 8ddJ
@@ -111,7 +111,6 @@
 !!!Begin-Modulation
 *G:frey
 =25:|!|:
-*>C
 !LO:TX:a:i:t=G-freygish
 8ee-L
 8ddJ

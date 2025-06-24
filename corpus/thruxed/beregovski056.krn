@@ -8,11 +8,11 @@
 *thru
 *I"P1
 *clefG2
+*>A
 *k[b-e-]
 !!!Begin-Modulation
 *g:
 *M2/4
-*>A
 =1
 !LO:TX:a:i:t=G-minor
 !!!Begin-Modulation
@@ -50,8 +50,8 @@
 16b-	.
 16aJJ	.
 4g)	.
-=5:|!|:	=5:|!|:
 *>A
+=5:|!|:	=5:|!|:
 =1
 !LO:TX:a:i:t=G-minor
 !!!Begin-Modulation
@@ -89,8 +89,8 @@
 16b-	.
 16aJJ	.
 4g)	.
+*>B	*>B
 =5:|!|:	=5:|!|:
-*>B	*>B
 (8ddL	4G
 8gJ)	.
 (8b-TL	4G
@@ -120,9 +120,9 @@
 4g	4G
 *v	*v
 =9:|!
+*>B	*>B
 !!!End-Modulation
 *g:dor
-*>B	*>B
 (8ddL	4G
 8gJ)	.
 (8b-TL	4G
@@ -152,9 +152,9 @@
 4g	4G
 *v	*v
 =9:|!
-!!!End-Modulation
-*g:dor
 *>C
+!!!End-Modulation
+*g:dor
 *k[b-]
 !!!End-Modulation
 *g:dor
@@ -244,8 +244,8 @@
 16bb-
 16aaJJ
 4gg
-=25!|:
 *>D
+=25!|:
 (8qff#X/
 2gg)
 =26
@@ -332,8 +332,8 @@
 8G 8d 8b- 8gg
 8r
 4r
-==
 *>D
+==
 (8qff#X/
 2gg)
 =26

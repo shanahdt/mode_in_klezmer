@@ -7,10 +7,10 @@
 *thru
 *I"P1
 *clefG2
+*>A
 *k[b-e-]
 *g:
 *M2/4
-*>A
 !!!Begin-Modulation
 *B-:
 =1
@@ -70,10 +70,10 @@
 16aJJ
 =8
 2g
+*>A
 =9:|!|:
 !!!Begin-Modulation
 *B-:
-*>A
 !!!Begin-Modulation
 *B-:
 =1
@@ -133,10 +133,10 @@
 16aJJ
 =8
 2g
-=9:|!|:
-!!!Begin-Modulation
-*B-:
 *>B
+=9:|!|:
+!!!Begin-Modulation
+*B-:
 !LO:TX:a:t="Segno"
 !LO:TX:a:i:t=Bb-major
 16aLL

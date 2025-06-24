@@ -161,10 +161,10 @@
 *>A2
 =17:|!
 2g
+*>B
 =18!|:
 !!!Begin-Modulation
 *B-:
-*>B
 !LO:TX:a:i:t=Bb-major
 8r
 8dL

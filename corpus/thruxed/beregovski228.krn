@@ -58,8 +58,8 @@
 16aJJ
 8btL
 8gJ
+*>B
 =9!|:
-*>B
 !LO:TX:a:t="Segno"
 8.dL
 16gJk
@@ -81,10 +81,10 @@
 8aJ
 !LO:TX:b:Bi:t=Fine
 4g
-=13:|!
-!!!Begin-Modulation
-*C:
 *>B
+!!!Begin-Modulation
+=13:|!
+*C:
 !LO:TX:a:t="Segno"
 8.dL
 16gJk
@@ -106,10 +106,10 @@
 8aJ
 !LO:TX:b:Bi:t=Fine
 4g
-=13:|!
-!!!Begin-Modulation
-*C:
 *>C
+!!!Begin-Modulation
+=13:|!
+*C:
 !LO:TX:a:i:t=C-major
 2gg
 =14

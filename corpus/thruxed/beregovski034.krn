@@ -133,11 +133,11 @@
 16bn
 16a-JJ
 4g
+*>B
 !!!Begin-Modulation
 *c:
 !LO:TX:a:i:t=C-minor
 =12!|:
-*>B
 8ccL
 8ddJ
 (8qff/
@@ -241,9 +241,9 @@
 =20:|!
 4gg
 8r
+*>C
 !!!End-Modulation
 *G:frey
-*>C
 !LO:TX:a:i:t=G-freygish
 24ccLL
 24dd

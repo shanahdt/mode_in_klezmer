@@ -146,8 +146,8 @@
 16aJJ
 !LO:TX:b:Bi:t=Fine
 8g
+*>B
 =10!|:
-*>B
 (16f#LL
 16a
 16d
@@ -216,10 +216,10 @@
 16cc
 16aJJ
 4g
+*>B
 !!!Begin-Modulation
 *e:
 =18:|!|:
-*>B
 (16f#LL
 16a
 16d
@@ -288,10 +288,10 @@
 16cc
 16aJJ
 4g
-!!!Begin-Modulation
-*e:
-=18:|!|:
 *>C
+!!!Begin-Modulation
+*e:
+=18:|!|:
 !LO:TX:a:i:t=E-minor
 16ff#LL
 16gg
@@ -361,9 +361,9 @@
 16g
 16f#JJ
 4e
+*>C
 !!!End-Modulation
 =:|!
-*>C
 !LO:TX:a:i:t=E-minor
 16ff#LL
 16gg

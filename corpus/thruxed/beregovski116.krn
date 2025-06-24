@@ -9,11 +9,11 @@
 *part1
 *staff1
 *clefG2
+*>A
 *k[b-]
 *g:dor
 *M2/4
 =1-
-*>A
 !LO:TX:a:i:t=G-raised-fourth
 8dL
 8g
@@ -62,8 +62,8 @@
 =8
 4g
 4g
-=9:|!|:
 *>A
+=9:|!|:
 !LO:TX:a:i:t=G-raised-fourth
 8dL
 8g
@@ -112,8 +112,8 @@
 =8
 4g
 4g
-=9:|!|:
 *>B
+=9:|!|:
 *>B1
 =16
 2gg
@@ -121,10 +121,10 @@
 *>B2
 =17:|!
 2g
+*>C
 !!!Begin-Modulation
 *G:
 =18!|:
-*>C
 *k[f#]
 !LO:TX:a:i:t=G-major
 !LO:TX:a:t="Segno"
@@ -182,8 +182,8 @@
 4g
 !LO:TX:b:Bi:t=Fine
 4g
-=26:|!|:
 *>C
+=26:|!|:
 *k[f#]
 !LO:TX:a:i:t=G-major
 !LO:TX:a:t="Segno"
@@ -241,8 +241,8 @@
 4g
 !LO:TX:b:Bi:t=Fine
 4g
-=26:|!|:
 *>D
+=26:|!|:
 *k[b-]
 2gg
 =27
@@ -320,8 +320,8 @@
 16b-JJ
 =37
 2g
-=:|!
 *>D
+=:|!
 *k[b-]
 2gg
 =27

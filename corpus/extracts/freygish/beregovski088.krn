@@ -10,9 +10,9 @@
 *staff1
 *clefG2
 *k[b-e-a-]
+*>A
 *G:frey
 *M2/4
-*>A
 =1-
 !LO:TX:a:i:t=G-freygish
 8gL
@@ -126,5 +126,6 @@
 !LO:TX:b:Bi:t=Fine
 4g
 4gg
+*>C
 !!!Begin-Modulation
 *-

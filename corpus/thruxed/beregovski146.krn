@@ -103,10 +103,10 @@
 4g
 !LO:TX:b:Bi:t=Fine
 4gg
+*>B
 =9:|!|:
 !!!Begin-Modulation
 *B-:
-*>B
 !LO:TX:a:i:t=Bb-major
 4dd
 (16ddLL
@@ -155,8 +155,8 @@
 !LO:TX:b:Bi:t=Da Capo al Fine
 4g
 4g
-=:|!
 *>B
+=:|!
 !LO:TX:a:i:t=Bb-major
 4dd
 (16ddLL

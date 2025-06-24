@@ -170,6 +170,7 @@
 =18
 ((8qa/
 2g)
+*>B
 !!!Begin-Modulation
 *g:dor
 =19||
@@ -179,7 +180,6 @@
 8g
 8b-
 8ddJ
-*>B
 =20!|:
 4.gg
 8ff#X
@@ -259,10 +259,10 @@
 8cc#J
 =29
 2dd
+*>C
 !!!End-Modulation
 *G:
 =30||
-*>C
 *k[f#]
 !LO:TX:a:i:t=G-major
 4dd

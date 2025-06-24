@@ -135,11 +135,11 @@
 8b-J
 8g
 8r
+*>C
 !!!Begin-Modulation
 *B-:
 !LO:TX:a:i:t=Bb-major
 =13!|:
-*>C
 8b-L
 16ddL
 16ffJJ
@@ -199,11 +199,11 @@
 16b-JJ)
 4b-
 8b-
+*>D
 !!!End-Modulation
 *g:
 !LO:TX:a:i:t=G-minor
 =19!|:
-*>D
 (16ddLL
 16bb-)
 (16bb-

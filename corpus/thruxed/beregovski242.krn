@@ -123,9 +123,9 @@
 =9:|!
 4g
 8g
+*>B
 =10!|:
 !!!End-Modulation
-*>B
 !!!Begin-Modulation
 *c:
 !LO:TX:a:i:t=C-minor
@@ -193,11 +193,11 @@
 =19
 4dd
 8g
+*>B
 =20:|!|:
 !!!End-Modulation
 !!!Begin-Modulation
-*G:frey
-*>B
+*c:
 !LO:TX:a:i:t=G-Freygish
 16ccLL
 16cc
@@ -263,10 +263,10 @@
 =19
 4dd
 8g
+*>C
 =20:|!|:
 !!!End-Modulation
 !!!Begin-Modulation
-*>C
 *G:frey
 !LO:TX:a:i:t=G-freygish
 4ffn

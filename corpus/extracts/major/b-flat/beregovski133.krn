@@ -1,0 +1,68 @@
+!!!OTL: 133. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!:	*B-:
+!!!One_Mode:	no
+**kern
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+!!!Begin-Modulation
+*B-:
+*M2/4
+*>A
+8f
+=1
+!LO:TX:a:i:t=Bb-major
+16b-LL
+16ccJJ
+4dd
+8dd
+=2
+8r
+8dd
+4dd
+=3
+16ddLL
+16cc
+16ff
+16ee-JJ
+16ee-LL
+16dd
+16dd
+16ccJJ
+=4
+8.ddL
+16ccJk
+16ddLL
+16ccJ
+8b-J
+=5
+16b-LL
+16ccJJ
+4dd
+8dd
+=6
+8r
+8dd
+4dd
+=7
+16ddLL
+16cc
+16ff
+16ee-JJ
+16ee-LL
+16dd
+16dd
+16ccJJ
+=8
+8.ddL
+16ccJk
+16ddLL
+16ccJ
+8b-J
+*>B
+!!!End-Modulation
+*-

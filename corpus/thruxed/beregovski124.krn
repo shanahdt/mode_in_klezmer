@@ -118,8 +118,8 @@
 2g
 !!!Begin-Modulation
 *c:
-=21||
 *>B
+=21||
 !LO:TX:a:i:t=C-minor
 4gg
 4dd
@@ -210,8 +210,8 @@
 16ddJJ
 =36
 2b-
-=37!|:
 *>C
+=37!|:
 8.aL
 16b-Jk
 8ccL

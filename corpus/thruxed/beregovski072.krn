@@ -7,10 +7,10 @@
 *thru
 *I"P1
 *clefG2
+*>A
 *k[b-e-]
 *g:
 *M3/4
-*>A
 =1
 !LO:TX:a:i:t=G-minor
 4d
@@ -48,11 +48,11 @@
 8aJ
 =8
 2.g
+*>B
 !!!Begin-Modulation
 *B-:
 !LO:TX:a:i:t=Bb-major
 =9||
-*>B
 4f
 4b-
 4cc
@@ -90,11 +90,11 @@
 4b-
 4r
 4r
+*>C
 !!!End-Modulation
 *g:
 !LO:TX:a:i:t=G-minor
 =17!|:
-*>C
 4b-
 4dd
 (8qdd/

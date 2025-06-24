@@ -8,10 +8,10 @@
 *thru
 *I"P1
 *clefG2
+*>A
 *k[b-]
 *g:dor
 *M2/4
-*>A
 =1
 !LO:TX:a:i:t=G-raised-fourth
 8ggL
@@ -95,8 +95,8 @@
 !!!Begin-Modulation
 *G:frey
 !LO:TX:a:i:t=G-freygish
-=15!|:
 *>B
+=15!|:
 *k[b-e-a-]
 (16gLL
 16a-)
@@ -208,8 +208,8 @@
 16gJ)
 8gJ
 16r
-=23||
 *>C
+=23||
 !!!End-Modulation
 !!!Begin-Modulation
 *C:
@@ -272,8 +272,8 @@
 !!!Begin-Modulation
 *G:frey
 !LO:TX:a:i:t=G-freygish
-=32||
 *>D
+=32||
 *k[b-e-a-]
 16ddLL
 16bnJJ

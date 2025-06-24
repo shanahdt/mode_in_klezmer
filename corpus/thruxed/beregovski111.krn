@@ -9,11 +9,11 @@
 *part1
 *staff1
 *clefG2
+*>A
 *k[b-]
 *g:dor
 *M2/4
 =1-
-*>A
 !LO:TX:a:i:t=G-raised-fourth
 (>8qff#X/
 8gg)
@@ -190,10 +190,10 @@
 8gJ
 8g
 8r
+*>C
 !!!Begin-Modulation
 *B-:
 =19!|:
-*>C
 *k[b-e-]
 !LO:TX:a:i:t=Bb-major
 8r

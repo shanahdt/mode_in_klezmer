@@ -206,8 +206,8 @@
 !!!Begin-Modulation2
 =29:|!
 2.g
-=30!|:
 *>C
+=30!|:
 (8aL
 8b-)
 (8cc#X
@@ -272,10 +272,10 @@
 =45
 2.g
 !!!End-Modulation
+*>D
 !!!Begin-Modulation
 *G:
 =46:|!|:
-*>D
 *k[f#]
 !LO:TX:a:i:t=G-major
 4b
@@ -331,9 +331,9 @@
 8dJ
 =61
 2.g
-=:|!
-!!!End-Modulation
 *>D
+!!!End-Modulation
+=:|!
 *k[f#]
 !LO:TX:a:i:t=G-major
 4b

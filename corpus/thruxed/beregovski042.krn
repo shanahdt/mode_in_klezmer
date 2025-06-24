@@ -344,9 +344,9 @@
 8b-
 8r
 =||
+*>E
 !!!End-Modulation
 *g:
-*>E
 !LO:TX:a:i:t=G-minor
 8dd
 =37
@@ -404,11 +404,11 @@
 16ddJ
 8ddJ
 8r
+*>F
 !!!End-Modulation
 *g:
 !LO:TX:a:i:t=G-minor
 8dd
-*>F
 =45!|:
 (8.bb-L
 16aaJk)

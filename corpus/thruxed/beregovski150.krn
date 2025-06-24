@@ -77,11 +77,11 @@
 !LO:TX:b:Bi:t=Fine
 4g
 8r
+*>A
 =8:|!
 *k[b-]
 !!!Begin-Modulation
 *g:dor
-*>A
 !LO:TX:a:i:t=G-major
 8a
 =1
@@ -147,11 +147,11 @@
 !LO:TX:b:Bi:t=Fine
 4g
 8r
+*>fanfare
 =8:|!
 *k[b-]
 !!!Begin-Modulation
 *g:dor
-*>fanfare
 !LO:TX:a:i:t=G-raised-fourth
 (16cc#XLL
 16eeJJ

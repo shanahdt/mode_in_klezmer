@@ -50,11 +50,11 @@
 8a-J
 =8
 2g
+*>A
 !!!Begin-Modulation
 *G:frey
 !LO:TX:a:i:t=G-freygish
 =17!|:
-*>C
 16ffLL
 16ee-
 16dd
@@ -110,8 +110,8 @@
 =21:|!
 8a-
 4.g
-=22||
 *>D
+=22||
 4cc
 8.bnL
 16ddJk

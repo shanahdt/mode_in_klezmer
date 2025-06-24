@@ -1,0 +1,309 @@
+!!!OTL: 138. Freylekhs
+!!!Genre:	Freylekhs
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!One_Mode:	no
+**kern
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*g:
+*M2/4
+*>A
+=1
+!LO:TX:a:i:t=G-minor
+*^
+(16b-LL	2G
+16ddJ)	.
+8dd'J	.
+(8qee-/	.
+16ddLL)	.
+16cc	.
+16b-	.
+16aJJ	.
+=2	=2
+(16gLL	2G
+16ddJ)	.
+8dd'J	.
+(16gLL	.
+16a	.
+16b-	.
+16gJJ)	.
+=3	=3
+(16b-LL	2G
+16ddJ)	.
+8ddJ	.
+(8qdd/	.
+16ccLL)	.
+16b-	.
+16a	.
+16gJJ	.
+=4	=4
+(16b-LL	2G
+16ddJ)	.
+8ddJ	.
+4g	.
+*v	*v
+*>A
+=5:|!|:
+=1
+!LO:TX:a:i:t=G-minor
+*^
+(16b-LL	2G
+16ddJ)	.
+8dd'J	.
+(8qee-/	.
+16ddLL)	.
+16cc	.
+16b-	.
+16aJJ	.
+=2	=2
+(16gLL	2G
+16ddJ)	.
+8dd'J	.
+(16gLL	.
+16a	.
+16b-	.
+16gJJ)	.
+=3	=3
+(16b-LL	2G
+16ddJ)	.
+8ddJ	.
+(8qdd/	.
+16ccLL)	.
+16b-	.
+16a	.
+16gJJ	.
+=4	=4
+(16b-LL	2G
+16ddJ)	.
+8ddJ	.
+4g	.
+*v	*v
+*>B
+=5:|!|:
+(16ddLL
+16gg
+16ff#X
+16ggJJ)
+(16aaLL
+16bb-
+16aa
+16ggJJ)
+=6
+(16ffnLL
+16ee-
+16dd
+16ccJJ)
+4dd
+=7
+(16ccLL
+16b-
+16a
+16gJJ)
+4b-
+=8
+(16ccLL
+16b-
+16a
+16gJJ)
+4dd
+=9
+(16ddLL
+16gg
+16ff#X
+16ggJJ)
+16aaLL
+16bb-
+16aa
+16ggJJ
+=10
+(16ffnLL
+16ee-
+16dd
+16ccJJ)
+4dd
+=11
+16ccLL
+16b-
+16a
+16b-JJ
+16ddLL
+16cc
+16b-
+16aJJ
+=12
+4g
+4gg
+*>B
+=13:|!|:
+(16ddLL
+16gg
+16ff#X
+16ggJJ)
+(16aaLL
+16bb-
+16aa
+16ggJJ)
+=6
+(16ffnLL
+16ee-
+16dd
+16ccJJ)
+4dd
+=7
+(16ccLL
+16b-
+16a
+16gJJ)
+4b-
+=8
+(16ccLL
+16b-
+16a
+16gJJ)
+4dd
+=9
+(16ddLL
+16gg
+16ff#X
+16ggJJ)
+16aaLL
+16bb-
+16aa
+16ggJJ
+=10
+(16ffnLL
+16ee-
+16dd
+16ccJJ)
+4dd
+=11
+16ccLL
+16b-
+16a
+16b-JJ
+16ddLL
+16cc
+16b-
+16aJJ
+=12
+4g
+4gg
+*>C
+=13:|!|:
+(4.gg
+8dd)
+=14
+(4.gg
+8ff#X)
+=15
+(8ggTL
+8ff#XJ)
+(8ggTL
+8ff#J)
+=16
+4.gg
+8gg
+!!!Begin-Modulation
+*g:
+!LO:TX:a:i:t=G-minor
+=21
+16b-LL
+16ccnJ
+8ddJ
+((8qdd/
+8ccL))
+16b-L
+16aJJ
+=22
+4.b-
+8f
+=23
+4b-
+(8qb-/
+16a-XLL)
+16gJ
+8a-J
+=24
+4.g
+8f
+=25
+8fL
+16b-L
+16ddJJ
+8ffL
+16ee-L
+16ddJJ
+=26
+4.cc
+8a
+=27
+8b-L
+16b-L
+16ddJJ
+8aL
+16aL
+16ddJJ
+=28
+2g
+*>C
+==:|!
+(4.gg
+8dd)
+=14
+(4.gg
+8ff#X)
+=15
+(8ggTL
+8ff#XJ)
+(8ggTL
+8ff#J)
+=16
+4.gg
+8gg
+!!!Begin-Modulation
+*g:
+!LO:TX:a:i:t=G-minor
+=21
+16b-LL
+16ccnJ
+8ddJ
+((8qdd/
+8ccL))
+16b-L
+16aJJ
+=22
+4.b-
+8f
+=23
+4b-
+(8qb-/
+16a-XLL)
+16gJ
+8a-J
+=24
+4.g
+8f
+=25
+8fL
+16b-L
+16ddJJ
+8ffL
+16ee-L
+16ddJJ
+=26
+4.cc
+8a
+=27
+8b-L
+16b-L
+16ddJJ
+8aL
+16aL
+16ddJJ
+=28
+2g
+==:|!
+*-
