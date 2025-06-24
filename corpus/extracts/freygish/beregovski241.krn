@@ -9,214 +9,176 @@
 *I"P1
 *clefG2
 *k[b-e-a-]
-!! *G:frey
-!! *M3/4
-!! *>A
-!! =1
-!! !LO:TX:a:i:t=G-freygish
-!! 2bn
-!! 4cc
-!! =2
-!! 2dd
-!! 4ee-
-!! =3
-!! 2dd
-!! 4cc
-!! =4
-!! 2bn
-!! 12a-L
-!! 12g
-!! 12fJ
-!! =5
-!! 4g
-!! 4a-
-!! 4bn
-!! =6
-!! 2bn
-!! 12a-L
-!! 12g
-!! 12fJ
-!! =7
-!! 2.g
-!! =8
-!! 2.gg
-!! =9!|:
-!! *>B
-!! (8ffL
-!! 8ggJ
-!! 12aa-L
-!! 12gg
-!! 12ffJ
-!! 12ee-L
-!! 12dd
-!! 12ccJ)
-!! =10
-!! (8ddL
-!! 8ee-J
-!! 12ffL
-!! 12ee-
-!! 12ddJ
-!! 12ccL
-!! 12bn
-!! 12a-J)
-!! =11
-!! (16bnLL
-!! 16cc
-!! 16dd
-!! 16ee-JJ
-!! 16ffLL
-!! 16gg
-!! 16aa-
-!! 16ggJJ
-!! 16ffLL
-!! 16ee-
-!! 16dd
-!! 16ccJJ)
-!! =12
-!! 2bn
-!! 12a-L
-!! 12g
-!! 12fJ
-!! =13
-!! 2f
-!! 12ee-L
-!! 12dd
-!! 12ccJ
-!! =14
-!! 2bn
-!! 12a-L
-!! 12g
-!! 12fJ
-!! *>B1
-!! =15
-!! 2.g
-!! =16
-!! 2.gg
-!! *>B
-!! (8ffL
-!! 8ggJ
-!! 12aa-L
-!! 12gg
-!! 12ffJ
-!! 12ee-L
-!! 12dd
-!! 12ccJ)
-!! =10
-!! (8ddL
-!! 8ee-J
-!! 12ffL
-!! 12ee-
-!! 12ddJ
-!! 12ccL
-!! 12bn
-!! 12a-J)
-!! =11
-!! (16bnLL
-!! 16cc
-!! 16dd
-!! 16ee-JJ
-!! 16ffLL
-!! 16gg
-!! 16aa-
-!! 16ggJJ
-!! 16ffLL
-!! 16ee-
-!! 16dd
-!! 16ccJJ)
-!! =12
-!! 2bn
-!! 12a-L
-!! 12g
-!! 12fJ
-!! =13
-!! 2f
-!! 12ee-L
-!! 12dd
-!! 12ccJ
-!! =14
-!! 2bn
-!! 12a-L
-!! 12g
-!! 12fJ
-!! *>B2
-!! =17:|!
-!! 2.g
-!! =18
-!! 4G
-!! 4r
-!! 4r
-!! =19||
-!! *>C
-!! *k[b-]
-!! !!!Begin-Modulation
-!! *F:
-!! !LO:TX:a:i:t=F-major
-!! 4f
-!! 4a
-!! 4cc
-!! =20
-!! 4b-
-!! 4a
-!! 12b-L
-!! 12a
-!! 12gJ
-!! =21
-!! [2.a
-!! =22
-!! 4a]
-!! 4r
-!! 4r
-!! =23
-!! 4f
-!! 4a
-!! 4cc
-!! =24
-!! 4b-
-!! 4a
-!! 12b-L
-!! 12a
-!! 12gJ
-!! =25
-!! [2.f
-!! =26
-!! 4f]
-!! 4r
-!! 4r
-!! =27
-!! 4f
-!! 4a
-!! 4dd
-!! !!!End-Modulation
-!! *G:frey
-!! !LO:TX:a:i:t=G-freygish
-!! =28
-!! 4cc
-!! 4bn
-!! 12ccL
-!! 12b
-!! 12a-XJ
-!! =29
-!! [2.bn
-!! =30
-!! 2b]
-!! 12a-XL
-!! 12g
-!! 12fJ
-!! =31
-!! 4g
-!! 4a-X
-!! 4bn
-!! =32
-!! 4a-X
-!! 4g
-!! 12a-L
-!! 12g
-!! 12fJ
-!! =33
-!! 2.g
-!! =34
-!! 4G
-!! 4r
-!! 4r
-!! ==
+*G:frey
+*M3/4
+*>A
+=1
+!LO:TX:a:i:t=G-freygish
+2bn
+4cc
+=2
+2dd
+4ee-
+=3
+2dd
+4cc
+=4
+2bn
+12a-L
+12g
+12fJ
+=5
+4g
+4a-
+4bn
+=6
+2bn
+12a-L
+12g
+12fJ
+=7
+2.g
+=8
+2.gg
+=9!|:
+*>B
+(8ffL
+8ggJ
+12aa-L
+12gg
+12ffJ
+12ee-L
+12dd
+12ccJ)
+=10
+(8ddL
+8ee-J
+12ffL
+12ee-
+12ddJ
+12ccL
+12bn
+12a-J)
+=11
+(16bnLL
+16cc
+16dd
+16ee-JJ
+16ffLL
+16gg
+16aa-
+16ggJJ
+16ffLL
+16ee-
+16dd
+16ccJJ)
+=12
+2bn
+12a-L
+12g
+12fJ
+=13
+2f
+12ee-L
+12dd
+12ccJ
+=14
+2bn
+12a-L
+12g
+12fJ
+*>B1
+=15
+2.g
+=16
+2.gg
+*>B
+(8ffL
+8ggJ
+12aa-L
+12gg
+12ffJ
+12ee-L
+12dd
+12ccJ)
+=10
+(8ddL
+8ee-J
+12ffL
+12ee-
+12ddJ
+12ccL
+12bn
+12a-J)
+=11
+(16bnLL
+16cc
+16dd
+16ee-JJ
+16ffLL
+16gg
+16aa-
+16ggJJ
+16ffLL
+16ee-
+16dd
+16ccJJ)
+=12
+2bn
+12a-L
+12g
+12fJ
+=13
+2f
+12ee-L
+12dd
+12ccJ
+=14
+2bn
+12a-L
+12g
+12fJ
+*>B2
+=17:|!
+2.g
+=18
+4G
+4r
+4r
+=19||
+*>C
+*k[b-]
+!!!Begin-Modulation
+*G:frey
+!LO:TX:a:i:t=G-freygish
+=28
+4cc
+4bn
+12ccL
+12b
+12a-XJ
+=29
+[2.bn
+=30
+2b]
+12a-XL
+12g
+12fJ
+=31
+4g
+4a-X
+4bn
+=32
+4a-X
+4g
+12a-L
+12g
+12fJ
+=33
+2.g
+=34
+4G
+4r
+4r
+==
 *-

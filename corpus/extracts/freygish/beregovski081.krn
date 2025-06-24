@@ -8,176 +8,176 @@
 *I"P1
 *clefG2
 *k[b-e-a-]
-!! *G:frey
-!! *M2/4
-!! *>A
-!! =1
-!! 16enLL
-!! 16fJJ
-!! 4g
-!! 8a-
-!! =2
-!! 16gLL
-!! 16a-JJ
-!! 4bn
-!! 8cc
-!! =3
-!! 16bnLL
-!! 16cc
-!! 16dd
-!! 16ccJJ
-!! 8.bL
-!! 16a-Jk
-!! =4
-!! 8.bntL
-!! 16a-Jk
-!! 16bLL
-!! 16a-
-!! 16g
-!! 16fJJ
-!! =5
-!! 16enLL
-!! 16fJJ
-!! 4g
-!! 8a-
-!! =6
-!! 16gLL
-!! 16a-JJ
-!! 4bn
-!! 8cc
-!! =7
-!! 16bnLL
-!! 16cc
-!! 16dd
-!! 16ccJJ
-!! 8.bL
-!! 16a-Jk
-!! =8
-!! (16a-LL
-!! 16gJJ)
-!! 4.g
-!! =9:|!|:
-!! *>A
-!! =1
-!! 16enLL
-!! 16fJJ
-!! 4g
-!! 8a-
-!! =2
-!! 16gLL
-!! 16a-JJ
-!! 4bn
-!! 8cc
-!! =3
-!! 16bnLL
-!! 16cc
-!! 16dd
-!! 16ccJJ
-!! 8.bL
-!! 16a-Jk
-!! =4
-!! 8.bntL
-!! 16a-Jk
-!! 16bLL
-!! 16a-
-!! 16g
-!! 16fJJ
-!! =5
-!! 16enLL
-!! 16fJJ
-!! 4g
-!! 8a-
-!! =6
-!! 16gLL
-!! 16a-JJ
-!! 4bn
-!! 8cc
-!! =7
-!! 16bnLL
-!! 16cc
-!! 16dd
-!! 16ccJJ
-!! 8.bL
-!! 16a-Jk
-!! =8
-!! (16a-LL
-!! 16gJJ)
-!! 4.g
-!! =9:|!|:
-!! *>B
-!! 4aa-
-!! 4gg
-!! =10
-!! 4.ff
-!! 8dd
-!! =11
-!! 4ee-
-!! 4dd
-!! =12
-!! 4.cc
-!! 8cc
-!! =13
-!! 16fLL
-!! 16bn
-!! 16dd
-!! 16bJJ
-!! 8ccL
-!! 8ccJ
-!! =14
-!! 8bnL
-!! 16a-L
-!! 16gJJ
-!! 4f
-!! =15
-!! 16enLL
-!! 16f
-!! 16g
-!! 16a-JJ
-!! 16bnLL
-!! 16cc
-!! 16b
-!! 16a-JJ
-!! =16
-!! 16a-LL
-!! 16gJJ
-!! 4.g
-!! =:|!
-!! *>B
-!! 4aa-
-!! 4gg
-!! =10
-!! 4.ff
-!! 8dd
-!! =11
-!! 4ee-
-!! 4dd
-!! =12
-!! 4.cc
-!! 8cc
-!! =13
-!! 16fLL
-!! 16bn
-!! 16dd
-!! 16bJJ
-!! 8ccL
-!! 8ccJ
-!! =14
-!! 8bnL
-!! 16a-L
-!! 16gJJ
-!! 4f
-!! =15
-!! 16enLL
-!! 16f
-!! 16g
-!! 16a-JJ
-!! 16bnLL
-!! 16cc
-!! 16b
-!! 16a-JJ
-!! =16
-!! 16a-LL
-!! 16gJJ
-!! 4.g
-!! =:|!
+*G:frey
+*M2/4
+*>A
+=1
+16enLL
+16fJJ
+4g
+8a-
+=2
+16gLL
+16a-JJ
+4bn
+8cc
+=3
+16bnLL
+16cc
+16dd
+16ccJJ
+8.bL
+16a-Jk
+=4
+8.bntL
+16a-Jk
+16bLL
+16a-
+16g
+16fJJ
+=5
+16enLL
+16fJJ
+4g
+8a-
+=6
+16gLL
+16a-JJ
+4bn
+8cc
+=7
+16bnLL
+16cc
+16dd
+16ccJJ
+8.bL
+16a-Jk
+=8
+(16a-LL
+16gJJ)
+4.g
+=9:|!|:
+*>A
+=1
+16enLL
+16fJJ
+4g
+8a-
+=2
+16gLL
+16a-JJ
+4bn
+8cc
+=3
+16bnLL
+16cc
+16dd
+16ccJJ
+8.bL
+16a-Jk
+=4
+8.bntL
+16a-Jk
+16bLL
+16a-
+16g
+16fJJ
+=5
+16enLL
+16fJJ
+4g
+8a-
+=6
+16gLL
+16a-JJ
+4bn
+8cc
+=7
+16bnLL
+16cc
+16dd
+16ccJJ
+8.bL
+16a-Jk
+=8
+(16a-LL
+16gJJ)
+4.g
+=9:|!|:
+*>B
+4aa-
+4gg
+=10
+4.ff
+8dd
+=11
+4ee-
+4dd
+=12
+4.cc
+8cc
+=13
+16fLL
+16bn
+16dd
+16bJJ
+8ccL
+8ccJ
+=14
+8bnL
+16a-L
+16gJJ
+4f
+=15
+16enLL
+16f
+16g
+16a-JJ
+16bnLL
+16cc
+16b
+16a-JJ
+=16
+16a-LL
+16gJJ
+4.g
+=:|!
+*>B
+4aa-
+4gg
+=10
+4.ff
+8dd
+=11
+4ee-
+4dd
+=12
+4.cc
+8cc
+=13
+16fLL
+16bn
+16dd
+16bJJ
+8ccL
+8ccJ
+=14
+8bnL
+16a-L
+16gJJ
+4f
+=15
+16enLL
+16f
+16g
+16a-JJ
+16bnLL
+16cc
+16b
+16a-JJ
+=16
+16a-LL
+16gJJ
+4.g
+=:|!
 *-

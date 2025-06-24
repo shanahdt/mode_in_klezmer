@@ -1,16 +1,16 @@
 !!!OTL: 242. Zhok
-!!!Genre:	Zhok
-!!!Mode:	Freygish
-!!!Listening/dance:	dance
-!!!One_Mode:	no
+!!!Genre: Zhok
+!!!Mode: Freygish
+!!!Listening/dance: dance
+!!!One_Mode: no
 **kern
 *I"P1
 *clefG2
 *k[b-e-a-]
-*G:frey
 *M3/8
 *>[A,A1,A,A2,B,B,C,C1,C,C2]
 *>A
+*G:frey
 !LO:TX:a:i:t=G-freygish
 8g
 =1
@@ -70,10 +70,10 @@
 =9:|!
 4g
 8g
+*>B
 =10!|:
 !!!Begin-Modulation
 *c:
-*>B
 !LO:TX:a:i:t=C-minor
 16ccLL
 16cc
@@ -120,9 +120,9 @@
 24ddJJ
 !!!End-Modulation
 !!!Begin-Modulation
+=16
 *c:dor
 !LO:TX:a:i:t=C-raised-fourth
-=16
 16ff#XLL
 16aanJJ
 8ggL
@@ -139,10 +139,10 @@
 =19
 4dd
 8g
+*>C
 =20:|!|:
 !!!End-Modulation
 *G:frey
-*>C
 !LO:TX:a:i:t=G-freygish
 4ffn
 8ee-

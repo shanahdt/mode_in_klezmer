@@ -8,459 +8,320 @@
 *I"P1
 *clefG2
 *k[b-e-a-]
-!! *G:frey
-!! *M2/4
-!! *>A
-!! !LO:TX:a:i:t=G-freygish
-!! 16gLL
-!! 16gJJ
-!! =1
-!! 8gL
-!! 8ee-
-!! 8dd
-!! 8ccJ
-!! =2
-!! 16ccLL
-!! 16ddJJ
-!! 4dd
-!! 24ccLL
-!! 24dd
-!! 24ccJJ
-!! =3
-!! 16bnLL
-!! 16cc
-!! 16dd
-!! 16ccJJ
-!! 16bLL
-!! 16a-
-!! 16g
-!! 16fJJ
-!! =4
-!! 4.g
-!! !!!Begin-Modulation
-!! *c:
-!! !LO:TX:a:i:t=C-minor
-!! 8g
-!! =5
-!! 4.cc
-!! 8dd
-!! =6
-!! 8ee-L
-!! 8dd
-!! 8ee-
-!! 8gJ
-!! =7
-!! 4.ccT
-!! 16ee-LL
-!! 16ddJJ
-!! =8
-!! 4cc
-!! 8r
-!! !!!End-Modulation
-!! *G:frey
-!! !LO:TX:a:i:t=G-freygish
-!! 8cc
-!! =9!|:
-!! *>B
-!! 8ddL
-!! 8ee-
-!! 8ff
-!! 8ggJ
-!! =10
-!! 4.ff
-!! 8ee-
-!! =11
-!! 8ffL
-!! 8ee-
-!! 8dd
-!! 8ccJ
-!! =12
-!! 4.gg
-!! 8g
-!! =13
-!! 8bnL
-!! 8cc
-!! 8dd
-!! 8ccJ
-!! =14
-!! 8bnL
-!! 8f
-!! 8gJ
-!! (8qb/
-!! 8a-J)
-!! *>B1
-!! =15
-!! 2g
-!! =16
-!! 4.gg
-!! 8gg
-!! *>B
-!! 8ddL
-!! 8ee-
-!! 8ff
-!! 8ggJ
-!! =10
-!! 4.ff
-!! 8ee-
-!! =11
-!! 8ffL
-!! 8ee-
-!! 8dd
-!! 8ccJ
-!! =12
-!! 4.gg
-!! 8g
-!! =13
-!! 8bnL
-!! 8cc
-!! 8dd
-!! 8ccJ
-!! =14
-!! 8bnL
-!! 8f
-!! 8gJ
-!! (8qb/
-!! 8a-J)
-!! *>B2
-!! =17:|!
-!! 2g
-!! =18
-!! 4g
-!! 8r
-!! 8g
-!! *>C
-!! =19
-!! !LO:TX:a:t="Segno"
-!! 8gg^
-!! 8r
-!! 8.ddL
-!! 16ccJk
-!! =20
-!! 16bnLL
-!! 16ccJJ
-!! 4dd
-!! 8g
-!! =21
-!! 8ccTL
-!! 8bn
-!! 8a-
-!! 8gJ
-!! =22
-!! (16bnLL
-!! 16a-JJ)
-!! 4g
-!! !!!Begin-Modulation
-!! *c:
-!! !LO:TX:a:i:t=C-minor
-!! 8g
-!! =23
-!! 8ccL
-!! 16ccL
-!! 16ccJJ
-!! 16ccLL
-!! 16cc
-!! 16cc
-!! 16ccJJ
-!! =24
-!! 8ccTL
-!! 8gJ
-!! 16ee-LL
-!! 16dd
-!! 16cc
-!! 16bnJJ
-!! =25
-!! (8qdd/
-!! [4cc)
-!! 16ccLL]
-!! 16g
-!! 16ee-
-!! 16ddJJ
-!! =26
-!! 4cc
-!! 8r
-!! !!!End-Modulation
-!! *G:frey
-!! !LO:TX:a:i:t=G-freygish
-!! 8dd
-!! =27
-!! (16ddLL
-!! 16ee-)
-!! 16ee-
-!! 16ee-JJ
-!! 16ee-LL
-!! 16ee-
-!! 16ee-
-!! 16ee-JJ
-!! =28
-!! 24ee-LL
-!! 24ff
-!! 24ee-J
-!! 8dd
-!! 8ff
-!! 8ee-J
-!! =29
-!! 4.dd
-!! 8r
-!! =30
-!! 2gg
-!! *>D
-!! =31!|:
-!! 8ffL
-!! 8gg
-!! 8aa-
-!! 8ggJ
-!! =32
-!! 4.ff
-!! 8ee-
-!! =33
-!! 8ffL
-!! 8ee-
-!! 8dd
-!! 8ccJ
-!! =34
-!! 4.gg
-!! 8g
-!! =35
-!! 8bnL
-!! 8cc
-!! 8dd
-!! 8ccJ
-!! =36
-!! 8bnL
-!! 8f
-!! 8gJ
-!! (8qb/
-!! 8a-J)
-!! !!!End-Modulation1
-!! *>D1
-!! =37
-!! 4g
-!! (8bnL
-!! 16gL
-!! 16bJJ
-!! =38
-!! 8ddL)
-!! (16bnL
-!! 16ddJJ
-!! (8.ggL)
-!! 16ffJk)
-!! !!!End-Modulation2
-!! *>D
-!! =31!|:
-!! 8ffL
-!! 8gg
-!! 8aa-
-!! 8ggJ
-!! =32
-!! 4.ff
-!! 8ee-
-!! =33
-!! 8ffL
-!! 8ee-
-!! 8dd
-!! 8ccJ
-!! =34
-!! 4.gg
-!! 8g
-!! =35
-!! 8bnL
-!! 8cc
-!! 8dd
-!! 8ccJ
-!! =36
-!! 8bnL
-!! 8f
-!! 8gJ
-!! (8qb/
-!! 8a-J)
-!! !!!End-Modulation1
-!! *>D2
-!! =39:|!
-!! 2g
-!! =
-!! !LO:TX:b:Bi:t=Fine
-!! 4.g
-!! =40||
-!! *k[b-e-]
-!! !!!Begin-Modulation
-!! *F:
-!! !LO:TX:a:i:t=F-major
-!! 24gLL
-!! 24a
-!! 24gJJ
-!! *>E
-!! =41
-!! 8fL
-!! 8aJ
-!! [4cc
-!! =42
-!! 8ccL]
-!! 16ddL
-!! 16ccJJ
-!! 8b-L
-!! 8aJ
-!! =43
-!! (16aLL
-!! 16ccJ)
-!! 8ccJ
-!! [4a
-!! =44
-!! 8aL]
-!! 24aL
-!! 24b-
-!! 24aJJ
-!! 8gL
-!! 8fJ
-!! =45
-!! 8aL
-!! 8b-
-!! 8cc
-!! 8ddJ
-!! =46
-!! 8ee-L
-!! 8dd
-!! 8cc
-!! 8bnJ
-!! =47
-!! (8qdd/
-!! 4.cc)
-!! 8a
-!! =48
-!! 8b-XL
-!! 8a
-!! 8g
-!! 8fJ
-!! !!!End-Modulation
-!! *G:frey
-!! !LO:TX:a:i:t=G-freygish
-!! =49
-!! 8gL
-!! 8bn
-!! 8b
-!! 8bJ
-!! =50
-!! 4bnt
-!! 8a-XL
-!! 8gJ
-!! =51
-!! 8ddL
-!! 8g
-!! 8g
-!! 8gJ
-!! =52
-!! 4.g
-!! 8d
-!! =53
-!! 8ddL
-!! 24ccL
-!! 24dd
-!! 24ccJJ
-!! 8bnL
-!! 8ccJ
-!! =54
-!! 16bnLL
-!! 16cc
-!! 16dd
-!! 16ccJJ
-!! 16bLL
-!! 16a-X
-!! 16g
-!! 16fJJ
-!! !!!End-Modulation1
-!! *>E1
-!! =55
-!! 2g
-!! =56
-!! 4.gg
-!! 8r
-!! !!!End-Modulation2
-!! *>E
-!! =41
-!! !!!Begin-Modulation
-!! *F:
-!! !LO:TX:a:i:t=F-major
-!! 8fL
-!! 8aJ
-!! [4cc
-!! =42
-!! 8ccL]
-!! 16ddL
-!! 16ccJJ
-!! 8b-L
-!! 8aJ
-!! =43
-!! (16aLL
-!! 16ccJ)
-!! 8ccJ
-!! [4a
-!! =44
-!! 8aL]
-!! 24aL
-!! 24b-
-!! 24aJJ
-!! 8gL
-!! 8fJ
-!! =45
-!! 8aL
-!! 8b-
-!! 8cc
-!! 8ddJ
-!! =46
-!! 8ee-L
-!! 8dd
-!! 8cc
-!! 8bnJ
-!! =47
-!! (8qdd/
-!! 4.cc)
-!! 8a
-!! =48
-!! 8b-XL
-!! 8a
-!! 8g
-!! 8fJ
-!! !!!End-Modulation
-!! *G:frey
-!! !LO:TX:a:i:t=G-freygish
-!! =49
-!! 8gL
-!! 8bn
-!! 8b
-!! 8bJ
-!! =50
-!! 4bnt
-!! 8a-XL
-!! 8gJ
-!! =51
-!! 8ddL
-!! 8g
-!! 8g
-!! 8gJ
-!! =52
-!! 4.g
-!! 8d
-!! =53
-!! 8ddL
-!! 24ccL
-!! 24dd
-!! 24ccJJ
-!! 8bnL
-!! 8ccJ
-!! =54
-!! 16bnLL
-!! 16cc
-!! 16dd
-!! 16ccJJ
-!! 16bLL
-!! 16a-X
-!! 16g
-!! 16fJJ
-!! !!!End-Modulation1
-!! *>E2
-!! =57:|!
-!! !LO:TX:b:Bi:t=Dal Segno al Fine
-!! 2g
-!! =58
-!! 2g
-!! ==
+*G:frey
+*M2/4
+*>A
+!LO:TX:a:i:t=G-freygish
+16gLL
+16gJJ
+=1
+8gL
+8ee-
+8dd
+8ccJ
+=2
+16ccLL
+16ddJJ
+4dd
+24ccLL
+24dd
+24ccJJ
+=3
+16bnLL
+16cc
+16dd
+16ccJJ
+16bLL
+16a-
+16g
+16fJJ
+=4
+4.g
+!!!Begin-Modulation
+*G:frey
+!LO:TX:a:i:t=G-freygish
+8cc
+=9!|:
+*>B
+8ddL
+8ee-
+8ff
+8ggJ
+=10
+4.ff
+8ee-
+=11
+8ffL
+8ee-
+8dd
+8ccJ
+=12
+4.gg
+8g
+=13
+8bnL
+8cc
+8dd
+8ccJ
+=14
+8bnL
+8f
+8gJ
+(8qb/
+8a-J)
+*>B1
+=15
+2g
+=16
+4.gg
+8gg
+*>B
+8ddL
+8ee-
+8ff
+8ggJ
+=10
+4.ff
+8ee-
+=11
+8ffL
+8ee-
+8dd
+8ccJ
+=12
+4.gg
+8g
+=13
+8bnL
+8cc
+8dd
+8ccJ
+=14
+8bnL
+8f
+8gJ
+(8qb/
+8a-J)
+*>B2
+=17:|!
+2g
+=18
+4g
+8r
+8g
+*>C
+=19
+!LO:TX:a:t="Segno"
+8gg^
+8r
+8.ddL
+16ccJk
+=20
+16bnLL
+16ccJJ
+4dd
+8g
+=21
+8ccTL
+8bn
+8a-
+8gJ
+=22
+(16bnLL
+16a-JJ)
+4g
+!!!Begin-Modulation
+*G:frey
+!LO:TX:a:i:t=G-freygish
+8dd
+=27
+(16ddLL
+16ee-)
+16ee-
+16ee-JJ
+16ee-LL
+16ee-
+16ee-
+16ee-JJ
+=28
+24ee-LL
+24ff
+24ee-J
+8dd
+8ff
+8ee-J
+=29
+4.dd
+8r
+=30
+2gg
+*>D
+=31!|:
+8ffL
+8gg
+8aa-
+8ggJ
+=32
+4.ff
+8ee-
+=33
+8ffL
+8ee-
+8dd
+8ccJ
+=34
+4.gg
+8g
+=35
+8bnL
+8cc
+8dd
+8ccJ
+=36
+8bnL
+8f
+8gJ
+(8qb/
+8a-J)
+!!!End-Modulation1
+*>D1
+=37
+4g
+(8bnL
+16gL
+16bJJ
+=38
+8ddL)
+(16bnL
+16ddJJ
+(8.ggL)
+16ffJk)
+!!!End-Modulation2
+*>D
+=31!|:
+8ffL
+8gg
+8aa-
+8ggJ
+=32
+4.ff
+8ee-
+=33
+8ffL
+8ee-
+8dd
+8ccJ
+=34
+4.gg
+8g
+=35
+8bnL
+8cc
+8dd
+8ccJ
+=36
+8bnL
+8f
+8gJ
+(8qb/
+8a-J)
+!!!End-Modulation1
+*>D2
+=39:|!
+2g
+=
+!LO:TX:b:Bi:t=Fine
+4.g
+=40||
+*k[b-e-]
+!!!Begin-Modulation
+*G:frey
+!LO:TX:a:i:t=G-freygish
+=49
+8gL
+8bn
+8b
+8bJ
+=50
+4bnt
+8a-XL
+8gJ
+=51
+8ddL
+8g
+8g
+8gJ
+=52
+4.g
+8d
+=53
+8ddL
+24ccL
+24dd
+24ccJJ
+8bnL
+8ccJ
+=54
+16bnLL
+16cc
+16dd
+16ccJJ
+16bLL
+16a-X
+16g
+16fJJ
+!!!End-Modulation1
+*>E1
+=55
+2g
+=56
+4.gg
+8r
+!!!End-Modulation2
+*>E
+=41
+!!!Begin-Modulation
+*G:frey
+!LO:TX:a:i:t=G-freygish
+=49
+8gL
+8bn
+8b
+8bJ
+=50
+4bnt
+8a-XL
+8gJ
+=51
+8ddL
+8g
+8g
+8gJ
+=52
+4.g
+8d
+=53
+8ddL
+24ccL
+24dd
+24ccJJ
+8bnL
+8ccJ
+=54
+16bnLL
+16cc
+16dd
+16ccJJ
+16bLL
+16a-X
+16g
+16fJJ
+!!!End-Modulation1
+*>E2
+=57:|!
+!LO:TX:b:Bi:t=Dal Segno al Fine
+2g
+=58
+2g
+==
 *-
