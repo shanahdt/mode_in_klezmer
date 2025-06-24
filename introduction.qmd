@@ -5,7 +5,7 @@ title: Introduction
 
 This website provides machine-readable music files, searchable metadata, mode analyses, and mode data for a corpus of klezmer tunes from the volume _Jewish Instrumental Folk Music_, compiled by the pre-eminent Ukrainian Jewish ethnomusicologist Moshe Beregovski (1892-1961). The volume was published posthumously, first in Russian (1987) and then in English (2001 and 2015). A hand-written manuscript of the volume is also available in Beregovski 2013. The tunes were collected from a variety of sources in Ukraine, in the decades before World War II, and the volume represents one of the most important sources for Jewish instrumental music from Eastern Europe, now known as klezmer (Slobin 1986, 253; Feldman 2016, 128).
 
-The website is intended as a self-standing resource for musicians and scholars and as a supplement to an article by Malin and Shanahan, currently in progress. 
+The website is intended as a self-standing resource for musicians and scholars and as a supplement to an article by Malin and Shanahan, forthcoming in _Music Theory Online_. 
 
 At present, this collection has 245 out of the 254 tunes in Beregovski’s volume, and sections from four additional tunes. It leaves out tunes and sections without a time signature or with variable meter (i.e., with varying time signatures and frequent fermatas). There are five pieces without a regular meter: the _Dobranoch_ no. 9, _Kale-bazetsns_ nos. 13 and 14, and the _Ava rabos_ nos. 17 and 18. There are also four pieces that begin without a regular meter and have metric sections at the end: the _Khtsos_ no. 19, the _Taksim_ no. 20, and the _Doinas_ nos. 21 and 22. The metric sections at the ends of these are included in the corpus.
 
@@ -60,6 +60,8 @@ Beregovskiĭ, Moisei. 1987. _Еврейская народная инструм�
 Feldman, Walter Zev. 2016. _Klezmer: Music, History, and Memory_. New York: Oxford University Press.
 
 Horowitz, Joshua. 1993. “The Klezmer Freygish Shteyger: Mode, Sub-Mode and Modal Progression.” Unpublished manuscript.[ http://www.budowitz.com/Budowitz/Essays.html](http://www.budowitz.com/Budowitz/Essays.html).
+
+Malin, Yonatan and Daniel Shanahan. Forthcoming. "Modes in Klezmer Music: A Corpus Study Based on Beregovski's _Jewish Instrumental Folk Music_." _Music Theory Online_ 31 (3). 
 
 Netsky, Hankus. 2015. _Klezmer: Music and Community in Twentieth-Century Jewish Philadelphia_. Philadelphia: Temple University Press.
 
