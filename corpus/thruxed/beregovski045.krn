@@ -250,6 +250,8 @@
 8r
 *>C
 =22!|:
+!!!Begin-Modulation
+*B-:
 !LO:TX:a:i:t=Bb-major
 16b-LL
 16ccJJ
@@ -313,6 +315,8 @@
 16B-JJ
 *>D
 =26:|!
+!!!End-Modulation
+*g:
 !LO:TX:a:i:t=G-minor
 8.b-L
 16aJk
