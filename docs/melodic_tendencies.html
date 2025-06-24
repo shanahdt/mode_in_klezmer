@@ -216,74 +216,8 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<section id="pitch-to-pitch-transitions" class="level2">
-<h2 class="anchored" data-anchor-id="pitch-to-pitch-transitions">Pitch-to-pitch transitions</h2>
-<!-- ```{r, echo=F, warnings=FALSE, message=FALSE} -->
-<!-- #transition_matrix <- function(mode){ -->
-<!-- #  x <- mode |> 
-#      humdrumR::pitch(simple = FALSE) 
-#
-#  x <- as.data.frame(x, dataTypes = "Dd", padPaths = "corpus", padder = NA)
-#  y <- as_tibble(x$V1) |> filter(value != ".")
-#
-#  y <- y |> mutate(second = lead(value, n =1)) |> 
-#    unite('bigram', value:second, remove = FALSE) 
-#  
-#  
-#  bigram_counts <- y |> dplyr::count(bigram) |>
-#    arrange(desc(n)) 
-#  bigram_top_thirty <- bigram_counts %>%
-#    head(30) %>%
-#    separate(bigram, into = c('first','second'), sep = '_')
-#
-#
-#  ggplot(data = bigram_top_thirty, mapping = aes(x = second, y = first, fill = n)) +
-#    geom_tile() +
-#    scale_x_discrete(limits=(bigram_top_thirty$first)[bigram_top_thirty$count]) + 
-#    scale_y_discrete(limits=(bigram_top_thirty$second)[bigram_top_thirty$count]) +
-#    labs(title="Top Thirty Bigrams",
-#          x ="Second Note", y = "First Note") + theme_bw()
-#}
-###``` -->
-</section>
-<section id="g-freygish" class="level2">
-<h2 class="anchored" data-anchor-id="g-freygish">G Freygish</h2>
-<div class="cell" data-warnings="false">
-<div class="cell-output-display">
-<p><img src="melodic_tendencies_files/figure-html/freygish-bigram-barplot-1.png" class="img-fluid" width="672"></p>
-</div>
-</div>
-</section>
-<section id="g-raised-fourth" class="level2">
-<h2 class="anchored" data-anchor-id="g-raised-fourth">G Raised Fourth</h2>
-<div class="cell" data-warnings="false">
-<div class="cell-output-display">
-<p><img src="melodic_tendencies_files/figure-html/raised-fourth-bigram-barplot-1.png" class="img-fluid" width="672"></p>
-</div>
-</div>
-</section>
-<section id="g-major" class="level2">
-<h2 class="anchored" data-anchor-id="g-major">G Major</h2>
-<div class="cell" data-warnings="false">
-<div class="cell-output-display">
-<p><img src="melodic_tendencies_files/figure-html/major-bigram-barplot-1.png" class="img-fluid" width="672"></p>
-</div>
-</div>
-</section>
-<section id="g-minor" class="level2">
-<h2 class="anchored" data-anchor-id="g-minor">G Minor</h2>
-<div class="cell" data-warnings="false">
-<div class="cell-output-display">
-<p><img src="melodic_tendencies_files/figure-html/minor-bigram-barplot-1.png" class="img-fluid" width="672"></p>
-</div>
-</div>
-<p>Freygish data can be found <a href="freygish_transitions.csv">here</a>.</p>
-<p>Minor data can be found <a href="minor_transitions.csv">here</a>.</p>
-<p>Major data can be found <a href="major_transitions.csv">here</a>.</p>
-<p>Raised Fourth data can be found <a href="raised_fourth_transitions.csv">here</a>.</p>
 
 
-</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
