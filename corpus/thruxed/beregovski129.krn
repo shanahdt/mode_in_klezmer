@@ -67,6 +67,8 @@
 2g
 *>B
 =9||
+!!!Begin-Modulation
+*g:dor
 !LO:TX:a:i:t=G-raised-fourth
 8gL
 16ddL
@@ -112,6 +114,7 @@
 4g
 8r
 *>C
+!!!End-Modulation
 !!!Begin-Modulation
 *B-:
 =17!|:
