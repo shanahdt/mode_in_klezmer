@@ -55,8 +55,6 @@
 2g	2G
 *v	*v
 *>A
-!!!End-Modulation
-*g:dor
 =7:|!|:
 !LO:TX:a:i:t=G-minor
 (>8qd/
@@ -346,8 +344,6 @@
 4.g
 8d
 *>C
-!!!Begin-Modulation
-*G:
 =40:|!|:
 (>4.dd
 8cc#X)
