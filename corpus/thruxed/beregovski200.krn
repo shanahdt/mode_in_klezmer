@@ -58,6 +58,8 @@
 *>B
 8dd
 =6!|:
+!!!Begin-Modulation
+*B-:
 !LO:TX:a:i:t=Bb-major
 (16ddLL
 16gg)
@@ -169,7 +171,8 @@
 4b-
 *>C
 8g
-=15!|:
+!!!End-Modulation
+*g:
 !LO:TX:a:i:t=G-minor
 8.ccL
 16b-Jk
