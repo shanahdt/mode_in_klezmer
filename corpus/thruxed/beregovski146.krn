@@ -56,8 +56,6 @@
 !LO:TX:b:Bi:t=Fine
 4gg
 =9:|!|:
-!!!Begin-Modulation
-*B-:
 *>A
 =1
 !LO:TX:a:i:t=G-minor
@@ -157,6 +155,8 @@
 4g
 *>B
 =:|!
+!!!Begin-Modulation
+*B-:
 !LO:TX:a:i:t=Bb-major
 4dd
 (16ddLL
