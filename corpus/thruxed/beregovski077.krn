@@ -12,6 +12,8 @@
 *M2/4
 *>A
 =1
+!!!Begin-Modulation
+*c:
 !LO:TX:a:i:t=C-minor
 16gLL
 16gJ
@@ -36,6 +38,9 @@
 8ggJ
 =4
 2cc
+!!!End-Modulation
+!!!Begin-Modulation
+*B-:
 !LO:TX:a:i:t=Bb-major
 =5
 16ccLL
@@ -67,6 +72,9 @@
 =9:|!
 *>A
 =1
+!!!End-Modulation
+!!!Begin-Modulation
+*c:
 !LO:TX:a:i:t=C-minor
 16gLL
 16gJ
@@ -91,6 +99,9 @@
 8ggJ
 =4
 2cc
+!!!End-Modulation
+!!!Begin-Modulation
+*B-:
 !LO:TX:a:i:t=Bb-major
 =5
 16ccLL
@@ -120,6 +131,8 @@
 16r
 *>B
 16g
+!!!End-Modulation
+*g:
 !LO:TX:a:i:t=G-minor
 =10||
 16gLL
