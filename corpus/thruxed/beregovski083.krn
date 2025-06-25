@@ -74,8 +74,6 @@
 =9:|!|:
 !!!Begin-Modulation
 *B-:
-!!!Begin-Modulation
-*B-:
 =1
 !LO:TX:a:i:t=Bb-major
 16b-LL
@@ -194,6 +192,8 @@
 2g
 =17:|!|:
 *>B
+!!!Begin-Modulation
+*B-:
 !LO:TX:a:t="Segno"
 !LO:TX:a:i:t=Bb-major
 16aLL
