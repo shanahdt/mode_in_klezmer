@@ -93,8 +93,6 @@
 4g
 4r
 =17:|!
-!!!Begin-Modulation
-*c:
 *>A
 =1
 !LO:TX:a:i:t=G-freygish
@@ -177,10 +175,10 @@
 !LO:TX:b:Bi:t=Fine
 4g
 4r
+*>B
 =17:|!
 !!!Begin-Modulation
 *c:
-*>B
 !LO:TX:a:i:t=C-minor
 8dd
 4gg
