@@ -10,10 +10,10 @@
 !!pagebreak:original
 *clefG2
 *k[b-e-]
-!!!Begin-Modulation
-*B-:
 *M2/4
 *>A
+!!!Begin-Modulation
+*B-:
 !LO:TX:a:i:t=Bb-major
 8b-
 =1
@@ -105,6 +105,8 @@
 4gg
 =17:|!
 *>A
+!!!Begin-Modulation
+*B-:
 !LO:TX:a:i:t=Bb-major
 8b-
 =1
