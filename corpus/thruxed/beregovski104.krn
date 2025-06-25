@@ -149,6 +149,8 @@
 2gg
 *>B
 !!!End-Modulation2
+!!!Begin-Modulation
+*B-:
 *k[b-e-]
 !LO:TX:a:i:t=Bb-major
 2cc
