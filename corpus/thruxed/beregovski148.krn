@@ -72,8 +72,6 @@
 4gg
 *>A
 =9:|!|:
-!!!Begin-Modulation
-*B-:
 =1
 !LO:TX:a:i:t=G-minor
 16gLL
@@ -192,6 +190,8 @@
 8r
 *>B
 =:|!
+!!!Begin-Modulation
+*B-:
 !LO:TX:a:i:t=Bb-major
 16ddLL
 16ee-JJ
