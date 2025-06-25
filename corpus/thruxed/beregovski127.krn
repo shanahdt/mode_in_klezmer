@@ -173,6 +173,7 @@
 2b-
 *>C
 !!!End-Modulation
+!!!Begin-Modulation
 *g-dor:
 =19!|:
 !LO:TX:a:i:t=G-raised-fourth
@@ -235,5 +236,6 @@
 *>C2
 =27:|!
 2g
+!!!End-Modulation
 ==
 *-
