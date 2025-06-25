@@ -188,7 +188,6 @@
 8.bL
 16a-XJk
 *>B1
-!!!End-Modulation1
 =17
 (<16a-XLL
 16gJJ)
@@ -196,7 +195,8 @@
 16fLL
 16anJJ
 *>B
-!!!End-Modulation2
+!!!Begin-Modulation
+*F:
 !LO:TX:a:i:t=F-major
 4cc
 8b-L
@@ -325,7 +325,8 @@
 *>C
 =29:|!|:
 !!!End-Modulation
-*G:frey
+!!!Begin-Modulation
+*C:
 *k[]
 !LO:TX:a:i:t=C-major
 (>4.ccT
