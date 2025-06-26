@@ -1,3 +1,171 @@
 ---
 title: Melodic Tendencies
 ---
+
+<!-- ## Pitch-to-pitch transitions -->
+<!-- 
+```{r, echo=F, warnings=FALSE, message=FALSE}
+library(humdrumR)
+library(tidyverse)
+library(DT)
+
+
+freygish <- readHumdrum('corpus/extracts/freygish/*.krn')
+major <- readHumdrum('corpus/extracts/major/*.krn')
+minor <- readHumdrum('corpus/extracts/minor/*.krn')
+raised_four <- readHumdrum('corpus/extracts/raised_fourth/*.krn')
+```
+
+```{r, echo=F, warnings=FALSE, message=FALSE}
+bigram_table <- function(mode){
+  x <- mode |> 
+      humdrumR::pitch(simple = FALSE) 
+
+  x <- as.data.frame(x, dataTypes = "Dd", padPaths = "corpus", padder = NA)
+  y <- as_tibble(x$V1) |> filter(value != ".")
+
+  y <- y |> mutate(second = lead(value, n =1)) |> 
+    unite('bigram', value:second, remove = FALSE) 
+  
+  
+  y |> dplyr::count(bigram) |>
+    arrange(desc(n)) |> 
+    mutate(percentage = signif(n / sum(n) * 100, digits=3)) |>
+    datatable()
+  
+  data <- y |> dplyr::count(bigram) |>
+    arrange(desc(n)) |> 
+    mutate(percentage = signif(n / sum(n) * 100, digits=3)) 
+}
+```
+
+
+
+```{r, bigram-bar, echo=F, warnings=FALSE, message=FALSE}
+bigram_bar <- function(mode){
+  x <- mode |> 
+      humdrumR::pitch(simple = FALSE) 
+
+  x <- as.data.frame(x, dataTypes = "Dd", padPaths = "corpus", padder = NA)
+  y <- as_tibble(x$V1) |> filter(value != ".")
+
+  y <- y |> mutate(second = lead(value, n =1)) |> 
+    unite('bigram', value:second, remove = FALSE) 
+  
+  
+  bigram_counts <- y |> dplyr::count(bigram) |>
+    arrange(desc(n)) 
+  
+  bigram_top_ten <- bigram_counts |> head(10)
+  
+  ggplot(data = bigram_top_ten, aes(x = reorder(bigram, -n), y = n, fill = bigram)) +
+  geom_bar(stat = "identity") +
+  labs(title="Top Ten Bigrams",
+        x ="Bigram", y = "Frequency") + theme_bw() + 
+        theme(legend.position = "none")
+  
+}
+
+``` -->
+
+
+<!-- ```{r, echo=F, warnings=FALSE, message=FALSE} -->
+
+<!-- #transition_matrix <- function(mode){ -->
+<!-- #  x <- mode |> 
+#      humdrumR::pitch(simple = FALSE) 
+#
+#  x <- as.data.frame(x, dataTypes = "Dd", padPaths = "corpus", padder = NA)
+#  y <- as_tibble(x$V1) |> filter(value != ".")
+#
+#  y <- y |> mutate(second = lead(value, n =1)) |> 
+#    unite('bigram', value:second, remove = FALSE) 
+#  
+#  
+#  bigram_counts <- y |> dplyr::count(bigram) |>
+#    arrange(desc(n)) 
+#  bigram_top_thirty <- bigram_counts %>%
+#    head(30) %>%
+#    separate(bigram, into = c('first','second'), sep = '_')
+#
+#
+#  ggplot(data = bigram_top_thirty, mapping = aes(x = second, y = first, fill = n)) +
+#    geom_tile() +
+#    scale_x_discrete(limits=(bigram_top_thirty$first)[bigram_top_thirty$count]) + 
+#    scale_y_discrete(limits=(bigram_top_thirty$second)[bigram_top_thirty$count]) +
+#    labs(title="Top Thirty Bigrams",
+#          x ="Second Note", y = "First Note") + theme_bw()
+#}
+###``` -->
+
+
+
+
+<!-- ## G Freygish -->
+<!-- 
+```{r, freygish-bigram-table, echo=F, warnings=FALSE, message=FALSE}
+
+bigram_table(freygish)
+
+
+``` -->
+
+<!-- 
+```{r, freygish-bigram-barplot, echo=F, warnings=FALSE, message=FALSE}
+
+bigram_bar(freygish)
+```
+ -->
+
+<!-- ## G Raised Fourth -->
+<!-- 
+```{r, raised-fourth-bigram-table, echo=F, warnings=FALSE, message=FALSE}
+
+bigram_table(raised_four)
+```
+ -->
+
+<!-- 
+```{r, raised-fourth-bigram-barplot, echo=F, warnings=FALSE, message=FALSE}
+
+bigram_bar(raised_four)
+``` -->
+
+
+<!-- ## G Major -->
+
+
+
+<!-- 
+```{r, major-bigram-table, echo=F, warnings=FALSE, message=FALSE}
+bigram_table(major)
+```
+
+```{r, major-bigram-barplot, echo=F, warnings=FALSE, message=FALSE}
+bigram_bar(major)
+``` -->
+
+<!-- 
+
+## G Minor
+```{r, minor-bigram-table, echo=F, warnings=FALSE, message=FALSE}
+
+bigram_table(minor)
+``` -->
+
+<!-- 
+
+```{r, minor-bigram-barplot, echo=F, warnings=FALSE, message=FALSE}
+
+bigram_bar(minor)
+```
+ -->
+<!-- 
+
+Freygish data can be found [here](freygish_transitions.csv).
+
+Minor data can be found [here](minor_transitions.csv).
+
+Major data can be found [here](major_transitions.csv).
+
+Raised Fourth data can be found [here](raised_fourth_transitions.csv). -->
