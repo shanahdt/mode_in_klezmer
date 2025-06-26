@@ -1,0 +1,47 @@
+!!!OTL: 115. Skotshne
+!!!Genre:	Skotshne
+!!!Mode:	Altered Dorian
+!!!Listening/dance:	dance
+!!!:	*G:
+!!!One_Mode:	no
+**kern
+*thru
+*part1
+*staff1
+*clefG2
+*k[b-]
+*G:
+=22||
+*>C
+*k[f#]
+!LO:TX:a:i:t=G-major
+4.bn
+8dd
+=23
+(>16ddLL
+16cc)
+(>16cc
+16bJJ)
+4dd
+=24
+4.b
+8dd
+=25
+(>16ddLL
+16cc)
+(>16cc
+16bJJ)
+8bL
+16aL
+16gJJ
+=26
+4.b
+8dd
+=27
+(>16ddLL
+16cc)
+(>16cc
+16bJJ)
+4dd
+!!!End-Modulation
+*-
