@@ -141,7 +141,6 @@
 8b-
 8aJ
 *>B1
-!!!Begin-Modulation1
 =28
 2g
 4d
@@ -203,7 +202,6 @@
 8b-
 8aJ
 *>B2
-!!!Begin-Modulation2
 =29:|!
 2.g
 *>C
@@ -332,7 +330,6 @@
 =61
 2.g
 *>D
-!!!End-Modulation
 =:|!
 *k[f#]
 !LO:TX:a:i:t=G-major
