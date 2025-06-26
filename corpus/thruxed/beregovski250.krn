@@ -44,9 +44,7 @@
 24a
 24gJJ
 *>A
-!!!Begin-Modulation
 =5:|!|:
-*F:
 =1
 !LO:TX:a:i:t=G-minor
 16g'LL
@@ -115,9 +113,7 @@
 24gJJ
 8f
 *>B
-!!!End-Modulation
 =9:|!
-*g:
 !LO:TX:a:i:t=F-major
 16f'LL
 (16a
@@ -142,6 +138,8 @@
 16a)
 16cc'JJ
 *>B2
+!!!End-Modulation
+*g:
 !LO:TX:a:i:t=G-minor
 (16b-LL
 16aJJ)
