@@ -298,9 +298,6 @@
 (8qcc#X/
 16b-JJ)
 4.g
-!!!End-Modulation
-!!!Begin-Modulation
-*G:frey
 *>B
 =26:|!|:
 *k[b-]
@@ -428,10 +425,10 @@
 (8qcc#X/
 16b-JJ)
 4.g
+*>C
 !!!End-Modulation
 !!!Begin-Modulation
 *G:frey
-*>C
 =26:|!|:
 *k[b-e-a-]
 !LO:TX:a:i:t=G-freygish
@@ -522,7 +519,6 @@
 !LO:TX:b:Bi:t=Da Capo al Fine
 2gg
 *>C
-!!!End-Modulation
 =:|!
 *k[b-e-a-]
 !LO:TX:a:i:t=G-freygish
