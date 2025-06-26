@@ -81,8 +81,6 @@
 =16
 2gg
 *>A
-!!!Begin-Modulation
-*B-:
 =17:|!|:
 =1
 !LO:TX:a:i:t=G-minor
@@ -192,8 +190,6 @@
 4f
 4b-
 *>B
-!!!End-Modulation
-*g:
 =25:|!|:
 !LO:TX:a:i:t=Bb-major
 8f
