@@ -42,8 +42,6 @@
 (8a
 8gJ)
 4g
-!!!Begin-Modulation
-*g:dor
 =5:|!|:
 *>A
 =1
@@ -76,10 +74,10 @@
 (8a
 8gJ)
 4g
+*>B
 !!!Begin-Modulation
 *g:dor
 =5:|!|:
-*>B
 !LO:TX:a:i:t=G-raised-fourth
 4.dd
 8cc#X
@@ -107,7 +105,6 @@
 8aJ
 4g
 =:|!
-!!!End-Modulation
 *>B
 !LO:TX:a:i:t=G-raised-fourth
 4.dd
