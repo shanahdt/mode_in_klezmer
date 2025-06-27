@@ -51,8 +51,6 @@
 16aJJ
 4g
 *>A
-!!!Begin-Modulation
-*g:dor
 =5:|!|:
 =1
 !LO:TX:a:i:t=G-major
@@ -130,8 +128,6 @@
 16B-XJJ)
 4G
 *>B
-!!!End-Modulation
-*G:
 =9:|!|:
 !LO:TX:a:i:t=G-raised-fourth
 (8qa/
