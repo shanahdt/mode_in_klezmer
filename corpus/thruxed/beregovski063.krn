@@ -387,7 +387,6 @@
 16gJ
 8fJ)
 *>C1
-!!!End-Modulation1
 =24
 2g
 4gg
@@ -396,6 +395,8 @@
 12anJ
 *>C
 *k[b-]
+!!!Begin-Modulation
+*F
 !LO:TX:a:i:t=F-major
 8.ccL
 16bnJk
@@ -458,7 +459,6 @@
 16gJ
 8fJ)
 *>C2
-!!!End-Modulation1
 =25:|!
 2g
 2gg
