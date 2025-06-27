@@ -1,0 +1,77 @@
+!!!OTL: 227. Ange
+!!!Genre:	Ange
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!:	*G:frey
+!!!One_Mode:	no
+**kern
+*thru
+*I"P1
+*clefG2
+*k[b-e-]
+*g:
+*M2/4
+*>A
+=1
+!LO:TX:a:i:t=G-minor
+(16gLL
+16d)
+16g
+16b-JJ
+8ddL
+8ccJ
+=2
+(16b-LL
+16a)
+(16a
+16gJJ)
+8ccL
+8b-J
+=3
+(16gLL
+16d)
+16g
+16b-JJ
+8ddL
+8ccJ
+=4
+(16b-LL
+16cc)
+(16a
+16b-JJ)
+8g
+8r
+=5:|!
+*>A
+=1
+!LO:TX:a:i:t=G-minor
+(16gLL
+16d)
+16g
+16b-JJ
+8ddL
+8ccJ
+=2
+(16b-LL
+16a)
+(16a
+16gJJ)
+8ccL
+8b-J
+=3
+(16gLL
+16d)
+16g
+16b-JJ
+8ddL
+8ccJ
+=4
+(16b-LL
+16cc)
+(16a
+16b-JJ)
+8g
+8r
+=5:|!
+!!!Begin-Modulation
+*-

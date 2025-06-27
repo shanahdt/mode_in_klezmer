@@ -1,0 +1,71 @@
+!!!OTL: 189. Sher
+!!!Genre:	Sher
+!!!Mode:	Minor
+!!!Listening/dance:	dance
+!!!:	*g:
+!!!One_Mode:	no
+**kern
+*thru
+*I"P1
+!!pagebreak:original
+*clefG2
+*k[b-e-]
+*M2/4
+*>A
+!!!Begin-Modulation
+*g:
+=15
+!LO:TX:a:i:t=G-minor
+(16ddLL
+16ccJ
+8b-J)
+(16b-LL
+16aJ
+8gJ)
+=16
+*>A1
+4g
+4gg
+=17:|!
+*>A
+!!!Begin-Modulation
+*g:
+=15
+!LO:TX:a:i:t=G-minor
+(16ddLL
+16ccJ
+8b-J)
+(16b-LL
+16aJ
+8gJ)
+=16
+*>A2
+!LO:TX:b:Bi:t=Fine
+2g
+!!linebreak:original
+!!!Begin-Modulation
+*g:
+=26
+!LO:TX:a:i:t=G-minor
+8b-L
+8a
+8b-
+8ccJ
+=27
+8dd-X
+4cc
+(16b-LL
+16ddnJJ)
+=28
+(16ddLL
+16ccJ
+8b-J)
+(16b-LL
+16aJ
+!LO:TX:b:Bi:t=Da Capo al Fine
+8gJ)
+=29
+4g
+4r
+==
+*-
