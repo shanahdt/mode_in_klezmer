@@ -88,8 +88,6 @@
 =12
 4g
 4G
-!!!Begin-Modulation
-*G:
 =13:|!|:
 *>A
 =1
@@ -168,10 +166,10 @@
 =12
 4g
 4G
+*>B
 !!!Begin-Modulation
 *G:
 =13:|!|:
-*>B
 *k[f#]
 *G:
 !LO:TX:a:i:t=G-major
@@ -231,12 +229,8 @@
 =20
 4g
 4G
-!!!End-Modulation
-*g:dor
 =21:|!|:
 *>B
-*k[f#]
-*G:
 !LO:TX:a:i:t=G-major
 16ccLL
 16cc
@@ -343,7 +337,6 @@
 =27
 4g
 4G
-!!!End-Modulation
 =:|!
 *>C
 *k[b-]

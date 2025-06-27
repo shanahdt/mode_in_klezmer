@@ -165,10 +165,10 @@
 12fJ)
 4.g
 8g
+*>C
+=17:|!|:
 !!!Begin-Modulation
 *F
-=17:|!|:
-*>C
 *k[b-]
 !LO:TX:a:i:t=F-major
 8.ccL
@@ -231,7 +231,6 @@
 (16a-LL
 16gJ
 8fJ)
-!!!End-Modulation1
 *>C1
 =24
 2g
@@ -240,7 +239,6 @@
 12f
 12anJ
 *>C2
-!!!End-Modulation2
 =25:|!
 2g
 2gg
