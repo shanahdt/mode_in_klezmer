@@ -21,9 +21,7 @@ do
 ./key_extractor.pl $file -k "g:" > ../extracts/g-minor/`basename $file`
 done
 
-
 ### G-dorian key extraction for thruxed corpus
-
 
 for file in *.krn         
 do

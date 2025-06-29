@@ -29,18 +29,15 @@ freygish |>
 
 ```{r, echo=F, warning=FALSE, message=FALSE}
 raised <- readHumdrum('corpus/extracts/raised_fourth/*.krn')
-raised |> 
-    pitch(simple = FALSE) |>
+Pitch <- raised |> 
+    pitch(simple = FALSE)
+
+Pitch |>
     count() |> 
     as_tibble() |> 
     arrange(desc(n)) |>
     datatable(filter="top")
 
-raised_data <- raised |> 
-    pitch(simple = FALSE) |>
-    count() |> 
-    as_tibble() |> 
-    arrange(desc(n)) 
 ```
 
 ## G Major
