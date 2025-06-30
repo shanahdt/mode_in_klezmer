@@ -88,13 +88,13 @@ transition_matrix <- function(mode){
     head(30) %>%
     separate(bigram, into = c('first','second'), sep = '_')
 
- return(bigram_top_thirty)
-  # ggplot(data = bigram_top_thirty, mapping = aes(x = second, y = first, fill = n)) +
-  #   geom_tile() +
-  #   scale_x_discrete(limits=(bigram_top_thirty$first)[bigram_top_thirty$count]) + 
-  #   scale_y_discrete(limits=(bigram_top_thirty$second)[bigram_top_thirty$count]) +
-  #   labs(title="Top Thirty Bigrams",
-  #         x ="Second Note", y = "First Note") + theme_bw()
+#  return(bigram_top_thirty)
+  ggplot(data = bigram_top_thirty, mapping = aes(x = second, y = first, fill = n)) +
+    geom_tile() +
+    scale_x_discrete(limits=(bigram_top_thirty$first)[bigram_top_thirty$count]) + 
+    scale_y_discrete(limits=(bigram_top_thirty$second)[bigram_top_thirty$count]) +
+    labs(title="Top Thirty Bigrams",
+          x ="Second Note", y = "First Note") + theme_bw()
 }
 ```
 
