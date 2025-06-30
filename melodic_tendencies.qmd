@@ -36,6 +36,7 @@ bigram_table <- function(mode){
   data <- y |> dplyr::count(bigram) |>
     arrange(desc(n)) |> 
     mutate(percentage = signif(n / sum(n) * 100, digits=3)) 
+  #write.csv(data, "bigram_data.csv")
 }
 ```
 
@@ -63,9 +64,7 @@ bigram_bar <- function(mode){
   labs(title="Top Ten Bigrams",
         x ="Bigram", y = "Frequency") + theme_bw() + 
         theme(legend.position = "none")
-  filename <- paste0(mode, ".csv")      
-  # write.csv(bigram_counts, *)
-  return(filename)
+
 }
 ```
 
@@ -89,17 +88,36 @@ transition_matrix <- function(mode){
     head(30) %>%
     separate(bigram, into = c('first','second'), sep = '_')
 
-
-  ggplot(data = bigram_top_thirty, mapping = aes(x = second, y = first, fill = n)) +
-    geom_tile() +
-    scale_x_discrete(limits=(bigram_top_thirty$first)[bigram_top_thirty$count]) + 
-    scale_y_discrete(limits=(bigram_top_thirty$second)[bigram_top_thirty$count]) +
-    labs(title="Top Thirty Bigrams",
-          x ="Second Note", y = "First Note") + theme_bw()
+ return(bigram_top_thirty)
+  # ggplot(data = bigram_top_thirty, mapping = aes(x = second, y = first, fill = n)) +
+  #   geom_tile() +
+  #   scale_x_discrete(limits=(bigram_top_thirty$first)[bigram_top_thirty$count]) + 
+  #   scale_y_discrete(limits=(bigram_top_thirty$second)[bigram_top_thirty$count]) +
+  #   labs(title="Top Thirty Bigrams",
+  #         x ="Second Note", y = "First Note") + theme_bw()
 }
 ```
 
+```{r, dataprint}
+data_print <- function(mode){
+  x <- mode |> 
+      humdrumR::pitch(simple = FALSE) 
 
+  x <- as.data.frame(x, dataTypes = "Dd", padPaths = "corpus", padder = NA)
+  y <- as_tibble(x$V1) |> filter(value != ".")
+
+  y <- y |> mutate(second = lead(value, n =1)) |> 
+    unite('bigram', value:second, remove = FALSE) 
+  
+  
+  bigram_counts <- y |> dplyr::count(bigram) |>
+    arrange(desc(n)) 
+  bigram_top_thirty <- bigram_counts %>%
+    head(30) %>%
+    separate(bigram, into = c('first','second'), sep = '_')
+  return(bigram_top_thirty)
+}
+```
 
 
 ## G Freygish
