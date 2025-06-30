@@ -114,7 +114,7 @@ bigram_table(freygish)
 bigram_bar(freygish)
 ```
 
-Freygish data can be found [here](freygish_transitions.csv).
+Freygish data can be found [here](freygish_bigram_data.csv).
 
 ## G Raised Fourth
 
@@ -130,7 +130,7 @@ bigram_table(raised_four)
 bigram_bar(raised_four)
 ```
 
-Raised Fourth data can be found [here](raised_fourth_transitions.csv).
+Raised Fourth data can be found [here](raised_fourth_bigram_data.csv).
 
 ## G Major 
 
@@ -145,7 +145,7 @@ bigram_table(major)
 bigram_bar(major)
 ``` 
 
-Major data can be found [here](major_transitions.csv).
+Major data can be found [here](major_bigram_data.csv).
 
 
 ## G Minor
@@ -160,5 +160,5 @@ bigram_table(minor)
 bigram_bar(minor)
 ```
 
-Minor data can be found [here](minor_transitions.csv).
+Minor data can be found [here](minor_bigram_data.csv).
 
