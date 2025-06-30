@@ -16,7 +16,7 @@ library(tidyverse)
 
 
 ```{r, echo=F, warning=FALSE, message=FALSE}
-freygish <- readHumdrum('corpus/extracts/freygish/*.krn')
+freygish <- readHumdrum('corpus/extracts/g-freygish/*.krn')
 freygish |> 
     pitch(simple = FALSE) |>
     count()|> 
@@ -28,7 +28,7 @@ freygish |>
 ## G Raised Fourth
 
 ```{r, echo=F, warning=FALSE, message=FALSE}
-raised <- readHumdrum('corpus/extracts/raised_fourth/*.krn')
+raised <- readHumdrum('corpus/extracts/g-raised-fourth/*.krn')
 Pitch <- raised |> 
     pitch(simple = FALSE)
 
@@ -44,7 +44,7 @@ Pitch |>
 
 ```{r, echo=F, warning=FALSE, message=FALSE}
 
-major <- readHumdrum('corpus/extracts/major/*.krn')
+major <- readHumdrum('corpus/extracts/g-major/*.krn')
 major <- major |> 
     pitch(simple = FALSE) 
 
@@ -57,7 +57,7 @@ major |> count() |> as_tibble() |>
 ## G Minor
 
 ```{r, echo=F, warning=FALSE, message=FALSE}
-minor <- readHumdrum('corpus/extracts/minor/*.krn')
+minor <- readHumdrum('corpus/extracts/g-minor/*.krn')
 minor |> 
     pitch(simple = FALSE) |>
     count() |> 

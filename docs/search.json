@@ -4,28 +4,28 @@
     "href": "melodic_tendencies.html",
     "title": "Melodic Tendencies",
     "section": "",
-    "text": "data_print &lt;- function(mode){\n  x &lt;- mode |&gt; \n      humdrumR::pitch(simple = FALSE) \n\n  x &lt;- as.data.frame(x, dataTypes = \"Dd\", padPaths = \"corpus\", padder = NA)\n  y &lt;- as_tibble(x$V1) |&gt; filter(value != \".\")\n\n  y &lt;- y |&gt; mutate(second = lead(value, n =1)) |&gt; \n    unite('bigram', value:second, remove = FALSE) \n  \n  \n  bigram_counts &lt;- y |&gt; dplyr::count(bigram) |&gt;\n    arrange(desc(n)) \n  bigram_top_thirty &lt;- bigram_counts %&gt;%\n    head(30) %&gt;%\n    separate(bigram, into = c('first','second'), sep = '_')\n  return(bigram_top_thirty)\n}"
+    "text": "Freygish data can be found here."
   },
   {
     "objectID": "melodic_tendencies.html#g-freygish",
     "href": "melodic_tendencies.html#g-freygish",
     "title": "Melodic Tendencies",
-    "section": "G Freygish",
-    "text": "G Freygish"
+    "section": "",
+    "text": "Freygish data can be found here."
   },
   {
     "objectID": "melodic_tendencies.html#g-raised-fourth",
     "href": "melodic_tendencies.html#g-raised-fourth",
     "title": "Melodic Tendencies",
     "section": "G Raised Fourth",
-    "text": "G Raised Fourth\n\n\n\n\n\n## G Major"
+    "text": "G Raised Fourth\n\n\n\n\n\nRaised Fourth data can be found here.\n## G Major\n\n\n\n\n\nMajor data can be found here."
   },
   {
     "objectID": "melodic_tendencies.html#g-minor",
     "href": "melodic_tendencies.html#g-minor",
     "title": "Melodic Tendencies",
     "section": "G Minor",
-    "text": "G Minor\n\n\n\n\n\nFreygish data can be found here.\nMinor data can be found here.\nMajor data can be found here.\nRaised Fourth data can be found here."
+    "text": "G Minor\n\n\n\n\n\nMinor data can be found here."
   },
   {
     "objectID": "introduction.html",

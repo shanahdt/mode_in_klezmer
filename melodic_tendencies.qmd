@@ -98,27 +98,6 @@ transition_matrix <- function(mode){
 }
 ```
 
-```{r, dataprint}
-data_print <- function(mode){
-  x <- mode |> 
-      humdrumR::pitch(simple = FALSE) 
-
-  x <- as.data.frame(x, dataTypes = "Dd", padPaths = "corpus", padder = NA)
-  y <- as_tibble(x$V1) |> filter(value != ".")
-
-  y <- y |> mutate(second = lead(value, n =1)) |> 
-    unite('bigram', value:second, remove = FALSE) 
-  
-  
-  bigram_counts <- y |> dplyr::count(bigram) |>
-    arrange(desc(n)) 
-  bigram_top_thirty <- bigram_counts %>%
-    head(30) %>%
-    separate(bigram, into = c('first','second'), sep = '_')
-  return(bigram_top_thirty)
-}
-```
-
 
 ## G Freygish
 
@@ -135,6 +114,7 @@ bigram_table(freygish)
 bigram_bar(freygish)
 ```
 
+Freygish data can be found [here](freygish_transitions.csv).
 
 ## G Raised Fourth
 
@@ -150,6 +130,7 @@ bigram_table(raised_four)
 bigram_bar(raised_four)
 ```
 
+Raised Fourth data can be found [here](raised_fourth_transitions.csv).
 
  ## G Major 
 
@@ -164,13 +145,14 @@ bigram_table(major)
 bigram_bar(major)
 ``` 
 
+Major data can be found [here](major_transitions.csv).
+
 
 ## G Minor
 ```{r, minor-bigram-table, echo=F, warnings=FALSE, message=FALSE}
 
 bigram_table(minor)
 ``` 
-
  
 
 ```{r, minor-bigram-barplot, echo=F, warnings=FALSE, message=FALSE}
@@ -178,12 +160,5 @@ bigram_table(minor)
 bigram_bar(minor)
 ```
 
-
-
-Freygish data can be found [here](freygish_transitions.csv).
-
 Minor data can be found [here](minor_transitions.csv).
 
-Major data can be found [here](major_transitions.csv).
-
-Raised Fourth data can be found [here](raised_fourth_transitions.csv).
