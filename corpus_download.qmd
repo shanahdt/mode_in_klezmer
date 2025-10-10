@@ -19,5 +19,5 @@ More information can be found on the introduction page.
 
 Please cite the following work when using this corpus:
 
-[Malin, Yonatan and Daniel Shanahan. Forthcoming, 2025. "Modes in Klezmer Music: A Corpus Study Based on Beregovski’s *Jewish Instrumental Folk Music*." *Music Theory Online* 31 (3).](https://www.mtosmt.org/issues/mto.25.31.3/mto.25.31.3.malin.html)
+[Malin, Yonatan and Daniel Shanahan, 2025. "Modes in Klezmer Music: A Corpus Study Based on Beregovski’s *Jewish Instrumental Folk Music*." *Music Theory Online* 31 (3).](https://www.mtosmt.org/issues/mto.25.31.3/mto.25.31.3.malin.html)
 
