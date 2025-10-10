@@ -65,9 +65,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Downloadable Corpus",
+    "title": "Modes in Klezmer Music: A Corpus Study Based on Beregovski’s Jewish Instrumental Folk Music",
     "section": "",
-    "text": "This website provides machine-readable music files, searchable metadata, mode analyses, and mode data for a corpus of klezmer tunes from the volume Jewish Instrumental Folk Music, compiled by the pre-eminent Ukrainian Jewish ethnomusicologist Moshe Beregovski (1892-1961). The website is intended as a self-standing resource for musicians and scholars and as a supplement to Malin and Shanahan, “Modes in Klezmer Music” in Music Theory Online 31 (3).\nThis website provides machine-readable music files, searchable metadata, mode analyses, and mode data for a corpus of klezmer tunes from the volume Jewish Instrumental Folk Music, compiled by the pre-eminent Ukrainian Jewish ethnomusicologist Moshe Beregovski (1892-1961). The volume was published posthumously, first in Russian (1987) and then in English (2001 and 2015). A hand-written manuscript of the volume is also available in Beregovski 2013. The tunes were collected from a variety of sources in Ukraine, in the decades before World War II, and the volume represents one of the most important sources for Jewish instrumental music from Eastern Europe, now known as klezmer (Slobin 1986, 253; Feldman 2016, 128).\nThe website is intended as a self-standing resource for musicians and scholars and as a supplement to Malin and Shanahan, “Modes in Klezmer Music” in Music Theory Online 31 (3).\nAt present, this collection has 245 out of the 254 tunes in Beregovski’s volume, and sections from four additional tunes. It leaves out tunes and sections without a time signature or with variable meter (i.e., with varying time signatures and frequent fermatas). There are five pieces without a regular meter: the Dobranoch no. 9, Kale-bazetsns nos. 13 and 14, and the Ava rabos nos. 17 and 18. There are also four pieces that begin without a regular meter and have metric sections at the end: the Khtsos no. 19, the Taksim no. 20, and the Doinas nos. 21 and 22. The metric sections at the ends of these are included in the corpus.\nThe corpus was digitized from the second English edition by Research Assistants Rebecca Hamel and Izzy Fincher with funding from the Center for Humanities & the Arts and Program in Jewish Studies at the University of Colorado Boulder. Research Assistant Laine Gruver assisted with data entry for the website."
+    "text": "This website provides machine-readable music files, searchable metadata, mode analyses, and mode data for a corpus of klezmer tunes from the volume Jewish Instrumental Folk Music, compiled by the pre-eminent Ukrainian Jewish ethnomusicologist Moshe Beregovski (1892-1961). The website is intended as a self-standing resource for musicians and scholars and as a supplement to Malin and Shanahan, “Modes in Klezmer Music” in Music Theory Online 31 (3)."
   },
   {
     "objectID": "pitch_counts.html",
@@ -179,7 +179,7 @@
     "href": "corpus_download.html#how-to-cite",
     "title": "Downloadable Corpus",
     "section": "How to Cite",
-    "text": "How to Cite\nPlease cite the following work when using this corpus:\nMalin, Yonatan and Daniel Shanahan. 2025. “Modes in Klezmer Music: A Corpus Study Based on Beregovski’s Jewish Instrumental Folk Music.” Music Theory Online 31 (3)."
+    "text": "How to Cite\nPlease cite the following work when using this corpus:\nMalin, Yonatan and Daniel Shanahan. Forthcoming, 2025. “Modes in Klezmer Music: A Corpus Study Based on Beregovski’s Jewish Instrumental Folk Music.” Music Theory Online 31 (3)."
   },
   {
     "objectID": "index.html#metadata",
